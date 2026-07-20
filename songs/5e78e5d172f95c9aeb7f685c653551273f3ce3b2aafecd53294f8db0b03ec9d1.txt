@@ -2,8 +2,7 @@
 Song name: Rhiannon  by  Fleetwood Mac
 ----------------------------------------------------------------------
 Guitar lick (basic version without bass)
-  Am                                F
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+  [Am]1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  [F]1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
 e|----------------|----------------|----------------|----------------|
 B|1-3---5-----3---|1-0-------------|--0---1-----0-0-|----------------|
 G|2-4---5-----4---|2-0---2---------|2-0---2-----0-0-|--2-------------|
@@ -24,100 +23,67 @@ Fmaj9   1-x-3-0-1-0 or x-x-3-5-5-3
 
 [Verse 1]
 
-   Am
-Rhiannon rings like a bell through the night.
-    F
-And wouldn't you love to love her
-Am
- Takes to the sky like a bird in flight
-   F
-And who will be her lover
+Rhi[Am]annon rings like a bell through the night.
+And [F]wouldn't you love to love her
+[Am] Takes to the sky like a bird in flight
+And[F] who will be her lover
 
 [Bridge]
-C                                     F
- All your life you've never seen a woman taken by the wind
-C
- Would you stay if she promised you heaven
-F
- Will you ever win
+[C] All your life you've never seen a wom[F]an taken by the wind
+[C] Would you stay if she promised you heaven
+[F] Will you ever win
 
 
 [Verse 2]
 
-Am
- She is like a cat in the dark
-    F
-And then she is the darkness
-Am
- She rules her life like a fine skylark
-    F
-And when the sky is starless
+[Am] She is like a cat in the dark
+And [F]then she is the darkness
+[Am] She rules her life like a fine skylark
+And [F]when the sky is starless
 
 [Bridge]
-C                                     F 
- All your life you've never seen a woman taken by the wind
-C
- Would you stay if she promised you heaven
-F 
- Will you ever win
-F                 | Am | % |
-Will you ever win
+[C] All your life you've never seen a wom[F]an taken by the wind
+[C] Would you stay if she promised you heaven
+[F] Will you ever win
+[F]Will you ever win [Am]
 
 
 [Chorus]
 
-   Fmaj9  Am
-Rhian-    non
-   Fmaj9  Am
-Rhian-    non
-   Fmaj9  Am
-Rhian-    non
-   F  F 
-Rhian-non
+Rhi[Fmaj9]an-    [Am]non
+Rhi[Fmaj9]an-    [Am]non
+Rhi[Fmaj9]an-    [Am]non
+Rhi[F]an-[F]non
 
 
 [Verse 3]
 
-Am
- She rings like a bell through the night
-    F
-And wouldn't you love to love her
-Am
- She rules her life like a bird in flight
-    F
-And who will be her lover
+[Am] She rings like a bell through the night
+And [F]wouldn't you love to love her
+[Am] She rules her life like a bird in flight
+And [F]who will be her lover
 
 
 [Bridge]
 
-C                                       F
- All your life you've never seen a woman taken by the wind
-C
- Would you stay if she promised you heaven
-F
- Will you ever win
-F                 | F | % | Am | % |
-Will you ever win
+[C] All your life you've never seen a woman[F] taken by the wind
+[C] Would you stay if she promised you heaven
+[F] Will you ever win
+[F]Will you ever win [F] [Am]
 
 
 [Chorus]
 
-   Fmaj9  Am
-Rhian-    non
-   Fmaj9  Am
-Rhian-    non
-   Fmaj9  Am
-Rhian-    non
+Rhi[Fmaj9]an-    [Am]non
+Rhi[Fmaj9]an-    [Am]non
+Rhi[Fmaj9]an-    [Am]non
 
 
 [Interlude]
 
-F                        | Am | % |         
-Taken by, taken by the sky
-F                        | Am | % |         
-Taken by, taken by the sky
-F                        | Am | % | F | % |       
-Taken by, taken by the sky
+[F]Taken by, taken by the sky [Am]
+[F]Taken by, taken by the sky [Am]
+[F]Taken by, taken by the sky [Am] [F]
 
 
 [Outro]
@@ -127,9 +93,7 @@ Taken by, taken by the sky
 | Am | % | F | % | 
 | Am | % | F | % | 
 
-Am                                         F
-Dreams unwind and love's a state of mi-ind
-Am                                         F
-Dreams unwind and love's a state of mi-ind
+[Am]Dreams unwind and love's a state of mi-ind [F]
+[Am]Dreams unwind and love's a state of mi-ind [F]
 
 (fade out over last 16 bars)
