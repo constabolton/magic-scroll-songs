@@ -1,50 +1,31 @@
 ----------------------------------------------------------------------
 Song name: Bye Bye Blues  by  Les Paul & Mary Ford
 ----------------------------------------------------------------------
-A#      F#7 
-Bye bye blues
-A#      G7
-Bye bye blues
-C           F9
-Bells ring, birds sing
-A#     C#dim    Cm      F9
-Sun is shining, no more pining
-A#      F#7
-Just we two
-A#      G7
-Smiling through
-C           F9
-Don't sigh, don't cry
-A#  D#m7   A#6
-Bye  bye   blues
+[A#]Bye bye [F#7]blues
+[A#]Bye bye [G7]blues
+[C]Bells ring, [F9]birds sing
+[A#]Sun is [C#dim]shining, [Cm]no more [F9]pining
+[A#]Just we [F#7]two
+[A#]Smiling [G7]through
+[C]Don't sigh, [F9]don't cry
+[A#]Bye [D#m7] bye   [A#6]blues
 
 Solo: (repeat next chords 4 times)
 A#      F#7     A#    G7   C    F9
 A#     C#dim    Cm    F9
 
 
-A#
-Bye bye my pretty little baby
-F#7
-Don't sigh my pretty little baby
-A#
-Don't cry my pretty little baby
-G7
-Bye bye
-C7
-Don't sigh my pretty little baby
-F7
-Don't cry my pretty little baby
-A#      C#dim  Cm                 F9 
-No more pining have you heard the sun is shining
-A#      F#7
-Just we two
-A#      G7
-Smiling through
-C7          F9
-Don't sigh, don't cry
-A#       D#m7              A#6
-Bye bye, bye bye, bye bye blues
+[A#]Bye bye my pretty little baby
+[F#7]Don't sigh my pretty little baby
+[A#]Don't cry my pretty little baby
+[G7]Bye bye
+[C7]Don't sigh my pretty little baby
+[F7]Don't cry my pretty little baby
+[A#]No more [C#dim]pining [Cm]have you heard the [F9]sun is shining
+[A#]Just we [F#7]two
+[A#]Smiling [G7]through
+[C7]Don't sigh, [F9]don't cry
+[A#]Bye bye, [D#m7]bye bye, bye bye b[A#6]lues
 
 
 Written by Fred Hamm, Dave Bennett, Bert Lown, and Chauncey Gray 1930
