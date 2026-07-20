@@ -13,124 +13,82 @@ F/A       x x x 2 1 1
 
 [Intro]
 
-Csus4  C  G/B  C
-F/C  C*  F/A  G/B  C
+[Csus4]F/C  C*[C]  F[G/B]/A  G[C]/B  C
 
 
 [Verse 1]
 
-C/G
-The wind is in from Africa
-G
-Last night I couldn't sleep
-                F               C
-Oh, you know it sure is hard to leave here Carey
-         G
-But it's really not my home
-C/G                        G
-My fingernails are filthy, I got beach tar on my feet
-      F                   C            G
-And I miss my clean white linen and my fancy French cologne
+[C/G]The wind is in from Africa
+[G]Last night I couldn't sleep
+Oh, you know it [F]sure is hard to [C]leave here Carey
+But it's [G]really not my home
+[C/G]My fingernails are filthy, [G]I got beach tar on my feet
+And I [F]miss my clean white [C]linen and my [G]fancy French cologne
 
 
 [Chorus]
 
-G                      C
-Oh Carey, get out your cane
-C                    G
-And I'll put on some silver
-F                    C              G   C    F/C  G/B  C
-Oh you're a mean old Daddy, but I like you
+[G]Oh Carey, get out your [C]cane
+[C]And I'll put on some [G]silver
+[F]Oh you're a mean old [C]Daddy, but I li[G]ke y[C]ou [F/C] [G/B] [C]
 
 
 [Verse 2]
 
-C/G                                         G
-Come on down to the Mermaid Cafe and I will buy you a bottle of wine
-          F                  C                     G
-And we'll laugh and toast to nothing and smash our empty glasses down
-             C/G
-Let's have a round for these freaks and these soldiers
-  G
-A round for these friends of mine
-                   F                        C
-Let's have another round for the bright red devil
-              G
-Who keeps me in this tourist town
+[C/G]Come on down to the Mermaid Cafe and I will [G]buy you a bottle of wine
+And we'll [F]laugh and toast to [C]nothing and smash our [G]empty glasses down
+Let's have a [C/G]round for these freaks and these soldiers
+A [G]round for these friends of mine
+Let's have another [F]round for the bright red [C]devil
+Who keeps me i[G]n this tourist town
 
 
 [Chorus]
 
-                             C
-Come on, Carey, get out your cane
-C                G
-I'll put on some silver
-F                    C              G   C    F/C  G/B  C
-Oh you're a mean old Daddy, but I like you
+Come on, Carey, get out your [C]cane
+[C]I'll put on some [G]silver
+[F]Oh you're a mean old [C]Daddy, but I li[G]ke y[C]ou [F/C] [G/B] [C]
 
 
 [Verse 3]
 
-C/G
-Maybe I'll go to Amsterdam
-    G
-Or maybe I'll go to Rome
-      F              C                   G
-And rent me a grand piano and put some flowers 'round my room
-      C/G
-But let's not talk about fare-thee-wells now
-     G
-The night is a starry dome.
-              F                    C
-And they're playin' that scratchy rock and roll
-             G
-Beneath the Matala Moon
+[C/G]Maybe I'll go to Amsterdam
+Or m[G]aybe I'll go to Rome
+And re[F]nt me a grand p[C]iano and put some fl[G]owers 'round my room
+But le[C/G]t's not talk about fare-thee-wells now
+The n[G]ight is a starry dome.
+And they're pl[F]ayin' that scratchy r[C]ock and roll
+Beneath the M[G]atala Moon
 
 
 [Chorus]
 
-G                            C
-Come on, Carey, get out your cane
-C                    G
-And I'll put on some silver
-F                   C           G    C    F/C  G/B  C
-You're a mean old Daddy, but I like you
+[G]Come on, Carey, get out your [C]cane
+[C]And I'll put on some [G]silver
+[F]You're a mean old Da[C]ddy, but I l[G]ike y[C]ou [F/C] [G/B] [C]
 
 
 [Verse 4]
 
-C/G
-The wind is in from Africa
-      G
-Last night I couldn't sleep
-                 F                  C
-Oh, you know it sure is hard to leave here
-            G
-But, it's really not my home
-C/G
-Maybe it's been too long a time
-             G
-Since I was scramblin' down in the street
-                 F                       C
-Now they got me used to that clean white linen
-           G
-And that fancy French cologne
+[C/G]The wind is in from Africa
+Last n[G]ight I couldn't sleep
+Oh, you know it s[F]ure is hard to leav[C]e here
+But, it's re[G]ally not my home
+[C/G]Maybe it's been too long a time
+Since I was s[G]cramblin' down in the street
+Now they got me u[F]sed to that clean white [C]linen
+And that fa[G]ncy French cologne
 
 
 [Chorus]
 
-G                      C
-Oh Carey, get out your cane
-C                    G
-I'll put on my finest silver
-      F                   G
-We'll go to the Mermaid Cafe
-            C
-Have fun tonight
+[G]Oh Carey, get out your [C]cane
+[C]I'll put on my finest[G] silver
+We'll [F]go to the Mermaid Ca[G]fe
+Have fun ton[C]ight
 
 
 [Ending]
 
-        F                      C               G       C
-I said, Oh, you're a mean old Daddy, but you're out of sight
+I said, [F]Oh, you're a mean old D[C]addy, but you're[G] out of [C]sight
 F/C  G/B  C
