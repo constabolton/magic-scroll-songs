@@ -8,80 +8,55 @@ Key: Dm (original key)
 
 [Verse 1]
 
-Dm                   Em7b5
-When marimba rhythms start to play,
-A7             Dm
-Dance with me, make me sway.
-Dm                 Em7b5
-Like a lazy ocean hugs the shore,
-A7             Dm
-Hold me close, sway me more.
+[Dm]When marimba rhythms [Em7b5]start to play,
+[A7]Dance with me, [Dm]make me sway.
+[Dm]Like a lazy ocean h[Em7b5]ugs the shore,
+[A7]Hold me close, [Dm]sway me more.
 
 
 [Verse 2]
 
-Dm                    Em7b5
-Like a flower bending in the breeze,
-A7            Dm
-Bend with me, sway with ease.
-Dm                       Em7b5
-When we dance you have a way with me,
-A7            Dm
-Stay with me, sway with me.
+[Dm]Like a flower bending [Em7b5]in the breeze,
+[A7]Bend with me, [Dm]sway with ease.
+[Dm]When we dance you have a [Em7b5]way with me,
+[A7]Stay with me, [Dm]sway with me.
 
 
 [Chorus]
 
-                     C7
-Other dancers may be on the floor.
-                     FMaj7
-but my eyes see only you.
-                   A7
-Only you have that magic technique..
-                   Bb7  A7   Bb7 A7
-When we sway, I go weak...
+Other dancers may be [C7]on the floor.
+but my eyes see only [FMaj7]you.
+Only you have that [A7]magic technique..
+When we sway, I go [Bb7]weak.[A7].. [Bb7] [A7]
 
 
 [Verse 3]
 
-Dm                    Em7b5
-I can hear the sounds of violins,
-A7           Dm
-Long before, it begins.
-Dm                    Em7b5
-Make me thrill as only you know how,
-A7              Dm
-Sway me smooth, sway me now.
+[Dm]I can hear the sounds [Em7b5]of violins,
+[A7]Long before, [Dm]it begins.
+[Dm]Make me thrill as only[Em7b5] you know how,
+[A7]Sway me smooth, [Dm]sway me now.
 
 
 [Chorus]
 
-                     C7
-Other dancers may be on the floor.
-                     FMaj7
-but my eyes see only you.
-                   A7
-Only you have that magic technique..
-                   Bb7  A7   Bb7 A7
-When we sway, I go weak...
+Other dancers may be [C7]on the floor.
+but my eyes see only [FMaj7]you.
+Only you have that [A7]magic technique..
+When we sway, I go [Bb7]weak.[A7].. [Bb7] [A7]
 
 
 [Verse 4]
 
-Dm                    Em7b5
-I can hear the sounds of violins,
-A7           Dm
-Long before, it begins.
-Dm                    Em7b5
-Make me thrill as only you know how,
-A7              Dm
-Sway me smooth, sway me now.
+[Dm]I can hear the sounds [Em7b5]of violins,
+[A7]Long before, [Dm]it begins.
+[Dm]Make me thrill as only[Em7b5] you know how,
+[A7]Sway me smooth, [Dm]sway me now.
 
 
 [Outro]
 
-Em7b5            A7              Dm
-You know how..sway me smooth..sway me now(x2)(fade)
+[Em7b5]You know how..swa[A7]y me smooth..swa[Dm]y me now(x2)(fade)
 
 
 By John Pale - www.jazzdelivery.be
