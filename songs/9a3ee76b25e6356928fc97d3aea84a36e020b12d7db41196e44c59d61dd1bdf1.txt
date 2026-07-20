@@ -2,57 +2,33 @@
 Song name: Peace Like A River  by  Misc Praise Songs
 ----------------------------------------------------------------------
 [Verse 1]
-         C
-I've got peace like a river
-         F            C
-I've got peace like a river
-         C                        G
-I've got peace like a river in my soul
-         C
-I've got peace like a river
-         F            C
-I've got peace like a river
-         C            G           C
-I've got peace like a river in my soul
+I've got [C]peace like a river
+I've got [F]peace like a [C]river
+I've got [C]peace like a river in my [G]soul
+I've got [C]peace like a river
+I've got [F]peace like a [C]river
+I've got [C]peace like a [G]river in my [C]soul
 
 [Verse 2]
-         C
-I've got joy like fountain
-         F          C
-I've got joy like a fountain
-         C                         G
-I've got joy like a fountain in my soul
-         C
-I've got joy like fountain
-         F          C
-I've got joy like a fountain
-         C        G              C
-I've got joy like fountain in my soul
+I've got [C]joy like fountain
+I've got [F]joy like a [C]fountain
+I've got [C]joy like a fountain in my [G]soul
+I've got [C]joy like fountain
+I've got [F]joy like a [C]fountain
+I've got [C]joy like [G]fountain in my [C]soul
 
 [Verse 3]
-         C
-I've got love like an ocean
-         F            C
-I've got love like an ocean
-         C                        G
-I've got love like an ocean in my soul
-         C
-I've got love like an ocean
-         F            C
-I've got love like an ocean
-         C            G              C
-I've got love like an ocean, in my soul
+I've got [C]love like an ocean
+I've got [F]love like an [C]ocean
+I've got [C]love like an ocean in my [G]soul
+I've got [C]love like an ocean
+I've got [F]love like an [C]ocean
+I've got [C]love like an [G]ocean, in my so[C]ul
 
 [Verse 4]
-         C
-I've got peace, love, joy
-       F             C
-Like a river, ocean, fountain
-         C                      G
-I've got peace, love, joy in my soul
-         C
-I've got peace, love, joy
-       F             C
-Like a river, ocean, fountain
-         C            G         C
-I've got peace, love, joy in my soul
+I've got [C]peace, love, joy
+Like a [F]river, ocean, [C]fountain
+I've got [C]peace, love, joy in my [G]soul
+I've got [C]peace, love, joy
+Like a [F]river, ocean, [C]fountain
+I've got [C]peace, love, [G]joy in my [C]soul
