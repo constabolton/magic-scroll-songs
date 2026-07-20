@@ -12,8 +12,7 @@ https://soundcloud.com/maguri/simon-garfunkel-59th-street-bridge-song-strumming-
 ---------------------------------------------------------------------------
 
 Basic chord pattern
-  C       G/B     D7sus4/A G
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+  [C]1 + 2 + [G/B]3 + 4 + [D7sus4/A] 1 + 2 + [G]3 + 4 +  
 e|----0-----------|----------------|
 B|----1-------3---|----1-0-----0---|
 G|----0-------0---|----0-0-----0---|
@@ -34,62 +33,41 @@ G         3-x-0-0-0(3)
 
 (guitar)
 | C G/B | D7sus4/A G | 
+(w[C]it[G/B]h band[D7sus4/A]) [G]
 | C G/B | D7sus4/A G | 
-(with band)
-| C G/B | D7sus4/A G | 
-| C G/B | D7sus4/A G |
-| 2/4 N.C. |4/4 N.C. |
+| [C]2/[G/B]4 N.C.[D7sus4/A] |4/4 N.C[G]. |
 
 [Verse 1]
-C     G/B       D7sus4/A G
- Slow down, you move too fast
-C           G/B      D7sus4/A G
- You got to make the morning  last, just ...
-C        G/B      D7sus4/A G
- Kicking down the cobble   stones
-C            G/B     D7sus4/A G
- Looking for fun and feelin'  groovy
+[C] Slow [G/B]down, you [D7sus4/A]move too [G]fast
+[C] You got to [G/B]make the [D7sus4/A]morning  [G]last, just ...
+[C] Kicking [G/B]down the [D7sus4/A]cobble   [G]stones
+[C] Looking for [G/B]fun and [D7sus4/A]feelin'  [G]groovy
 
 [Chorus]
-| C G/B | D7sus4/A G | 
-(instrumental)
-         C     G/B   D7sus4/A G
-Ba da da da da da da, feeling groovy
-| C G/B | D7sus4/A G | 
-(instrumental)
+(i[C]ns[G/B]trumen[D7sus4/A]tal) [G]
+Ba da da [C]da da [G/B]da da,[D7sus4/A] feeling [G]groovy
+(i[C]ns[G/B]trumen[D7sus4/A]tal) [G]
 
 [Verse 2]
-C      G/B      D7sus4/A  G
- Hello lamppost, what cha knowing
-C             G/B        D7sus4/A G
- I've come to watch your flowers  growing
-C          G/B    D7sus4/A   G
- Ain't cha got no rhymes for me
-C         G/B      D7sus4/A G
- Doot-in' doo-doo, feelin'  groovy
+[C] Hello [G/B]lamppost,[D7sus4/A] what cha [G]knowing
+[C] I've come to [G/B]watch your [D7sus4/A]flowers  [G]growing
+[C] Ain't cha [G/B]got no [D7sus4/A]rhymes for [G]me
+[C] Doot-in' [G/B]doo-doo, [D7sus4/A]feelin'  [G]groovy
 
 [Chorus]
-| C G/B | D7sus4/A G | 
-(instrumental)
-         C     G/B   D7sus4/A G
-Ba da da da da da da, feeling groovy
-| C G/B | D7sus4/A G | 
-(instrumental)
+(i[C]ns[G/B]trumen[D7sus4/A]tal) [G]
+Ba da da [C]da da [G/B]da da,[D7sus4/A] feeling [G]groovy
+(i[C]ns[G/B]trumen[D7sus4/A]tal) [G]
 
 [Verse 3]
-      C           G/B    D7sus4/A    G
-I got no deeds to do, no promises to keep
-    C           G/B        D7sus4/A  G
-I'm dappled and drowsy and ready to  sleep
-        C            G/B          D7sus4/A  G
-Let the morning time drop all its petals on me
-C        G/B      D7sus4/A G
- Life, I love you, all is  groovy
+I got [C]no deeds to [G/B]do, no [D7sus4/A]promises to [G]keep
+I'm [C]dappled and [G/B]drowsy and [D7sus4/A]ready to  [G]sleep
+Let the [C]morning time [G/B]drop all its [D7sus4/A]petals on [G]me
+[C] Life, I [G/B]love you,[D7sus4/A] all is  [G]groovy
 
 [Outro]
 
 | C G/B | D7sus4/A G | 
-| C G/B | D7sus4/A G | 
-[Ba da da da da da da ...)
+[B[C]a [G/B]da da [D7sus4/A]da da da [G]da ...)
 
 (repeat and fade)
