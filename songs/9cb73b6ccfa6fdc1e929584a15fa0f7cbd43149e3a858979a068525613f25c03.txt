@@ -6,64 +6,39 @@ A  C#m  D  E  D
 A  F#m  D  E
 
 [Verse 1]
-A                               C#m      
-From the housetops to the gutters
-D                       E      D
-From the oceans to the shores
-    A                                      F#m
-The warning signs have all been bright and garish
-D                           E
-Far to great in number to ignore
+[A]From the housetops to the gutter[C#m]s
+[D]From the oceans to the s[E]hores [D]
+The [A]warning signs have all been bright and [F#m]garish
+[D]Far to great in number to ig[E]nore
 
-A                          C#m
-From the cities to the swamplands
-D                        E     D
-From the highways to the hills
-    A                           F#m
-Our love has never had a leg to stand on
-D                                          E
-From the aspirins to the cross-tops to the Elevils
+[A]From the cities to the swam[C#m]plands
+[D]From the highways to the [E]hills [D]
+Our [A]love has never had a leg to [F#m]stand on
+[D]From the aspirins to the cross-tops to the [E]Elevils
         
 [Chorus 1]
-              D 
-But I will walk 
-E            A        D
-down to the end with you
-            A                E         A
-If you will come all the way down with me
+But I will wal[D]k 
+[E]down to the e[A]nd with y[D]ou
+If you will [A]come all the way [E]down with [A]me
 
 [Verse 2]
-A                        C#m
-From the entrance to the exit
-   D                                  E     D
-Is longer than it looks from where we stand
-  A
-I wanna say I'm sorry 
-    F#m
-for stuff I haven't done yet
-D                              E       
-Things will shortly get completely out of hand
+[A]From the entrance to the [C#m]exit
+Is [D]longer than it looks from where we [E]stand [D]
+I [A]wanna say I'm sorry 
+for [F#m]stuff I haven't done yet
+[D]Things will shortly get complet[E]ely out of hand
 
-      A                           C#m
-I can feel it in the rotten air tonight
-       D                     
-In the tips of my fingers 
-       E          D
-in the skin on my face
-       A                     F#m
-In the weak last gasp of the evening's dying light
-       D                                E
-In the way those eyes I've always loved illuminate this place
+I can [A]feel it in the rotten air to[C#m]night
+In the [D]tips of my fingers 
+in the [E]skin on my [D]face
+In the [A]weak last gasp of the [F#m]evening's dying light
+In the [D]way those eyes I've always loved [E]illuminate this place
       
 [Chorus 2]
-             D        E
-Like a trashcan fire in a prison cell
-         A                    D
-Like the searchlights in the parking lots of hell
-        A               E A        D
-I will walk down to the end with you
-            A                E         A
-If you will come all the way down with me
+Like a trashc[D]an fire i[E]n a prison cell
+Like the [A]searchlights in the p[D]arking lots of hell
+I will w[A]alk down to the [E]en[A]d with yo[D]u
+If you will [A]come all the way [E]down with [A]me
 
 (then verse progression while organ solo plays over it, 
 followed by D E A, then A E D transitioned rapidly, 
