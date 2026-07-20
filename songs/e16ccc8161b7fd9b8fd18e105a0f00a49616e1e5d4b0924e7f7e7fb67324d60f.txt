@@ -7,68 +7,40 @@ Sweet Baby James - James Taylor
 G D/F# Em Asus4 A
 
 [Verse]
-      D             A      G            F#m
-There is a young cowboy he lives on the range.
-    Bm            G              D       F#m
-His horse and his cattle are his only companions.
-   Bm           G             D             F#m
-He works in the saddle and he sleeps in the canyon.
-G           D           A           Em7     A
-Waiting for summer, his pastures to change.
-    G                    A           D
-And as the moon rises he sits by his fire.
-Bm             G         D          A
-Thinkin' about women and glasses of beer.
-G                       A         D
-Closing his eyes as the dogies retire
-   Bm          G             D
-He sings out a song which is soft but it's clear
-   Esus4    E7            Asus4 A7
-As if maybe someone could hear.
+There [D]is a young cow[A]boy he [G]lives on the [F#m]range.
+His [Bm]horse and his [G]cattle are his [D]only com[F#m]panions.
+He [Bm]works in the [G]saddle and he [D]sleeps in the [F#m]canyon.
+[G]Waiting for [D]summer, his [A]pastures to [Em7]change. [A]
+And [G]as the moon rises he [A]sits by his [D]fire.
+[Bm]Thinkin' about [G]women and [D]glasses of [A]beer.
+[G]Closing his eyes as the [A]dogies ret[D]ire
+He [Bm]sings out a [G]song which is [D]soft but it's clear
+As [Esus4]if maybe [E7]someone could [Asus4]hear. [A7]
 
 
 [Chorus]
-D             G    G/F# A  D
-Goodnight you moonlight ladies.
-Bm         G          D     Dsus2 D
-Rock-a-bye sweet baby James.
-Bm              G             D
-Deep greens and blues are the colors I choose.
-          Esus4     E7         Asus4     A
-Won't you let me go down in my dreams.
-    G      G/F# A          D    Dsus2 D
-And rock-a-bye  sweet baby James.
+[D]Goodnight you [G]moonl[G/F#]ight [A]lad[D]ies.
+[Bm]Rock-a-bye [G]sweet baby [D]James.[Dsus2] [D]
+[Bm]Deep greens and [G]blues are the [D]colors I choose.
+Won't you [Esus4]let me go [E7]down in my [Asus4]dreams. [A]
+And [G]rock-a-[G/F#]bye  [A]sweet baby [D]James[Dsus2]. [D]
 
 
 [Verse]
-        D          A          G            F#m
-Now the first of December was covered with snow.
-    Bm         G             D              F#m
-And so was the turnpike from Stockbridge to Boston.
-          Bm                G             D              F#m
-Lord, the Berkshires seemed dreamlike on account of that frosting.
-      G           D           A            Em7         A
-With ten miles behind me and ten thousand more to go.
-          G                             A           D
-There's a song that they sing when they take to the highway.
-  Bm             G              D           A
-A song that they sing when they take to the sea.
-  G                            A           D
-A song that they sing of their home in the sky.
-      Bm        G              D
-Maybe you can believe it if it helps you to sleep.
-    Esus4         E7            Asus4    A
-But singing works just fine for me.
+Now the [D]first of De[A]cember was [G]covered with [F#m]snow.
+And [Bm]so was the [G]turnpike from [D]Stockbridge to [F#m]Boston.
+Lord, the [Bm]Berkshires seemed [G]dreamlike on a[D]ccount of that [F#m]frosting.
+With t[G]en miles beh[D]ind me and t[A]en thousand m[Em7]ore to go. [A]
+There's a [G]song that they sing when they [A]take to the [D]highway.
+A [Bm]song that they [G]sing when they [D]take to the [A]sea.
+A [G]song that they sing of their [A]home in the [D]sky.
+Maybe [Bm]you can be[G]lieve it if it [D]helps you to sleep.
+But [Esus4]singing works [E7]just fine for [Asus4]me. [A]
 
 
 [Chorus]
-D             G   G/F#  A  D
-Goodnight you moonlight ladies.
-Bm         G          D     Dsus2 D
-Rock-a-bye sweet baby James.
-Bm              G             D
-Deep greens and blues are the colors I choose.
-          Esus4     E7         Asus4     A
-Won't you let me go down in my dreams.
-    G     G/F# A          D    Dsus2 D
-And rock-a-bye sweet baby James.
+[D]Goodnight you [G]moon[G/F#]light [A]lad[D]ies.
+[Bm]Rock-a-bye [G]sweet baby [D]James.[Dsus2] [D]
+[Bm]Deep greens and [G]blues are the [D]colors I choose.
+Won't you [Esus4]let me go [E7]down in my [Asus4]dreams. [A]
+And [G]rock-a[G/F#]-bye [A]sweet baby [D]James[Dsus2]. [D]
