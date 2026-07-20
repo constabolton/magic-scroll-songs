@@ -17,30 +17,22 @@ A|-----------------|-----------------|-----------------|-2-------|
 E|-----------------|-----------------|-----------------|-0-------|
 
 [Verse 1]
-                   Am      G           F          G       Esus4              E    F
-All the leaves are brown                  and the sky is gray
+All the leaves are [Am]brown   [G]            [F]   and the [G]sky is g[Esus4]ray [E] [F]
                   (All the leaves are brown)                 (and the sky is gray-ay)
-                C         E      Am      F         Esus4              E
-I've been for a walk                on a winter's day
+I've been for a [C]walk      [E]       [Am]   on a [F]winter's d[Esus4]ay [E]
                (I've been for a wa   -   alk)         (On a winter's day)
-                Am     G         F       G        Esus4             E
-I'd be safe and warm                if I was in L.A.
+I'd be safe and [Am]warm   [G]          [F]   if I [G]was in L.[Esus4]A. [E]
                (I'd be safe and warm)                (If I was in L.A.)
-           Am  G       F          G               Esus4
-California dreamin'            on such a winter's day
+California [Am]drea[G]min'    [F]        on [G]such a winter's [Esus4]day
           (California dreamin' on such a winter's day)
 
 [Verse 2]
-                   Am  G  F          G        Esus4    E
-Stopped in to a church     I passed along the way
-        F              C        E      Am           F        Esus4              E
-Well, I got down on my knees               and I pretend to pray
+Stopped in to a chu[Am]rch [G]   [F] I passed a[G]long the [Esus4]way [E]
+Well, I [F]got down on my [C]knees    [E]       [Am]    and I pre[F]tend to p[Esus4]ray [E]
                       (Got down on my knee -        ees)         (I pretend to pray)
-                                Am       G          F            G         Esus4                  E
-You know the preacher liked the cold                    He knows I'm gonna stay
+You know the preacher liked the [Am]cold     [G]           [F]    He knows [G]I'm gonna [Esus4]stay [E]
                                (Preacher liked the cold)                        (Knows I'm gonna stay)
-           Am  G       F          G               Esus4    E
-California dreamin'            on such a winter's day
+California [Am]drea[G]min'    [F]        on [G]such a winter's [Esus4]day [E]
           (California dreamin' on such a winter's day)
 
 [Instrumental]
@@ -59,21 +51,15 @@ Am   G    F    G   E7sus4      E7
 Am   G    F    G   E7sus4      E
 
 [Verse 3]
-                   Am      G           F          G       Esus4              E    F
-All the leaves are brown                  and the sky is gray
+All the leaves are [Am]brown   [G]            [F]   and the [G]sky is g[Esus4]ray [E] [F]
                   (All the leaves are brown)                 (and the sky is gray-ay)
-                C         E      Am      F         Esus4              E
-I've been for a walk                on a winter's day
+I've been for a [C]walk      [E]       [Am]   on a [F]winter's d[Esus4]ay [E]
                (I've been for a wa   -   alk)         (On a winter's day)
-            Am       G       F            G        Esus4                E
-If I didn't tell her              I could leave today
+If I didn't [Am]tell her [G]        [F]     I could [G]leave tod[Esus4]ay [E]
             (If   I  didn't tell her)                 (I could leave today)
-           Am  G       F          G               Am
-California dreamin'            on such a winter's day
+California [Am]drea[G]min'    [F]        on [G]such a winter's [Am]day
           (California dreamin' on such a winter's day)
 
 [Outro]
-    G       F          G               Am
-California dreamin' on such a winter's day
-    G       F          G               Fmaj7      Am
-California dreamin' on such a winter's day
+Cali[G]fornia d[F]reamin' on [G]such a winter's [Am]day
+Cali[G]fornia d[F]reamin' on [G]such a winter's [Fmaj7]day [Am]
