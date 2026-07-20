@@ -13,34 +13,22 @@ E|------------------------------------------------------------------------|
 
 [Verse]
 
-  G                                                  C        G
-Oh, the first days are the hardest days, don't you worry any more,
-  G                                                C             G
-'Cause when life looks like Easy Street there is danger at your door.
- Am                    Em    C                D
-Think this through with me; let me know your mind.
- C    D          G       D   C  G    D       G
-Whoa-oh, what I want to know-oh, is are you kind.
- G                                              C       G
-It's a buck dancer's choice, my friend, better take my advice;
- G                                      C             G
-You know all the rules by now, and the fire from the ice.
- Am                Em   C                  D
-Will you come with me, won't you come with me?
- C   D           G       D   C    G    D        G
-Whoa-oh, what I want to know-oh, will you come with me?
+Oh[G], the first days are the hardest days, don't you wo[C]rry any m[G]ore,
+'C[G]ause when life looks like Easy Street there is da[C]nger at your d[G]oor.
+T[Am]hink this through with[Em] me; l[C]et me know your m[D]ind.
+W[C]hoa-o[D]h, what I w[G]ant to k[D]now-[C]oh,[G] is a[D]re you k[G]ind.
+I[G]t's a buck dancer's choice, my friend, better t[C]ake my a[G]dvice;
+Y[G]ou know all the rules by now, and the f[C]ire from the i[G]ce.
+W[Am]ill you come with [Em]me, w[C]on't you come with [D]me?
+W[C]hoa-[D]oh, what I w[G]ant to k[D]now-[C]oh, w[G]ill y[D]ou come w[G]ith me?
 
 
 [Refrain]
 
- G                  C G   Am        G        D
-God damn! Well I declare! Have you seen the like?
- D     C                                     G    D          C       D
-Their walls are built of cannonballs, their motto is "Don't tread on me".
- G                      C    Am     G      D
-Come hear Uncle John's band playing to the tide,
- C                             G        D       C        D
-Come with me or go alone, he's come to take his children home
+G[G]od damn! Well I dec[C]la[G]re! [Am]Have you s[G]een the l[D]ike?
+T[D]heir w[C]alls are built of cannonballs, their m[G]otto [D]is "Don't t[C]read on [D]me".
+C[G]ome hear Uncle John's b[C]and p[Am]laying [G]to the [D]tide,
+C[C]ome with me or go alone, he's [G]come to t[D]ake his [C]children [D]home
 
 
 [Instrumental]
@@ -50,34 +38,22 @@ G  Bm  C  D  G  Bm  C  D  G  Bm  C  D  G  Bm  C  D
 
 [Verse]
 
- G                                             C            G
-It's the same story the crow told me, it's the only one he knows;
- G                                  C                G
-Like the morning sun you come, and like the wind you go.
-Am               Em     C              D
-Ain't no time to hate, barely time to wait.
- C    D          G    D    C    G    D        G
-Whoa-oh, what I want know-oh, where does the time go?
-G                              C                G
-I live in a silver mine and I call it Beggar's Tomb;
-G                          C               G
-I've got me a violin and I beg you, call a tune.
-Am         Em     C                D
-Anybody's choice, I can hear your voice.
- C   D           G       D   C    G    D       G
-Whoa-oh, what I want to know-oh, how does the song go?
+I[G]t's the same story the crow told me, it's the [C]only one he k[G]nows;
+L[G]ike the morning sun you come, and l[C]ike the wind you [G]go.
+[Am]Ain't no time to [Em]hate, b[C]arely time to w[D]ait.
+W[C]hoa-o[D]h, what I w[G]ant k[D]now-o[C]h, wh[G]ere d[D]oes the t[G]ime go?
+[G]I live in a silver mine and I c[C]all it Beggar's T[G]omb;
+[G]I've got me a violin and I [C]beg you, call a [G]tune.
+[Am]Anybody's c[Em]hoice, [C]I can hear your v[D]oice.
+W[C]hoa-[D]oh, what I w[G]ant to k[D]now-[C]oh, h[G]ow do[D]es the s[G]ong go?
 
 
 [Refrain]
 
- G                      C    Am     G       D
-Come hear Uncle John's band by the riverside
- C                             G       D      C       D
-Got some things to talk about here beside the rising tide.
- G                      C  Am       G    D
-Come hear Uncle John's band playing to the tide
- C                               G       D        C        D
-Come on along or go alone, he's come to take his children home.
+C[G]ome hear Uncle John's b[C]and b[Am]y the r[G]iverside[D]
+G[C]ot some things to talk about h[G]ere besi[D]de the [C]rising t[D]ide.
+C[G]ome hear Uncle John's b[C]and[Am] playing [G]to th[D]e tide
+C[C]ome on along or go alone, he's c[G]ome to t[D]ake his c[C]hildren h[D]ome.
 
 
 [Instrumental]
@@ -95,8 +71,7 @@ Dsus2 D5  Dsus2 D5  Dsus2 D5  Dsus2 D5
 
 [Bridge]
 
- D5                              C              G
-Whoa-oh, what I want to know-oh, how does the song go?
+W[D5]hoa-oh, what I want to know-oh, [C]how does the so[G]ng go?
 
 (A capella)
 Come hear Uncle John's band by the riverside
@@ -105,10 +80,8 @@ Come hear Uncle John's band by the riverside
 [Chorus/Outro]
 
 Got some things to talk about, here beside the rising tide.
- G                      C    Am     G      D
-Come hear Uncle John's band playing to the tide,
- C                               G       D        C        D
-Come on along or go alone, he's come to take his children home.
+C[G]ome hear Uncle John's b[C]and p[Am]laying [G]to the [D]tide,
+C[C]ome on along or go alone, he's c[G]ome to t[D]ake his c[C]hildren h[D]ome.
 
   Dm  G        c       Dm          G         C       Dm        G       C       Dsus2
 e|--------------------------||--------------------------||--------------------------|
