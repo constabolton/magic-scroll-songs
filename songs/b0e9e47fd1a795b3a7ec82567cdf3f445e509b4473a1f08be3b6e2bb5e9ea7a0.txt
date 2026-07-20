@@ -1,0 +1,185 @@
+Tabbed by DJ  26th Feb 2013
+
+Nick Lowe seemed to play a G7sus4 as x55565
+with his thumb muting the bottom string.
+I would suggest using the voicings in the text
+column numbers below which giving you a low root note
+
+Regarding the CHORD BOX DIAGRAMS please follow the
+information at the very bottom of the tab.
+
+C   = 332010    G7sus4 = 353533 or 330011
+G/B = x20003    G7     = 353433 or 320001
+F/A = x03211    Dm     = xx0231
+G   = 355433    Am     = x02210
+Em  = 022000    A      = x02220
+F   = 133211    A7     = x02020
+                Dm7/G  = 300211
+
+^ = Emphasise the down beat
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+======================================================
+[Intro]
+  C            G/B          F/A          G
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+  C            G/B          F/A          G
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+
+[Verse 1]
+  G                 C                    Em
+| /  /  /  / |  Oh, I can't take another ...heartache,
+           F                     G7sus4
+Though you say you're my friend, I'm at my wits end,
+C                        Em
+   You say your love is   ...bona fide,
+                F         Em
+But that don't  ...coin - cide...
+Dm                             F
+   ...With the things that you do,
+           Em            F         G7sus4
+And when I ask you to be nice, you say...
+
+[Chorus]
+             F           G     Em           Am
+You gotta be cruel to be kind, in the right measure,
+F           G            Em        Am  Am
+Cruel to be kind, it's a very good sign,
+                                    ^    ^
+F           G     Em           Am
+Cruel to be kind, means that I love you...
+G7sus4                                          C
+Baby-----------------, you gotta be cruel to be kind
+   (Babe-------------!)
+        (You gotta be cruel!)
+
+  G/B          F/A          G
+| /  /  /  / | /  /  /  / | /  /  /  / |
+
+[Verse 2]
+        C                  Em
+Well, I do my best to under - stand, dear,
+         F                 G7sus4
+But, you still mystify and I wanna know why,
+C                     Em
+     I pick myself up  ...off the ground,
+            F            Em
+To have you  ...knock me back down,
+Dm                 F
+     Again and a - gain,
+           Em              F          G7sus4
+And when I ask you to ex - plain, you say...
+
+[Chorus]
+             F           G     Em           Am
+You gotta be cruel to be kind, in the right measure,
+F           G            Em        Am  Am
+Cruel to be kind, it's a very good sign,
+                                   ^    ^
+F           G     Em           Am
+Cruel to be kind, means that I love you...
+G7sus4                                          C
+Baby-----------------, you gotta be cruel to be kind
+   (Babe-------------!)
+        (You gotta be cruel!)
+
+[Bridge]  (Tablature of solo at bottom of page)
+C            A       A7     F     G      Em    Am Am
+  Oo, oo-oo! Oo- oo, oo!  | /  /  /  / | /  /  /  / |
+  F     G      Em    Am Am  F     G      Em    Am Am
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+  G7sus4                              G7
+| /_/ /_/ /_/ /_/ | /_/ /_/ /_/ /_/ | /_/ /_/ /_/
+
+[Verse 3]
+G7      C                   Em
+Well, I do my best to under  -  stand, dear,
+          F                G7sus4
+But, you still mystify and I wanna know why,
+C                    Em
+    I pick myself up ...off the ground,
+            F           Em
+To have you ...knock me back down,
+Dm                F
+    Again and a - gain,
+           Em              F          G7sus4
+And when I ask you to ex - plain, you say...
+
+[Chorus]
+             F           G     Em           Am
+You gotta be cruel to be kind, in the right measure,
+F           G            Em        Am  Am
+Cruel to be kind, it's a very good sign,
+                                   ^    ^
+F           G     Em           Am
+Cruel to be kind, means that I love you...
+G7sus4
+Baby---------------------------!
+      (Babe--------------------!)
+            (You gotta be cruel!)
+
+[Chorus]
+    G7                   F           G
+You gotta be cruel to be kind------------,
+                        (Cruel to be kind!)
+    Em           Am        F           G
+Oh, in the right measure, (Cruel to be kind!)
+        Em          Am   Am   F           G
+ It's a very, very, very good sign------------,
+                    ^   ^    (Cruel to be kind!)
+   Em           Am
+It means that I love you...
+G7sus4
+Baby---------------------------!
+      (Babe--------------------!)
+            (You gotta be cruel!)
+
+[Chorus]
+    G7                   F           G
+You gotta be cruel to be kind------------,
+                        (Cruel to be kind!)
+    Em           Am        F           G
+Oh, in the right measure, (Cruel to be kind!)
+        Em          Am   Am   F           G
+ It's a very, very, very good sign------------,
+                    ^   ^    (Cruel to be kind!)
+   Em           Am
+It means that I love you...
+G7sus4
+Baby---------------------------!
+      (Babe--------------------!)
+            (You gotta be cruel!)
+
+[Suggestion for coda]
+    G7                   F    Dm7/G     C
+You gotta be cruel to be kind--------------!
+
+====================================================
+[Bridge - Guitar break]
+   (F)    (G/D)   (Em)        (Am/E)
+e|--5------7----|--7--7-7------8--8--|
+B|--6------8----|--8--8-8-----10-10--|
+G|--5------7----|--9--9-9------9--9--|  [x3]
+D|--------------|--------------------|
+A|--------------|--------------------|
+E|--------------|--------------------|
+
+  (G7sus4)  (C/G)  (G)       (F)  (G)  (Dm) (C)
+e|----b12--|-12-----10------|-8----7----5----3-----|
+B|---------|---13-----12----|--10----8----6----5---|
+G|---------|-----12-----12--|----10----9----7----5-|
+D|---------|----------------|----------------------|
+A|---------|----------------|----------------------|
+E|---------|----------------|----------------------|
+     b = bend note up a half-step
+
+=====================================================
+For the GUITAR chord box diagrams to match my
+suggested choices you need to manually select the
+following choice of options by clicking on the
+forward/backward arrows below three of the diagrams
+        G          G7sus4         G7
+    <4 of 27>    <4 of 21>     <6 of 41>
+All the other chord boxes should be the default
+first option and don't need any reselecting
