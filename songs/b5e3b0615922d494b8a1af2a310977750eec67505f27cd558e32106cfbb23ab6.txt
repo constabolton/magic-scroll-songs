@@ -1,33 +1,18 @@
 ----------------------------------------------------------------------
 Song name: All Of Me  by  Misc Traditional
 ----------------------------------------------------------------------
-C6
-All of me,
-             E7
-why not take all of me?
-A7
-Can't you see
-                Dm7
-I'm no good without you?
-E7
-Take my lips,
-           Am7
-I'll never use them
-D7
-Take my arms,
-          Dm7  G7
-I want to lose them
-C6
-Your goodbye
-             E7
-left me with eyes that cry
-A7
-How can I go on
-    Dm7
-without you?
-F6           Fm6
-You took the part
-     Cmaj7 Em7b5/Bb A7
-that once was my heart
-   Dm7          G7     C6
-So why not take all of me?
+[C6]All of me,
+why not take [E7]all of me?
+[A7]Can't you see
+I'm no good with[Dm7]out you?
+[E7]Take my lips,
+I'll never [Am7]use them
+[D7]Take my arms,
+I want to [Dm7]lose [G7]them
+[C6]Your goodbye
+left me with [E7]eyes that cry
+[A7]How can I go on
+with[Dm7]out you?
+[F6]You took the [Fm6]part
+that [Cmaj7]once w[Em7b5/Bb]as my hea[A7]rt
+So [Dm7]why not take [G7]all of [C6]me?
