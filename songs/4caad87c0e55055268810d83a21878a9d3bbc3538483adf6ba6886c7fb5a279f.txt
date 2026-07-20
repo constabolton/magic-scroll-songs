@@ -30,52 +30,42 @@ B   B   E   E
 
 [Verse 1]
 
-B
-  Born down in a dead man's town
+[B]  Born down in a dead man's town
 
 The first kick I took was when I hit the ground
-E
-End up like a dog that's been beat too much
+[E]End up like a dog that's been beat too much
 
 Till you spend half your life just covering up, now
 
 
 [Chorus]
 
-B
-  Born in the U.S.A., I was born in the U.S.A.
-      E
-I was   born in the U.S.A., born in the U.S.A. now
+[B]  Born in the U.S.A., I was born in the U.S.A.
+I was [E]  born in the U.S.A., born in the U.S.A. now
 
 
 [Verse 2]
 
-B
-  Got in a little hometown jam
+[B]  Got in a little hometown jam
 
 So they put a rifle in my hand
-E
-  Sent me off to a foreign land
+[E]  Sent me off to a foreign land
 
 To go and kill the yellow man
 
 
 [Chorus]
 
-B
-  Born in the U.S.A., I was born in the U.S.A.
-      E
-I was   born in the U.S.A., I was born in the U.S.A. 
+[B]  Born in the U.S.A., I was born in the U.S.A.
+I was [E]  born in the U.S.A., I was born in the U.S.A. 
 
 
 [Verse 3]
 
-B
-  Come back home to the refinery
+[B]  Come back home to the refinery
 
 Hiring man said "Son if it was up to me"
-E
-  Went down to see my V.A. man
+[E]  Went down to see my V.A. man
 
 He said "Son, don't you understand now"
 
@@ -87,19 +77,16 @@ B   B   E   E
 
 [Verse 4]
 
-B
-  I had a brother at Khe Sahn
+[B]  I had a brother at Khe Sahn
 
 Fighting off the Viet Cong
-E
-  They're still there, he's all gone
+[E]  They're still there, he's all gone
 E
 
 
 [Verse 5]
 
-B
-  He had a woman he loved in Saigon
+[B]  He had a woman he loved in Saigon
 
 I got a picture of him in her arms now
 
@@ -108,27 +95,21 @@ E   E
 
 [Verse 6]
 
-B
-  Down in the shadow of the penitentiary
+[B]  Down in the shadow of the penitentiary
 
 Out by the gas fires of the refinery
-    E
-I'm   ten years burning down the road
+I'm [E]  ten years burning down the road
 
 Nowhere to run ain't got nowhere to go
 
 
 [Chorus]
 
-B
-  Born in the U.S.A., I was born in the U.S.A. now
-E
-  Born in the U.S.A., I'm a long gone Daddy in the U.S.A. now
+[B]  Born in the U.S.A., I was born in the U.S.A. now
+[E]  Born in the U.S.A., I'm a long gone Daddy in the U.S.A. now
 
-B
-  Born in the U.S.A., Born in the U.S.A.
-E
-  Born in the U.S.A., I'm a cool rocking Daddy in the U.S.A. now
+[B]  Born in the U.S.A., Born in the U.S.A.
+[E]  Born in the U.S.A., I'm a cool rocking Daddy in the U.S.A. now
 
 
 [Instrumental]
@@ -144,5 +125,4 @@ B   B   E   E
 
 (continue)
 B   B   E   E
-B   B   E
-(fade out)
+[B](fad[B]e ou[E]t)
