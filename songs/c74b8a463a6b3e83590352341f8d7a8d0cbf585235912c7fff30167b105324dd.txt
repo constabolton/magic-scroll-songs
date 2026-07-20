@@ -3,37 +3,26 @@ Song name: Beyond The Sea  by  Bobby Darin
 ----------------------------------------------------------------------
 [Verse]
 
-    G    Em  C  D7         G    Em   C     D7          G  B7  Em
-Somewhere-------beyond the sea   Somewhere waiting for me--------
-D7       G         Em     C     E7  Am
-My lover stands on golden sands------
-    D7     Adim  Em    C       A7  D  D7
-And watches the  ships that go sailing
+Some[G]where[Em]----[C]---[D7]beyond the [G]sea  [Em] Some[C]where [D7]waiting for [G]me-[B7]----[Em]---
+[D7]My lover [G]stands on [Em]golden [C]sands-[E7]----[Am]-
+And [D7]watches[Adim] the  [Em]ships [C]that go [A7]sail[D]ing[D7]
 
 
 [Verse]
 
-    G    Em  C  D7         G   Em     C     D7           G  B7  Em
-Somewhere-------beyond the sea  She's there watching for me-------
-D7         G        Em       C    E7  Am
-If I could fly like birds on high------
-     D7          Adim  Em   C      Am7  D7  Gm7
-Then straight to her   arms I'd go sail-----ing
+Some[G]where[Em]----[C]---[D7]beyond the [G]sea [Em] She's [C]there [D7]watching for [G]me-[B7]----[Em]--
+[D7]If I could [G]fly like [Em]birds on [C]high-[E7]----[Am]-
+Then [D7]straight to [Adim]her   [Em]arms [C]I'd go [Am7]sail-[D7]----[Gm7]ing
 
 
 [Chorus]
 
-F#7     B   G#dim E6  F#7      B    G#dim    E6   F#7        B
-   It's far-----------beyond a star     it's near beyond the moon-----
-A7  D    Bm  G  A7       D    Bm    Em         A7            D   D7 Bm
-  I know--------beyond a doubt,  my heart will lead me there soon
+[F#7]   It's [B]far-[G#dim]------[E6]----[F#7]beyond a [B]star [G#dim]    it's [E6]near [F#7]beyond the [B]moon-----
+[A7]  I [D]know-[Bm]----[G]---[A7]beyond a [D]doubt[Bm],  my [Em]heart will [A7]lead me there [D]soon[D7] [Bm]
 
 
 [Verse]
 
-D7     G    Em  C  D7         G     Em      C    D7        G    B7 Em
- We'll meet--------beyond the shore,  we'll kiss just as before------
-D7          G     Em      C   E7  Am
-Happy we'll be beyond the sea-----
-    D7    Adim Em    C       A7   D7  G
-And never a----gain, I'll go sail-----ing.
+[D7] We'll [G]meet-[Em]----[C]---[D7]beyond the [G]shore,[Em]  we'll [C]kiss [D7]just as be[G]fore-[B7]---[Em]--
+[D7]Happy we'll [G]be bey[Em]ond the [C]sea-[E7]----[Am]
+And [D7]never [Adim]a----[Em]gain, [C]I'll go [A7]sail-[D7]----[G]ing.
