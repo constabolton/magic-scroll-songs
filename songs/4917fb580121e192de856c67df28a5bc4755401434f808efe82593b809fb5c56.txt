@@ -2,58 +2,35 @@
 Song name: Someone To Watch Over Me  by  George Gershwin
 ----------------------------------------------------------------------
 [Verse]
-Eb               Ebmaj7         Eb9            Eb7
-There's a saying old, says that love is blind
-Abmaj7            Cm              F7             
-Still we're often told, "Seek and you shall find"
-Fm                             Gm  Bb7
-So I'm going to seek a certain lad I've
-Eb  Fm7  Edim   Abm6    Bb7
-had      in     mind.
-Eb           Ebmaj7         Eb9            Eb7
-Looking ev'rywhere, haven't found him yet
-Abmaj7         Cm         F7    
-He's the big affair I can not forget
-Fm                        Gm   Bb7  Eb    Ab
-Only man I every think of with re - gret
+[Eb]There's a saying [Ebmaj7]old, says that [Eb9]love is blind [Eb7]
+[Abmaj7]Still we're often [Cm]told, "Seek and [F7]you shall find"
+[Fm]So I'm going to seek a certain [Gm]lad [Bb7]I've
+[Eb]had [Fm7]     [Edim]in     [Abm6]mind. [Bb7]
+[Eb]Looking ev'ry[Ebmaj7]where, haven't [Eb9]found him yet [Eb7]
+[Abmaj7]He's the big af[Cm]fair I can [F7]not forget
+[Fm]Only man I every think of [Gm]with [Bb7]re - [Eb]gret [Ab]
 
 [Instrumental]
 Eb    D
 
 [Verse]
-Gm          C
-I'd like to add her initials to my 
-Gm          C7
-monogram
-Bb   Bb6 Cm7          F7
-Tell me, where is the shepherd for
-Bb   Ab   Gm    Bb7
-this lost lamb
+[Gm]I'd like to [C]add her initials to my 
+[Gm]monogram [C7]
+[Bb]Tell [Bb6]me, [Cm7]where is the [F7]shepherd for
+[Bb]this [Ab]lost [Gm]lamb [Bb7]
 
 [Chorus]
-Eb               Eb7   Ab6        Abdim
-   There's a somebody I'm longing to see
-Eb          Ebdim   Bb7          Bbdim
-I hope that he      turns out to be
-Fm     C7  Fm     Cm6   Fm7  Bb7  Eb  G7  Ab  Bb7 
-   Someone who'll watch ov - er   me.
-Eb              Eb7        Ab6         Abdim
-   I'm a little lamb who's lost in the woods
-Eb       Ebdim  Bb7        Bbdim
-I know i could, allways be good
-Fm    C7  Fm     Cm6   Fm7  Bb7  Eb  Eb7  Ab  Bb7 
-   To one who'll watch ov - er   me.
+[Eb]   There's a some[Eb7]body I[Ab6]'m longing [Abdim]to see
+[Eb]I hope that [Ebdim]he      [Bb7]turns out to [Bbdim]be
+[Fm]   Some[C7]one [Fm]who'll [Cm6]watch [Fm7]ov - [Bb7]er   [Eb]me. [G7] [Ab] [Bb7]
+[Eb]   I'm a little [Eb7]lamb who's [Ab6]lost in the [Abdim]woods
+[Eb]I know i [Ebdim]could, [Bb7]allways be [Bbdim]good
+[Fm]   To [C7]one [Fm]who'll [Cm6]watch [Fm7]ov - [Bb7]er   [Eb]me. [Eb7] [Ab] [Bb7]
 
 [Verse]
-Eb             Ab
-   Although he may not be the man some 
-                  Eb
-Girls think of as handsome
-   D7          G7          C   C7  F7  Bb7
-To my heart he carries the key
-Eb                   Eb7       Ab6         Abdim
-  Won't you tell him please to put on some speed
-Eb        Ebdim   Bb7      Bbdim
-Follow my lead,   oh how I need
-Fm     C7  Fm  Cm6   Fm7  Bb7  Eb  Eb7  Ab  Bb7  Eb
-   Someone to  watch ov - er   me.
+[Eb]   Although he [Ab]may not be the man some 
+Girls think of as [Eb]handsome
+To [D7]my heart he [G7]carries the [C]key [C7] [F7] [Bb7]
+[Eb]  Won't you tell him [Eb7]please to [Ab6]put on some [Abdim]speed
+[Eb]Follow my [Ebdim]lead,   [Bb7]oh how I [Bbdim]need
+[Fm]   Some[C7]one [Fm]to  [Cm6]watch [Fm7]ov - [Bb7]er   [Eb]me. [Eb7] [Ab] [Bb7] [Eb]
