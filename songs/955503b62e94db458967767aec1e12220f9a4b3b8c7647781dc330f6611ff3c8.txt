@@ -17,24 +17,17 @@ E|--------3----------------------3--2--0--------|
  
 [Verse 1]
  
-         D          D/F# G  D    A     Asus2 A
-Well the sun is surely   sinkin' down
-        Em      Bm     A G    Gsus4 G  Em7 A7sus4
-And the moon is slowly rising
-    D             D/F# G        D        A     Asus2 A
-So this old world must still be spinning 'round
-    Em Bm   A    D    G  Dadd11/E  A  D
-And I still love you
+Well the [D]sun is sure[D/F#]ly   [G]sin[D]kin' [A]down [Asus2] [A]
+And the [Em]moon is [Bm]slowly [A]ri[G]sing [Gsus4] [G] [Em7] [A7sus4]
+So t[D]his old world [D/F#]must [G]still be [D]spinning [A]'round[Asus2] [A]
+And [Em]I s[Bm]till [A]love [D]you [G] [Dadd11/E] [A] [D]
  
  
 [Chorus]
  
-   G     G/F# A     C                  G           Bm   Bsus2 Bm
-So close your eyes, you can close your eyes, its alright
-Em           Em7 A               C                G        Bm   Bsus2 Bm
-I don't know no  love songs, and I can't sing the blues anymore
-    Em    D/F#      G    Gsus4 G     Em      D/F#      G     A        Bm   Bsus2 Bm
-But I can sing this song         and you can sing this song, when I'm gone
+So [G]close [G/F#]your [A]eyes, [C]you can close your [G]eyes, its al[Bm]right[Bsus2] [Bm]
+[Em]I don't know [Em7]no  [A]love songs, and [C]I can't sing the [G]blues any[Bm]more [Bsus2] [Bm]
+But [Em]I can [D/F#]sing this [G]song [Gsus4]      [G]  and [Em]you can [D/F#]sing this [G]song, [A]when I'm [Bm]gone [Bsus2] [Bm]
  
  Em D/F# G  Em A7sus4 A
 e|-----------------|
@@ -47,24 +40,17 @@ E|-0--2--3--0------|
  
 [Verse 2]
  
-   D               G     D      A   Asus2 A
-It won't be long before another day
-Em          Bm     A    G    Gsus4 G   Em7 A7sus4
-We're gonna have a good time
-    D              G         D     A   Asus2 A
-And no one's gonna take that time away
-Em      Bm      A           D     G  Dadd11/E  A  D
-You can stay as long as you like
+It [D]won't be long be[G]fore a[D]nother [A]day [Asus2] [A]
+[Em]We're gonna [Bm]have a [A]good [G]time [Gsus4] [G] [Em7] [A7sus4]
+And [D]no one's gonna [G]take that [D]time a[A]way [Asus2] [A]
+[Em]You can [Bm]stay as [A]long as you [D]like [G] [Dadd11/E] [A] [D]
  
  
 [Chorus]
  
-   G     G/F# A     C                  G           Bm   Bsus2 Bm
-So close your eyes, you can close your eyes, its alright
-Em           Em7 A               C                G        Bm   Bsus2 Bm
-I don't know no  love songs, and I can't sing the blues anymore
-    Em    D/F#      G    Gsus4 G     Em      D/F#      G     A        Bm   Bsus2 Bm
-But I can sing this song         and you can sing this song, when I'm gone
+So [G]close [G/F#]your [A]eyes, [C]you can close your [G]eyes, its al[Bm]right[Bsus2] [Bm]
+[Em]I don't know [Em7]no  [A]love songs, and [C]I can't sing the [G]blues any[Bm]more [Bsus2] [Bm]
+But [Em]I can [D/F#]sing this [G]song [Gsus4]      [G]  and [Em]you can [D/F#]sing this [G]song, [A]when I'm [Bm]gone [Bsus2] [Bm]
  
 Em  D/F#  G  Em A7sus4 A
 
