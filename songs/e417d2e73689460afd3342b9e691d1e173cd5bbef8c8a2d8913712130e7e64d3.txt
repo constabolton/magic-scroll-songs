@@ -13,12 +13,9 @@ D|------------2-0-|------4-----0-2-|
 A|----------2-----|----2-----2-----|
 E|0-----3-4-------|----------------| 5x
 
-E7                     E                   E7
-Got a good reason, for taking the easy way out *
-A7                     E                   E7
-Got a good reason, for taking the easy way out now
-          F#
-She was a day tripper, one way ticket yeah
+[E7]Got a good reason, for [E]taking the easy way [E7]out *
+[A7]Got a good reason, for [E]taking the easy way [E7]out now
+She was a [F#]day tripper, one way ticket yeah
            A  G#           C#*              B
 It took me so long to find out, and I found out
 
@@ -29,14 +26,10 @@ D|------------2-0-|------4-----0-2-|
 A|----------2-----|----2-----2-----|
 E|0-----3-4-------|----------------| 2x
 
-E7                  E                        E7
-She's a big teaser, she took me half the way there *
-A7                  E                        E7
-She's a big teaser, she took me half the way there now
-          F#
-She was a day tripper, one way ticket, yeah
-           A  G#           C#               B
-It took me so long to find out, and I found out
+[E7]She's a big teaser, [E]she took me half the way [E7]there *
+[A7]She's a big teaser, [E]she took me half the way [E7]there now
+She was a [F#]day tripper, one way ticket, yeah
+It took me [A]so [G#]long to find [C#]out, and I found [B]out
                                                 
  B                                          
   
@@ -47,8 +40,7 @@ D|------0-1-4-----|----4-----4-----|
 A|2---------------|----------------|        
 E|----------------|----------------| 3x     
 
-B
-Ah - ah - ah - ah - ah - ah
+[B]Ah - ah - ah - ah - ah - ah
 
 E7
  
@@ -59,14 +51,10 @@ D|------------2-0-|------4-----0-2-|
 A|----------2-----|----2-----2-----|
 E|0-----3-4-------|----------------| 2x
 
-E7                       E                         E7
-Tried to please her, but she only played one night stands *
-A7                       E                         E7
-Tried to please her, but she only played one night stands now
-          F#
-She was a day tripper, Sunday driver, yeah
-           A  G#           C#               B
-It took me so long to find out, and I found out
+[E7]Tried to please her, but [E]she only played one night [E7]stands *
+[A7]Tried to please her, but [E]she only played one night [E7]stands now
+She was a [F#]day tripper, Sunday driver, yeah
+It took me [A]so [G#]long to find [C#]out, and I found [B]out
 
 e|----------------|----------------|
 B|----------------|----------------|
@@ -77,8 +65,7 @@ E|0-----3-4-------|----------------| 4x
 
 [Outro] (over riff)
 
-E7  E            E7  E       E7
-Day tripper..... Day tripper yeah ...
+[E7]Day [E]tripper..... [E7]Day [E]tripper [E7]yeah ...
 
 (fade)
 
