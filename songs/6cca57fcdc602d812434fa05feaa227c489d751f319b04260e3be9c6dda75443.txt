@@ -19,87 +19,57 @@ E|-3-3-----------------------------------------------|
 
 [Intro]
 [2 beats drum intro]
-G        C   x4
-(riff A)
+[G](riff A) [C]
 
 [Verse 1]
-          G       C
-As I walk through
-            G     C
-this wicked world
-              Em           A             D         C
-Searching for light in the darkness of insanity
-         G     C
-I ask myself
-             G        C
-"Is all hope lost?"
-              Em       A             D         C
-Is there only pain and hatred, and misery?
+As I walk [G]through [C]
+this wicked [G]world [C]
+Searching for [Em]light in the [A]darkness of in[D]sanity [C]
+I ask mys[G]elf [C]
+"Is all hope [G]lost?" [C]
+Is there only [Em]pain and [A]hatred, and mi[D]sery? [C]
 
 [Chorus]
-            G                D/F#                 G7/F              C
-‘Cause each time I feel like this inside, there's one thing I wanna know;
-G                    D                     Em        A
-Whats so funny 'bout peace, love, and understanding? Oh
-G                    D                     Em        D
-Whats so funny 'bout peace, love, and understanding?
+‘Cause each [G]time I feel like [D/F#]this inside, there's [G7/F]one thing I wanna [C]know;
+[G]Whats so funny 'bout [D]peace, love, and under[Em]standing? [A]Oh
+[G]Whats so funny 'bout [D]peace, love, and under[Em]standing? [D]
 
 [Instrumental]
-G        C   x4
-(riff A)
+[G](riff A) [C]
 
 [Verse 2]
-          G    C
-As I walk on
-                 G     C
-through troubled times
-               Em        A         D       C
-My spirit gets    so downhearted sometimes
-                 G              C
-So where are the strong ones?
-                G          C
-and who are the trusted?
-                 Em      A       D             C
-And where is the   har - - - - mony, sweet harmony
+As I walk [G]on [C]
+through troubled [G]times [C]
+My spirit gets [Em]   so down[A]hearted so[D]metimes [C]
+So where are the [G]strong ones? [C]
+and who are the [G]trusted? [C]
+And where is the [Em]  har - [A]- - - mo[D]ny, sweet harm[C]ony
 
 [Chorus]
-            G              D/F#           G7/F                C
-'Cause each time I feel it slippin' away, just makes me wanna cry,
-G                    D                       Em      A
-Whats so funny 'bout peace, love, and understanding? Oh
-G                    D                       Em      D
-Whats so funny 'bout peace, love, and understanding?
+'Cause each [G]time I feel it [D/F#]slippin' away, [G7/F]just makes me wanna [C]cry,
+[G]Whats so funny 'bout [D]peace, love, and underst[Em]anding? [A]Oh
+[G]Whats so funny 'bout [D]peace, love, and underst[Em]anding? [D]
 
 [Instrumental]
-G        C   x4
-(riff A)
+[G](riff A) [C]
 
 [Solo]
 G     C
 G     C
 Em    A   
-D     C
-Soooooo…
+[D]Sooooo[C]o…
 
 [Verse 3]
-                 G             C
-So where are the strong ones?
-                G          C
-And who are the trusted?
-                 Em        A      D              C
-And where is the    har - - - - mony, sweet harmony
+So where are the [G]strong ones? [C]
+And who are the [G]trusted? [C]
+And where is the [Em]   har - -[A] - - mo[D]ny, sweet harmo[C]ny
 
 [Chorus]
-           G              D/F#            G7/F                C
-Cause each time I feel it slippin? away,  just makes me wanna cry
+Cause each [G]time I feel it [D/F#]slippin? away,  [G7/F]just makes me wanna [C]cry
 
-G                    D                       Em      A
-Whats so funny 'bout peace, love, and understanding? Oh
-G                    D                       Em      A
-Whats so funny 'bout peace, love, and understanding?
-G                    D                       Em
-Whats so funny 'bout peace, love, and understa - - - nding?
+[G]Whats so funny 'bout [D]peace, love, and underst[Em]anding? [A]Oh
+[G]Whats so funny 'bout [D]peace, love, and underst[Em]anding? [A]
+[G]Whats so funny 'bout [D]peace, love, and underst[Em]a - - - nding?
 
 [Outro]
-G        C   
-(riff A - repeat to fade)
+[G](riff A -[C] repeat to fade)
