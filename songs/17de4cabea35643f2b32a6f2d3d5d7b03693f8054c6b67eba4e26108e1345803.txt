@@ -12,40 +12,27 @@ optional-D/E as 077700 and A/E as 077600
 
 [Verse 1]
 
-E
-Doctor, my eyes have seen the years
-             G#m                      C#m
-And the slow parade of fears without crying
-       A         E
-Now I want to understand
-E                                       G#m
-I have done all that I could, to see the evil and the good
-        C#m               A              E
-without hiding.  You must help me if you can
+[E]Doctor, my eyes have seen the years
+And the slow [G#m]parade of fears without c[C#m]rying
+Now I w[A]ant to und[E]erstand
+[E]I have done all that I could, to see the[G#m] evil and the good
+without [C#m]hiding.  You must [A]help me if you [E]can
 
 [Chorus]
-           C#m   E
-Doctor, my eyes, tell me what is wrong
-        C#m                 B             A
-Was I unwise to leave them open for so long
+Doctor, my [C#m]eyes, [E]tell me what is wrong
+Was I un[C#m]wise to leave them o[B]pen for so lon[A]g
 
 E          D/E  A/E  E
 
 [Verse 2]
-              E
-'Cause I have wandered through this world
-             G#m                            C#m
-And as each moment has unfurled,  I've been waiting
-       A              E
-to awaken from these dreams
-E                                        G#m
-People go just where they will,  I never noticed them until
-           C#m                A             E
-I got this feeling, that it's later than it seems
+'Cause I have [E]wandered through this world
+And as each m[G#m]oment has unfurled,  I've been [C#m]waiting
+to awak[A]en from these d[E]reams
+[E]People go just where they will,  I never [G#m]noticed them until
+I got this [C#m]feeling, that it's [A]later than it [E]seems
 
 [Chorus]
-           C#m   E
-Doctor, my eyes, tell me what you see
+Doctor, my [C#m]eyes, [E]tell me what you see
              C#m          B              D/E**  A
 I hear their cries, just say if it's too late for me
 
@@ -54,9 +41,7 @@ I hear their cries, just say if it's too late for me
 (E        D/E       A/E     E      repeat)
 
 [Chorus]
-           C#m        E
-Doctor, my eyes, they cannot see the sky
-            C#m              B                  A
-Is this the price for having learned how not to cry
+Doctor, my [C#m]eyes, they [E]cannot see the sky
+Is this the [C#m]price for having [B]learned how not to [A]cry
 
 E           D/E  A/E  E
