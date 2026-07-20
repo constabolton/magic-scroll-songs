@@ -3,73 +3,48 @@ Song name: Mary Poppins - Supercalifragilisticexpialidocious  by  Misc Soundtrac
 ----------------------------------------------------------------------
  F - C - G - C      C - G - C - G
  
-       C                          G
-It’s supercalifragilisticexpialidocious!
-                                G7               C
-even though the sound of it is something quite atrocious.
-                                  C7               F
-If you say it loud enough, you'll always sound precocious,
-         C         G         C
-supercalifragilisticexpialidocious!
+It’s su[C]percalifragilisticexpialido[G]cious!
+even though the sound of it is s[G7]omething quite at[C]rocious.
+If you say it loud enough, you'll [C7]always sound prec[F]ocious,
+supercali[C]fragilisti[G]cexpialido[C]cious!
  
-      C                      G
-    Um diddle diddle diddle, um diddle ay. (2x)
+    Um[C] diddle diddle diddle, [G]um diddle ay. (2x)
  
 Bert :
  
-          C                                         G
-1. Because I was afraid to speak, when I was just a lad,
-                                     G7              C
-    me father gave me nose a tweak and told me I was bad.
-                                           C7              F
-    But then one day I learned a word that saved me aching nose,
-            D                          D7              G
-    the biggest word I ever heard, and this is how it goes :
+1. Because[C] I was afraid to speak, when I was just a [G]lad,
+    me father gave me nose a tweak an[G7]d told me I was [C]bad.
+    But then one day I learned a word that [C7]saved me aching [F]nose,
+    the bigg[D]est word I ever heard, and [D7]this is how it g[G]oes :
 
  
 + CHORUS
-       C                          G
-It’s supercalifragilisticexpialidocious!
-                                G7               C
-even though the sound of it is something quite atrocious.
-                                  C7               F
-If you say it loud enough, you'll always sound precocious,
-         C         G         C
-supercalifragilisticexpialidocious!
+It’s su[C]percalifragilisticexpialido[G]cious!
+even though the sound of it is s[G7]omething quite at[C]rocious.
+If you say it loud enough, you'll [C7]always sound prec[F]ocious,
+supercali[C]fragilisti[G]cexpialido[C]cious!
  
-      C                       G
-    Um diddle diddle diddle, um diddle ay. (2x)
+    Um[C] diddle diddle diddle, u[G]m diddle ay. (2x)
  
-      C#                      G#
-    Um diddle diddle diddle, um diddle ay. (2x)
+    Um[C#] diddle diddle diddle, u[G#]m diddle ay. (2x)
  
 Mary Poppins:
  
-           C#                                         G#
-2. He traveled all around the world and everywhere he went,
-                                               G#7              C#
-    he'd use his word and all would say, "There goes a clever gent".
+2. He trave[C#]led all around the world and everywhere he [G#]went,
+    he'd use his word and all would say, "There[G#7] goes a clever ge[C#]nt".
  
 Bert:
-                                      C#7              F#
-    When dukes and maharajas pass the time of day with me,
-        D#                              D#7           G#
-    I say me special word and then they ask me out to tea.
+    When dukes and maharajas pass the [C#7]time of day with [F#]me,
+    I sa[D#]y me special word and then they [D#7]ask me out to [G#]tea.
  
 + CHORUS
-       C#                         G#
-It’s supercalifragilisticexpialidocious!
-                                G#7              C#
-even though the sound of it is something quite atrocious.
-                                  C#7              F#
-If you say it loud enough, you'll always sound precocious,
-         C#        G#        C#
-supercalifragilisticexpialidocious!
+It’s su[C#]percalifragilisticexpialido[G#]cious!
+even though the sound of it is s[G#7]omething quite at[C#]rocious.
+If you say it loud enough, you'll [C#7]always sound prec[F#]ocious,
+supercali[C#]fragilisti[G#]cexpialido[C#]cious!
  
-      C#                                   G#
-    Um diddle diddle diddle, um diddle ay. 
-      D                                    A
-    Um diddle diddle diddle, um diddle ay.
+    Um[C#] diddle diddle diddle, um diddle ay. [G#]
+    Um[D] diddle diddle diddle, um diddle ay. [A]
  
 [Mary Poppins Spoken]
 You know you can say it backwards, which is 
@@ -79,12 +54,9 @@ but that's going a bit too far, don't you think?
 [Bert Spoken]
 Indubitably!
 
-      D                                                      A
-3. So when the cat has got your tongue, there's no need for dismay,
-                                             A7              D
-    just summon up this word, and then you've got a lot to say.
-                                    D7                      G
-    But better use it carefully, or it could change your life,
+3. So [D]when the cat has got your tongue, there's no need for d[A]ismay,
+    just summon up this word, and then you've[A7] got a lot to sa[D]y.
+    But better use it carefully, or [D7]it could change your lif[G]e,
 
 [Spoken]
     For Example,
@@ -93,11 +65,7 @@ Indubitably!
 
 + CHORUS 
 
-          D                          A
-    She's supercalifragilisticexpialidocious!
-                        A7     D
-    Supercalifragilisticexpialidocious!
-                        D7     G
-    Supercalifragilisticexpialidocious!
-             D         A       D             - G - D - A - D
-    Supercalifragilisticexpialidocious!
+    She's [D]supercalifragilisticexpiali[A]docious!
+    Supercalifragilistic[A7]expiali[D]docious!
+    Supercalifragilistic[D7]expiali[G]docious!
+    Supercali[D]fragilisti[A]cexpiali[D]docious! [G] [D] [A] [D]
