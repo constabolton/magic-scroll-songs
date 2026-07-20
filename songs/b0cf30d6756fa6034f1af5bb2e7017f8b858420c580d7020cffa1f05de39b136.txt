@@ -2,74 +2,49 @@
 Song name: Nobody Cares About The Railroads Anymore  by  Harry Nilsson
 ----------------------------------------------------------------------
 [Verse 1]
-C           Ebdim           F              G
-When we got married back in nineteen forty-four
-C               Ebdim7      F          G
-We’d board that Silverliner below Baltimore
-C          C7         F              D7
-Trip to Virginia on a sunny honeymoon
-G                                   C
-Nobody cares about the railroads anymore
+[C]When we got [Ebdim]married back in [F]nineteen forty-[G]four
+[C]We’d board that [Ebdim7]Silverliner [F]below Balti[G]more
+[C]Trip to Vir[C7]ginia on a [F]sunny honeymoon[D7]
+[G]Nobody cares about the railroads any[C]more
 
 
 [Verse 2]
-C            Ebdim        F                G
-We’d tip the porter for a place of our own
-C           Ebdim7           F                  G
-Then send a postcard to your mommy and dad back home
-C                     C7                F               D7
-Mmm, it did something to you when you’d hear that “All aboard”
-G                                   C
-Nobody cares about the railroads anymore
+[C]We’d tip the [Ebdim]porter for a [F]place of our own [G]
+[C]Then send a [Ebdim7]postcard to your [F]mommy and dad back [G]home
+[C]Mmm, it did something [C7]to you when you’d [F]hear that “All a[D7]board”
+[G]Nobody cares about the railroads any[C]more
 
 
 [Chorus]
-F                         C
-Woo-ee, woo-oo-oo-ee, woo-ee
-F                         G
-Woo-ee, woo-oo-oo-ee, woo-ee
+[F]Woo-ee, woo-oo-oo-ee, woo-[C]ee
+[F]Woo-ee, woo-oo-oo-ee, woo-[G]ee
 
 
 [Verse 3]
-C        Ebdim            F               G
-We had a daughter and you oughtta see her now
-C         Ebdim7              F                G
-She has a boyfriend who looks just like my gal Sal
-C                C7                 F          D7
-And when they’re married they won’t need us anymore
-G                                                 C
-They’ll board an aeroplane and fly away from Baltimore
+[C]We had a [Ebdim]daughter and you [F]oughtta see her [G]now
+[C]She has a [Ebdim7]boyfriend who looks [F]just like my gal [G]Sal
+[C]And when they’re [C7]married they won’t [F]need us any[D7]more
+[G]They’ll board an aeroplane and fly away from Balti[C]more
 
 
 [Chorus]
-F                         C
-Woo-ee, woo-oo-oo-ee, woo-ee
-F                         G
-Woo-ee, woo-oo-oo-ee, woo-ee
+[F]Woo-ee, woo-oo-oo-ee, woo-[C]ee
+[F]Woo-ee, woo-oo-oo-ee, woo-[G]ee
 
 
 [Verse 4]
-C           Ebdim           F               G
-When we got married back in nineteen fourty-four
-C               Ebdim7      F          G
-We’d board that Silverliner below Baltimore
-C          C7         F              D7
-Trip to Virginia on a sunny honeymoon
-G                                   C
-Nobody cares about the railroads anymore
+[C]When we got [Ebdim]married back in [F]nineteen fourty-[G]four
+[C]We’d board that [Ebdim7]Silverliner [F]below Balti[G]more
+[C]Trip to Vir[C7]ginia on a [F]sunny honeymoon[D7]
+[G]Nobody cares about the railroads any[C]more
 
 
 [Verse 5]
-C        Ebdim       F            G
-La la la la-la la-la-la la la bye-bye
-C        Ebdim7      F              G
-La la la la-la la-la-la la la don’t cry
-C                     C7                F               D7
-Mmm, it did something to you when you’d hear that “All aboard”
-G                                   C
-Nobody cares about the railroads anymore
+[C]La la la [Ebdim]la-la la-la-[F]la la la bye-[G]bye
+[C]La la la [Ebdim7]la-la la-la-[F]la la la don’t [G]cry
+[C]Mmm, it did something [C7]to you when you’d [F]hear that “All a[D7]board”
+[G]Nobody cares about the railroads any[C]more
 
 
 [Outro]
-C  Ebdim  F  G  C  Ebdim7  F  G
-(fade out)
+[C](fa[Ebdim]de out)[F] [G] [C] [Ebdim7] [F] [G]
