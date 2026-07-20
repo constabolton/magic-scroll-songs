@@ -1,0 +1,22 @@
+X:1
+T: Underneath the Apple Tree
+C: Michael Franks
+M: 4/4
+L: 1/16
+K: C
+"G"D2G2G2A2B2GB-B2c2|
+dddde2d2B8|
+"D7"ccccd2c2A8|
+"G"BBBBc2B2G2d"D7"d-dD2^C|
+"G"D2G2G2A2B2GB-B2c2|
+dddde2d2B6B_B|
+"Am7"A4A4"D7"G4^F4|
+"G"G8-G2GABAG2|
+"C"c4c4e2e4e2|
+"G"d2e2c2d2B6A2|
+"A7"G2G2G4B2B2G3G|
+"D7"^FFFFG2^G2A6D2|
+"G"D2G2G2A2B2GB-B2c2|
+dddde2d2B6B_B|
+"Am7"A4A4"D7"G4^F4|
+"G"G16|]
