@@ -22,85 +22,53 @@ B7sus4 x-2-4-2-5-2 or x-2-4-2-0-0
 
 
 [Verse 1]
-G           Bm             Em    Em7
- I read the news today, oh boy
-C        C/B           Asus2
- About a lucky man who made the grade
-G               Bm              Em   Em7
- And though the news was rather sad
-C             F          Em   Em7
- Well, I just had to laugh
-C          F       Em   C
- I saw the photograph
+[G] I read the [Bm]news today, oh [Em]boy [Em7]
+[C] About a [C/B]lucky man who [Asus2]made the grade
+[G] And though the [Bm]news was rather [Em]sad [Em7]
+[C] Well, I just [F]had to laug[Em]h [Em7]
+[C] I saw the [F]photogra[Em]ph [C]
 
 
 [Verse 2]
-G            Bm            Em   Em7
- He blew his mind out in a car
-C          C/B             Asus2
- He didn't notice that the lights had changed
-G           Bm               Em      Em7
- A crowd of people stood and stared
-C                F
- They'd seen his face before
-Em
-Nobody was really sure
-   Em7                      C
-If he was from the House of Lords
+[G] He blew his [Bm]mind out in a [Em]car [Em7]
+[C] He didn't [C/B]notice that the [Asus2]lights had changed
+[G] A crowd of [Bm]people stood and [Em]stared [Em7]
+[C] They'd seen his [F]face before
+[Em]Nobody was really sure
+If [Em7]he was from the House of [C]Lords
 
 
 [Verse 3]
-G        Bm             Em   Em7
- I saw a film today, oh boy
-C            C/B           Asus2
- The English Army had just won the war
-G           Bm            Em   Em7
- A crowd of people turned away
-C           F
- But I just had to look
-Em      Em7      C
- Having read the book
-            | Em/F# Em/G | Em/A  Em/B | Em/C# Em/D | Em | ...
-I'd love to turn    you    on                      (orchestral glissando)
+[G] I saw a [Bm]film today, oh [Em]boy [Em7]
+[C] The English [C/B]Army had just [Asus2]won the war
+[G] A crowd of [Bm]people turned [Em]away [Em7]
+[C] But I just [F]had to look
+[Em] Having [Em7]read the [C]book
+I'd love to tu[Em/F#]rn    [Em/G]you    [Em/A]on    [Em/B]       [Em/C#]      [Em/D]     (o[Em]rchestral glissando)
 
 
 [Middle 8]
-     E
-Woke up, fell out of bed
-                         Dsus2
-Dragged a comb across my head
-         E                  B7sus4
-Found my way downstairs and drank a cup
-    E            B7sus4
-And looking up I noticed I was late
-         E
-Found my coat and grabbed my hat
-                        Dsus2
-Made the bus in seconds flat
-         E                B7sus4
-Found my way upstairs and had a smoke
-E                    B7sus4
-Somebody spoke and I went into a dream.
+Woke [E]up, fell out of bed
+Dragged a comb across my [Dsus2]head
+Found my [E]way downstairs and [B7sus4]drank a cup
+And [E]looking up I [B7sus4]noticed I was late
+Found my [E]coat and grabbed my hat
+Made the bus in seconds [Dsus2]flat
+Found my [E]way upstairs and [B7sus4]had a smoke
+[E]Somebody spoke and I [B7sus4]went into a dream.
 
 
 [Interlude]
-| C | G | D | A | E | C | G | D | A | E D C D |
-(Aaaaaaaaaaaahhhhhhhhhhhhhhhhhhhh)
+(A[C]aaaa[G]aaaa[D]aaah[A]hhhh[E]hhhh[C]hhhh[G]hhhh[D]hhh)[A] [E] [D] [C] [D]
 
 
 [Verse 4]
-G          Bm            Em  Em7
-I read the news today oh boy
-C             C/B                 Asus2
-Four thousand holes in Blackburn, Lancashire
-G              Bm                Em    Em7
-And though the holes were rather small
-C           F
-They had to count them all
-Em                              Em7                      C
-Now they know how many holes it takes to fill the Albert Hall
-            | Em/F# Em/G | Em/A  Em/B | Em/C Em/D | Em | ...
-I'd love to turn    you    on                      (orchestral glissando)
+[G]I read the [Bm]news today oh [Em]boy [Em7]
+[C]Four thousand [C/B]holes in Blackburn, [Asus2]Lancashire
+[G]And though the [Bm]holes were rather [Em]small [Em7]
+[C]They had to [F]count them all
+[Em]Now they know how many holes it [Em7]takes to fill the Albert [C]Hall
+I'd love to tu[Em/F#]rn    [Em/G]you    [Em/A]on    [Em/B]       [Em/C]     [Em/D]      ([Em]orchestral glissando)
 
 
 [Coda]
