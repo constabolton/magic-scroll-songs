@@ -7,28 +7,20 @@ G C/G  G C/G
 
 
 [Verse 1]
-G             Em      C           D
-Why are there so many songs about rainbows,
-    G             Em    C    D
-and what's on the other side?
-G            Em           C     D
-Rainbows are visions, but only illusions.
-    G             Em         C
-And rainbows have nothing to hide.
+[G]Why are there [Em]so many [C]songs about [D]rainbows,
+and [G]what's on the [Em]other [C]side?[D]
+[G]Rainbows are [Em]visions, but [C]only i[D]llusions.
+And [G]rainbows have [Em]nothing to [C]hide.
 
 
 [Pre-chorus]
-Cmaj7
-So we've been told and some choose to believe it.
-Bm7
-I know they're wrong; wait and see.
+[Cmaj7]So we've been told and some choose to believe it.
+[Bm7]I know they're wrong; wait and see.
 
 
 [Chorus]
-Am             D            Bm7       E
-Some day we'll find it, the rainbow connection,
-    Am          D             G
-The lovers, the dreamers, and me.
+[Am]Some day we'll [D]find it, the [Bm7]rainbow co[E]nnection,
+The [Am]lovers, the [D]dreamers, and [G]me.
 
 
 [Interlude]
@@ -36,64 +28,44 @@ G C/G  G C/G
 
 
 [Verse 2]
-G             Em               Am           D
-Who said that every wish would be heard and answered
-     G             Em      C     D
-When wished on the morning star?
-G        Em                  C         D
-Somebody thought of that and someone believed it.
-G              Em      C
-Look what it's done so far.
+[G]Who said that [Em]every wish would [Am]be heard and [D]answered
+When [G]wished on the [Em]morning [C]star? [D]
+[G]Somebody [Em]thought of that and [C]someone be[D]lieved it.
+[G]Look what it's [Em]done so [C]far.
 
 
 [Pre-chorus]
-Cmaj7
-What's so amazing that keeps us stargazing?
-    Bm7
-And what do we think we might see?
+[Cmaj7]What's so amazing that keeps us stargazing?
+And [Bm7]what do we think we might see?
 
 
 [Chorus]
-Am             D            Bm7       E
-Some day we'll find it, the rainbow connection,
-    Am          D             G
-The lovers, the dreamers, and me.
+[Am]Some day we'll [D]find it, the [Bm7]rainbow co[E]nnection,
+The [Am]lovers, the [D]dreamers, and [G]me.
 
 
 [Bridge]
-D/F#      Em        G
-All of us under its spell,
-   C              G/B      D Eb
-We know that it's probably magic
+[D/F#]All of us [Em]under its [G]spell,
+We [C]know that it's [G/B]probably [D]ma[Eb]gic
 
 
 [Verse 3] (Key Change)
-Ab            Fm              Db             Eb
-Have you been half asleep and have you heard voices?
-Ab              Fm      Db Eb
-I've heard them calling my name.
-Ab          Fm               Db               Eb
-Is this the sweet sound that called the young sailors?
-    Ab             Fm          Db
-The voice might be one and the same.
+[Ab]Have you been [Fm]half asleep and [Db]have you heard [Eb]voices?
+[Ab]I've heard them [Fm]calling [Db]my [Eb]name.
+[Ab]Is this the [Fm]sweet sound that [Db]called the young [Eb]sailors?
+The [Ab]voice might be [Fm]one and the [Db]same.
 
 
 [Pre-chorus]
-Dbmaj7
-I've heard it too many times to ignore it.
-     Cm7                            Eb
-It's something that I'm supposed to be.
+[Dbmaj7]I've heard it too many times to ignore it.
+It's [Cm7]something that I'm supposed to [Eb]be.
 
 
 [Chorus]
-Db            Eb          Cm7       F
-Someday we'll find it the rainbow connection,
-    Db          Eb           Ab
-The lovers, the dreamers and me.
+[Db]Someday we'll [Eb]find it the [Cm7]rainbow co[F]nnection,
+The [Db]lovers, the [Eb]dreamers and [Ab]me.
 
 
 [Outro]
-Eb/G     Fm         Ab
-Da-da-da-dee-dee-da-doo
-   Db       Eb        Ab
-Da-da-da-da-da-dee-da-roo
+[Eb/G]Da-da-da-[Fm]dee-dee-da-[Ab]doo
+Da-[Db]da-da-da-[Eb]da-dee-da-[Ab]roo
