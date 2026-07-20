@@ -7,100 +7,65 @@ Mr Sandman: The Chordettes.
 
 [Intro]
 
-A F#m Bm E  A F#m Bm E
-(Bom-bom-bom...)
+[A](B[F#m]om-b[Bm]om-[E]bom[A]..[F#m].) [Bm] [E]
 
 
 [Verse 1]
 
-    A        G#
-Mr. Sandman, bring me a dream.
-C#7                      F#
-make him the cutest that I've ever seen.
-B                      E
-Give him two lips like roses and clover,
-A                                 F          E
-  then tell him that his lonesome nights are over.
-A        G#
-Sandman, I'm so alone.
-C#7                  F#
-Don't have nobody to call my own.
-Bm                        Dm
-Please turn on your magic beam,
-    A        B        E A
-Mr. Sandman, bring me a dream.
+Mr. [A]Sandman, [G#]bring me a dream.
+[C#7]make him the cutest that [F#]I've ever seen.
+[B]Give him two lips like [E]roses and clover,
+[A]  then tell him that his lonesome [F]nights are [E]over.
+[A]Sandman, [G#]I'm so alone.
+[C#7]Don't have nobody to [F#]call my own.
+[Bm]Please turn on your magic [Dm]beam,
+Mr. [A]Sandman, [B]bring me [E]a [A]dream.
 
 
 [Interlude]
 
-             D                               Bm
-(bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-
- Em      A
- bom-bom-bom.)
-             D                               Bm
-(bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-
- Em      A
- bom-bom-bom.)
+(bom-bom-bom-[D]bom-bom-bom-bom-bom-bom-bom-bom-[Bm]bom-bom-
+ [Em]bom-bom-[A]bom.)
+(bom-bom-bom-[D]bom-bom-bom-bom-bom-bom-bom-bom-[Bm]bom-bom-
+ [Em]bom-bom-[A]bom.)
 
 
 [Verse 2]
 
-Bm  D        C#7
-Mr. Sandman, bring me a dream.
-F#                       B
-Make him the cutest that I've ever seen.
-E                      A
-Give him the word that I'm not a rover,
-D                             A#         A
-then tell him that his lonely nights are over.
-D        C#7
-Sandman, I'm so alone.
-F#                   B
-Don't have nobody to call my own.
-Bm     G    Em            Bb  Gm7
-Please turn on your magic beam..
-    Bm       E          D
-Mr. Sandman, bring me a dream..
+[Bm]Mr. [D]Sandman, [C#7]bring me a dream.
+[F#]Make him the cutest that [B]I've ever seen.
+[E]Give him the word that [A]I'm not a rover,
+[D]then tell him that his lonely [A#]nights are [A]over.
+[D]Sandman, [C#7]I'm so alone.
+[F#]Don't have nobody to [B]call my own.
+[Bm]Please [G]turn [Em]on your magic [Bb]beam[Gm7]..
+Mr. [Bm]Sandman, [E]bring me a [D]dream..
 
 
 [Interlude]
 
-             Dm                              A#
-(bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-
-         C
- bom-bom-bom.)
-             F                               Gm
-(bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-
-         C
- bom-bom-bom.)
+(bom-bom-bom-[Dm]bom-bom-bom-bom-bom-bom-bom-bom-[A#]bom-bom-
+ bom-bom-[C]bom.)
+(bom-bom-bom-[F]bom-bom-bom-bom-bom-bom-bom-bom-[Gm]bom-bom-
+ bom-bom-[C]bom.)
 
 
 [Verse 3]
 
-    A       G#
-Mr. Sandman bring us a dream.
-           C#7                 F#
-Give him a pair of eyes with a come-hither gleam.
-           B                 E
-Give him a lonely heart like Pagliacci,
-A                           F      E
- and lots of wavy hair like Liber..ace.
-A            G#
-Mr. Sandman, someone to hold,
-C#7                  F#
-would be so peachy before we're too old.
-   Bm                        D
-So please turn on your magic beam.
-    A        B         A               B7
-Mr. Sandman, bring us, please, please, please..
-    A        B        E A
-Mr. Sandman, bring us a dream.
+Mr. [A]Sandman [G#]bring us a dream.
+Give him a [C#7]pair of eyes with a [F#]come-hither gleam.
+Give him a [B]lonely heart like [E]Pagliacci,
+[A] and lots of wavy hair like [F]Liber..[E]ace.
+[A]Mr. Sandman, [G#]someone to hold,
+[C#7]would be so peachy be[F#]fore we're too old.
+So [Bm]please turn on your magic [D]beam.
+Mr. [A]Sandman, [B]bring us, [A]please, please, [B7]please..
+Mr. [A]Sandman, [B]bring us [E]a [A]dream.
 
 
 [Outro]
 
- A
-(bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom.)
+([A]bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom-bom.)
 
 
 
