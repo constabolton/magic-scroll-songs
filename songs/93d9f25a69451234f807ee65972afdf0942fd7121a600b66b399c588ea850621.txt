@@ -5,51 +5,31 @@ Song name: Lazy Bones  by  Bing Crosby
 Intro = C G C G C F C F
 
 Verse 1
-C   F     C               F
-Lazybones sleeping in the sun
-C                 F        C          C7
-How you 'spect to get your day's work done
-Em                        Dm
-Never get your day's work done
-Dm              G         C   G                       
-Sleeping in the new day's sun
+[C]Lazy[F]bones [C]sleeping in the [F]sun
+[C]How you 'spect to [F]get your [C]day's work [C7]done
+[Em]Never get your day's work [Dm]done
+[Dm]Sleeping in the [G]new day's [C]sun [G]
 
 Verse2
-C   F     C              F
-Lazybones sleepin in the shade
-C                 F        C        C7
-How you 'spect to get your cornmeal made
-       Em                      Dm
-You'll never get your cornmeal made
-Dm                  G      C    C7
-Just sleepin in the evenin shade
+[C]Lazy[F]bones [C]sleepin in the [F]shade
+[C]How you 'spect to [F]get your [C]cornmeal [C7]made
+You'll [Em]never get your cornmeal [Dm]made
+[Dm]Just sleepin in the [G]evenin [C]shade[C7]
 
 Bridge
-     F
-When 'taters need spraying I bet you keep praying
-    C                     C7
-The bugs fall off the vine
-    F                    G 
-And when you go fishin I bet you keep wishin
-    Am         C         F   G
-The fish won't grab your line
+When [F]'taters need spraying I bet you keep praying
+The [C]bugs fall off the vine[C7]
+And [F]when you go fishin I [G]bet you keep wishin
+The [Am]fish won't [C]grab your [F]line[G]
 
 Verse 3
-C   F     C                   F
-Lazybones loafing through the day
-C                 F     C         C7
-How you 'spect to get a dime that way
-Em                     Dm
-Never make a dime that way
-Dm            G      C  G
-Never heard a word I say
+[C]Lazy[F]bones [C]loafing through the [F]day
+[C]How you 'spect to [F]get a [C]dime that [C7]way
+[Em]Never make a dime that [Dm]way
+[Dm]Never heard a [G]word I [C]say[G]
 
 Repeat verse 1
-C   F     C               F
-Lazybones sleepin' in the sun
-C                 F        C          C7
-How you 'spect to get your day's work done
-Em                        Dm
-Never get your day's work done
-Dm              G         C   C
-Sleepin' in the new day's sun
+[C]Lazy[F]bones [C]sleepin' in the [F]sun
+[C]How you 'spect to [F]get your [C]day's work [C7]done
+[Em]Never get your day's work [Dm]done
+[Dm]Sleepin' in the [G]new day's [C]sun [C]
