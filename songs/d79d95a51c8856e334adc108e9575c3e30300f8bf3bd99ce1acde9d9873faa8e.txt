@@ -8,26 +8,17 @@ Song name: Return To Sender  by  Elvis Presley
 Return to Sender
 ----------------
 Standard tuning.
-    Eb        Cm      Fm        Bb
-    Return to sender, return to sender
-    Eb                     Cm
-    I gave a letter to the postman,
-    Fm            Bb
-    he put it his sack.
-    Eb                    Cm
-    Bright and early next morning,
-       Fm         Bb     Eb
-    he brought my letter back.
+    [Eb]Return to [Cm]sender, [Fm]return to [Bb]sender
+    [Eb]I gave a letter to the [Cm]postman,
+    [Fm]he put it his [Bb]sack.
+    [Eb]Bright and early next [Cm]morning,
+    he [Fm]brought my [Bb]letter [Eb]back.
     [NC]
     She wrote upon it
-    Ab        Bb      Ab        Bb
-    Return to sender, address unknown.
-    Ab      Bb     Eb
-    No such number, no such zone.
-    Ab       Bb       Ab        Bb
-    We had a quarrel, a lover's spat
-    F7                                           Bb
-    I write I'm sorry but my letter keeps coming back.
+    [Ab]Return to [Bb]sender, [Ab]address un[Bb]known.
+    [Ab]No such [Bb]number,[Eb] no such zone.
+    [Ab]We had a [Bb]quarrel, [Ab]a lover's [Bb]spat
+    [F7]I write I'm sorry but my letter keeps coming [Bb]back.
 
     So then I dropped it in the mailbox
     And sent it special D.
@@ -36,13 +27,9 @@ Standard tuning.
     She wrote upon it
     Return to sender, address unknown.
     No such number, no such zone.
-    Ab
-    This time I'm gonna take it myself
-    Ab                      Eb
-    and put it right in her hand.
-        F7
-    And if it comes back the very next day
-    Bb                   [NC]
-    then I'll understand the writing on it
+    [Ab]This time I'm gonna take it myself
+    [Ab]and put it right in her [Eb]hand.
+    And [F7]if it comes back the very next day
+    [Bb]then I'll understand the writing on it
     Return to sender, address unknown.
     No such person, no such zone.
