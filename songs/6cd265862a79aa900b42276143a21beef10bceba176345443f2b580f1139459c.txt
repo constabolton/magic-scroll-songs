@@ -11,36 +11,25 @@ C  D  G  D
 
 [Verse 1]
 
-G             Em             Bm
-  This is for all the lonely people
-G               Em                   Bm  D
-  Thinking that life has passed them by
-C            D           G               Em
-  Don't give up until you drink from the silver cup
-C               D              G   D
-  And ride that highway in the sky
+[G]  This is for [Em]all the lonely [Bm]people
+[G]  Thinking that [Em]life has passed them [Bm]by [D]
+[C]  Don't give [D]up until you[G] drink from the [Em]silver cup
+[C]  And ride that [D]highway in the [G]sky [D]
 
 
 [Verse 2]
 
-G             Em             Bm
-  This is for all the single people
-G               Em                 Bm  D
-  Thinking that love has left them dry
-C            D           G               Em
-  Don't give up until you drink from the silver cup
-C           D              G
-  You never know until you try
+[G]  This is for [Em]all the single [Bm]people
+[G]  Thinking that [Em]love has left them [Bm]dry [D]
+[C]  Don't give [D]up until you[G] drink from the [Em]silver cup
+[C]  You never [D]know until you [G]try
 
 
 [Chorus]
 
-          C  G/B Am
-Well, I'm on my  way
-         C    G/B Am
-Yes, I'm back to  stay
-          C  G/B Am  D    G
-Well, I'm on my  way back home
+Well, I'm [C]on [G/B]my  [Am]way
+Yes, I'm [C]back [G/B]to  [Am]stay
+Well, I'm [C]on [G/B]my  [Am]way [D]back [G]home
 
 
 [Solos]
@@ -48,13 +37,8 @@ Well, I'm on my  way back home
 
 [Verse 3]
 
-G             Em             Bm
-  This is for all the lonely people
-G               Em                   Bm  D
-  Thinking that life has passed them by
-C            D           G               Em
-  Don't give up until you drink from the silver cup
-C               D               G      Em
-  It will never take you down or never give you up
-C              D              Em
-  You'll never know until you try
+[G]  This is for [Em]all the lonely [Bm]people
+[G]  Thinking that [Em]life has passed them [Bm]by [D]
+[C]  Don't give [D]up until you[G] drink from the [Em]silver cup
+[C]  It will never [D]take you down or[G] never [Em]give you up
+[C]  You'll never [D]know until you [Em]try
