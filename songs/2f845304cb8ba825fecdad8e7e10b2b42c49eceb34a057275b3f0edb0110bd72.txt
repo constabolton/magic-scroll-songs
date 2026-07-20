@@ -23,71 +23,44 @@ D|----------------------------|---------------------|--------2----|
 A|-------0-0---2-2------------|---2/3--2--0-----2---|----0-2---3--|
 E|-3-3---------------0-0---3--|-3-----------3-------|--3----------|
 
-C                                 G
-I dreamed you were a cosmonaut ---- of the space between our chairs
-C                              G
-   And I was a cartographer ---- of the tangles in your hair
+[C]I dreamed you were a cosmonaut ---[G]- of the space between our chairs
+[C]   And I was a cartographer ---[G]- of the tangles in your hair
 
-Fmaj7
-   I sighed a song that silence brings - It's the one that everybody 
-                  C
-knows, everybody knows -- the song that silence sings                                          
-                   G
-And this is how it goes
+[Fmaj7]   I sighed a song that silence brings - It's the one that everybody 
+knows, everybody k[C]nows -- the song that silence sings                                          
+And this is how it [G]goes
 
 Intro -> then riff over lyrics: 
 
-C                                   G
-These looms that weave apocrypha ---- they're hanging from a strand
-C                                        G
-   The dark and empty rooms were full ---- of incandescent hands
+[C]These looms that weave apocrypha ---[G]- they're hanging from a strand
+[C]   The dark and empty rooms were full ---[G]- of incandescent hands
  
-Fmaj7
-   awkward pause(paws) - a fatal flaw - Time, it's a crooked bow
-                  C
-Time is a crooked bow
+[Fmaj7]   awkward pause(paws) - a fatal flaw - Time, it's a crooked bow
+Time is a crooked [C]bow
                   
-C                                                          G
-In time you need to learn, to love - The ebb just like the flow                      
-D7                B7                        Em
-Grab hold of your bootstraps, and pull like hell
-          E                   Am                 D
-until gravity feels sorry for you, and lets you go
+[C]In time you need to learn, to love - The ebb just like the [G]flow                      
+[D7]Grab hold of your [B7]bootstraps, and pull like [Em]hell
+until grav[E]ity feels sorry for [Am]you, and lets you g[D]o
                                
-   G                                     C   C/B
-As if you lack the proper chemicals to know, oh
- Am                                      Bm            Fmaj7
-the way it felt the last time you let yourself - fall this low
+As [G]if you lack the proper chemicals to kn[C]ow, [C/B]oh
+t[Am]he way it felt the last time you let you[Bm]rself - fall t[Fmaj7]his low
                  
-Fmaj7                           C
-Time, Oh time - it’s a crooked bow
-               C/G      F                  C/G                
-Time's a crooked bow - Time, it's a crooked bow
+[Fmaj7]Time, Oh time - it’s a crooked b[C]ow
+Time's a crooke[C/G]d bow - T[F]ime, it's a crooked[C/G] bow
 
-F                                 G
-Fifty-five and three-eighths years later
-F                          G         F                    G
-At the bottom of a gigantic crater - An armchair calls to you
-         F                 G
-Yeah, this armchair calls to you       
-         C                            Cmaj7
-It says, someday, we'll get back at them all
-                         G
-With epoxy and a pair of pliers
-C                           Cmaj7
-As ancient sea slugs begin to crawl
-                               G
-through the ragweed and barbed wire
+[F]Fifty-five and three-eighths years[G] later
+[F]At the bottom of a gigantic[G] crater - [F]An armchair calls to [G]you
+Yeah, thi[F]s armchair calls t[G]o you       
+It says, [C]someday, we'll get back at th[Cmaj7]em all
+With epoxy and a pair of [G]pliers
+[C]As ancient sea slugs begin t[Cmaj7]o crawl
+through the ragweed and barbed [G]wire
 
-C                            G        F                            
-You didn't write - You didn't call --- It didn't cross your mind 
-G                      C                        G
-at all - and through the waves --- waves of A.M. squall
+[C]You didn't write - You didn't[G] call ---[F] It didn't cross your mind 
+[G]at all - and through th[C]e waves --- waves of A.M.[G] squall
                           
-F                            G                             Fmaj7
-You couldn't feel a thing at all - Fifty-five and three-eighths 
-                                 Fmaj7
-tall - Fifty-five and three-eighths tall  …time --- time                                                     
+[F]You couldn't feel a thing at [G]all - Fifty-five and three-eig[Fmaj7]hths 
+tall - Fifty-five and three-eight[Fmaj7]hs tall  …time --- time                                                     
 
 
 Fmaj7 = XX3210
