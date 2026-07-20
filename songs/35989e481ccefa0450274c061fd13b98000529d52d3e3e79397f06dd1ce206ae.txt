@@ -2,49 +2,32 @@
 Song name: The Glory Of Love  by  The Platters
 ----------------------------------------------------------------------
 [Verse 1]             
-              C       Am7     Dm7      G7
-You’ve got to give  a little    Take a little
-C                    C7     F9      Fm
-   And let your poor heart  break a little
-C                Am7      Dm7           G7       Dm7                   G7
-  For that’s the story of    That’s the glory of love (glory, glory of love)
+You’ve got to [C]give  a [Am7]little  [Dm7]  Take a [G7]little
+[C]   And let your poor [C7]heart  [F9]break a [Fm]little
+[C]  For that’s the [Am7]story of [Dm7]   That’s the [G7]glory of [Dm7]love (glory, glory of [G7]love)
 
 [Verse 2]
-                 C       Am7     Dm7   G7
-You’ve got to   laugh a little   Cry a little
-C             C7           F9   Fm
-  And let the clouds roll  by a little
-C                 Am7       Dm7          G7       C      Fm        C     C7
-   For that’s the story of    That’s the glory of love.  (glory of love)
+You’ve got to   l[C]augh a l[Am7]ittle   [Dm7]Cry a [G7]little
+[C]  And let the [C7]clouds roll  [F9]by a [Fm]little
+[C]   For that’s the [Am7]story of  [Dm7]  That’s the [G7]glory of [C]love.  [Fm](glory of [C]love) [C7]
 
 [Chorus]
-          F                   Fm                        C                    C7
-   Now as long as there’s the two of us, we’ve got this world and all of its charms
-    F                  Fm                 D7                         G7
-But when this world is through with us       we’ll have each other’s arms.
+   Now as [F]long as there’s the [Fm]two of us, we’ve got this [C]world and all of its [C7]charms
+But [F]when this world is [Fm]through with us    [D7]   we’ll have each other’s [G7]arms.
 
 [Verse 3]
-                C     Am7    Dm7        G7
-You’ve got to   win a little    Lose a little
-C             C7       F9      Fm
-   and always have the blues a little
-C                 Am7       Dm7           G7       C      Fm        C     C7
-   For that’s the story of     That’s the glory of love.  (glory of love)
+You’ve got to   [C]win a [Am7]little [Dm7]   Lose a l[G7]ittle
+[C]   and always [C7]have the [F9]blues a [Fm]little
+[C]   For that’s the [Am7]story of  [Dm7]   That’s the [G7]glory of [C]love.  [Fm](glory of [C]love) [C7]
 
 [Chorus]
- F                            Fm                        C                    C7
-   Now as long as there’s the two of us, we’ve got this world and all of its charms
-    F                 Fm                 D7                         G7
-But when the world is through with us       we’ll have each other’s arms.
+ [F]  Now as long as there’s the [Fm]two of us, we’ve got this [C]world and all of its [C7]charms
+But [F]when the world is [Fm]through with us    [D7]   we’ll have each other’s [G7]arms.
 
 [Verse 4]
-                C       Am7    Dm7         G7
-You’ve got to   cheat a little    steal a little
-C                C7        F9     Fm
-   and sometimes get a raw deal a little
-C                Am7       Dm7           G7       C      Bb   A
-  For that’s the story of     That’s the glory of love.
+You’ve got to   [C]cheat a [Am7]little [Dm7]   steal a l[G7]ittle
+[C]   and sometimes [C7]get a raw [F9]deal a [Fm]little
+[C]  For that’s the [Am7]story of  [Dm7]   That’s the [G7]glory of [C]love. [Bb] [A]
 
 [Outro]
-Dm7                      G7                    C      F   Fm  C
-   That’s the story of     That’s the glory of love,      of  love
+[Dm7]   That’s the story of   [G7]  That’s the glory of [C]love,  [F]    [Fm]of  [C]love
