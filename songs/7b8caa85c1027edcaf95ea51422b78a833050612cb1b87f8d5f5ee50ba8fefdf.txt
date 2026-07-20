@@ -5,47 +5,28 @@ Song name: Pretty Baby  by  Dean Martin
 A A7 D9 Dm7 E7
 
 [Verse 1]
- A    E7     D9               E           E
-Everybody loves a baby that's why I'm in love with you
-Fdim    A6  E7 Fdim  A6
-Pretty baby pretty baby
-A        E7         D6   E       E7      E        E7
-And I'd like to be your sister, brother, dad and mother too
-Fdim   A6   Fdim   A6
-Pretty baby pretty baby
+E[A]veryb[E7]ody lov[D9]es a baby that's [E]why I'm in l[E]ove with you
+[Fdim]Pretty b[A6]aby [E7]pre[Fdim]tty ba[A6]by
+[A]And I'd l[E7]ike to be y[D6]our s[E]ister, b[E7]rother, [E]dad and m[E7]other too
+[Fdim]Pretty [A6]baby [Fdim]pretty [A6]baby
 
 [Chorus]
-E7    A           A7                  D         D6
-Won't you come and let me rock you in my cradle of love
-F#7        B7        E7
-And we'll cuddle all the time
-A    E7         D9             E         E7
-Oh I want a lovin' baby and it might as well be you
-Fdim   A6      E7
-Pretty baby of mine
+[E7]Won't [A]you come and[A7] let me rock you in [D]my cradle [D6]of love
+[F#7]And we'll c[B7]uddle all [E7]the time
+[A]Oh I [E7]want a lovi[D9]n' baby and it [E]might as w[E7]ell be you
+[Fdim]Pretty [A6]baby of [E7]mine
 
 [Instrumental]
-A A7 D9 Dm7 E7
-[Verse 1]
- A    E7      D9              E           E7
-Everybody loves a baby that's why I'm in love with you
-Fdim   A6   Fdim   A6
-Pretty baby pretty baby
-A       E7         D9                    E       E7
-And I'd like to be your sister, brother, dad and mother too
-Fdim   A6   Fdim   A6
-Pretty baby pretty baby
+[A][V[A7]ers[D9]e 1[Dm7]] [E7]
+E[A]veryb[E7]ody love[D9]s a baby that's [E]why I'm in l[E7]ove with you
+[Fdim]Pretty [A6]baby [Fdim]pretty [A6]baby
+[A]And I'd [E7]like to be [D9]your sister, brother, [E]dad and [E7]mother too
+[Fdim]Pretty [A6]baby [Fdim]pretty [A6]baby
 
 [Chorus]
-E7    A            A7                 D         D9
-Won't you come and let me rock you in my cradle of love
-F#7       B7         E7
-And we'll cuddle all the time
-A    E7      D9                E        E7
-Oh I want a lovin' baby and it might as well be you
-D      E7   Fdim
-Pretty baby of
-D      E7   Fdim
-Pretty baby of
-D      E7 Fdim  A
-Pretty baby of mine
+[E7]Won't [A]you come and [A7]let me rock you in [D]my cradle [D9]of love
+[F#7]And we'll [B7]cuddle all [E7]the time
+[A]Oh I [E7]want a l[D9]ovin' baby and it [E]might as [E7]well be you
+[D]Pretty [E7]baby [Fdim]of
+[D]Pretty [E7]baby [Fdim]of
+[D]Pretty [E7]bab[Fdim]y of m[A]ine
