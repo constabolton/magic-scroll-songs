@@ -2,74 +2,46 @@
 Song name: Crying In The Night  by  Andrew Bird
 ----------------------------------------------------------------------
 [Verse 1]
-         D   D/C#     Bm    A
-She was that kind of lady
-   G         F#m     Em      A
-Times were hard, times were hard
-      D    D/C#     Bm        A
-She come curling 'round you
-  G          F#m   Em    A
-Like fingers
+She was t[D]hat [D/C#]kind of l[Bm]ady [A]
+Tim[G]es were ha[F#m]rd, time[Em]s were h[A]ard
+She co[D]me cu[D/C#]rling 'ro[Bm]und you [A]
+Li[G]ke fingers [F#m] [Em] [A]
 
 
 [Chorus]
-           Em                      A
-But she'll leave you crying in the night
-           Em                      A
-She will leave you crying in the night
-           Em                      A
-Yeah, she's going to leave you crying in the night
-             Gm
-She's back in town
-        D  D/C#  Bm  A  G  F#m  Em  A
-Looking around
+But she'll [Em]leave you crying in the [A]night
+She will le[Em]ave you crying in the ni[A]ght
+Yeah, she's[Em] going to leave you cryi[A]ng in the night
+She's back in[Gm] town
+Looking [D]aro[D/C#]und [Bm] [A] [G] [F#m] [Em] [A]
 
 
 [Verse 2]
-          D      D/C#        Bm    A          G       F#m
-Say, you needed someone to depend on, you're all alone
-           Em     A
-She's the only one
-   D    D/C#         Bm        A
-Who can come take you far away
-   G          F#m      Em   A
-And take your breath away
+Say, you n[D]eeded s[D/C#]omeone to de[Bm]pend o[A]n, you're a[G]ll alone[F#m]
+She's the o[Em]nly one[A]
+Who[D] can [D/C#]come take you[Bm] far away [A]
+And[G] take your [F#m]breath aw[Em]ay [A]
 
 
 [Chorus]
-           Em                      A
-But she'll leave you crying in the night
-           Em                      A
-She's gonna leave you crying in the night
-           Em                      A
-Yeah, she's gonna leave you crying in the night
-             Gm
-She's back in town
-        D  D/C#  Bm  A  G  F#m  Em  A
-Looking around
-        D  D/C#  Bm  A  G  F#m  Em  A
-Looking around
+But she'll [Em]leave you crying in the [A]night
+She's gonna[Em] leave you crying in the[A] night
+Yeah, she's[Em] gonna leave you crying [A]in the night
+She's back in[Gm] town
+Looking [D]aro[D/C#]und [Bm] [A] [G] [F#m] [Em] [A]
+Looking [D]aro[D/C#]und [Bm] [A] [G] [F#m] [Em] [A]
 
 
 [Bridge]
-    D                    Bm7
-Come on, baby, she's the wrong kind of girl
-    D             Bm7
-A come-on lady, a tarnished pearl
-       D                       Bm7
-She'll take your money, she'll wreck your world
-           D   Bm7
-Wreck your world
-           Cm                      G
-And she'll leave you crying in the night
-            Em                      A
-She's gonna leave you crying in the night
-            Cm                       G
-She's gonna leave you crying in the night
-            Em                      A
-She's gonna leave you crying in the night
+Come[D] on, baby, she's the [Bm7]wrong kind of girl
+A co[D]me-on lady, a [Bm7]tarnished pearl
+She'll [D]take your money, she'll [Bm7]wreck your world
+Wreck your [D]worl[Bm7]d
+And she'll [Cm]leave you crying in the [G]night
+She's gonna [Em]leave you crying in the [A]night
+She's gonna [Cm]leave you crying in the n[G]ight
+She's gonna [Em]leave you crying in the [A]night
 
 
 [Outro]
-             Cm  Bb  Am  Gm  F  Gm  D
-She's back in tooooooooooooooooooooown
+She's back in[Cm] too[Bb]oooo[Am]oooo[Gm]oooo[F]ooo[Gm]oooo[D]wn
