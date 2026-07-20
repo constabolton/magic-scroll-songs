@@ -10,60 +10,42 @@ Cdim/Gb (?)  2-x-1-x-x-x
 --------------------------------------------------------------------------------------------
 
 [Verse 1]
-    C         Am        Dm7       G7
-Who knows how long I've loved you?
-    C      Am       Em
-You know I love you still
-C7     F      G      Am
-Will I wait a lonely lifetime?
-C7      F       G     | C Am | Dm7 G(sus4) |
- If you want me to, I will
+Who [C]knows how [Am]long I've [Dm7]loved you?[G7]
+You [C]know I [Am]love you [Em]still
+[C7]Will I [F]wait a [G]lonely [Am]lifetime?
+[C7] If you [F]want me [G]to, I wi[C]ll[Am] [Dm7] [G]
 
 
 [Verse 2]
-    C    Am   Dm7     G7
-For if I ever saw you
-  C      Am         Em
-I didn't catch your name
-C7     F     G      Am
-But it never really mattered
-C7      F      G       | C C7 |
- I will always feel the same
+For [C]if I [Am]ever [Dm7]saw you [G7]
+I [C]didn't [Am]catch your [Em]name
+[C7]But it [F]never [G]really [Am]mattered
+[C7] I will [F]always [G]feel the s[C]am[C7]e
 
 
 [Bridge]
 F           Em7  Am   ( Asus2 Am )
 Love you forever and forever
-Dm7           G      | C C7 |
-Love you with all my heart
+[Dm7]Love you with [G]all my he[C]ar[C7]t
 F            Em7  Am     ( Asus2 Am )
 Love you whenever we're together
-D7                   G
-Love you when we're apart
+[D7]Love you when we're a[G]part
 
 
 [Verse 3]
-    C       Am     Dm7      G7
-And when at last I find you
-     C         Am       Em
-Your song will fill the air
+And [C]when at [Am]last I [Dm7]find you [G7]
+Your [C]song will [Am]fill the [Em]air
                        1   +   2  +  3   +   4  +  |
-C7      F       G    | Am      Fm/Ab C/G
-Sing it loud so I can hear you
+[C7]Sing it [F]loud so [G]I can h[Am]ear you [Fm/Ab] [C/G]
                    1   +   2   +  3   +   4  +  |
-        F    G   | Am      Fm/Ab  C/G
-Make it easy to be near you
+Make it [F]easy [G]to be [Am]near you[Fm/Ab] [C/G]
                         1   +   2  +  3  +   4  +  |
-        F          G  | Am      Fm/Ab C/G    Fm/Ab
-For the things you do endear   you   to     me
-Dm7     G6    | Ab7 | % |  C | % |
-Oh, you know I will  ... I will ...
+For the [F]things you [G]do en[Am]dear   y[Fm/Ab]ou   t[C/G]o     m[Fm/Ab]e
+[Dm7]Oh, you [G6]know I w[Ab7]ill  ... I [C]will ...
 
 
 [Coda]
-F           Em7 
-Mh, mh, mh, mh, mh
+[F]Mh, mh, mh, [Em7]mh, mh
 Am    ( Asus2   Am )
 Mh, mh, mh, mh, mh
-Dm7             G7      C
-Da, da, da ,da, da, da, dah
+[Dm7]Da, da, da ,da, [G7]da, da, [C]dah
