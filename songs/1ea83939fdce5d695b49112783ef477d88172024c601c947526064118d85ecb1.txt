@@ -24,49 +24,33 @@ E  Emaj7  A   Amaj7
 
 [Verse 1]
 
-E        Emaj7  A   Amaj7
-Here you come again 
-E              Emaj7          A     Amaj7
-Just when I'm about to get myself together 
-    C#m                 F#m         C#m              F#m 
-You waltz right in the door, just like you done before 
-    F#m7                      B      A    B  
-And wrap my heart 'round your little finger 
+[E]Here you [Emaj7]come ag[A]ain [Amaj7]
+[E]Just when I'm a[Emaj7]bout to get mys[A]elf to[Amaj7]gether 
+You [C#m]waltz right in the d[F#m]oor, just li[C#m]ke you done befor[F#m]e 
+And [F#m7]wrap my heart 'round your [B]little [A]finge[B]r 
 
-E        Emaj7  A   Amaj7
-Here you come again 
-E              Emaj7             A        Amaj7
-Just when I'm about to make it work without you 
-    C#m          F#m       C#m              F#m 
-You look into my eyes and lie those pretty lies 
-    F#m7                             B        A   B   
-And pretty soon I'm wonderin' how I came to doubt you 
+[E]Here you [Emaj7]come ag[A]ain [Amaj7]
+[E]Just when I'm a[Emaj7]bout to make it wo[A]rk withou[Amaj7]t you 
+You [C#m]look into my [F#m]eyes and l[C#m]ie those pretty l[F#m]ies 
+And [F#m7]pretty soon I'm wonderin' how I c[B]ame to do[A]ubt [B]you 
 
 
 [Chorus]
 
-Em7                  Bm         
-All you gotta do is smile that smile 
-    Fmaj7             A7sus4 
-And there go all my defenses 
-      Em7                          D D/C#  Bm    Bm/A 
-Just leave it up to you and in a little while 
-       E                      A7sus4
-You're messin' up my mind an' fillin' up my senses 
+[Em7]All you gotta do is s[Bm]mile that smile 
+And [Fmaj7]there go all my de[A7sus4]fenses 
+Just l[Em7]eave it up to you and in a li[D]tt[D/C#]le whi[Bm]le [Bm/A]
+You're [E]messin' up my mind an' [A7sus4]fillin' up my senses 
 
 Key Change one halfstep up (brilliant):
 
 
 [Verse 2]
 
-F        Fmaj7  Bb  Bbmaj7
-Here you come again 
-F               Fmaj7        Bb     Bbmaj7
-Lookin' better than a body has a right to 
-    Dm            Gm      Dm          Gm 
-And shakin' me up so that all I really know 
-  Gm7            
-Is here you come again and here I go 
+[F]Here you [Fmaj7]come ag[Bb]ain [Bbmaj7]
+[F]Lookin' better t[Fmaj7]han a body ha[Bb]s a rig[Bbmaj7]ht to 
+And [Dm]shakin' me up [Gm]so that [Dm]all I really[Gm] know 
+Is[Gm7] here you come again and here I go 
 
 
 [Instrumental]
@@ -76,14 +60,10 @@ Is here you come again and here I go
 
 [Chorus]
 
-Fm7                  Cm         
-All you gotta do is smile that smile 
-    F#maj7            Bb7sus4
-And there go all my defenses 
-      Fm7                         Eb Eb/D Cm    Cm/Bb 
-Just leave it up to you and in a little while 
-       F                      Bb7sus4
-You're messin' up my mind an' fillin' up my senses 
+[Fm7]All you gotta do is s[Cm]mile that smile 
+And [F#maj7]there go all my de[Bb7sus4]fenses 
+Just l[Fm7]eave it up to you and in a l[Eb]itt[Eb/D]le wh[Cm]ile [Cm/Bb]
+You're [F]messin' up my mind an' [Bb7sus4]fillin' up my senses 
 
 
 Key Change again one half step up (!)
@@ -91,14 +71,10 @@ Key Change again one half step up (!)
 
 [Verse 3]
 
-F#       F#maj7 B  Bmaj7
-Here you come again 
-F#              F#maj7      B      Bmaj7
-Lookin' better than a body has a right to 
-    D#m           G#m     D#m         G#m 
-And shakin' me up so that all I really know 
-  G#m7           
-Is here you come again and here I go 
+[F#]Here you [F#maj7]come ag[B]ain[Bmaj7] 
+[F#]Lookin' better t[F#maj7]han a body h[B]as a ri[Bmaj7]ght to 
+And [D#m]shakin' me up [G#m]so that [D#m]all I really[G#m] know 
+Is[G#m7] here you come again and here I go 
 
 
 [Outro]
