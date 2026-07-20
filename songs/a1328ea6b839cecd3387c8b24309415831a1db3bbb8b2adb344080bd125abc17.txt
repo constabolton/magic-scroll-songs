@@ -14,40 +14,26 @@ Specifically for acoustic guitar.
 G D F A# D# G# A
 
 [Verse 1]
-     Am7                    F#m       
-You know that it would be untrue
-     Am7                    F#m                                  
-You know that I would be a liar 
-Am7                F#m                                   
-if i was to say to you
-Am7                        F#m                                  
-girl we couldn't get much higher
+You k[Am7]now that it would be un[F#m]true
+You k[Am7]now that I would be a l[F#m]iar 
+[Am7]if i was to say to [F#m]you
+[Am7]girl we couldn't get much h[F#m]igher
 
 [Chorus]
-G             A        D   Dsus4 D
-Come on baby, light my fire 
-G             A        D    B
-Come on baby, light my fire 
-G              D        E   E7
-Try to set the night on fire 
+[G]Come on baby, [A]light my [D]fire[Dsus4] [D]
+[G]Come on baby, [A]light my [D]fire [B]
+[G]Try to set the [D]night on [E]fire[E7] 
 
 [Verse 2]
-     Am7                  F#m                                  
-The time to hesitate is through
-     Am7                  F#m                                   
-no time to wallow in the mire
-Am7                  F#m                                  
-try now we can only loose
-         Am7                  F#m                                  
-and our love become a funeral pyre
+The t[Am7]ime to hesitate is th[F#m]rough
+no ti[Am7]me to wallow in the m[F#m]ire
+[Am7]try now we can only l[F#m]oose
+and our l[Am7]ove become a funeral [F#m]pyre
 
 [Chorus]
-G             A        D   Dsus4 D
-Come on baby, light my fire 
-G             A        D    B
-Come on baby, light my fire 
-G              D        E   E7
-Try to set the night on fire 
+[G]Come on baby, [A]light my [D]fire[Dsus4] [D]
+[G]Come on baby, [A]light my [D]fire [B]
+[G]Try to set the [D]night on [E]fire[E7] 
 
 [Solo]
 Am7  Bm7  Am7  Bm7
@@ -56,46 +42,29 @@ Am7  Bm7  Am7  Bm7
 G D F A# D# G# A
 
 [Verse 3]
-     Am7                  F#m                                  
-The time to hesitate is through
-     Am7                  F#m                                   
-no time to wallow in the mire
-Am7                  F#m                                  
-try now we can only loose
-         Am7                  F#m                                  
-and our love become a funeral pyre
+The t[Am7]ime to hesitate is th[F#m]rough
+no ti[Am7]me to wallow in the m[F#m]ire
+[Am7]try now we can only l[F#m]oose
+and our l[Am7]ove become a funeral [F#m]pyre
 
 [Chorus]
-G             A        D   Dsus4 D
-Come on baby, light my fire 
-G             A        D    B
-Come on baby, light my fire 
-G              D        E   E7
-Try to set the night on fire 
+[G]Come on baby, [A]light my [D]fire[Dsus4] [D]
+[G]Come on baby, [A]light my [D]fire [B]
+[G]Try to set the [D]night on [E]fire[E7] 
 
 [Verse 4]                                
-     Am7                    F#m       
-You know that it would be untrue
-     Am7                    F#m                                  
-You know that I would be a liar 
-Am7                F#m                                   
-if i was to say to you
-Am7                        F#m                                  
-girl we couldn't get much higher
+You k[Am7]now that it would be un[F#m]true
+You k[Am7]now that I would be a l[F#m]iar 
+[Am7]if i was to say to [F#m]you
+[Am7]girl we couldn't get much h[F#m]igher
 
 [Chorus]
-G            A        D
-Come on baby light my fire 
-G            A        D
-Come on baby light my fire  
-F              C        D
-Try to set the night on fire
-F              C        D
-Try to set the night on fire
-F              C        D
-Try to set the night on fire
-F              C        D
-Try to set the night on fire 
+[G]Come on baby [A]light my [D]fire 
+[G]Come on baby [A]light my [D]fire  
+[F]Try to set the [C]night on [D]fire
+[F]Try to set the [C]night on [D]fire
+[F]Try to set the [C]night on [D]fire
+[F]Try to set the [C]night on [D]fire 
 
 [Outro]
 G D F A# D# G# A
