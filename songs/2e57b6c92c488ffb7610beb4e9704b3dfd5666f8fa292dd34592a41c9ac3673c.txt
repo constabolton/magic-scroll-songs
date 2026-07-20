@@ -1,0 +1,48 @@
+----------------------------------------------------------------------
+Song name: Love Is Blue  by  Paul Mauriat
+----------------------------------------------------------------------
+[Intro]
+ | Am  | D  | Am  | D  | Am  | D
+ | Am  | D  | Am  | D  | Am  | D
+
+[Verse]
+ | Am  | D  | G  | C
+ | Am  | F  | G  | Csus2
+ | Am  | D  | G  | C
+ | Am  | F  | E7 | Asus4  | Am
+
+[Verse]
+ | Am  | D  | G  | C
+ | Am  | F  | G  | Csus2
+ | Am  | D  | G  | C
+ | Am  | F  | E7 | Asus4  | Am
+
+[Bridge]
+ | A  | D  | A  | D  | Dsus2  | A
+ | C#m| A  | D  | Esus4  | E7 | A
+
+[Interlude]
+Am D Am D
+
+[Verse]
+ | Am  | D  | G  | C
+ | Am  | F  | G  | Csus2
+ | Am  | D  | G  | C
+ | Am  | F  | E7 | Asus4  | Am
+
+[Bridge]
+ | A  | D  | A  | D  | Dsus2  | A
+ | C#m| A  | D  | Esus4  | E7 | A
+
+[Interlude]
+ | Am  | D  | Am  | D
+
+[Verse]
+ | Am  | D  | G  | C
+ | Am  | F  | G  | Csus2
+ | Am  | D  | G  | C
+ | Am  | F  | E7 | Asus4  | Am
+
+[Outro]
+ | Am  | D  | Am  | D
+ | Am
