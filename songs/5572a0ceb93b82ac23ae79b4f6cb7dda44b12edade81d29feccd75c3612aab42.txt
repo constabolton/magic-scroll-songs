@@ -7,63 +7,43 @@ www.kevinsutton.ie
 
 [Chords]
 D/E     000232
-B7sus4  x24252
-E7(no5) xx2130
+[B7sus4]E7(no5) xx2130
 
 [Intro]
 D/E  E | D/E  E | D/E  E | D/E  E7 |
 
 [Verse 1]
-D/E      E   D/E         E             D/E         E         D/E  E7
-Callin' out around the world, are you ready for a brand new beat?
-  D/E      E           D/E      E        D/E    E        D/E  E7
-Summer's here and the time is right for dancin' in the street   They're dancin' in
-   D/E  E  D/E  E          D/E  E    D/E  E7              D/E  E   D/E     E
-Chicago           Down in New Orleans       In New York City      All we need is
+[D/E]Callin' o[E]ut a[D/E]round the wo[E]rld, are you r[D/E]eady for a b[E]rand new b[D/E]eat? [E7]
+Su[D/E]mmer's he[E]re and the t[D/E]ime is ri[E]ght for d[D/E]ancin' [E]in the st[D/E]reet [E7]  They're dancin' in
+Chi[D/E]cago [E]   [D/E]     [E]  Down in N[D/E]ew Or[E]leans[D/E]     [E7]  In New York Ci[D/E]ty   [E]   A[D/E]ll we ne[E]ed is
 
 [Bridge 1]
-A             A                  A           A
-Music, sweet music  There'll be music everywhere
-              D/E      E            D/E     E      D/E     E        D/E   E7
-There'll be swingin', swayin' and records playin', dancin' in the street  Ooooh
+[A]Music, sweet m[A]usic  There'll be m[A]usic everywh[A]ere
+There'll be sw[D/E]ingin', s[E]wayin' and re[D/E]cords pl[E]ayin', [D/E]dancin' [E]in the st[D/E]reet  [E7]Ooooh
 
 [Chorus 1]
-G#                                       C#m
-It doesn't matter what you wear just as long as you are there So come on,
-F#m                     B7sus4      B7
-every guy grab a girl, everywhere around the world, there'll be
+[G#]It doesn't matter what you wear just as l[C#m]ong as you are there So come on,
+[F#m]every guy grab a girl, e[B7sus4]verywhere ar[B7]ound the world, there'll be
 
 [Turnaround]
-D/E    E    D/E               E       D/E    E     D/E   E7
-dancin'       They're dancin' in the street
+[D/E]dancin'[E]     [D/E]  They're dancin' [E]in the s[D/E]treet [E] [D/E] [E7]
 
 [Verse 2]
-           D/E     E   D/E          E      D/E         E       D/E  E7
-This is an invitation across the nation, a chance for folks to meet.
-              D/E          E        D/E      E       D/E    E       D/E  E7
-There'll be laughing, singing, and music swinging, dancing in the street. Philadelphia,
-D/E  E   D/E    E        D/E  E    D/E     E7                D/E  E   D/E    E
-P.A.      Baltimore and D.C. now    Can't forget the Motor City.    All we need is
+This is an [D/E]invitati[E]on a[D/E]cross the nat[E]ion, a [D/E]chance for f[E]olks to [D/E]meet.[E7]
+There'll be la[D/E]ughing, singi[E]ng, and m[D/E]usic swin[E]ging, da[D/E]ncing i[E]n the st[D/E]reet.[E7] Philadelphia,
+[D/E]P.A. [E]    [D/E] Baltim[E]ore and D[D/E].C. n[E]ow   [D/E] Can't f[E7]orget the Motor Ci[D/E]ty.  [E]  Al[D/E]l we ne[E]ed is
 
 [Bridge 2]
-A             A                  A           A
-Music, sweet music  There'll be music everywhere
-              D/E      E            D/E     E      D/E     E        D/E   E7
-There'll be swingin', swayin' and records playin', dancin' in the street  Ooooh
+[A]Music, sweet m[A]usic  There'll be m[A]usic everywh[A]ere
+There'll be sw[D/E]ingin', s[E]wayin' and re[D/E]cords pl[E]ayin', [D/E]dancin' [E]in the st[D/E]reet  [E7]Ooooh
 
 [Chorus 2]
-G#                                       C#m
-It doesn't matter what you wear just as long as you are there So come on,
-F#m                     B7sus4      B7
-every guy grab a girl, everywhere around the world They're
+[G#]It doesn't matter what you wear just as l[C#m]ong as you are there So come on,
+[F#m]every guy grab a girl, e[B7sus4]verywhere ar[B7]ound the world They're
 
 [Outro]
-D/E    E    D/E               E       D/E    E     D/E   E7
-dancin'     They're dancin' in the street                Way down in
-D/E    E     D/E             E             D/E    E     D/E  E7
-L.A.   everyday, they're dancing in the street               Let's
-D/E    E          D/E           E      D/E       E            D/E   E7
-form a big strong line  Get in time    We're dancing in the street  Across
-D/E         E    D/E    E    D/E       E            D/E   E7
-the ocean blue,  me and you, we're dancing in the street, yeah
+[D/E]dancin'[E]     [D/E]They're dancin' in[E] the str[D/E]eet    [E]      [D/E]      [E7]Way down in
+[D/E]L.A.   [E]everyd[D/E]ay, they're danc[E]ing in the str[D/E]eet    [E]      [D/E]     [E7]Let's
+[D/E]form a [E]big strong [D/E]line  Get in t[E]ime    [D/E]We're danc[E]ing in the st[D/E]reet  [E7]Across
+[D/E]the ocean bl[E]ue,  [D/E]me and [E]you, [D/E]we're danc[E]ing in the st[D/E]reet, [E7]yeah
 (fading)
