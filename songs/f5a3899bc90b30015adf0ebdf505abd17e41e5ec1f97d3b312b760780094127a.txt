@@ -2,8 +2,7 @@
 Song name: Girl  by  The Beatles
 ----------------------------------------------------------------------
 standard tuning, capo 8th fret
-           E A D G B E     
-C6 -->     | | | | X |    B7--> | | X | | |
+C6 -->     [E]| [A]| [D]| [G]| [B]X [E]|    B7--> | | X | | |
            | | X X | |          | X | X | X
            | X | | | |          | | | | | |
 
@@ -12,82 +11,58 @@ you should know the other chords as they are pretty standard.
 
 [Verse 1]
 
-         Em      B7              Em    Em7
-Is there anybody going to listen to my story
-Am            C6               G      B7
-All about the girl who came to stay?
-          Em               B7              Em        Em7
-She's the kind of girl you want so much it makes you sorry
-Am                C6            Em
-Still you don't regret a single day
+Is there [Em]anybody [B7]going to listen [Em]to my [Em7]story
+[Am]All about the [C6]girl who came to [G]stay? [B7]
+She's the [Em]kind of girl you [B7]want so much it [Em]makes you [Em7]sorry
+[Am]Still you don't re[C6]gret a single [Em]day
 
 
 [Chorus]
 
-   G    Bm    Am  D7
-Ah girl      
-   G    Bm    Am D7
-Ah girl      
+Ah [G]girl [Bm]     [Am] [D7]
+Ah [G]girl [Bm]     [Am] [D7]
 
 
 [Verse 2]
 
-       Em               B7                  Em      Em7
-When I think of all the times I've tried so hard to leave her
-Am               C6              G     B7 
-She will turn to me and start to cry
-        Em           B7              Em  Em7
-And she promises the earth to me and I believe her
-Am             C6                Em
-After all this time I don't know why
+When I [Em]think of all the [B7]times I've tried so [Em]hard to [Em7]leave her
+[Am]She will turn to [C6]me and start to [G]cry [B7]
+And she [Em]promises the [B7]earth to me and [Em]I be[Em7]lieve her
+[Am]After all this [C6]time I don't know [Em]why
 
 
 [Chorus]
 
-G    Bm    Am  D7
-Ah girl      
-   G    Bm    Am D7
-Ah girl      
+[G]Ah gi[Bm]rl    [Am]  [D7]
+Ah [G]girl [Bm]     [Am] [D7]
 
 
 [Bridge]
 
-Am                                  E
-She's the kind of girl who puts you down
-                                    Am   E
-When friends are there, you feel a fool
-Am                              
-When you say she's looking good
-    E                                 Am         C
-She acts as if it's understood, she's cool, ooh, ooh, ooh, ooh
+[Am]She's the kind of girl who puts you [E]down
+When friends are there, you feel a f[Am]ool [E]
+[Am]When you say she's looking good
+She [E]acts as if it's understood, she's [Am]cool, ooh, [C]ooh, ooh, ooh
 
 
 [Chorus]
 
-G    Bm    Am  D7
-Ah girl      
-   G    Bm    Am D7
-Ah girl      
+[G]Ah gi[Bm]rl    [Am]  [D7]
+Ah [G]girl [Bm]     [Am] [D7]
 
 
 [Verse 3]
 
-        Em                B7                    Em       Em7
-Was she told when she was young that pain would lead to pleasure?
-Am                              G    B7
-Did she understand it when they said
-       Em                 B7               Em     Em7
-That a man must break his back to earn his day of leisure,
-Am                                  Em
-Will she still believe it when he's dead?
+Was she [Em]told when she was [B7]young that pain would [Em]lead to p[Em7]leasure?
+[Am]Did she understand it when they [G]said [B7]
+That a [Em]man must break his [B7]back to earn his [Em]day of [Em7]leisure,
+[Am]Will she still believe it when he's [Em]dead?
 
 
 [Chorus]
 
-G    Bm    Am  D7
-Ah girl      
-   G    Bm    Am D7
-Ah girl      
+[G]Ah gi[Bm]rl    [Am]  [D7]
+Ah [G]girl [Bm]     [Am] [D7]
 
 
 [Instrumental]
@@ -98,5 +73,4 @@ Ah girl
 
 [Outro]
 
-G    Bm    Am  D7       
-Ah girl                (repeat to fade)
+[G]Ah gi[Bm]rl    [Am]    [D7]        (repeat to fade)
