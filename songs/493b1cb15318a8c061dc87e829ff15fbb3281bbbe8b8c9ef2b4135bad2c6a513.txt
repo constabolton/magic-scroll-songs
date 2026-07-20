@@ -5,52 +5,33 @@ Song name: Something  by  The Beatles
 D   C E
 
 [Verse 1]
-A                        Amaj7
-Something in the way she moves
-A7                        D
-Attracts me like no other lover
-B7                       E
-Something in the way she woos me
-F#m                       F#mmaj7
-I don't want to leave her now
-    F#m7                 B   D   C E
-You know I believe and how
+[A]Something in the way she [Amaj7]moves
+[A7]Attracts me like no other [D]lover
+[B7]Something in the way she [E]woos me
+[F#m]I don't want to leave her [F#mmaj7]now
+You [F#m7]know I believe and ho[B]w [D] [C] [E]
 
 
 [Verse 2]
-A                          Amaj7
-Somewhere in her smile she knows
-A7                         D
-That I don't need no other lover
-B                           E
-Something in her style that shows me
-F#m                       F#mmaj7
-I don't want to leave her now
-    F#m7                 B   D   C E F#
-You know I believe and how
+[A]Somewhere in her smile she [Amaj7]knows
+[A7]That I don't need no other [D]lover
+[B]Something in her style that [E]shows me
+[F#m]I don't want to leave her [F#mmaj7]now
+You [F#m7]know I believe and ho[B]w [D] [C] [E] [F#]
 
 
 [Bridge]
-F#            F#maj7          F#7
-You're asking me will my love grow
-        B     E       F#
-I don't know, I don't know
-F#         F#maj7           F#7
-You stick around now it may show
-        B     E       A
-I don't know, I don't know
+[F#]You're asking [F#maj7]me will my love [F#7]grow
+I don't [B]know, [E]I don't [F#]know
+[F#]You stick a[F#maj7]round now it may [F#7]show
+I don't [B]know, [E]I don't [A]know
 
 
 [Verse 3]
-A                        Amaj7
-Something in the way she knows
-A7                      D
-And all I have to do is think of her
-B                           E
-Something in the things she shows me
-  F#m                     F#mmaj7
-I don't want to leave her now
-    F#m7                 B   D   C E F#
-You know I believe and how
+[A]Something in the way she [Amaj7]knows
+[A7]And all I have to do is [D]think of her
+[B]Something in the things she [E]shows me
+I [F#m]don't want to leave her [F#mmaj7]now
+You [F#m7]know I believe and ho[B]w [D] [C] [E] [F#]
 
 D   C E A
