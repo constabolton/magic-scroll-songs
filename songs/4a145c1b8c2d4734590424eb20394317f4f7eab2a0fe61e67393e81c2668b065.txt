@@ -52,72 +52,46 @@ whatever sounds best to you.
 | C    Cmaj7 |  F  |
 
 [Verse 1]
-C                Cmaj7 F
- Imagine there's no    heaven
-C             Cmaj7 F
- It's easy if you   try
-C        Cmaj7 F
- No hell below us
-C          Cmaj7 F
-  Above us only  sky
+[C] Imagine there's [Cmaj7]no    [F]heaven
+[C] It's easy if [Cmaj7]you   [F]try
+[C] No hell [Cmaj7]below [F]us
+[C]  Above us [Cmaj7]only  [F]sky
 
 [Bridge 1]
-F        Am/E    Dm7   F/C
- Imagine all the people
-G          C/G  G7
-Living for to - day a-hah
+[F] Imagine [Am/E]all the [Dm7]people[F/C]
+[G]Living for [C/G]to - [G7]day a-hah
 
 [Verse 2]
-C                 Cmaj7 F
-  Imagine there's no    countries
-C               Cmaj7 F
-  It isn't hard to    do
-C                 Cmaj7 F
-  Nothing to kill or    die for
-C             Cmaj7 F
-  And no religion   too
+[C]  Imagine there's [Cmaj7]no    [F]countries
+[C]  It isn't hard [Cmaj7]to    [F]do
+[C]  Nothing to kill [Cmaj7]or    [F]die for
+[C]  And no relig[Cmaj7]ion   [F]too
 
 [Bridge 2]
-F        Am/E    Dm7   F/C
- Imagine all the people
-G           C/G G7
-Living life in  peace - you-hou-hou-ou-ou
+[F] Imagine [Am/E]all the [Dm7]people[F/C]
+[G]Living life [C/G]in  [G7]peace - you-hou-hou-ou-ou
 
 [Chorus]
-F         G          C    Cmaj7  E  E7
-  You may say I'm a dreamer
-F         G             C  Cmaj7  E  E7
-  But I'm not the only one
-F            G           C    Cmaj7  E  E7
- I hope some day you'll join us
-F         G          C
-  And the world will be as one
+[F]  You may [G]say I'm a d[C]reame[Cmaj7]r [E] [E7]
+[F]  But I'm [G]not the only o[C]ne [Cmaj7] [E] [E7]
+[F] I hope some [G]day you'll j[C]oin u[Cmaj7]s [E] [E7]
+[F]  And the [G]world will [C]be as one
 
 [Verse 3]
-C             Cmaj7 F
-   Imagine no pos - sessions
-C             Cmaj7 F
-  I wonder if you   can
-C                  Cmaj7 F
- No need for greed or    hunger
-C              Cmaj7 F
- A brotherhood of    man
+[C]   Imagine no [Cmaj7]pos - [F]sessions
+[C]  I wonder if [Cmaj7]you   [F]can
+[C] No need for greed [Cmaj7]or    [F]hunger
+[C] A brotherhood [Cmaj7]of    [F]man
 
 [Bridge 3]
-F        Am/E    Dm7   F/C
- Imagine all the people
-G           C/G G7
-Sharing all the world - you-hou-hou-ou
+[F] Imagine [Am/E]all the [Dm7]people[F/C]
+[G]Sharing all [C/G]the [G7]world - you-hou-hou-ou
 
 [Chorus]
-F         G          C    Cmaj7  E  E7
-  You may say I'm a dreamer
-F         G             C  Cmaj7  E  E7
-  But I'm not the only one
-F            G           C    Cmaj7  E  E7
- I hope some day you'll join us
-F         G          C
-  And the world will live as one
+[F]  You may [G]say I'm a d[C]reame[Cmaj7]r [E] [E7]
+[F]  But I'm [G]not the only o[C]ne [Cmaj7] [E] [E7]
+[F] I hope some [G]day you'll j[C]oin u[Cmaj7]s [E] [E7]
+[F]  And the [G]world will [C]live as one
 
 
 *************************
