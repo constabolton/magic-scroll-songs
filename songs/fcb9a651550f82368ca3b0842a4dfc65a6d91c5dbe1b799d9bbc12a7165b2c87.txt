@@ -1,0 +1,63 @@
+Year: 1940
+Soundtrack: Pinocchio
+
+My personal all-time favorite song, also from what I describe as my favorite 
+Disney movie. This one simply deserved the Oscar!
+Have a play and see what you think.
+
+[Intro]
+C Dm Am F  F/G G  C 
+
+[Verses]
+C        A7        Dm Dm7
+When you wish up-on a star,
+G7                  Cdim    C  
+Makes no difference who you are,
+C             Dm      Am F 
+Anything your heart desires
+     F/G  G       C     Esus4/F G7
+Will come to-oooo you.
+
+C        A7      Dm      Dm7
+If your heart is in your dream,
+G7            Cdim   C  
+No request is too extreme,
+C               Dm   Am  F 
+When you wish upon a star
+   F/G   G   C 
+As dream-ers do.
+
+
+F         C   G             C
+Fate is kind, she brings to those who love
+Am            D                       Dm   G
+The sweet fulfillment of their secret long-ing.
+
+
+C      A7       Dm     Dm7
+Like a bolt out of the blue,
+G7                Cdim C   
+Fate steps in and sees you through;
+C               Dm    Am F
+When you wish upon a star,
+     F       G     C
+Your dre-ams co-me tru-e.
+
+
+Some chords are quite hard to play, so here is a diagram to give you a bit of support.
+
+Chord diagram
+
+            E  A  D  G  B  E
+C           x  3  2  0  1  0
+A7          x  0  2  0  2  0
+Dm          x  x  0  2  3  1
+Dm7         x  x  0  2  1  1
+G7          3  2  0  0  0  1
+Cdim        x  x  1  2  1  2
+Am          x  0  2  2  1  0
+F           x  x  3  2  1  1
+F/G         3  x  3  2  1  1
+G           3  2  0  0  0  3
+Esus4/F     x  x  3  4  5  5
+D           x  x  0  2  3  2
