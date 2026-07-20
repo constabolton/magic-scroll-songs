@@ -4,86 +4,52 @@ Song name: Ruby Tuesday  by  The Rolling Stones
 C/G  3-x-2-0-1-0
 
 [Verse 1]
-Am        C/G   F         G        C
-She would never say where she came from 
-Am    C/G       F      C       G7
-Yesterday don't matter if it's gone 
-Am        D7      G
-While the sun is bright 
-   Am     D7       G
-Or in the darkest night 
-       C
-No one knows 
-              G7
-She comes and goes 
+[Am]She would [C/G]never [F]say where [G]she came [C]from 
+[Am]Yester[C/G]day don't [F]matter [C]if it's [G7]gone 
+[Am]While the [D7]sun is b[G]right 
+Or [Am]in the [D7]darkest n[G]ight 
+No one [C]knows 
+She comes and [G7]goes 
 
 [Chorus]
-C   G    C     
-Goodbye, Ruby Tuesday 
-C         G      C
-Who could hang a name on you? 
-C        G           Bb    F
-When you change with every new day 
-G               C        G
-Still I'm gonna miss you
+[C]Good[G]bye, [C]Ruby Tuesday 
+[C]Who could [G]hang a [C]name on you? 
+[C]When you [G]change with [Bb]every [F]new day 
+[G]Still I'm gonna [C]miss you [G]
 
 [Verse 2] 
-      Am       C/G    F        G     C
-Don't question why she needs to be so free 
-       Am       C/G      F    C      G7
-She'll tell you it's the only way to be 
-Am       D7        G
-She just can't be chained 
-     Am         D7         G
-To a life where nothing's gained 
-              C
-And nothing's lost 
-          G7
-At such a cost 
+Don't [Am]question [C/G]why she[F] needs to[G] be so[C] free 
+She'll [Am]tell you [C/G]it's the [F]only [C]way to [G7]be 
+[Am]She just [D7]can't be c[G]hained 
+To a [Am]life where [D7]nothing's g[G]ained 
+And nothing's [C]lost 
+At such a [G7]cost 
 
 [Chorus]
-C   G    C     
-Goodbye, Ruby Tuesday 
-C         G      C
-Who could hang a name on you? 
-C        G           Bb    F
-When you change with every new day 
-G               C        G
-Still I'm gonna miss you
+[C]Good[G]bye, [C]Ruby Tuesday 
+[C]Who could [G]hang a [C]name on you? 
+[C]When you [G]change with [Bb]every [F]new day 
+[G]Still I'm gonna [C]miss you [G]
 
 [Verse 3]
-Am         C/G     F       G         C
-There's no time to lose, I heard her say 
-Am         C/G      F         C     G7
-Catch your dreams before they slip away 
-Am    D7       G
-Dying all the time 
-Am        D7
-Lose your dreams 
-    G                 C
-And you may lose your mind. 
-             G7
-Ain't life unkind? 
+[Am]There's no [C/G]time to [F]lose, I [G]heard her [C]say 
+[Am]Catch your [C/G]dreams be[F]fore they [C]slip a[G7]way 
+[Am]Dying [D7]all the t[G]ime 
+[Am]Lose your [D7]dreams 
+And [G]you may lose your [C]mind. 
+Ain't life un[G7]kind? 
 
 [Chorus]
-C   G    C    
-Goodbye, Ruby Tuesday 
-C         G      C
-Who could hang a name on you? 
-C        G           Bb    F
-When you change with every new day 
-G               C        G
-Still I'm gonna miss you
+[C]Good[G]bye, [C]Ruby Tuesday 
+[C]Who could [G]hang a [C]name on you? 
+[C]When you [G]change with [Bb]every [F]new day 
+[G]Still I'm gonna [C]miss you [G]
 
 [Chorus]
-C   G    C    
-Goodbye, Ruby Tuesday 
-C         G      C
-Who could hang a name on you? 
-C        G           Bb    F
-When you change with every new day 
-G               C        G
-Still I'm gonna miss you
+[C]Good[G]bye, [C]Ruby Tuesday 
+[C]Who could [G]hang a [C]name on you? 
+[C]When you [G]change with [Bb]every [F]new day 
+[G]Still I'm gonna [C]miss you [G]
 
 [Outro]
 | Am C/G | F G | C
