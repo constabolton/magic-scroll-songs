@@ -5,8 +5,7 @@ Fatal Shore - Andrew Bird
 Standard Tuning - No Capo
 
 Chords
-    C          G          D         Am          F          E         B7
-e---0---   e---3---   e---2---   e---0---   e---1---   e---0---   e---2---|
+e---[C]0---   e---[G]3---   e---[D]2---   e--[Am]-0---   e---[F]1---   e---[E]0---   e--[B7]-2---|
 B---1---   B---0---   B---3---   B---1---   B---1---   B---0---   B---0---|
 G---0---   G---0---   G---2---   G---2---   G---2---   G---1---   G---2---|
 D---2---   D---0---   D---0---   D---2---   D---3---   D---2---   D---1---|
@@ -18,12 +17,9 @@ C-G-D-C
 C-G-D-Am
 
 Verse
-            F   C           E   Am
-Would it be easier, so much easier?
-       D     G                  D            G
-If you never knew us, would you ever fear anymore?
-       D     G                  B7              C
-If you never knew us, would you meet on a Fatal Shore,
+Would it be [F]easi[C]er, so much [E]easi[Am]er?
+If you [D]never [G]knew us, would you [D]ever fear any[G]more?
+If you [D]never [G]knew us, would you [B7]meet on a Fatal [C]Shore,
 
 on a Fatal Shore?
 
@@ -45,20 +41,13 @@ A----------------------------------------------------------------------------|
 E----------------------------------------------------------------------------|
 
 Chorus
-Am                     G       D  Am
-When are you comin' to shore
-              G        D Am
-to never fear anymore?
-                      G                      D Am
-You'll never know any doubt, know any doubt
-                           G                       D Am
-like we who breathe in and out, breathe in and out.
-                      G                       D Am
-We who breathe in and out, breath in and out.
-                      G                       D Am
-We who breathe in and out, breathe in and out.
-                  G                        D Am
-We breathe in and out, breathe in and out.
+[Am]When are you comin' to [G]shore [D] [Am]
+to never fear [G]anymore? [D] [Am]
+You'll never know any [G]doubt, know any doubt [D] [Am]
+like we who breathe in and [G]out, breathe in and out.[D] [Am]
+We who breathe in and [G]out, breath in and out. [D] [Am]
+We who breathe in and [G]out, breathe in and out.[D] [Am]
+We breathe in and [G]out, breathe in and out. [D] [Am]
 
 Oh no.
 
@@ -66,16 +55,11 @@ Interlude [X2] Just Chords
 G-D-Am
 
 Verse 2
-          F     C           E  Am
-Are you a breather, mail receiver?
-             D         G
-If you could see right through us,
-            D                        G
-through our clothes, and through our pores.
-             D                 G
-If you could see right through us, you're
-      B7              C
-gonna run into your homes and lock your doors.
+Are you a [F]breath[C]er, mail rec[E]eiv[Am]er?
+If you could [D]see right [G]through us,
+through our [D]clothes, and through our [G]pores.
+If you could [D]see right through [G]us, you're
+gonna [B7]run into your ho[C]mes and lock your doors.
 
 Interlude
 G-D-Am
@@ -98,26 +82,16 @@ Whistling Bit
 G-D-Am
 
 Chorus
-Am                     G                   D               Am
-When are you comin' to shore, comin' shore, comin' to shore
-                 G                  D      Am
-to never fear anymore, fear anymore, fear?
-                      G                    D          Am
-You'll never know any doubt, know any doubt, know any doubt
-                           G    D Am
-like we who breathe in and out.
-                      G    D Am
-We who breathe in and out.
-                      G    D Am
-We who breathe in and out.
-                      G                       D Am
-We who breathe in and out, breathe in and out.
-                      G                   D                   Am
-We who breathe in and out, breathe in and out, breathe in and out.
-          G  D  Am
-Off shore.
-          G  D  Am
-Off shore.
+[Am]When are you comin' to [G]shore, comin' shore,[D] comin' to shore[Am]
+to never fear any[G]more, fear anymore,[D] fear? [Am]
+You'll never know any [G]doubt, know any doubt[D], know any [Am]doubt
+like we who breathe in and [G]out. [D] [Am]
+We who breathe in and [G]out. [D] [Am]
+We who breathe in and [G]out. [D] [Am]
+We who breathe in and [G]out, breathe in and out.[D] [Am]
+We who breathe in and [G]out, breathe in and [D]out, breathe in and [Am]out.
+Off shore.[G] [D] [Am]
+Off shore.[G] [D] [Am]
 
 Outro
 G-D-Am
