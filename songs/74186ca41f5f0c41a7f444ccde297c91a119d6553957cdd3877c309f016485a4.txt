@@ -9,36 +9,23 @@ Song name: 39  by  Queen
 
 
 [Verse 1]
-        D                     Em
-In the year of '39 assembled here the volunteers
-        C             G          D
-In the days when the lands were few
-         Em                        C
-Here the ship sailed out into the blue and sunny morn
-    Dsus4    D          G
-The sweetest sight ever seen
+In the y[D]ear of '39 assembled h[Em]ere the volunteers
+In the d[C]ays when the l[G]ands were f[D]ew
+Here the [Em]ship sailed out into the b[C]lue and sunny morn
+The [Dsus4]sweetest [D]sight ever [G]seen
 
-        D                           Ebdim
-And the night followed day, and the story tellers say
-         Em                   Am
-That the score brave souls inside
-    G                          D
-For many a lonely day sailed across the milky seas
-C            Em    C       D     C       G   D
-Ne'er looked back, never feared, never cried
+And the [D]night followed day, and the [Ebdim]story tellers say
+That the [Em]score brave souls ins[Am]ide
+For [G]many a lonely day sailed ac[D]ross the milky seas
+[C]Ne'er looked [Em]back, [C]never fe[D]ared, [C]never cr[G]ied [D]
 
 
 [Chorus]
-          G                          C           G
-Don't you hear my call though you're many years away
-          G               D
-Don't you hear me calling you
-           G       B7     Em
-Write your letters in the sand
-G        C    G         Am
-For the day I take your hand
-       G             D             G
-In the land that our grandchildren knew
+Don't you [G]hear my call though you're [C]many years a[G]way
+Don't you [G]hear me calling [D]you
+Write your [G]letters [B7]in the [Em]sand
+[G]For the d[C]ay I [G]take your [Am]hand
+In the [G]land that our [D]grandchildren [G]knew
 
 
 [Bridge]
@@ -49,47 +36,29 @@ In the land that our grandchildren knew
 
 
 [Verse 2]
-        D                 Em
-In the year of '39 came a ship in from the blue
-          C         G          D
-The volunteers came home that day
-         Em                    C
-And they bring good news of a world so newly born
-             Dsus4     D        G
-Though their hearts so heavily weigh
+In the y[D]ear of '39 came a [Em]ship in from the blue
+The volunt[C]eers came [G]home that d[D]ay
+And they [Em]bring good news of a w[C]orld so newly born
+Though their [Dsus4]hearts so [D]heavily w[G]eigh
 
-         D                             Ebdim
-For the earth is old and grey, little darling, we'll away
-       Em                Am
-But my love this cannot be
-       G                                D
-For so many years have gone though I'm older but a year
-     C         Em  C          D     C       G  D
-Your mother's eyes from your eyes - cry to me
+For the e[D]arth is old and grey, little d[Ebdim]arling, we'll away
+But my [Em]love this cannot b[Am]e
+For so [G]many years have gone though I'm o[D]lder but a year
+Your [C]mother's e[Em]yes [C]from your e[D]yes - [C]cry to m[G]e [D]
 
 
 [Chorus]
-          G                          C           G
-Don't you hear my call though you're many years away
-          G               D
-Don't you hear me calling you
-           G       B7     Em
-Write your letters in the sand
-G        C    G         Am
-For the day I take your hand
-       G             D             G    D
-In the land that our grandchildren knew
+Don't you [G]hear my call though you're [C]many years a[G]way
+Don't you [G]hear me calling [D]you
+Write your [G]letters [B7]in the [Em]sand
+[G]For the d[C]ay I [G]take your [Am]hand
+In the [G]land that our [D]grandchildren [G]knew [D]
 
-          G                          C           G
-Don't you hear my call though you're many years away
-          G               D
-Don't you hear me calling you
-         G       B7     Em
-All your letters in the sand
-G       C      G         Am
-Cannot heal me like your hand
-       Em           D           G
-For my life, still ahead, pity me
+Don't you [G]hear my call though you're [C]many years a[G]way
+Don't you [G]hear me calling [D]you
+All your [G]letters [B7]in the [Em]sand
+[G]Cannot h[C]eal me [G]like your [Am]hand
+For my [Em]life, still a[D]head, pity m[G]e
 
 
 [Outro]
