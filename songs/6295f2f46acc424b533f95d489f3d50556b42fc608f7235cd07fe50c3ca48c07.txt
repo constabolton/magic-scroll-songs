@@ -23,56 +23,34 @@ E|---------------------------------------------------------------------------|
 
 [Verse]
 (bass line only)
-Em                      C      G         D/F#  B7
-There'll be three white horses, all in a line
-            Em          C           G    G  D/F#
-There'll be three white horses in a line
+[Em]There'll be three white [C]horses,[G] all in a [D/F#]line [B7]
+There'll be [Em]three white [C]horses in a [G]line [G] [D/F#]
 
 (single strum)
-Em          C                G       Am
-Three white horses, when you go that way
-         Em       C                     G   G D/F#
-You will need somebody when you come to die
+[Em]Three white [C]horses, when you [G]go that [Am]way
+You will [Em]need some[C]body when you come to [G]die [G] [D/F#]
 
 (strumming)
-Em      C                  G     D/F#
-Don't dismiss it like it's easy
-        B7        Em
-Tell me what's so easy
-      C             G       D/F#  B7
-'Bout coming to say goodbye
-Em           C               G       Am
-You're gonna miss her in the evening
-                    Em
-You know I won't be needing
-    C                     G   D/F#  B7
-Somebody when you come to die
+[Em]Don't di[C]smiss it like it's [G]easy [D/F#]
+Tell me [B7]what's so [Em]easy
+'Bout [C]coming to say [G]goodbye [D/F#] [B7]
+[Em]You're gonna [C]miss her in the [G]evening [Am]
+You know I won't be [Em]needing
+Some[C]body when you come to [G]die [D/F#] [B7]
 
 [Solo]
 Em   C   G   D/F#  B7  (x4)
 
 [Verse]
-            Em          C           G    D/F#  B7
-There'll be three white horses in a line
-            Em          C           G    D/F#  B7
-There'll be three white horses in a line
-            Em          C           G           Am
-There'll be three white horses when you go that way
-         Em       C                     G    D/F#
-You will need somebody when you come to die
-Em            C                 G        D/F#
-It's not desperation that we're breeding
-            B7         Em
-It's just a need we're feeding
-  C               G   B7
-Before we say goodbye
-Em           C              G
-You're gonna miss me in the evenings
-Am                  Em
-You know I won't be needing
-    C                     G    D/F#
-Somebody when you come to die
-        B7       Em
-Yeah, I won't be needing
-    C                     G
-Somebody when you come to die
+There'll be [Em]three white [C]horses in a [G]line [D/F#] [B7]
+There'll be [Em]three white [C]horses in a [G]line [D/F#] [B7]
+There'll be [Em]three white [C]horses when [G]you go that [Am]way
+You will [Em]need some[C]body when you come to [G]die [D/F#]
+[Em]It's not despe[C]ration that we're [G]breeding [D/F#]
+It's just a [B7]need we're [Em]feeding
+Be[C]fore we say good[G]bye [B7]
+[Em]You're gonna [C]miss me in the [G]evenings
+[Am]You know I won't be [Em]needing
+Some[C]body when you come to [G]die [D/F#]
+Yeah, I [B7]won't be [Em]needing
+Some[C]body when you come to [G]die
