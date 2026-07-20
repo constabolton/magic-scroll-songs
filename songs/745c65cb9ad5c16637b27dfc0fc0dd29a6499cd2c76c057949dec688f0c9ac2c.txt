@@ -6,66 +6,48 @@ Song name: Maybe Baby  by  Buddy Holly
 | A   | D E | A D | A (E7)|
 
 [Chorus A]
-A             F#m
-  Maybe baby, I'll have you
-A             F#m
-  Maybe baby, you'll be true
+[A]  Maybe baby, [F#m]I'll have you
+[A]  Maybe baby, [F#m]you'll be true
 A             D         E      A   D   A (E7)
   Maybe baby, I'll have you for me
 
 [Chorus B]
-A                   F#m
-  It's funny honey, you don't care
-A                   F#m
-  You never listen to my prayers
+[A]  It's funny honey, [F#m]you don't care
+[A]  You never listen t[F#m]o my prayers
 A             D        E         A     D   A (A7)
   Maybe baby, you will love me someday
 
 [Bridge]
-      D
-Well, you are the one that makes glad
-A               D       A
-And you are the one that makes me sad
-D
-When someday you want me
+Well, [D]you are the one that makes glad
+[A]And you are the [D]one that[A] makes me sad
+[D]When someday you want me
       E              (E7)
 Well, I'll be there, wait and see-ee-ee
 
 [Chorus A]
-A             F#m
-  Maybe baby, I'll have you
-A             F#m
-  Maybe baby, you'll be true
+[A]  Maybe baby, [F#m]I'll have you
+[A]  Maybe baby, [F#m]you'll be true
 A             D         E      A   D   A (E7)
   Maybe baby, I'll have you for me
 
 [Break]
- A                               F#m
-(Damdidi lamdam, damdidi lamdam, da-dada)
- A                               F#m
-(Damdidi lamdam, damdidi lamdam, da-dada)
- A                               F#m    E
-(Damdidi lamdam, damdidi lamdam, da-dada)
- A    D    A  A7
-(Ah - ah - ahhhhh)
+([A]Damdidi lamdam, damdidi lamdam, [F#m]da-dada)
+([A]Damdidi lamdam, damdidi lamdam, [F#m]da-dada)
+([A]Damdidi lamdam, damdidi lamdam, [F#m]da-dada[E])
+([A]Ah - [D]ah - [A]ahh[A7]hhh)
 
 [Bridge]
-      D
-Well, you are the one that makes glad
+Well, [D]you are the one that makes glad
 A               (D)      A
 And you are the one that makes me sad
-D
-When someday you want me
+[D]When someday you want me
       E              (E7)
 Well, I'll be there, wait and see-ee-ee
 
 [Chorus A]
-A             F#m
-  Maybe baby, I'll have you
-A             F#m
-  Maybe baby, you'll be true
+[A]  Maybe baby, [F#m]I'll have you
+[A]  Maybe baby, [F#m]you'll be true
 A             D         E      A   D   A (E7)
   Maybe baby, I'll have you for me
 
-A             D         E      A   D   A
-  Maybe baby, I'll have you for me
+[A]  Maybe baby, [D]I'll have [E]you for[A] me [D] [A]
