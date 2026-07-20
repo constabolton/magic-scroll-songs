@@ -1,0 +1,23 @@
+X:1
+T: Crazy Rhythm
+C: Irving Caesar, Joseph Meyer and Roger Wolfe Kahn
+M: 4/4
+L: 1/16
+K: C
+z"G"A2AG2G2^F2FG-GG3|
+z"G"A2AG2G2^F2FG-GG3|
+z"Am7"A2AG2G2"D7"^F2FG-GA3|
+"G"A3G-G12|
+z"G"A2AG2G2^F2FG-GG3|
+z"G"A2AG2G2^F2FG-GG3|
+z"Am7"A2AG2G2"D7"^F2FG-GA3|
+"G"A3G-G12|
+z"G7"d2dc2c2B2Bc-cd3|
+"C6"dc2dc2B2A8|
+z"Cm6"c2cB2B2A2AB-Bc3|
+"G"cB2c"E7"B4"Am7"BA2B"D7"A4|
+z"G"A2AG2G2^F2FG-GG3|
+z"A7"B2BA2A2^G2GA-AA3|
+z"Am7"e2ed2d2"D7"^c2cd-dB3|
+"G"G16-|
+G16|]
