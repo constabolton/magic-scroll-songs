@@ -36,22 +36,14 @@ G7 353433
 
 
 [Verse 1]
-C       Adim7             
-Stars shining 
-Ab7          G7
-Bright above you                      
-C        E7                    
-Night breezes seem to 
-Edim7          A7
-Whisper I love you
-Dm       Dm7           
-Birds singing 
-Fm             Fmadd4
-In the sycamore tree
-C        Ab7         G7        
-Dream a little dream of me
-       G7
-e ---3------------3-------|
+[C]Stars sh[Adim7]ining 
+[Ab7]Bright above [G7]you                      
+[C]Night bre[E7]ezes seem to 
+[Edim7]Whisper I love [A7]you
+[Dm]Birds sin[Dm7]ging 
+[Fm]In the sycamore[Fmadd4] tree
+[C]Dream a l[Ab7]ittle dream [G7]of me
+e ---3-[G7]-----------3-------|
 B ---3-----h4-r4----------|
 G ---4--------------------|
 D ---3--------------------|
@@ -60,52 +52,32 @@ E ---3--------------------|
 
 
 [Verse 2]
-C           Adim7             
-Say nightly-night
-Ab7      G7
-And kiss me
-C        E7                 
-Just hold me tight 
-Edim7              A7  
-And tell me you’ll miss me
-Dm        Dm7           
-While I’m alone 
-Fm         Fmadd4  
-As blue as can be
-C   Ab7   G7   C   E7   A 
-Dream a little dream of me   
+[C]Say nightly-[Adim7]night
+[Ab7]And kiss [G7]me
+[C]Just hold[E7] me tight 
+[Edim7]And tell me you’ll [A7]miss me
+[Dm]While I’m [Dm7]alone 
+[Fm]As blue as [Fmadd4]can be
+[C]Drea[Ab7]m a li[G7]ttle [C]drea[E7]m of [A]me   
 
 
 [Pre Chorus]
-A      F#m                
-Stars fading 
-Bm      E       A
-But I linger on dear
-F#m         Bm    E   
-Still craving your kiss
-A      F#m             
-I’m longing
-Bm             E 
-To linger till dawn dear
-A   F#m   Ab7  G7
-Just saying this
+[A]Stars f[F#m]ading 
+[Bm]But I li[E]nger on [A]dear
+[F#m]Still cravin[Bm]g your[E] kiss
+[A]I’m lon[F#m]ging
+[Bm]To linger till [E]dawn dear
+[A]Just[F#m] sayin[Ab7]g thi[G7]s
 
 
 [Chorus]
-C        Adim7             
-Sweet dreams
-Ab7           G7
-Till sunbeams find you
-C        E7                                  
-Sweet dreams that Leave
-Edim7              A7  
-All worries behind you
-Dm        Dm7           
-But in your dreams 
-Fm         Fmadd4  
-Whatever they be
-C     Ab7     G7     C
-Dream a little dream of me
+[C]Sweet dre[Adim7]ams
+[Ab7]Till sunbeams [G7]find you
+[C]Sweet dre[E7]ams that Leave
+[Edim7]All worries behind [A7]you
+[Dm]But in you[Dm7]r dreams 
+[Fm]Whatever th[Fmadd4]ey be
+[C]Dream [Ab7]a little[G7] dream [C]of me
 
 
 [INTERLUDE] Guitar Solo
@@ -122,52 +94,32 @@ C    E7    A
   
 
 [Pre Chorus]
-A       F#m                
-Stars fading 
-Bm      E        A
-But I linger on dear
-F#m          Bm      E   
-Still craving your kiss
-A      F#m             
-I’m longing
-Bm              E 
-To linger till dawn dear
-A   F#m  Ab7  G7
-Just saying this
+[A]Stars fa[F#m]ding 
+[Bm]But I li[E]nger on d[A]ear
+[F#m]Still craving[Bm] your ki[E]ss
+[A]I’m lon[F#m]ging
+[Bm]To linger till d[E]awn dear
+[A]Just[F#m] sayi[Ab7]ng th[G7]is
 
 
 [Chorus]
-C       Adim7             
-Sweet dreams 
-Ab7             G7
-Till sunbeams find you
-C        E7                                  
-Sweet dreams that Leave
-Edim7                   A7  
-All worries behind you
-Dm            Dm7           
-But in your dreams 
-Fm         Fmadd4  
-Whatever they be
-C     Ab7     G7     C
-Dream a little dream of me
+[C]Sweet dr[Adim7]eams 
+[Ab7]Till sunbeams fi[G7]nd you
+[C]Sweet dre[E7]ams that Leave
+[Edim7]All worries behind you [A7]
+[Dm]But in your dr[Dm7]eams 
+[Fm]Whatever th[Fmadd4]ey be
+[C]Dream [Ab7]a little[G7] dream [C]of me
 
 
 [Chorus]
-C       Adim7             
-Sweet dreams 
-Ab7             G7
-Till sunbeams find you
-C        E7                                  
-Sweet dreams that Leave
-Edim7                   A7  
-All worries behind you
-Dm            Dm7           
-But in your dreams 
-Fm         Fmadd4  
-Whatever they be
-C     Ab7     G7     C
-Dream a little dream of me
+[C]Sweet dr[Adim7]eams 
+[Ab7]Till sunbeams fi[G7]nd you
+[C]Sweet dre[E7]ams that Leave
+[Edim7]All worries behind you [A7]
+[Dm]But in your dr[Dm7]eams 
+[Fm]Whatever th[Fmadd4]ey be
+[C]Dream [Ab7]a little[G7] dream [C]of me
 
 
 [CODA]
