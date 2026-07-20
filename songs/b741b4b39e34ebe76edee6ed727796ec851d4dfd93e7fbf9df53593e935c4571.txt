@@ -17,100 +17,59 @@ So it should be Pluck, Strum, Strum. Pluck, Strum, Strum etc...
 | D | % | % | % |    x 10
 
 [Chorus]
-A  D
-Oh lord, it's hard to be humble,
-                             A7
-When you're perfect in every way,
-  A7 
-I can't wait to look in the mirror,
-                          D
-I get better looking each day.
-   D
-To know me is to love me,
-   D7                   G 
-I must be a hell of a man,
-                        D
-Oh lord it's hard to be humble,
-        A                     D
-But I'm doing the best that I can.
+[A]Oh [D]lord, it's hard to be humble,
+When you're perfect in every [A7]way,
+I [A7]can't wait to look in the mirror,
+I get better looking each [D]day.
+To [D]know me is to love me,
+I m[D7]ust be a hell of a ma[G]n,
+Oh lord it's hard to be [D]humble,
+But I'm [A]doing the best that I [D]can.
 
 
 [Verse 1]
-  D
-I used to have a girlfriend,
-                                 A7
-But I guess she just couldn't compete,
-      A7
-With all of these love starved women,
-                         D
-Who keep clamoring at my feet.
-       D
-Well I prob'ly could find me another,
-      D7                          G
-But I guess they're all in awe of me,
-                       D
-Who cares, I never get lonesome.
-         A7                   D
-'Cause I treasure my own company.
+I [D]used to have a girlfriend,
+But I guess she just couldn't com[A7]pete,
+With a[A7]ll of these love starved women,
+Who keep clamoring at my [D]feet.
+Well I [D]prob'ly could find me another,
+But I [D7]guess they're all in awe of [G]me,
+Who cares, I never get [D]lonesome.
+'Cause I [A7]treasure my own compa[D]ny.
 
 
 [Chorus] 
-A  D
-Oh lord, it's hard to be humble,
-                             A7
-When you're perfect in every way,
-  A7 
-I can't wait to look in the mirror,
-                          D
-I get better looking each day.
-   D
-To know me is to love me,
-    D7                  G
-I must be a hell of a man,
-                        D
-Oh lord it's hard to be humble,
-      A7                     D
-We're doing the best that we can.
+[A]Oh [D]lord, it's hard to be humble,
+When you're perfect in every [A7]way,
+I [A7]can't wait to look in the mirror,
+I get better looking each [D]day.
+To [D]know me is to love me,
+I mu[D7]st be a hell of a ma[G]n,
+Oh lord it's hard to be [D]humble,
+We're [A7]doing the best that we [D]can.
 
 
 [Verse 2]
-  D
-I guess you could say I'm a loner,
-                          A7
-A cowboy outlaw tough and proud,
-        A7 
-I could have lots of friends if I wanted,
-                                       D
-But then I wouldn't stand out from the crowd.
-     D  
-Some folks say that I'm egotistical,
-          D7                      G
-Hell, I don't even know what that means,
-                            D
-I guess it has something to do with the way 
-       A7                          D
-That I fill out my skin tight blue jeans.
+I [D]guess you could say I'm a loner,
+A cowboy outlaw tough and [A7]proud,
+I could [A7]have lots of friends if I wanted,
+But then I wouldn't stand out from the [D]crowd.
+Some [D]folks say that I'm egotistical,
+Hell, I do[D7]n't even know what that [G]means,
+I guess it has something to [D]do with the way 
+That I [A7]fill out my skin tight blue [D]jeans.
 
 
 [Chorus]
-A  D
-Oh lord, it's hard to be humble,
-                             A7
-When you're perfect in every way,
-  A7
-I can't wait to look in the mirror,
-                          D
-I get better looking each day.
-   D 
-To know me is to love me,
-  D7                  G
-I must be a hell of a man,
-                        D
-Oh lord it's hard to be humble,
-          A7                     D
-But we're doing the best that we can. 
+[A]Oh [D]lord, it's hard to be humble,
+When you're perfect in every [A7]way,
+I [A7]can't wait to look in the mirror,
+I get better looking each [D]day.
+To [D]know me is to love me,
+I [D7]must be a hell of a [G]man,
+Oh lord it's hard to be [D]humble,
+But we're [A7]doing the best that we [D]can. 
 
 
 [Outro]
-          A7                     D
-But we're doing the best that we can.
+But we're [A7]doing the best that we [D]can.
