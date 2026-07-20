@@ -2,11 +2,9 @@
 Song name: Bad Bad Leroy Brown  by  Jim Croce
 ----------------------------------------------------------------------
 Chords:
-G    355433
-D7   x5453x
+[G]D7   x5453x
 A7   575655
-B7   797877
-C    8-10-10-9-8-8
+[B7]C    8-10-10-9-8-8
 D7*  10-12-10-11-10-10
 
 
@@ -17,134 +15,98 @@ G D7
 
 [Verse 1]
 
-          G
-Well, the south side of Chicago
-       A7
-Is the baddest part of town.
-           B7
-And if you go down there
+Well, the [G]south side of Chicago
+Is the [A7]baddest part of town.
+And if you [B7]go down there
            C                D7*         C        G  D7
 You better just beware of a man name of Leroy Brown.
-     G
-Now, Leroy more than trouble,
-           A7
-You see he stand about 'bout six foot four.
-        B7                        C
-All the downtown ladies call him "treetop lover."
+Now, [G]Leroy more than trouble,
+You see he [A7]stand about 'bout six foot four.
+All the [B7]downtown ladies call him "[C]treetop lover."
         D7*      C            G  D7
 All the men just call him "sir."
 
 
 [Chorus]
 
-         G
-And he's bad, bad, Leroy Brown,
-    A7
-The baddest man in the whole damn town.
-B7                   C
-Badder than old King Kong
+And he's [G]bad, bad, Leroy Brown,
+The [A7]baddest man in the whole damn town.
+[B7]Badder than old King [C]Kong
     D7*           C          G  D7
 And meaner than a junkyard dog.
 
 
 [Verse 2]
 
-     G
-Now, Leroy, he a gambler,
-       A7
-and he like his fancy clothes.
-       B7           C
-And he like to wave diamond rings
+Now, [G]Leroy, he a gambler,
+and he [A7]like his fancy clothes.
+And he [B7]like to wave [C]diamond rings
             D7*  C      G  D7
 in front of everybody's nose
-         G
-He got a custom Continental.
-          A7
-He got an Eldorado too.
-         B7                    C
-He got a thirty-two gun in his pocket for fun.
+He got a [G]custom Continental.
+He got an [A7]Eldorado too.
+He got a [B7]thirty-two gun in his [C]pocket for fun.
          D7*   C      G    D7
 He got a razor in his shoe.
 
 
 [Chorus]
 
-         G
-And he's bad, bad, Leroy Brown,
-    A7
-The baddest man in the whole damn town.
-B7                   C
-Badder than old King Kong
+And he's [G]bad, bad, Leroy Brown,
+The [A7]baddest man in the whole damn town.
+[B7]Badder than old King [C]Kong
     D7*           C          G  D7
 And meaner than a junkyard dog.
 
 
 [Verse 3]
 
-      G
-Well, Friday 'bout a week ago,
-A7
-Leroy's shootin' dice.
-           B7                    C
-And at the edge of the bar sat a girl name of Doris
+Well, [G]Friday 'bout a week ago,
+[A7]Leroy's shootin' dice.
+And at the [B7]edge of the bar sat a [C]girl name of Doris
     D7*      C         G   D7
 and oh, that girl look nice
-         G
-Well, he cast his eyes upon her
-        A7
-and the trouble soon began.
-    B7                        C
-And Leroy Brown, he learned a lesson 'bout messin'
+Well, he [G]cast his eyes upon her
+and the [A7]trouble soon began.
+And [B7]Leroy Brown, he learned a [C]lesson 'bout messin'
          D7*       C       G   D7
 with the wife of a jealous man
 
 
 [Chorus]
 
-         G
-And he's bad, bad, Leroy Brown,
-    A7
-The baddest man in the whole damn town.
-B7                   C
-Badder than old King Kong
+And he's [G]bad, bad, Leroy Brown,
+The [A7]baddest man in the whole damn town.
+[B7]Badder than old King [C]Kong
     D7*           C          G  D7
 And meaner than a junkyard dog.
 
 
 [Verse 4]
 
-          G
-Well, the two men took to fightin'
-              A7
-And when they pulled them from the floor,
+Well, the [G]two men took to fightin'
+And when they [A7]pulled them from the floor,
 B7                  C                    D7*       C      G    D7
 Leroy looked like a jigsaw puzzle with a couple of pieces gone.
 
 
 [Chorus]
 
-         G
-And he's bad, bad, Leroy Brown,
-    A7
-The baddest man in the whole damn town.
-B7                      C
-Badder than old King Kong
+And he's [G]bad, bad, Leroy Brown,
+The [A7]baddest man in the whole damn town.
+[B7]Badder than old King Kon[C]g
     D7*           C          G  D7
 And meaner than a junkyard dog.
 
-         G
-And he's bad, bad, Leroy Brown,
-    A7
-The baddest man in the whole damn town.
-B7                      C
-Badder than old King Kong
+And he's [G]bad, bad, Leroy Brown,
+The [A7]baddest man in the whole damn town.
+[B7]Badder than old King Kon[C]g
     D7*           C          G
 And meaner than a junkyard dog.
 
 
 [Outro]
 
-              B7                   C
-Yes, you were badder than old King Kong
+Yes, you were [B7]badder than old King [C]Kong
     D7*           C        G
 And meaner than a junkyard dog.
