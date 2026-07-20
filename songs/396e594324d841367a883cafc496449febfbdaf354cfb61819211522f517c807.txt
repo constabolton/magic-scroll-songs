@@ -8,46 +8,29 @@ Mr. Blue Sky (J. Lynne)
 
 [Verse 1]
 
-F
-Sun is shinin' in the sky
-              Em7   A  Dm
-There ain't a cloud in sight
-             G
-It's stopped rainin'
-     Em            A
-Everybody's in the play
-              Bb
-And don't you know
-       Bb/C          F        Bb/C
-It's a beautiful new day, hey hey
+[F]Sun is shinin' in the sky
+There ain't a [Em7]cloud [A]in [Dm]sight
+It's stopped [G]rainin'
+Every[Em]body's in the [A]play
+And don't you [Bb]know
+It's a [Bb/C]beautiful new [F]day, hey [Bb/C]hey
 
-F
-Runnin' down the avenue
-            Em7 A      Dm
-See how the sun shines brightly
-       G           Em
-In the city on the streets
-               A
-Where once was pity
-    Bb          Bb/C          F          Bb/C
-Mr. Blue Sky is living here today.  Hey, Hey
+[F]Runnin' down the avenue
+See how the [Em7]sun [A]shines [Dm]brightly
+In the [G]city on the [Em]streets
+Where once was [A]pity
+Mr. [Bb]Blue Sky is [Bb/C]living here to[F]day.  Hey, [Bb/C]Hey
 
 
 [Chorus]
 
-Dm       F/C                 Bb
-Mr. Blue Sky, please tell us why
-           F/A
-You had to hide away
-    Gm      F                   Eb         Bb
-For so long (so long) where did we go wrong
+[Dm]Mr. Blue [F/C]Sky, please tell us [Bb]why
+You had to [F/A]hide away
+For [Gm]so long [F](so long) where did [Eb]we go wrong[Bb]
 
-Dm       F/C                 Bb
-Mr. Blue Sky, please tell us why
-           F/A
-You had to hide away
-    Gm      F                   Eb         Bb      Bb/C
-For so long (so long) where did we go wrong
+[Dm]Mr. Blue [F/C]Sky, please tell us [Bb]why
+You had to [F/A]hide away
+For [Gm]so long [F](so long) where did [Eb]we go wrong[Bb] [Bb/C]
 
 
 [Solo]
@@ -61,91 +44,61 @@ Bb/C
 
 [Verse 2]
 
-F
-Hey you with the pretty face
-               Em7 A7 Dm
-Welcome to the human race
-      G           Em
-A celebration Mr. Blue Sky's
-         A7            Bb
-Up there waitin' and today
-       Bb/C             F        Bb/C
-Is the day we've waited for  Ah, Ah
+[F]Hey you with the pretty face
+Welcome to the [Em7]huma[A7]n r[Dm]ace
+A cele[G]bration Mr. [Em]Blue Sky's
+Up there [A7]waitin' and to[Bb]day
+Is the [Bb/C]day we've waited [F]for  Ah, [Bb/C]Ah
 
 
 [Chorus]
 
-Dm        F/C                Bb
-Mr. Blue Sky, please tell us why
-           F/A
-You had to hide away
-    Gm      F                   Eb         Bb
-For so long (so long) where did we go wrong
+[Dm]Mr. Blue S[F/C]ky, please tell us [Bb]why
+You had to [F/A]hide away
+For [Gm]so long [F](so long) where did [Eb]we go wrong[Bb]
 
 
 [Bridge]
 
-Dm         F/C
-Hey there Mr. Blue
-Bb                  F/A
-We're so pleased to be with you
-Gm              F
-Look around see what you do
-Eb        Bb
-Everybody smiles at you
+[Dm]Hey there M[F/C]r. Blue
+[Bb]We're so pleased to [F/A]be with you
+[Gm]Look around see [F]what you do
+[Eb]Everybody [Bb]smiles at you
 
-Dm        F/C
-Hey there Mr. Blue
-Bb                  F/A
-We're so pleased to be with you
-Gm              F
-Look around see what you do
-Eb        Bb            Bb/C
-Everybody smiles at you
+[Dm]Hey there [F/C]Mr. Blue
+[Bb]We're so pleased to [F/A]be with you
+[Gm]Look around see [F]what you do
+[Eb]Everybody [Bb]smiles at you [Bb/C]
 
 
 [Synth]
 
-F            Em7 A7 Dm   G   Em A7 Bb   Bb/C   F   Bb/C
-Mr Blue Sky. Mr.    Blue Sky    Mr Blue Skyyy--yy
+[F]Mr Blue Sky. [Em7]Mr. [A7]   [Dm]Blue [G]Sky [Em]   [A7]Mr [Bb]Blue [Bb/C]Skyyy--[F]yy [Bb/C]
 
 
 [Verse 3]
 
-F
-Mr. Blue you did it right
-               Em7   A    Dm
-But soon comes Mis - ter Night
-         G
-Creepin' over, now his
-Em              A
-Hand is on your shoulder
-     Bb          Bb/C            Db
-Nevermind I'll remember you this
-       Eb              Dm
-I'll remember you this way
+[F]Mr. Blue you did it right
+But soon comes [Em7]Mis - [A]ter N[Dm]ight
+Creepin' [G]over, now his
+[Em]Hand is on your [A]shoulder
+Never[Bb]mind I'll re[Bb/C]member you this [Db]
+I'll re[Eb]member you this [Dm]way
 
 
 [Chorus]
 
-Dm       F/C                 Bb
-Mr. Blue Sky, please tell us why
-           F/A
-You had to hide away
-    Gm      F                   Eb         Bb
-For so long (so long) where did we go wrong
+[Dm]Mr. Blue [F/C]Sky, please tell us [Bb]why
+You had to [F/A]hide away
+For [Gm]so long [F](so long) where did [Eb]we go wrong[Bb]
 
 
 [Bridge]
 
-Dm        F/C
-Hey there Mr. Blue
-Bb                  F/A
-We're so pleased to be with you
-Gm              F
-Look around see what you do
-Eb        Bb
-Everybody smiles at you
+[Dm]Hey there [F/C]Mr. Blue
+[Bb]We're so pleased to [F/A]be with you
+[Gm]Look around see [F]what you do
+[Eb]Everybody [Bb]smiles at you
 
 
 [Outro]
