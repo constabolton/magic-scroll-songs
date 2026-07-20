@@ -3,134 +3,69 @@ Song name: And The Band Played Waltzing Matilda  by  Eric Bogle
 ----------------------------------------------------------------------
 Waltzing my Matilda             Eric Bogle 
 
-G            C           D          G
-When I was a young man I carried my pack
-G                    D         C     G
-And I lived the free life of a rover
-G                      C            D        G
-From the Murrays green basin to the dusty outback
-G               D         G
-I waltzed my Matilda all over
-G       D                   C            G
-Then in nineteen fifteen my country said Son
-G    D                                    C          G
-It's time to stop rambling 'cause there's work to be done
-G                 C                D         G
-So they gave me a tin hat and they gave me a gun
-G                D           C    G
-And they sent me away to the war
-G                   C          G
-And the band played Waltzing Matilda
-G            C             D
-As we sailed away from the quay
-    C                             G              C
-And amidst all the tears and the shouts and the cheers
-   G              D      C   G
-We sailed off for Gallipoli
+[G]When I was a [C]young man I [D]carried my [G]pack
+[G]And I lived the free [D]life of a [C]rover [G]
+[G]From the Murrays green [C]basin to the [D]dusty out[G]back
+[G]I waltzed my Mat[D]ilda all o[G]ver
+[G]Then in [D]nineteen fifteen my [C]country said [G]Son
+[G]It's [D]time to stop rambling 'cause there's [C]work to be [G]done
+[G]So they gave me a [C]tin hat and they [D]gave me a [G]gun
+[G]And they sent me [D]away to the [C]war [G]
+[G]And the band played [C]Waltzing Ma[G]tilda
+[G]As we sailed [C]away from the [D]quay
+And [C]amidst all the tears and the s[G]houts and the c[C]heers
+We [G]sailed off for [D]Gallipo[C]li [G]
 
-G          C             D        G
-How well I remember that terrible day
-G                          D            C     G
-When the blood stained the sand and the water
-G               C               D           G
-And how in that hell that they called Suvla Bay
-G                      D            C         G
-We were butchered like lambs at the slaughter
-G      D                     C              G
-Johnny Turk he was ready, he primed himself well
-   D                        C              G
-He shot us with bullets, he rained us with shells
-G                   C                  D       G
-And in five minutes flat he'd blown us all to hell
-G                    D       C         G
-Nearly blew us right back to Australia
-G                   C        G
-And the band played Waltzing Matilda
-G                C        D
-As we stopped to bury our slain
-C                      G            C 
-We buried ours and the Turks buried theirs
-C      G           D    C    G
-And it started all over again
-G                  C                D       G
-Now those who were living did their best to survive
-G                    D                C   G
-In that mad world of death, blood and fire
-G                  C            D       G
-And for seven long weeks I kept myself alive
- G                 D              C      G
-While the corpses around me piled higher
-G          D                        C         G
-Then a big Turkish shell knocked me arse over tit
-    D                    C        G
-And when I woke up in my hospital bed
-G                   C              D            G
-And saw what it had done, Christ I wished I was dead
-G                      D                C     G
-Never knew there were worse things than dying
-G                   C        G
-For no more I'll go waltzing Matilda
-G                   C          D
-To the green bushes so far and near
-D      C                     G             C
-For to hang tent and pegs, a man needs two legs
-C       G        D           C   G
-No more waltzing Matilda for me
-G                      C            D            G
-So they collected the cripples, the wounded, the maimed
-G                        D       C          G
-And they shipped us back home to Australia
-G            C            D                G
-The legless, the armless, the blind, the insane
-G                   D         C     G
-Those proud wounded heroes of Suvla
-G          D                C        G
-And as our ship pulled into Circular Quay
-  D                            C            G
-I looked at the place where my legs used to be
-G                          C       D          G
-And thank Christ there was nobody waiting for me
-G                D            C    G
-To grieve and to mourn and to pity
-G                   C        G
-And the band played Waltzing Matilda
-G                  C        D
-As they carried us down the gangway
-    C                         G         C
-But nobody cheered, they just stood and stared
-     G                D      C   G
-Then turned all their faces away
-G             C       D         G
-And now every April I sit on my porch
-G               D           C         G
-And I watch the parade pass before me
-G            C             D            G
-I see my old comrades, how proudly they march
-G            D              C      G
-Reliving the dreams of past glory
-  D                    C           G
-I see the old men, all twisted and torn
-    D                     C         G
-The forgotten heroes of a forgotten war
-G                    C                 D             G
-And the young people ask me, "What are they marching for?"
-G         D               C         G
-And I ask myself the same question
-G                  C        G
-And the band plays Waltzing Matilda
-G                     C          D
-And the old men still answer the call
-    C                     G           C
-But year after year their numbers get fewer
-         G           D              C    G
-Some day no one will march there at all
-G                 C
-Waltzing Matilda, Waltzing Matilda
-G            C       G            D
-Who'll go a waltzing Matilda with me
-          G             D
-And their ghosts may be heard
-        G                C
-As they march beside the billabong
-G                      D            G
-Who'll come a waltzing Matilda with me
+[G]How well I [C]remember that [D]terrible [G]day
+[G]When the blood stained the [D]sand and the [C]water [G]
+[G]And how in that [C]hell that they c[D]alled Suvla [G]Bay
+[G]We were butchered like [D]lambs at the [C]slaughter [G]
+[G]Johnny [D]Turk he was ready, he [C]primed himself [G]well
+He [D]shot us with bullets, he [C]rained us with [G]shells
+[G]And in five minutes [C]flat he'd blown us [D]all to h[G]ell
+[G]Nearly blew us right [D]back to [C]Australia [G]
+[G]And the band played [C]Waltzing [G]Matilda
+[G]As we stopped to [C]bury our [D]slain
+[C]We buried ours and the [G]Turks buried [C]theirs
+[C]And it [G]started all [D]over [C]again[G]
+[G]Now those who were [C]living did their [D]best to [G]survive
+[G]In that mad world of [D]death, blood and [C]fire[G]
+[G]And for seven long [C]weeks I kept [D]myself a[G]live
+W[G]hile the corpses a[D]round me piled [C]higher [G]
+[G]Then a big [D]Turkish shell knocked me [C]arse over [G]tit
+And [D]when I woke up in my [C]hospital [G]bed
+[G]And saw what it had [C]done, Christ I [D]wished I was [G]dead
+[G]Never knew there were w[D]orse things than [C]dying [G]
+[G]For no more I'll go [C]waltzing [G]Matilda
+[G]To the green bushes [C]so far and [D]near
+[D]For to [C]hang tent and pegs, a [G]man needs two [C]legs
+[C]No more [G]waltzing [D]Matilda for [C]me [G]
+[G]So they collected the c[C]ripples, the [D]wounded, the [G]maimed
+[G]And they shipped us back [D]home to [C]Australia [G]
+[G]The legless, [C]the armless, [D]the blind, the in[G]sane
+[G]Those proud wounded [D]heroes of [C]Suvla [G]
+[G]And as our [D]ship pulled into [C]Circular [G]Quay
+I [D]looked at the place where my [C]legs used to [G]be
+[G]And thank Christ there was [C]nobody w[D]aiting for [G]me
+[G]To grieve and to [D]mourn and to [C]pity [G]
+[G]And the band played [C]Waltzing [G]Matilda
+[G]As they carried us [C]down the [D]gangway
+But [C]nobody cheered, they just [G]stood and [C]stared
+Then [G]turned all their [D]faces a[C]way [G]
+[G]And now every [C]April I [D]sit on my [G]porch
+[G]And I watch the [D]parade pass [C]before me [G]
+[G]I see my old [C]comrades, how [D]proudly they [G]march
+[G]Reliving the [D]dreams of past [C]glory [G]
+I [D]see the old men, all [C]twisted and [G]torn
+The [D]forgotten heroes of a [C]forgotten [G]war
+[G]And the young people [C]ask me, "What are [D]they marching [G]for?"
+[G]And I ask [D]myself the same [C]question [G]
+[G]And the band plays [C]Waltzing [G]Matilda
+[G]And the old men still [C]answer the [D]call
+But [C]year after year their [G]numbers get [C]fewer
+Some day [G]no one will [D]march there at [C]all [G]
+[G]Waltzing Matilda, [C]Waltzing Matilda
+[G]Who'll go a w[C]altzing [G]Matilda with [D]me
+And their [G]ghosts may be [D]heard
+As they [G]march beside the [C]billabong
+[G]Who'll come a waltzing [D]Matilda with [G]me
