@@ -1,0 +1,92 @@
+Key: E (+ key change to F#)
+
+---------------------------------------------------------------------------
+
+CHORDS
+
+      E-A-D-G-B-e
+E9    x-7-6-7-7-x
+
+---------------------------------------------------------------------------
+
+[LINK]
+ [B
+  1 + 2 + 3 + 4 +  
+e|----------------|
+B|4---2-----------|
+G|2---2---4---2---|
+D|4-------4---4---|
+A|--2---2---2---2-|
+E|----------------|
+
+---------------------------------------------------------------------------
+
+[Intro]
+| E | G#m | F#m | B | 
+                [LINK]
+
+[Verse 1]
+E                G#m7
+   I'll remember you
+F#m7          B            E         C#7  
+   Long after this endless summer is gone
+F#m7                Am
+   I'll be lonely,  -  oh, so lonely
+F#m         B       E            G#m7  F#m  | B7 |
+   Living only to remember you              [LINK]
+
+[Verse 2]
+E                G#m
+   I'll remember you
+A                B           E           C#7
+   Your voice as soft as the warm summer breeze
+F#m7                     Am
+   Your sweet laughter  -  mornings after
+F#m           B       E
+   Ever after, I'll remember you
+
+[Middle 8]
+E7             A
+   To your arms someday
+F#7               B
+   I'll return to stay
+        B              
+   Till then 
+      (break)
+
+[Verse 3]
+         E      G#m7
+I will remember too
+A                B           E           C#7
+   Ev'ry bright star we made wishes -- upon
+F#m7              Am
+   Love me always - promise always
+F#m                B           [  E  ]
+   Ooh ooh ooh ooh ooh  you'll remember too
+
+[Solo]
+| E | G#m7 | A | B | 
+| E | C#7 | F#m7 | Am | 
+| F#m | B | E | 
+
+[Middle 8]
+E7              A
+   To your arms someday
+F#7               B             B
+   I'll return to stay ... till then
+                (break)       (break)
+
+[Verse 4]
+C#7              F#     A#m
+I ... will ... remember too
+B6              C#7          F#          D#7
+   Ev'ry bright star we made wishes -- upon
+G#m               Bm
+   Love me always - promise always
+G#m                C#7                 [ E9 ]
+   Ooh ooh ooh ooh ooh  you'll remember too
+
+[Coda]
+ E9   E9   E9    E9  F#                   F#       F#maj7
+                            I'll remember you
+(I'll re – mem - ber you)
