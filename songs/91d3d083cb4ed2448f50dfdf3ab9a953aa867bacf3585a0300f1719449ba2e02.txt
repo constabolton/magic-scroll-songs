@@ -7,25 +7,15 @@ C Cm  G E E7   Am AmMaj7 Am7 D7
 G B7/F# E7 C7  G   D7   G G7
 
 [Verse]
-C                  Cm
-After you've gone and left me crying
-G                   E          E7
-After you've gone, there's no denying
-Am               D7
-You seem blue, you'll feel sad
-G                              G7
-You'll miss the dearest pal you've ever had
+[C]After you've gone a[Cm]nd left me crying
+[G]After you've gone, t[E]here's no d[E7]enying
+[Am]You seem blue, yo[D7]u'll feel sad
+[G]You'll miss the dearest pal you[G7]'ve ever had
 
-C                     Cm
-There'll come a time, now don't forget it, baby
-G                      E         E7
-There'll come a time, when you'll regret it
-Am    AmMaj7   Am7           D7
-Some  day    when you'll grow lonely
-G              B7/F#       E7                 C7
-Your heart will break like mine - you'll want me only
+[C]There'll come a time, [Cm]now don't forget it, baby
+[G]There'll come a time, w[E]hen you'll[E7] regret it
+[Am]Some  [AmMaj7]day    wh[Am7]en you'll grow[D7] lonely
+[G]Your heart will[B7/F#] break like [E7]mine - you'll want [C7]me only
 
-G                           D7
-After you've gone, hold this....
-G                     G7
-(scatting)
+[G]After you've gone, hold this[D7]....
+[G](scatting) [G7]
