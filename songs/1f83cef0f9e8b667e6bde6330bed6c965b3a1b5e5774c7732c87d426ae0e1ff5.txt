@@ -3,35 +3,21 @@ Song name: Tonight You Belong To Me  by  Patience & Prudence
 ----------------------------------------------------------------------
 G
 
-G
-I know (I know)
-    G7        C        Cm
-You belong to somebody new
-    G             D       G
-But tonight you belong to me
-G                         G7
-Although (although) we're apart
-       C          Cm
-You're part of my heart
-    G             D       G   G7
-And tonight you belong to me
+[G]I know (I know)
+You [G7]belong to [C]somebody [Cm]new
+But [G]tonight you be[D]long to [G]me
+[G]Although (although) we're [G7]apart
+You're [C]part of my [Cm]heart
+And [G]tonight you be[D]long to [G]me [G7]
 
-Cm
-Way down by the stream
-Cm
-How sweet it will seem
-     G            E7
-Once more just to dream
-       A7         D
-In the moonlight
-         G
-My honey I know (I know)
-         G7        C           Cm
-With the dawn that you will be gone
-    G             D       G
-But tonight you belong to me
-G
-Just to little old me
+[Cm]Way down by the stream
+[Cm]How sweet it will seem
+Once [G]more just to [E7]dream
+In the [A7]moonlight [D]
+My honey [G]I know (I know)
+With the [G7]dawn that [C]you will be [Cm]gone
+But [G]tonight you be[D]long to [G]me
+[G]Just to little old me
 
 [Solo]
 
