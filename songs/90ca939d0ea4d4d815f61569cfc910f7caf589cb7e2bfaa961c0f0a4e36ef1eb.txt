@@ -5,34 +5,25 @@ celeste:
 
   Am7  Bm7  C6  D
 
-         C6          Bm7         Am7          G
-You know Dasher, and Dancer, and Prancer, and Vixen
-C6         Bm7        Am7        G
-Comet, and Cupid, and Donner and Blitzen
-Em     Em(maj7)  A        Em7  A7sus4 A7               D
-But do you    re call the most fa     mous reindeer of all
+You know [C6]Dasher, and [Bm7]Dancer, and [Am7]Prancer, and [G]Vixen
+[C6]Comet, and [Bm7]Cupid, and [Am7]Donner and [G]Blitzen
+[Em]But do [Em]you    re [A]call the [Em7]most [A7sus4]fa     [A7]mous reindeer of [D]all
 
 G6                                        G7-9    D7
 Rudolph the red-nosed reindeer had a very shiny   nose
-Am7        D7    Am7    D7                D7+5   G
-And if you ever  saw it,   you would even say it glows
+[Am7]And if you [D7]ever  [Am7]saw it,[D7]   you would even [D7+5]say it [G]glows
 G6                                          G7-9     D7
 All of the other reindeer used to laugh and call him names
-Am7        D7       Am7      D7                      G6       G7
-They never let poor Rudolph     join in any reindeer games
+[Am7]They never [D7]let poor [Am7]Rudolph  [D7]   join in any reindeer [G6]games [G7]
 
-C        Am7   G         G#o
-Then one foggy Christmas Eve
-Am7   D7      G   G6
-Santa came to say
- D7                        D#o     A7/E      A7       D7
-"Rudolph with your nose so bright, won't you guide my sleigh tonight?"
+[C]Then one [Am7]foggy [G]Christmas [G#o]Eve
+[Am7]Santa [D7]came to [G]say [G6]
+"[D7]Rudolph with your nose so [D#o]bright, [A7/E]won't you [A7]guide my [D7]sleigh tonight?"
 
 
 G6                                              G7-9     D7
 Then how the reindeer loved him as they shouted out with glee
- Am7         D7        Am7      D7                   G
-"Rudolph the red-nosed reindeer,   you'll go down in history"
+"[Am7]Rudolph the [D7]red-nosed [Am7]reindeer,[D7]   you'll go down in [G]history"
 
 
 |C              |C              |        C7-9   |G7           |
@@ -44,28 +35,21 @@ Then how the reindeer loved him as they shouted out with glee
 |C              |Dm7/C   C      |       B7-9    |G7           |
  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
 
-|Dm7     G7     |Dm7     G7     |C   C#  D      |
- *   *   *   *   *   *   *   *   *   *   *   *
+ *   *   [G7]*   *   *   *   [G7]*   *   *   [C#]*   [D]*   *
 
 
 G6                                        G7-9    D7
 Rudolph the red-nosed reindeer had a very shiny   nose
-Am7        D7    Am7    D7                D7+5   G
-And if you ever  saw it,   you would even say it glows
+[Am7]And if you [D7]ever  [Am7]saw it,[D7]   you would even [D7+5]say it [G]glows
 G6                                          G7-9     D7
 All of the other reindeer used to laugh and call him names
-Am7        D7       Am7      D7                      G6       G7
-They never let poor Rudolph     join in any reindeer games
+[Am7]They never [D7]let poor [Am7]Rudolph  [D7]   join in any reindeer [G6]games [G7]
 
-C        Am7   G         G#o
-Then one foggy Christmas Eve
-Am7   D7      G  G6
-Santa came to say
- D7                        D#o     A7/E      A7       D7
-"Rudolph with your nose so bright, won't you guide my sleigh tonight?"
+[C]Then one [Am7]foggy [G]Christmas [G#o]Eve
+[Am7]Santa [D7]came to [G]say[G6]
+"[D7]Rudolph with your nose so [D#o]bright, [A7/E]won't you [A7]guide my [D7]sleigh tonight?"
 
 
 G6                                              G7-9     D7
 Then how the reindeer loved him as they shouted out with glee
- Am7         D7        Am7      D7                   G
-"Rudolph the red-nosed reindeer,   you'll go down in history"
+"[Am7]Rudolph the [D7]red-nosed [Am7]reindeer,[D7]   you'll go down in [G]history"
