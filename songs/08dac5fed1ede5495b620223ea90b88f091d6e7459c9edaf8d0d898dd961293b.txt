@@ -3,48 +3,32 @@ Song name: Jack O Diamonds  by  Jimbo Mathus
 ----------------------------------------------------------------------
 [Verse 1]
 
-G               C
-I've rambled in England
-     G          C
-I've gambled in Spain
-G                C
-Come back to St. Louis
-   G            D7
-to play my last game
+[G]I've rambled in [C]England
+I've [G]gambled in [C]Spain
+[G]Come back to St. [C]Louis
+to [G]play my last [D7]game
 
 
 [Chorus]
 
-G                                        C            G
-Jack o' diamonds (jack o' diamonds) I've known you of old
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold, all silver
-               C
-all silver and gold
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold
+[G]Jack o' diamonds (jack o' diamonds) I've [C]known you of [G]old
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold, all silver
+all silver and [C]gold
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold
 
 [Verse 2]
 
-G                C
-I'd rather be in Mobile
-     G                C
-with all the hail and rain
-G              C
-than for be in Georgia
-        D7           G
-wearing the ball and chain
+[G]I'd rather be in [C]Mobile
+with [G]all the hail and [C]rain
+[G]than for be in [C]Georgia
+wearing [D7]the ball and [G]chain
 
 [Chorus]
 
-G                                        C            G
-Jack o' diamonds (jack o' diamonds) I've known you of old
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold, that old silver
-               C
-all silver and gold
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold
+[G]Jack o' diamonds (jack o' diamonds) I've [C]known you of [G]old
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold, that old silver
+all silver and [C]gold
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold
 
 [Violin solo]
 G C G
@@ -52,24 +36,17 @@ G C D7 G
 
 [Bridge]
 
-G                  C
-Well gather 'round fellas
-        G      C
-believe what I say
-        G                                  D7           G
-Jack o' diamonds, jack o' diamonds, he's a hard card to play
+[G]Well gather 'round [C]fellas
+believe [G]what I [C]say
+Jack o' [G]diamonds, jack o' diamonds, he's a [D7]hard card to [G]play
 
 
 [Chorus]
 
-G                                        C            G
-Jack o' diamonds (jack o' diamonds) I've known you of old
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold, that old silver
-                    C
-that old silver and gold
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold
+[G]Jack o' diamonds (jack o' diamonds) I've [C]known you of [G]old
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold, that old silver
+that old silver and [C]gold
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold
 
 [Violin solo]
 G C G
@@ -77,17 +54,10 @@ G C D7 G
 
 [Outro]
 
-G                 G
-Jack o' diamonds
-C                 G
-I've known you of old
-G                     C          D7         G
-You've robbed my poor pockets of silver and gold
-G                 G
-Jack o' diamonds
-C                 G
-I've known you of old
-G                     C          D7         G
-You've robbed my poor pockets of …
-G                     C          D7         G
-You've robbed my poor pockets …
+[G]Jack o' diamonds [G]
+[C]I've known you of [G]old
+[G]You've robbed my poor [C]pockets of [D7]silver and [G]gold
+[G]Jack o' diamonds [G]
+[C]I've known you of [G]old
+[G]You've robbed my poor [C]pockets of [D7]… [G]
+[G]You've robbed my poor [C]pockets … [D7] [G]
