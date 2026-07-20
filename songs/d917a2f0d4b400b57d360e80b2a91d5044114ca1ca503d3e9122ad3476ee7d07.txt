@@ -1,0 +1,57 @@
+----------------------------------------------------------------------
+Song name: Because  by  The Beatles
+----------------------------------------------------------------------
+The Beatles - Because
+---------------------
+
+This whole song is in 4/4, and there is only one chord every 4 beats, so each chord
+is played for 4 beats. The only exception to this is that the Ddim7 in the bridge is
+played for one beat and the last three beats have no chord.
+The "___" parts are where the word the singer sings is held out through chord changes.
+
+Chords used
+-----------
+   C#m  D#m7b5 G#7/D# A   A7  A13  D  Ddim7  A9  F#
+e|--0-----2------2----0---0----2---2----1----3---2--|
+B|--2-----2------1----2---2----2---3----0----2---2--|
+G|--1-----2------1----2---0----0---2----1----4---3--|
+D|--2-----1------1----2---2----2---0----0----2---4--|
+A|--x-----x------x----0---0----0---x----x----0---x--|
+E|--x-----x------x----x---x----x---x----x----x---x--|
+
+
+[Intro]
+C#m  C#m  D#m7b5  G#7/D#  A  C#m  A7  A13  D  Ddim7
+                                             Ah_______
+
+[Verse 1]
+  C#m                C#m                D#m7b5  G#7/D#
+Because the world is round, it turns me on_________
+  A         C#m      A9   A13  D  Ddim7
+Because the world is round___  ah_____
+
+
+[Verse 2]
+  C#m               C#m               D#m7b5  G#7/D#
+Because the wind is high, it blows my mind_______
+  A         C#m     A9   A13  D
+Because the wind is high____  ah
+
+
+[Bridge]
+Ddim7 N.C.                 F#/C#
+      Love is old, love is new
+F#                   G#7  G#7
+Love is all, love is you
+
+
+[Verse 3]
+  C#m              C#m               D#m7b5  G#7/D#
+Because the sky is blue, it makes me cry________
+  A         C#m    A9   A13  D  Ddim7  C#m  C#m
+Because the sky is blue____  ah________________
+
+
+[Outro]
+D#m7b5  G#7/D#  A  C#m   A9  A13  D  Ddim7
+Ah_________________  ooh_____  ah_____
