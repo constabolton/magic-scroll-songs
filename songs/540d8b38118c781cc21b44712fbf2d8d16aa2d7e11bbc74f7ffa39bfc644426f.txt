@@ -18,175 +18,108 @@ Transpose  Capo       Play   Key
 | C |
 
 [Verse 1]
-C                                       C/B    Am
-I am just a poor boy, though my story's seldom told
-       G
-I have squandered my resistance
-      G7           G6               C
-For a pocketful of mumbles such are promises
-    C/B      Am           G                 F
-All lies and jest still a man hears what he wants to hear
-                   C      G    F G C
-And disregards the rest
+[C]I am just a poor boy, though my story's [C/B]seldom [Am]told
+I have [G]squandered my resistance
+For a [G7]pocketful of [G6]mumbles such are [C]promises
+All [C/B]lies and [Am]jest still a [G]man hears what he [F]wants to hear
+And disregards the [C]rest [G] [F] [G] [C]
 
-       C                                     C/B    Am
-When I left my home and family I was no more than a boy
-       G
-In the company of strangers
-       G7         G6              C
-In the quiet of a railway station running scared
-C/B    Am          G              F                                C
-Laying low seeking out the poorer quarters where the ragged people go
-        G              F    G          C
-Looking for the places only they would know
+When I [C]left my home and family I was no more [C/B]than a [Am]boy
+In the [G]company of strangers
+In the [G7]quiet of a [G6]railway station [C]running scared
+[C/B]Laying [Am]low seeking [G]out the poorer [F]quarters where the ragged people [C]go
+Looking [G]for the places [F]only [G]they would [C]know
 
 
 [Refrain]
-       Am
-Lie-la-lie
-       Em
-Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                           C
-Lie-la la la la la lie la la la la lie
+Lie-la-[Am]lie
+Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la [C]lie
 
 
 [Verse 2]
-       C                                  C/B   Am
-Asking only workmans wages I come looking for a job
-             G
-But I get no offers
-       G7               G6                C
-Just a come-on from the whores on Seventh Avenue
-  C/B  Am               G                F                               C
-I do declare there were times when I was so lonesome I took some comfort there
-      G               C
-La-la-la-la-la-la-la
+Asking [C]only workmans wages I come looking [C/B]for a [Am]job
+But I get no [G]offers
+Just a [G7]come-on from the [G6]whores on Seventh [C]Avenue
+I [C/B]do de[Am]clare there were [G]times when I was [F]so lonesome I took some comfort [C]there
+La-la-[G]la-la-la-la-la [C]
 
 
 [Interlude]
 | C     | C C/B Am | G7    | G7    |
-| C     | C C/B Am | G7 |
-                    (2/4)
-| F     | C  G7 | F  | C     |
-                 (2/4)
+  [C]        [C]  [C/B]    [Am]    ([G7]2/4)
+  [F]        [C]   [G7]    ([F]2/4) [C]
 
 *************************************************************************************
 
 Extra verse in live versions
 
-        C                                         C/B Am
-Now the years are rolling by me, they are rocking evenly
-         G
-And I am older than I once was
-    G7                G6               C
-And younger than I'll be, that's not unusual
-       C/B   Am             G            F                                C
-No, it isn't strange, after changes upon changes we are more or less the same
-      G              F                C
-After changes we are more or less the same
+Now the [C]years are rolling by me, they are rocking [C/B]even[Am]ly
+And I am [G]older than I once was
+And [G7]younger than I'll [G6]be, that's not un[C]usual
+No, it [C/B]isn't [Am]strange, after [G]changes upon [F]changes we are more or less the s[C]ame
+After [G]changes we are [F]more or less the [C]same
 
 **************************************************************************************
 
 [Refrain]
-       Am
-Lie-la-lie
-       Em
-Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                           C
-Lie-la la la la la lie la la la la lie
+Lie-la-[Am]lie
+Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la [C]lie
 
 
 [Verse 3]
-         C                                        C/B   Am
-Then I'm laying out my winter clothes and wishing I was gone
-      G              G7            G6             C
-Going home where the New York City winters aren't bleeding me
-Em          Am
- Leading me-e
-      G7      C
-Going home
+Then I'm [C]laying out my winter clothes and wishing [C/B]I was [Am]gone
+Going [G]home where the [G7]New York City [G6]winters aren't [C]bleeding me
+[Em] Leading me-[Am]e
+Going [G7]home [C]
 
-       C                                     C/B    Am
-In the clearing stands a boxer and a fighter by his trade
-       G
-And he carries the reminders
-   G7               G6               C
-Of ev'ry glove that laid him down or cut him till he cried out
-             C/B     Am
-In his anger and his shame
-      G             F                                 C
-"I am leaving, I am leaving." but the fighter still remains
-        G       F G C
-Hm, hm, hm
+In the [C]clearing stands a boxer and a fighter [C/B]by his [Am]trade
+And he [G]carries the reminders
+Of [G7]ev'ry glove that [G6]laid him down or [C]cut him till he cried out
+In his anger [C/B]and his [Am]shame
+"I am [G]leaving, I am [F]leaving." but the fighter still re[C]mains
+Hm, hm, [G]hm [F] [G] [C]
 
 
 [Refrain]
-       Am
-Lie-la-lie
-       Em
-Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+Lie-la-[Am]lie
+Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ Am ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[Am]ie
 
-Am          Em
-     Lie-la-la-la-la lie-la-lie
-       Am
-Lie la lie
-       G                          [ C ]
-Lie-la la la la la lie la la la la lie
+[Am]     Lie-la-[Em]la-la-la lie-la-lie
+Lie la [Am]lie
+Lie-la [G]la la la la lie la la la la l[C]ie
 
 
 [Outro]
 | C     | C C/B Am | G     | G     |
-| C     | C C/B Am | G7 |
-                    (2/4)
-| F     | C  G7 | F  | C   C
-                 (2/4)
+  [C]        [C]  [C/B]    [Am]    ([G7]2/4)
+  [F]        [C]   [G7]    ([F]2/4) [C]
