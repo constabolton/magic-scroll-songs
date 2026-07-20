@@ -2,42 +2,26 @@
 Song name: It Had To Be You  by  Frank Sinatra
 ----------------------------------------------------------------------
 [Verse]
-Bb7+            Ebmaj7              C9
-    It had to be you, it had to be you 
-F9
-I wandered around, and finally found 
+[Bb7+]    It had to be[Ebmaj7] you, it had to be y[C9]ou 
+[F9]I wandered around, and finally found 
 The somebody who could make me be true 
-                Fmin9              Dmin7
-Could make me be blue or even be glad 
-G7+       Cmin      F9
-Just to be sad just thinking of you 
-Fmin9            Bb7+               Ebmaj7
-Some others I've seen might never be mean 
-                 C9                F9
-Might never be cross or try to be boss 
+Could make me be[Fmin9] blue or even be gl[Dmin7]ad 
+[G7+]Just to be[Cmin] sad just [F9]thinking of you 
+[Fmin9]Some others I've [Bb7+]seen might never be[Ebmaj7] mean 
+Might never be cr[C9]oss or try to be b[F9]oss 
 But they wouldn't do 
-          Abmaj7            Abmaj6    Gmin7
-For nobody else gave me the thrill 
-                Gb13
-With all your faults I love you still 
-            Fmin
-It had to be you 
-          Bb7+
-Wonderful you
-             Ebmaj7
-It had to be you
+For nobody[Abmaj7] else gave me the [Abmaj6]thrill [Gmin7]
+With all your fa[Gb13]ults I love you still 
+It had to be[Fmin] you 
+Wonderful [Bb7+]you
+It had to be [Ebmaj7]you
 
 [Interlude]  
 C9  C9  F9  F9  F9  F9
 
 [Verse]
-            Abmaj7            Abmaj6    Gmin7
-For nobody else gave me the thrill 
-                Gb13
-With all your faults I love you still 
-            Fmin
-It had to be you 
-          Bb7+
-Wonderful you
-             Ebmaj7
-It had to be you
+For nobody e[Abmaj7]lse gave me the th[Abmaj6]rill [Gmin7]
+With all your fa[Gb13]ults I love you still 
+It had to be[Fmin] you 
+Wonderful [Bb7+]you
+It had to be [Ebmaj7]you
