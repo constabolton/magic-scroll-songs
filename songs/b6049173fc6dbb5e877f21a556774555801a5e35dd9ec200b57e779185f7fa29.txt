@@ -11,66 +11,42 @@ E|--3--|
 
 
 [Refrain]
- G      G7         C         G
-Amazing Grace, how sweet the sound
-             A           D
-That saved a wretch like me!
-  G        G7        C      G
-I once was lost, but now am found,
-    Em         D     G
-Was blind, but now I see.
+A[G]mazing [G7]Grace, how [C]sweet the [G]sound
+That saved a [A]wretch like [D]me!
+I [G]once was [G7]lost, but [C]now am [G]found,
+Was [Em]blind, but [D]now I [G]see.
 
 
 [Verse 1]
-      G          G7        C        G
-'Twas grace that taught my heart to fear,
-             A       D
-And grace my fears relieved.
-    G        G7       C      G
-How precious did that grace appear,
-    Em     D       G
-The hour I first believed.
+'Twas [G]grace that [G7]taught my [C]heart to [G]fear,
+And grace my [A]fears re[D]lieved.
+How [G]precious [G7]did that [C]grace a[G]ppear,
+The [Em]hour I [D]first be[G]lieved.
 
 
 [Verse 2]
-      G      G7       C          G
-Through many dangers, toils and snares
-           A    D
-We have already come
-       G         G7         C          G
-'Twas grace hath brought us safe thus far
-     Em        D       G
-And grace will lead us home
+Throug[G]h many [G7]dangers, [C]toils and s[G]nares
+We have alr[A]eady [D]come
+'Twas g[G]race hath [G7]brought us [C]safe thus f[G]ar
+And g[Em]race will [D]lead us [G]home
 
 
 [Verse 3]
-    G        G7       C       G
-The Lord has promised good to me,
-            A      D
-His word my hope secures;
-   G       G7         C       G
-He will my shield and portion be
-   Em      D      G
-as long as life endures.
+The [G]Lord has [G7]promised [C]good to [G]me,
+His word my [A]hope se[D]cures;
+He [G]will my [G7]shield and [C]portion [G]be
+as [Em]long as [D]life en[G]dures.
 
 
 [Verse 4]
-     G          G7        C        G
-When we've been there ten thousand years,
-               A      D
-Bright shining as the sun,
-      G       G7      C          G
-We've no less days to sing God's praise
-     Em        D       G
-Than when we'd first begun.
+When [G]we've been [G7]there ten [C]thousand [G]years,
+Bright shining [A]as the [D]sun,
+We've [G]no less [G7]days to [C]sing God's [G]praise
+Than [Em]when we'd [D]first be[G]gun.
 
 
 [Refrain]
- G      G7         C         G
-Amazing Grace, how sweet the sound
-             A           D
-That saved a wretch like me!
-  G        G7        C      G
-I once was lost, but now am found,
-    Em         D     G
-Was blind, but now I see.
+A[G]mazing [G7]Grace, how [C]sweet the [G]sound
+That saved a [A]wretch like [D]me!
+I [G]once was [G7]lost, but [C]now am [G]found,
+Was [Em]blind, but [D]now I [G]see.
