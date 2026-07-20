@@ -30,65 +30,40 @@ A|------------|-(12)-------|---------------------------------------|------------
 E|------------|------------|---------------------------------------|---------------------------------------|
   
 [Verse]
-A                                    G 
-I can't seem to face up to the facts
-A                                       G  
-I'm tense and nervous and I can't relax
-A                                     G  
-I can't sleep 'cause my bed's on fire
-A                                   G  
-Don't touch me I'm a real live wire
+[A]I can't seem to face up to the facts [G]
+[A]I'm tense and nervous and I can't relax [G]
+[A]I can't sleep 'cause my bed's on fire [G]
+[A]Don't touch me I'm a real live wire [G]
 
 [Chorus]
-F                G                      A                              
-  Psycho killer,   qu'est-ce que c'est? Fa fa fa fa fa fa fa fa fa far better
-F             G                C                F
-  Run run run run run run run away, ohhhh ohhhh oooh 
-F                G                      A                              
-  Psycho killer,   qu'est-ce que c'est? Fa fa fa fa fa fa fa fa fa far better
-F             G                C                F    G         A     G A    G  
-  Run run run run run run run away, ohhhh ohhhh oooh aaye aaye ooh
+[F]  Psycho killer, [G]  qu'est-ce que c'est? [A]Fa fa fa fa fa fa fa fa fa far better
+[F]  Run run run [G]run run run run a[C]way, ohhhh ohhhh [F]oooh 
+[F]  Psycho killer, [G]  qu'est-ce que c'est? [A]Fa fa fa fa fa fa fa fa fa far better
+[F]  Run run run [G]run run run run a[C]way, ohhhh ohhhh [F]oooh [G]aaye aaye [A]ooh [G] [A] [G]
 
 [Verse]
-A                                                 G
-You start a conversation you can't even finish it
-A                                                   G
-You're talking a lot, but you're not sayin anything
-A                                              G
-When I have nothing to say, my lips are sealed
-A                                     G
-Say something once, why say it again?
+[A]You start a conversation you can't even finish it [G]
+[A]You're talking a lot, but you're not sayin anything [G]
+[A]When I have nothing to say, my lips are sealed [G]
+[A]Say something once, why say it again? [G]
 
 [Chorus]
-F                G                      A                              
-  Psycho killer,   qu'est-ce que c'est? Fa fa fa fa fa fa fa fa fa far better
-F             G                C                F
-  Run run run run run run run away, ohhhh ohhhh oooh 
-F                G                      A                              
-  Psycho killer,   qu'est-ce que c'est? Fa fa fa fa fa fa fa fa fa far better
-F             G                C                F    G          
-  Run run run run run run run away, ohhhh ohhhh oooh aye aye aye aye aye
+[F]  Psycho killer, [G]  qu'est-ce que c'est? [A]Fa fa fa fa fa fa fa fa fa far better
+[F]  Run run run [G]run run run run a[C]way, ohhhh ohhhh [F]oooh 
+[F]  Psycho killer, [G]  qu'est-ce que c'est? [A]Fa fa fa fa fa fa fa fa fa far better
+[F]  Run run run [G]run run run run a[C]way, ohhhh ohhhh [F]oooh [G]aye aye aye aye aye
 
 [Bridge]
-Bm                        G   Bm                           G
-Ce que j'ai fait, ce soir-là,   ce qu' elle a dit, ce soir-là
-A                     G                             A    G
-Realisant mon espoir,   je me lance vers la gloire okay
-A                                                           G
-Yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah
-A                             G   A                                     G
-We are vain and we are blind,     I hate people when they're not polite
+[Bm]Ce que j'ai fait, ce soir-[G]là, [Bm]  ce qu' elle a dit, ce soir-[G]là
+[A]Realisant mon espoir, [G]  je me lance vers la gloire o[A]kay [G]
+[A]Yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah [G]
+[A]We are vain and we are blind, [G]    [A]I hate people when they're not polite [G]
 
 [Chorus]
-F                G                      A                               
-  Psycho killer,   qu'est-ce que c'est? Fa fa fa fa fa fa fa fa fa far better
-F             G                C                
-  Run run run run run run run away, ohhhh ohhhh  
-F                G                      A                               
-  Psycho killer,   qu'est-ce que c'est? Fa fa fa fa fa fa fa fa fa far better
-F             G                C                F    G          
-  Run run run run run run run away, ohhhh ohhhh oooh aye aye aye aye aye
+[F]  Psycho killer, [G]  qu'est-ce que c'est? [A]Fa fa fa fa fa fa fa fa fa far better
+[F]  Run run run [G]run run run run a[C]way, ohhhh ohhhh  
+[F]  Psycho killer, [G]  qu'est-ce que c'est? [A]Fa fa fa fa fa fa fa fa fa far better
+[F]  Run run run [G]run run run run a[C]way, ohhhh ohhhh [F]oooh [G]aye aye aye aye aye
 
 [Outro]
-A 
-Oooooohhhhhh          (Repeat to fade over guitar and feedback)
+[A]Oooooohhhhhh          (Repeat to fade over guitar and feedback)
