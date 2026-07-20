@@ -7,25 +7,17 @@ Em   G D
 
 
 [Verse 1]
-Em                                         G   D
-   We were speeding together down the dark avenues
-Em                                     G         D
-   But besides all the stardom, all we got was blues
-Em                                        G       D
-   But through all the sorrow, we've been riding high
-Am  C                                      C       Em  Em      D
-    And the truth of the matter is I never let you go, let you go
+[Em]   We were speeding together down the dark [G]aven[D]ues
+[Em]   But besides all the stardom, all we [G]got was bl[D]ues
+[Em]   But through all the sorrow, we've been [G]riding h[D]igh
+[Am]    [C]And the truth of the matter is I never [C]let you [Em]go, [Em]let you [D]go
 
 
 [Verse 2]
-Em                                         G          D
-   We were scanning the cities, rocking to pay their dues
-Em                                    G         D
-   But besides all the glamor, all we got was bruised
-Em                                        G       D
-   But through all the sorrow, we've been riding high
-Am  C                                      C       Em  Em      D
-    And the truth of the matter is I never let you go, let you go
+[Em]   We were scanning the cities, rocking to [G]pay their d[D]ues
+[Em]   But besides all the glamor, all we [G]got was br[D]uised
+[Em]   But through all the sorrow, we've been [G]riding h[D]igh
+[Am]    [C]And the truth of the matter is I never [C]let you [Em]go, [Em]let you [D]go
 
 
 [Link]
@@ -33,14 +25,10 @@ Am  C                                      C       Em  Em      D
 
 
 [Chorus]
-G             Em                 Bm          D           G
-  You go down just like Holy Mary, Mary on a, Mary on a cross
-          Em                Bm          D           C
-Not just another bloody Mary, Mary on a, Mary on a cross
-       G               D                  Em     D      C
-If you choose to run away with me, I will tickle you internally
-    G     D
-And I see nothing wrong with that
+[G]  You go down [Em]just like Holy Mary[Bm], Mary on a,[D] Mary on a c[G]ross
+Not just a[Em]nother bloody Mary[Bm], Mary on a,[D] Mary on a c[C]ross
+If you [G]choose to run aw[D]ay with me, I will [Em]tickle [D]you int[C]ernally
+And [G]I see [D]nothing wrong with that
 
 
 [Interlude]
@@ -49,14 +37,10 @@ Em   G D
 
 
 [Verse 3]
-Em                                       G       D
-   We were searching for reasons to play by the rules
-Em                                 G         D
-   But we quickly found out it was just for fools
-Em                                      G       D
-   Now through all the sorrow, we'll be riding high
-Am  C                                      C       Em  Em      D
-    And the truth of the matter is I never let you go, let you go
+[Em]   We were searching for reasons to play [G]by the r[D]ules
+[Em]   But we quickly found out it was [G]just for f[D]ools
+[Em]   Now through all the sorrow, we'll be [G]riding h[D]igh
+[Am]    [C]And the truth of the matter is I never [C]let you [Em]go, [Em]let you [D]go
 
 
 [Link]
@@ -64,30 +48,20 @@ Am  C                                      C       Em  Em      D
 
 
 [Bridge]
-G             Em                 Bm          D           G
-  You go down just like Holy Mary, Mary on a, Mary on a cross
-          Em                Bm          D
-Not just another bloody Mary, Mary on a, Mary on a...
+[G]  You go down [Em]just like Holy Mary[Bm], Mary on a,[D] Mary on a c[G]ross
+Not just a[Em]nother bloody Mary[Bm], Mary on a,[D] Mary on a...
 
 
 [Chorus]
-Em            C                   G          D     B/D#  Em
-  You go down just like Holy Mary, Mary on a, Mary on a cross
-            C                     G          D     B/D#  C
-Your beauty never, ever scared me, Mary on a, Mary on a cross
-       G               D                  Em     D      C
-If you choose to run away with me, I will tickle you internally
-    G     D
-And I see nothing wrong with that
+[Em]  You go down [C]just like Holy Mary,[G] Mary on a,[D] Mary [B/D#]on a c[Em]ross
+Your beauty [C]never, ever scared me,[G] Mary on a,[D] Mary [B/D#]on a c[C]ross
+If you [G]choose to run aw[D]ay with me, I will [Em]tickle [D]you int[C]ernally
+And [G]I see [D]nothing wrong with that
 
 Em  C
 
 [Outro]
-G           D     B/D#   Em           C          G
- (Mary on a, Mary on a cross) Nothing wrong with that
-           D     B/D#   Em           C          G
-(Mary on a, Mary on a cross) Nothing wrong with that
-           D     B/D#   Em   C   G
-(Mary on a, Mary on a cross)
-           D           G
-(Mary on a) Mary on a cross
+[G] (Mary on a,[D] Mary [B/D#]on a cr[Em]oss) Nothing [C]wrong with [G]that
+(Mary on a,[D] Mary [B/D#]on a cr[Em]oss) Nothing [C]wrong with [G]that
+(Mary on a,[D] Mary [B/D#]on a cr[Em]oss) [C] [G]
+(Mary on a)[D] Mary on a c[G]ross
