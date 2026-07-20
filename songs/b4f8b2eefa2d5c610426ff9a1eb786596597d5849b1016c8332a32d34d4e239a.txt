@@ -2,92 +2,54 @@
 Song name: In The Good Old Summertime  by  George Evans
 ----------------------------------------------------------------------
 [Verse 1]
-G            C
-   There's a time in each year that
-C
-we always hold dear,
-F              C
-Good old summertime.
-C
-With the birds and the trees
-C             G7  C
-and sweet scented breeze,
-F        D7    G7
-Good old summertime.
-          C
-When your day's work is over
-C
-then you are in clover,and
-F                     C
-life is one beautiful rhyme,
-   F           C          Am     C
-No trouble annoying, each one is enjoying
-    G          D7   G7
-The good old summer time.
+[G]   There's a [C]time in each year that
+[C]we always hold dear,
+[F]Good old summer[C]time.
+[C]With the birds and the trees
+[C]and sweet scen[G7]ted [C]breeze,
+[F]Good old [D7]summer[G7]time.
+When your [C]day's work is over
+[C]then you are in clover,and
+[F]life is one beautiful [C]rhyme,
+No [F]trouble anno[C]ying, each [Am]one is [C]enjoying
+The [G]good old su[D7]mmer [G7]time.
 
 
 [Chorus]
-        C                C7
-In the good old summertime,
-        F              C
-In the good old summertime,
-                    E7  Am
-Strolling down sha-dy   lane
-D7                  G7
-With my sweet-heart mine.
+In the g[C]ood old summertim[C7]e,
+In the g[F]ood old summert[C]ime,
+Strolling down sha-d[E7]y   [Am]lane
+[D7]With my sweet-heart [G7]mine.
 
 
-   C                         C7
-I hold his hand and he holds mine,
-     F                  C
-And that's a very good sign,
-                     E7
-That he's my tootsey woot-sey
-Am      D7      G7     C
-In the good old summer-time.
+I h[C]old his hand and he holds [C7]mine,
+And t[F]hat's a very good s[C]ign,
+That he's my tootsey [E7]woot-sey
+[Am]In the g[D7]ood old [G7]summer-[C]time.
 
 
 [Verse 2]
-G            C
-  Oh to swim in the pool you'd
-C
-play hooky from school,
-F              C
-Good old summertime.
-C
-You would play "ring-a-rosie"
-C              G7  C
-with Jim, Kate and Josie
-F        D7    G7
-Good old summertime.
-          C
-Those are days full of pleasure
-C
-we now fondly treasure
-F                     C
-when we never thought it a crime
-      F                 C         Am       C
-to go stealing cherries with face brown as berries
-    G          D7   G7
-The good old summer time.
+[G]  Oh to swim [C]in the pool you'd
+[C]play hooky from school,
+[F]Good old summer[C]time.
+[C]You would play "ring-a-rosie"
+[C]with Jim, Kate [G7]and [C]Josie
+[F]Good old [D7]summer[G7]time.
+Those are [C]days full of pleasure
+[C]we now fondly treasure
+[F]when we never thought [C]it a crime
+to go [F]stealing cherries [C]with face [Am]brown as [C]berries
+The [G]good old su[D7]mmer [G7]time.
 
 
 [Chorus]
-        C                C7
-In the good old summertime,
-        F              C
-In the good old summertime,
-                    E7  Am
-Strolling down sha-dy   lane
-D7                  G7
-With my sweet-heart mine.
+In the g[C]ood old summertim[C7]e,
+In the g[F]ood old summert[C]ime,
+Strolling down sha-d[E7]y   [Am]lane
+[D7]With my sweet-heart [G7]mine.
 
 
-   C                         C7
-I hold his hand and he holds mine,
-     F                  C
-And that's a very good sign,
-                     E7
-That he's my tootsey woot-sey
-Am      D7      G7     C
-In the good old summer-time.
+I h[C]old his hand and he holds [C7]mine,
+And t[F]hat's a very good s[C]ign,
+That he's my tootsey [E7]woot-sey
+[Am]In the g[D7]ood old [G7]summer-[C]time.
