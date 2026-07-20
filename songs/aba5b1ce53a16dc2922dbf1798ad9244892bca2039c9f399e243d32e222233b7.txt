@@ -6,104 +6,66 @@ Song name: Must Be Santa  by  Bryan Adams
 
 
 [Verse 1]
-A                     E
-Who's a beard that's long and white
-                            A
-Santa's got a beard that's long and white
-                       E
-Who comes round on a special night
-                         A
-Santa comes round on a special night
-A
-Special night, beard that's white
+[A]Who's a beard that's l[E]ong and white
+Santa's got a beard that's l[A]ong and white
+Who comes round on a sp[E]ecial night
+Santa comes round on a sp[A]ecial night
+[A]Special night, beard that's white
 
 
 [Chorus]
-D         A
- Must be Santa
-         F#m
-Must be Santa
-         E             A
-Must be Santa, Santa Claus
+[D] Must be S[A]anta
+Must be S[F#m]anta
+Must be S[E]anta, Santa Cl[A]aus
 
 
 
 [Verse 2]
-A                      E
-Who wears boots and a suit of red
-                         A
-Santa wears boots and a suit of red
-                     E
-Who wears a long cap on his head
-                       A
-Santa wears a long cap on his head
-A
-Cap on head, suit that's red
-A
-Special night, beard that's white
+[A]Who wears boots and a s[E]uit of red
+Santa wears boots and a s[A]uit of red
+Who wears a long cap [E]on his head
+Santa wears a long cap [A]on his head
+[A]Cap on head, suit that's red
+[A]Special night, beard that's white
 
 
 [Chorus]
-D         A
- Must be Santa
-         F#m
-Must be Santa
-         E             A
-Must be Santa, Santa Claus
+[D] Must be S[A]anta
+Must be S[F#m]anta
+Must be S[E]anta, Santa Cl[A]aus
 
 
 [Verse 3]
-A                      E
-Who's got a big, red cherry nose
-                         A
-Santa's got a big, red cherry nose
-                       E
-Who laughs this way, "ho, ho, ho"
-                         A
-Santa laughs this way, "ho, ho, ho"
-A
-"Ho, ho, ho", cherry nose
-A
-Cap on head, suit that's red
-A
-Special night, beard that's white
+[A]Who's got a big, red ch[E]erry nose
+Santa's got a big, red ch[A]erry nose
+Who laughs this way, "h[E]o, ho, ho"
+Santa laughs this way, "h[A]o, ho, ho"
+[A]"Ho, ho, ho", cherry nose
+[A]Cap on head, suit that's red
+[A]Special night, beard that's white
 
 
 [Chorus]
-D         A
- Must be Santa
-         F#m
-Must be Santa
-         E             A   A#
-Must be Santa, Santa Claus
+[D] Must be S[A]anta
+Must be S[F#m]anta
+Must be S[E]anta, Santa Cl[A]aus [A#]
 
 
 [Verse 3]
-A#                  F
-Who very soon will come our way?
-                     A#
-Santa very soon will come our way
-                       F
-Hey, little reindeer, pull his sleigh
-                          A#
-Santa's little reindeer, pull his sleigh
-A#
-Bring your sleigh, come our way
-A#
-"Ho, ho, ho", cherry nose
-A#
-Cap on head, suit that's red
-A#
-Special night, beard that's white
+[A#]Who very soon will c[F]ome our way?
+Santa very soon will [A#]come our way
+Hey, little reindeer, p[F]ull his sleigh
+Santa's little reindeer, p[A#]ull his sleigh
+[A#]Bring your sleigh, come our way
+[A#]"Ho, ho, ho", cherry nose
+[A#]Cap on head, suit that's red
+[A#]Special night, beard that's white
 
 
 [Chorus]
-D#        A#
- Must be Santa
-         Gm
-Must be Santa
-         F            A#
-Must be Santa, Santa Claus
+[D#] Must be S[A#]anta
+Must be S[Gm]anta
+Must be S[F]anta, Santa C[A#]laus
 
 
 [Instrumental]
@@ -111,43 +73,27 @@ Must be Santa, Santa Claus
 
 
 [Bridge]
-B
- When's Santa coming?
-        E      F#  B
-Christmas Eve!
+[B] When's Santa coming?
+Christma[E]s Eve! [F#] [B]
 
 
 [Verse 4]
-B                F#
-Dasher, Dancer, Prancer, Vixen
-               B
-Comet, Cupid, Donner, Blitzen
-                F#
-Dasher, Dancer, Prancer, Vixen
-               B
-Comet, Cupid, Donner, Blitzen
-B
-Bring your sleigh, come our way
-B
-"Ho, ho, ho", cherry nose
-B
-Cap on head, suit that's red
-B
-Special night, beard that's white
+[B]Dasher, Dancer, P[F#]rancer, Vixen
+Comet, Cupid, D[B]onner, Blitzen
+Dasher, Dancer, [F#]Prancer, Vixen
+Comet, Cupid, D[B]onner, Blitzen
+[B]Bring your sleigh, come our way
+[B]"Ho, ho, ho", cherry nose
+[B]Cap on head, suit that's red
+[B]Special night, beard that's white
 
 
 [Chorus]
-E         B
- Must be Santa
-         G#m
-Must be Santa
-         F#            B
-Must be Santa, Santa Claus
-E         B
- Must be Santa
-         G#m
-Must be Santa
-         F#            B
-Must be Santa, Santa Claus
+[E] Must be S[B]anta
+Must be S[G#m]anta
+Must be S[F#]anta, Santa Cl[B]aus
+[E] Must be S[B]anta
+Must be S[G#m]anta
+Must be S[F#]anta, Santa Cl[B]aus
 N.C.
 (Don't forget Rudolph! Ha-ha!)
