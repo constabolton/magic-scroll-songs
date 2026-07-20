@@ -4,128 +4,77 @@ Song name: 50 Ways To Leave Your Lover  by  Paul Simon
 G6       3x2003        G        355433
 D6       xx0202        D7       xx0212
 Cmaj7    x32000        C5       x355xx
-B7       x21202        Bb       x13331
-Em       022003        D#dim    xx1212
+[B7]Em       022003        [Bb]D#dim    xx1212
 B7-9     x2021x        Gmaj9/F# xx4005
 B+       x2100x        B7b9     x2121x
 Am7      x02213
 
 
 [Verse 1]
-G6              D6               Cmaj7             B7b9
-"The problem is all inside your head," she said to me
-Em              D#dim       Gmaj9/F#      B+
- "The answer is easy if you take it logic'lly.
-Em           D6               Cmaj7          B7b9
- I'd like to help you in your struggle to be free;
-             Em     Am7                 Em
-There must be fifty ways to leave your lover."
+[G6]"The problem is [D6]all inside your h[Cmaj7]ead," she said to [B7b9]me
+[Em] "The answer is [D#dim]easy if you [Gmaj9/F#]take it logic'[B+]lly.
+[Em] I'd like to [D6]help you in your [Cmaj7]struggle to be [B7b9]free;
+There must be[Em] fifty [Am7]ways to leave your l[Em]over."
 
 
 [Verse 2]
-G6               D6            Cmaj7      B7b9
- She said, "It's really not my habit to intrude;
-      Em              D#dim            Gmaj9/F#      B+
-Furthermore I hope my meaning won't be lost or misconstrued.
-           Em         D6      Cmaj7         B7
-But I'll repeat myself at the risk of being crude;
-             Em     Am7                Em
-There must be fifty ways to leave your lover."
-Em     Am7                Em
- Fifty ways to leave your lover."
+[G6] She said, "It's [D6]really not my [Cmaj7]habit to in[B7b9]trude;
+Furthe[Em]rmore I hope my [D#dim]meaning won't be [Gmaj9/F#]lost or miscon[B+]strued.
+But I'll re[Em]peat myself[D6] at the [Cmaj7]risk of being [B7]crude;
+There must be[Em] fifty [Am7]ways to leave your [Em]lover."
+[Em] Fifty [Am7]ways to leave your [Em]lover."
 
 
 [Chorus]
-                  G
-Just slip out the back, Jack.
-           Bb
-Make a new plan, Stan;
-                     C5
-You don't need to be coy, Roy,
-                  G
-Just get yourself free
-           G
-Hop on the bus, Gus;
-                     Bb
-You don't need to discuss much;
-                  C5
-Just drop off the key, Lee.
-                  G
-And get yourself free.
+Just slip out the [G]back, Jack.
+Make a new [Bb]plan, Stan;
+You don't need to be [C5]coy, Roy,
+Just get yourself [G]free
+Hop on the [G]bus, Gus;
+You don't need to dis[Bb]cuss much;
+Just drop off the [C5]key, Lee.
+And get yourself f[G]ree.
 
-                  G
-Just slip out the back, Jack.
-           Bb
-Make a new plan, Stan;
-                     C5
-You don't need to be coy, Roy,
-               G
-Just listen to me
-           G
-Hop on the bus, Gus;
-                     Bb
-You don't need to discuss much;
-                  C5
-Just drop off the key, Lee.
-            G
-And get yourself free.
+Just slip out the [G]back, Jack.
+Make a new [Bb]plan, Stan;
+You don't need to be [C5]coy, Roy,
+Just listen to [G]me
+Hop on the [G]bus, Gus;
+You don't need to dis[Bb]cuss much;
+Just drop off the [C5]key, Lee.
+And get your[G]self free.
 
 
 [Verse 3]
-G6             D6               Cmaj7           B7(b9)
- She said, "It grieves me so to see you in such pain
-                 Em                D#dim Gmaj9/F#        B+
-I wish there was somethin' I could do to make you smile again."
-       Em             D6        Cmaj7              B7
-I said, "I appreciate that, and would you please explain 
-                Em    Am7        Em
-About the fifty ways?"
+[G6] She said, "It [D6]grieves me so to [Cmaj7]see you in such [B7]pain
+I wish there was [Em]somethin' I could [D#dim]do to [Gmaj9/F#]make you smile a[B+]gain."
+I said,[Em] "I appreciate [D6]that, and [Cmaj7]would you please ex[B7]plain 
+About the fifty [Em]ways?"[Am7] [Em]
 
 
 [Verse 4]
-G6              D6                 Cmaj7         B7b9
- She said, "Why don't we both just sleep on it tonight;
-        Em           D#dim            Gmaj9/F#       B+
-And I believe in the morning you'll begin to see the light."
-             Em              D6           Cmaj7        B7b9
-And then she kissed me and I realized she probably was right; 
-             Em     Am7                 Em
-There must be fifty ways to leave your lover."
-Em     Am7                Em
- Fifty ways to leave your lover.
+[G6] She said, "Why [D6]don't we both just [Cmaj7]sleep on it to[B7b9]night;
+And I be[Em]lieve in the [D#dim]morning you'll be[Gmaj9/F#]gin to see the [B+]light."
+And then she [Em]kissed me and I [D6]realized she [Cmaj7]probably was [B7b9]right; 
+There must be[Em] fifty [Am7]ways to leave your l[Em]over."
+[Em] Fifty [Am7]ways to leave your [Em]lover.
 
 
 [Chorus]
-                  G
-Just slip out the back, Jack.
-           Bb
-Make a new plan, Stan;
-                     C5
-You don't need to be coy, Roy,
-                  G
-Just get yourself free
-           G
-Hop on the bus, Gus;
-                     Bb
-You don't need to discuss much;
-                  C5
-Just drop off the key, Lee.
-                  G
-and get yourself free.
+Just slip out the [G]back, Jack.
+Make a new [Bb]plan, Stan;
+You don't need to be [C5]coy, Roy,
+Just get yourself [G]free
+Hop on the [G]bus, Gus;
+You don't need to dis[Bb]cuss much;
+Just drop off the [C5]key, Lee.
+and get yourself f[G]ree.
 
-                  G
-Just slip out the back, Jack.
-           Bb
-Make a new plan, Stan;
-                     C5
-You don't need to be coy, Roy,
-                G
-Just listen to me
-           G
-Hop on the bus, Gus;
-                     Bb
-You don't need to discuss much;
-                  C5
-Just drop off the key, Lee.
-            G
-and get yourself free.
+Just slip out the [G]back, Jack.
+Make a new [Bb]plan, Stan;
+You don't need to be [C5]coy, Roy,
+Just listen to m[G]e
+Hop on the [G]bus, Gus;
+You don't need to dis[Bb]cuss much;
+Just drop off the [C5]key, Lee.
+and get your[G]self free.
