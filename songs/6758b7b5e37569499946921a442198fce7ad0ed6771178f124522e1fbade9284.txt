@@ -9,104 +9,66 @@ A  C5 D5
 
 [Chorus]
 
-D       A
-Bye bye love
-D       A
-Bye bye happiness
-D      A
- Hello loneliness
-              E     A
-I think I'm-a gonna cry-y
+[D]Bye bye [A]love
+[D]Bye bye [A]happiness
+[D] Hello [A]loneliness
+I think I'm-a [E]gonna [A]cry-y
 
-D       A
-Bye bye love
-D       A
-Bye bye sweet caress
-D      A
- Hello emptiness
-            E       A
-I feel like I could die-e
-           E          A
-Bye bye my love goodby-eye
+[D]Bye bye [A]love
+[D]Bye bye [A]sweet caress
+[D] Hello [A]emptiness
+I feel like [E]I could [A]die-e
+Bye bye my [E]love goodby[A]-eye
 
 
 [Verse 1]
 
-N.C.          E                 A
-There goes my baby with someone new
-               E                A    A7
-She sure looks happy, I sure am blue
-           D                    E
-She was my baby till he stepped in
-                                   A
-Goodbye to romance that might have been
+There goes my [E]baby with someone [A]new
+She sure looks [E]happy, I sure am [A]blue [A7]
+She was my [D]baby till he stepped [E]in
+Goodbye to romance that might have [A]been
 
 
 [Chorus]
 
-D       A
-Bye bye love
-D       A
-Bye bye happiness
-D      A
- Hello loneliness
-              E     A
-I think I'm-a gonna cry-y
+[D]Bye bye [A]love
+[D]Bye bye [A]happiness
+[D] Hello [A]loneliness
+I think I'm-a [E]gonna [A]cry-y
 
-D       A
-Bye bye love
-D       A
-Bye bye sweet caress
-D      A
- Hello emptiness
-            E       A
-I feel like I could die-e
-           E          A
-Bye bye my love goodby-eye
+[D]Bye bye [A]love
+[D]Bye bye [A]sweet caress
+[D] Hello [A]emptiness
+I feel like [E]I could [A]die-e
+Bye bye my [E]love goodby[A]-eye
 
 
 [Verse 2]
 
-N.C.             E
-I'm through with romance
-                 A
-I'm through with love
-                 E                  A7
-I'm through with countin' the stars above
-               D                  E
-And here's the reason that I'm so free
-                                 A
-My lovin' baby is a through with me
+I'm through with [E]romance
+I'm through with [A]love
+I'm through with [E]countin' the stars [A7]above
+And here's the [D]reason that I'm so [E]free
+My lovin' baby is a through with [A]me
 
 
 [Chorus]
 
-D       A
-Bye bye love
-D       A
-Bye bye happiness
-D      A
- Hello loneliness
-              E     A
-I think I'm-a gonna cry-y
+[D]Bye bye [A]love
+[D]Bye bye [A]happiness
+[D] Hello [A]loneliness
+I think I'm-a [E]gonna [A]cry-y
 
-D       A
-Bye bye love
-D       A
-Bye bye sweet caress
-D      A
- Hello emptiness
-            E       A
-I feel like I could die-e
-           E          A
-Bye bye my love goodby-eye
+[D]Bye bye [A]love
+[D]Bye bye [A]sweet caress
+[D] Hello [A]emptiness
+I feel like [E]I could [A]die-e
+Bye bye my [E]love goodby[A]-eye
 
 
 [Outro]
 
-     A     E          A
-Bye bye my love goodby-eye
-     A     E          A
-Bye bye my love goodby-eye
+Bye b[A]ye my [E]love goodby[A]-eye
+Bye b[A]ye my [E]love goodby[A]-eye
 
 (repeat and fade)
