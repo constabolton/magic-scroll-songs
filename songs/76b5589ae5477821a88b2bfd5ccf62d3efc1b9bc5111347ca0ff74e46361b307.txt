@@ -12,40 +12,27 @@ Intro:
 C            G7       C
 
 V1
-C                Dm C   Dm   Em F   Em G    G7
-There's a bright golden haze on the meadow!
-C                Dm C   Dm   Em F   Em  C
-There's a bright golden haze on the meadow!
-C   Em   Dm C  Dm   Em F  G F  C     Am
-The corn is as high as an elephant's eye
-       G
-And it looks like it's climbin' clear up to the sky!
+[C]There's a bright [Dm]gol[C]den [Dm]haze [Em]on [F]the [Em]mea[G]dow! [G7]
+[C]There's a bright [Dm]gol[C]den [Dm]haze [Em]on [F]the [Em]mead[C]ow!
+[C]The [Em]corn [Dm]is [C]as [Dm]high [Em]as [F]an [G]el[F]eph[C]ant's [Am]eye
+And it [G]looks like it's climbin' clear up to the sky!
 
 
 Chorus:
-C   Em     C     Em  F  G     C   Em     C     Em  G7
-Oh, what a beautiful mornin'! Oh, what a beautiful day!
-C    Em    C     Em  G7 Am7   C    Em      G7       C
-I've got a beautiful feelin', everything's goin' my way!
+[C]Oh, [Em]what a [C]beauti[Em]ful [F]mor[G]nin'! [C]Oh, [Em]what a [C]beauti[Em]ful [G7]day!
+[C]I've [Em]got a [C]beauti[Em]ful [G7]fee[Am7]lin', [C]every[Em]thing's [G7]goin' my [C]way!
 
 
 V2
-C              Dm C   Dm    Em  F    Em G    G7
-All the sounds of the earth are like music!
-C              Dm C   Dm    Em  F    Em C
-All the sounds of the earth are like music!
-C   Em     Dm C  Dm    Em F     G  F  C Am
-The breeze is so busy, it don't mi-ss a tree,
-       G
-And an old weepin' willow is laughin' at me!
+[C]All the sounds [Dm]of [C]the [Dm]earth [Em]are [F]like [Em]mus[G]ic! [G7]
+[C]All the sounds [Dm]of [C]the [Dm]earth [Em]are [F]like [Em]mus[C]ic!
+[C]The [Em]breeze [Dm]is [C]so [Dm]busy, [Em]it [F]don't [G]mi-[F]ss [C]a [Am]tree,
+And an [G]old weepin' willow is laughin' at me!
 
 
-C   Em     C     Em  F  G     C   Em     C     Em  G7
-Oh, what a beautiful mornin'! Oh, what a beautiful day!
-C    Em    C     Em  G7 Am7   C    Em      G7       C
-I've got a beautiful feelin', everything's goin' my way!
+[C]Oh, [Em]what a [C]beauti[Em]ful [F]mor[G]nin'! [C]Oh, [Em]what a [C]beauti[Em]ful [G7]day!
+[C]I've [Em]got a [C]beauti[Em]ful [G7]fee[Am7]lin', [C]every[Em]thing's [G7]goin' my [C]way!
 
 
 Outro:
-C   G    Em  G7  F  Dm7 C
-Oh, what a   beauty-ful day!    (Slowing)
+[C]Oh, [G]what [Em]a   [G7]beau[F]ty-[Dm7]ful [C]day!    (Slowing)
