@@ -8,84 +8,53 @@ Intro:
 |Cmaj7    |Cmaj7    |Cmaj7    |Cmaj7    |
 
 
-Cmaj7           F6
-Do you know the way to San Jose?
-Cmaj7sus2         Gsus4
-I've been away so long. I may go wrong and lose my way
-Cmaj7           F6
-Do you know the way to San Jose?
-Cmaj7sus2         Gsus4
-I'm going back to find some peace of mind in San Jose
+[Cmaj7]Do you know the [F6]way to San Jose?
+[Cmaj7sus2]I've been away so [Gsus4]long. I may go wrong and lose my way
+[Cmaj7]Do you know the [F6]way to San Jose?
+[Cmaj7sus2]I'm going back to [Gsus4]find some peace of mind in San Jose
 
 
-Em7       Am7
-L.A. is a great big freeway
-Em7            Am7           Em7
-Put a hundred down and buy a car
-C#m7b5           F/C                     Em7/B
-In a week, maybe two, they'll make you a star
-Dm7             G
-Weeks turn into years. How quick they pass
-G           G                G
-And all the stars that never were
-            G                G
-Are parking cars and pumping gas
+[Em7]L.A. is a [Am7]great big freeway
+[Em7]Put a hundred d[Am7]own and buy a [Em7]car
+[C#m7b5]In a week, maybe [F/C]two, they'll make you a [Em7/B]star
+[Dm7]Weeks turn into [G]years. How quick they pass
+[G]And all the [G]stars that never [G]were
+Are parking [G]cars and pumping [G]gas
 
 
-Cmaj7          F6
-You can really breathe in San Jose?
-Cmaj7sus2            Gsus4
-They've got a lot of space. There'll be a place where I can stay
-Cmaj7          F6
-I was born and raised in San Jose
-Cmaj7sus2         Gsus4
-I'm going back to find some peace of mind in San Jose
+[Cmaj7]You can really [F6]breathe in San Jose?
+[Cmaj7sus2]They've got a lot of [Gsus4]space. There'll be a place where I can stay
+[Cmaj7]I was born and [F6]raised in San Jose
+[Cmaj7sus2]I'm going back to [Gsus4]find some peace of mind in San Jose
 
 
-Em7              Am7
-Fame and fortune is a magnet
-Em7             Am7           Em7
-It can pull you far away from home
-C#m7b5               Cmaj7              Em7/B
-With a dream in your heart you're never alone
-Dm7              G              G
-Dreams turn into dust and blow away
-              G             G
-And there you are without a friend
-              G             G
-You pack your car and ride away
+[Em7]Fame and fortune [Am7]is a magnet
+[Em7]It can pull you [Am7]far away from [Em7]home
+[C#m7b5]With a dream in your [Cmaj7]heart you're never [Em7/B]alone
+[Dm7]Dreams turn into [G]dust and blow a[G]way
+And there you [G]are without a [G]friend
+You pack your [G]car and ride a[G]way
 
 
-Cmaj7            F6                   Cmaj7
-I've got lots of friends in San Jose
-Cmaj7           F6                   Cmaj7
-Do you know the way to San Jose?
+[Cmaj7]I've got lots of [F6]friends in San Jose [Cmaj7]
+[Cmaj7]Do you know the [F6]way to San Jose? [Cmaj7]
 
 
 Interlude:
 |Dbmaj7      |Gb6       |Dbmaj7      |Gb6       |Ab         |
 
 
-Fm7       Bbm7
-L.A. is a great big freeway
-Fm7           Bbm7           Fm7
-Put a hundred down and buy a car
-Dm7b5            Gb/Db                   Fm7/C
-In a week, maybe two, they'll make you a star
-Ebm7            Ab
-Weeks turn into years. How quick they pass
-Ab          Ab               Ab
-And all the stars that never were
-            Ab               Ab
-Are parking cars and pumping gas
+[Fm7]L.A. is a [Bbm7]great big freeway
+[Fm7]Put a hundred [Bbm7]down and buy a [Fm7]car
+[Dm7b5]In a week, maybe [Gb/Db]two, they'll make you a [Fm7/C]star
+[Ebm7]Weeks turn into [Ab]years. How quick they pass
+[Ab]And all the [Ab]stars that never [Ab]were
+Are parking [Ab]cars and pumping [Ab]gas
 
 
-Dbmaj7           Gb6                Dbmaj7
-I've got lots of friends in San Jose
-Dbmaj7          Gb6                 Dbmaj7
-Do you know the way to San Jose?
-Dbmaj7            Gb6               Dbmaj7
-Can't wait to get back to San Jose
+[Dbmaj7]I've got lots of [Gb6]friends in San Jose[Dbmaj7]
+[Dbmaj7]Do you know the [Gb6]way to San Jose? [Dbmaj7]
+[Dbmaj7]Can't wait to get [Gb6]back to San Jose [Dbmaj7]
 
 Coda:
 |Dbmaj7    |Dbmaj7    |Dbmaj7    |Dbmaj7    |    repeat and fade
@@ -95,8 +64,7 @@ Coda:
 Chords:
 Name         EADBGe    EADGBe
 Cmaj7        x35453
-Cmaj7sus2    x35433
-C#m7b5       x4545x
+[Cmaj7sus2]C#m7b5       x4545x
 F6           1x323x    xx3535
 Em7/B        x2545x    x2x433
 
