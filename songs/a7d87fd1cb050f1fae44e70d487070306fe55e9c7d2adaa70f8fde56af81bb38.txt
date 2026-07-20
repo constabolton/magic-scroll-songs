@@ -1,0 +1,22 @@
+X:1
+T: Bill Bailey
+C: Howley, Haviland and Dresser
+M: 4/4
+L: 1/16
+K: C
+z2"G6"D2E2G2B2B_B=Bd3-|
+d2D2E2G2B8-|
+B2D2E2G2B4d4|
+"D7"d3A-A4-A8|
+z2c2c4c2cBcd3-|
+d2c2c2B2c8-|
+c2D2^F2A2e4e4|
+"G6"e3B-B4-B8-|
+"G6"B2D2E2G2B2B_B=Bd3-|
+d2D2E2G2B6A2|
+"G7"G2A2B2c2d4f4|
+"C"e16-|
+"C"e2e2_e2=e2"F#dim"^f6e2|
+"G"d2d2^c2d2"E7"=c6B2|
+"Am7"B2A2B2A2"D7"d4B4|
+"G"G16|]
