@@ -2,44 +2,28 @@
 Song name: The Pajama Game - Hernandos Hideaway  by  Misc Soundtrack
 ----------------------------------------------------------------------
 [Verse]
-Cdim    B7  Cdim B7   Cdim  B7
-I       know  a  dark se - clu - ded place,
-  Em
-A place where no one knows your face;
-Cdim    B7  Cdim  B7  Cdim  B7
-A     glass  of  wine, a   fast embrace --
-      Em      B7        Em      B7    Em
-It's called Hernando's Hideaway (o - le!)
+[Cdim]I       [B7]know[Cdim]  a  [B7]dark [Cdim]se - c[B7]lu - ded place,
+A [Em]place where no one knows your face;
+[Cdim]A     gl[B7]ass [Cdim] of  w[B7]ine,[Cdim] a   f[B7]ast embrace --
+It's c[Em]alled He[B7]rnando's H[Em]ideaway [B7](o - l[Em]e!)
 
 
 [Verse]
-B7  Cdim B7 Cdim  B7
-All you see  are  sil - hou - ettes,
-    Em
-And all you hear are castanets,
-Cdim B7 Cdim B7  Cdim  B7
-And  no one cares how late it gets,
-    Em     B7           Em  B7  Em
-Not at Hernando's Hideaway (o - le!)
+[B7]All [Cdim]you s[B7]ee [Cdim] are  [B7]sil - hou - ettes,
+And [Em]all you hear are castanets,
+[Cdim]And  [B7]no [Cdim]one c[B7]ares[Cdim] how l[B7]ate it gets,
+Not [Em]at Hern[B7]ando's Hideaw[Em]ay ([B7]o - [Em]le!)
 
 
 [Bridge]
-B7
-At the golden finger bowl or anyplace you go,
-Em                 E7            Am
-You will meet your uncle Max and ev'ryone you know;
-B7
-But if you go to that spot that I am thinking of,
-F#7            Cdim   F#7          Cdim       B7
-   You will be free      to gaze at me   and talk of love.
+[B7]At the golden finger bowl or anyplace you go,
+[Em]You will meet your [E7]uncle Max and [Am]ev'ryone you know;
+[B7]But if you go to that spot that I am thinking of,
+[F#7]   You will be [Cdim]free   [F#7]   to gaze at[Cdim] me   and t[B7]alk of love.
 
 
 [Verse]
-Cdim B7     Cdim  B7  Cdim  B7
-Just knock three times and whisper low
-     Em
-That you and I were sent by Joe,
-Cdim   B7  Cdim  B7  Cdim  B7
-Then strike a  match and  you will know
-      Em     B7            Em B7   Em
-You're in Hernando's Hideaway (o - le!)
+[Cdim]Just [B7]knock t[Cdim]hree t[B7]imes[Cdim] and w[B7]hisper low
+That [Em]you and I were sent by Joe,
+[Cdim]Then st[B7]rike[Cdim] a  ma[B7]tch [Cdim]and  y[B7]ou will know
+You're[Em] in Her[B7]nando's Hideaw[Em]ay [B7](o - [Em]le!)
