@@ -17,14 +17,10 @@ E|------------------------------------4--------------------------------------|
 
 [Verse 1]
 
-C             Dm              G 
-  I heard you on the wireless back in Fifty-Two
-C         Dm             G
-  Lying awake intent to tuning in on you
-C           Dm              G
-  If I was young it didn't stop you comin' through
-C     Dm     G
-Oh-ah Oh-ah
+[C]  I heard you [Dm]on the wireless [G]back in Fifty-Two
+[C]  Lying aw[Dm]ake intent to t[G]uning in on you
+[C]  If I was y[Dm]oung it didn't s[G]top you comin' through
+[C]Oh-ah [Dm]Oh-ah [G]
 
 
 (Repeat for Verse 2)
@@ -32,26 +28,18 @@ Oh-ah Oh-ah
 
 [Bridge]
 
-C     Dm
-Oh-ah Oh-ah
-G
-    I met your children
-C     Dm
-Oh-ah Oh-ah
-G
-    What did you tell them?
+[C]Oh-ah [Dm]Oh-ah
+[G]    I met your children
+[C]Oh-ah [Dm]Oh-ah
+[G]    What did you tell them?
 
 
 [Chorus 1]
 
-C                F
-Video killed the radio star
-C                F
-Video killed the radio star
-C        G         Am
-Pictures came and broke your heart
-G            Am
-Oh, ah-ah-ah oh
+[C]Video killed the [F]radio star
+[C]Video killed the [F]radio star
+[C]Pictures [G]came and b[Am]roke your heart
+[G]Oh, ah-ah-ah [Am]oh
 
 
 (Verse 3 - as verse 1)
@@ -62,18 +50,12 @@ Oh, ah-ah-ah oh
 
 [Chorus 2]
 
-C                F
-Video killed the radio star
-C                F
-Video killed the radio star
-C      G       Am
-In my mind and in my car
-    C       G           Am
-We can't rewind, we've gone too far
-G            Am
-Oh, ah-ah-ah oh
-G            Am
-Oh, ah-ah-ah oh
+[C]Video killed the [F]radio star
+[C]Video killed the [F]radio star
+[C]In my m[G]ind and [Am]in my car
+We c[C]an't rew[G]ind, we've g[Am]one too far
+[G]Oh, ah-ah-ah [Am]oh
+[G]Oh, ah-ah-ah [Am]oh
 
 
 [Solo]
@@ -105,34 +87,22 @@ E|---------------------------------------------------------------------------|
 
 [Chorus 3]
 
-C                F
-Video killed the radio star
-C                F
-Video killed the radio star
-C      G       Am
-In my mind and in my car
-    C       G           Am
-We can't rewind, we've gone too far
-C         G        Am
-Pictures came and broke your heart
-C         G      Am
-Put the blame on VCR
+[C]Video killed the [F]radio star
+[C]Video killed the [F]radio star
+[C]In my m[G]ind and [Am]in my car
+We c[C]an't rew[G]ind, we've g[Am]one too far
+[C]Pictures c[G]ame and b[Am]roke your heart
+[C]Put the bl[G]ame on [Am]VCR
 
 
 [Ending]
 
-    C  Dm  G
-You are
-        C  Dm  G
-A radio star
-    C  Dm  G
-You are
-        C  Dm  G
-A radio star
-C                F
-Video killed the radio star
-C                F
-Video killed the radio star
+You [C]are[Dm] [G]
+A radio [C]sta[Dm]r [G]
+You [C]are[Dm] [G]
+A radio [C]sta[Dm]r [G]
+[C]Video killed the [F]radio star
+[C]Video killed the [F]radio star
 
 (Repeat to fade)
 
