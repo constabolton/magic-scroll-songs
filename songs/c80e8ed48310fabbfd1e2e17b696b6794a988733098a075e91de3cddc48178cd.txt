@@ -16,44 +16,28 @@ Key C capo 5
 G   G7   C
 
 [Verse 1]
-    A7                 D7
-Anytime you're feeling lonely
-   G7                  C    C7
-Anytime you're feeling blue
-   F                  C
-Anytime you feel down hearted 
-          D7                        G    G7
-That will prove your love for me is true
+Anyt[A7]ime you're feeling [D7]lonely
+Any[G7]time you're feeling [C]blue [C7]
+Any[F]time you feel down [C]hearted 
+That will [D7]prove your love for me is [G]true [G7]
 
 [Chorus]
-C   A7                   D7
-Anytime you're thinking about me
-           G                        E   E7
-That's the time I'll be thinking of you
-      A7               D7
-So anytime you say you want me back again
-           G         G7                C   C
-That's the time I'll come back home to you
+[C]Anyt[A7]ime you're thinking a[D7]bout me
+That's the [G]time I'll be thinking of [E]you [E7]
+So any[A7]time you say you [D7]want me back again
+That's the [G]time I'll [G7]come back home to [C]you [C]
 
 [Verse 2] 
-    A7                  D7
-Anytime your world gets lonely
-        G7                    C   C7
-And you find true friends are few
-   F              C
-Anytime you see a rainbow
-          D    D7                G       G7
-That will be a sign the storm is through
+Anyt[A7]ime your world gets [D7]lonely
+And you [G7]find true friends are [C]few [C7]
+Any[F]time you see a [C]rainbow
+That will [D]be a [D7]sign the storm is [G]through [G7]
 
 [Verse 3]
-C   A7              D         D7
-Anytime will be the right time
-   G                E7
-Anytime at all will do
-       A7              D7
-So anytime you say you want only my love
-           G                           C
-That's the time I'll come back home to you
+[C]Anyt[A7]ime will be the [D]right time[D7]
+Any[G]time at all will [E7]do
+So anyt[A7]ime you say you [D7]want only my love
+That's the [G]time I'll come back home to [C]you
 
 [Solo]
 |  C  |  A7  |  A7  |  D   |  D7  |
@@ -65,11 +49,7 @@ That's the time I'll come back home to you
 |  G  |  G7  |
 
 [Chorus]
-   A7                    D7
-Anytime you're thinking about me
-           G                        E   E7
-That's the time I'll be thinking of you
-      A7               D7
-So anytime you say you want me back again
-           G         G7                C   C
-That's the time I'll come back home to you
+Any[A7]time you're thinking a[D7]bout me
+That's the [G]time I'll be thinking of [E]you [E7]
+So any[A7]time you say you [D7]want me back again
+That's the [G]time I'll [G7]come back home to [C]you [C]
