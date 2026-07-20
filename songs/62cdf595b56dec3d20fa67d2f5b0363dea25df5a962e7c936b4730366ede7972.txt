@@ -11,8 +11,7 @@ It was recorded at a higher speed and then slowed down and it was issued as the
 double A side single with "Paperback Writer".
 
 C      x32010
-Cadd9  x32030
-D      xx0232
+[Cadd9]D      xx0232
 G      320033
 
 
@@ -20,34 +19,22 @@ G      320033
 | G   | G   | G   | G
 
 [Verse 1]
-       G               C       D          G
-If the rain comes they run and hide their heads
-     C        D       G
-They might as well be dead
-       C
-If the rain comes
-       G
-If the rain comes
+If the [G]rain comes they [C]run and [D]hide their [G]heads
+They [C]might as [D]well be [G]dead
+If the [C]rain comes
+If the [G]rain comes
 
 [Verse 2]
-                         C    D        G
-When the sun shines they slip into the shade 
-    C         D    G
-And sip their lemonade
-         C
-When the sun shines
-         G
-When the sun shines
+When the sun shines they [C]slip [D]into the [G]shade 
+And [C]sip their [D]lemon[G]ade
+When the [C]sun shines
+When the [G]sun shines
 
 [Chorus]
-G     Cadd9
-Raaaaaaaain
-         G
-I don't mind
-G     Cadd9
-Shiiiiiiiine
-              G
-The weather's fine
+[G]Raaaaa[Cadd9]aaain
+I don't m[G]ind
+[G]Shiiii[Cadd9]iiiine
+The weather's [G]fine
 
 [Verse 3]
 I can show you that when it starts to rain
@@ -56,14 +43,10 @@ I can show you
 I can show you
 
 [Chorus]
-G     Cadd9
-Raaaaaaaain
-         G
-I don't mind
-G     Cadd9
-Shiiiiiiiine
-              G
-The weather's fine
+[G]Raaaaa[Cadd9]aaain
+I don't m[G]ind
+[G]Shiiii[Cadd9]iiiine
+The weather's [G]fine
 
 [Verse 4]
 Can you hear me that when it rains and shines?
