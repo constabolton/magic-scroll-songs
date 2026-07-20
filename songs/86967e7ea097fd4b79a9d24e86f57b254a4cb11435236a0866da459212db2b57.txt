@@ -8,74 +8,50 @@ E   B   C#m   A
 E   B   G#m   A
 
 [Verse 1]
-E         B               C#m             A
-   Just a small town girl,    livin' in a lonely world
-E               B                    G#m  A
-   She took the midnight train going anywhere
-E         B        C#m                    A
-   Just a city boy,    born and raised in South Detroit
-E              B                    G#m  A
-   He took the midnight train going anywhere
+[E]   Just a [B]small town girl,[C#m]    livin' in a [A]lonely world
+[E]   She took the [B]midnight train going [G#m]anywh[A]ere
+[E]   Just a [B]city boy,[C#m]    born and raised in [A]South Detroit
+[E]   He took the [B]midnight train going [G#m]anywh[A]ere
 
 [Break] (Guitar entrance 4 bars in)
 E   B   C#m   A
 E   B   G#m   A
 
 [Verse 2]
-E                B         C#m                       A
-  A singer in a smoky room,    the smell of wine and cheap perfume
-E                      B                        G#m            A
-  For a smile they can share the night, it goes on and on and on and on
+[E]  A singer in a s[B]moky room,[C#m]    the smell of wine and [A]cheap perfume
+[E]  For a smile they can [B]share the night, it goes [G#m]on and on and o[A]n and on
 
 [Chorus]
-A                 E
-Strangers waitin'   up and down the boulevard
-      A                         E
-Their shadows searchin' in the night
-A                     E
-Streetlights, people,   livin' just to find emotion
-A                         B  E    B  E A
-Hidin', somewhere in the night
+[A]Strangers waitin' [E]  up and down the boulevard
+Their [A]shadows searchin' in the n[E]ight
+[A]Streetlights, people, [E]  livin' just to find emotion
+[A]Hidin', somewhere in the n[B]igh[E]t [B] [E] [A]
 
 [Break]
 E   B   C#m   A
 
 [Verse 3]
-E                  B           C#m           A
-   Workin' hard to get my fill,    everybody wants a thrill
-E                     B                   G#m       A
-   Payin' anything to roll the dice, just one more time
-E              B               C#m                  A
-   Some'll win, some will lose,    some are born to sing the blues
-E                B                   G#m            A
-   Oh, the movie never ends; it goes on and on and on and on
+[E]   Workin' hard to [B]get my fill,[C#m]    everybody [A]wants a thrill
+[E]   Payin' anything to [B]roll the dice, just [G#m]one more t[A]ime
+[E]   Some'll win,[B] some will lose,[C#m]    some are born to [A]sing the blues
+[E]   Oh, the movie [B]never ends; it goes [G#m]on and on and o[A]n and on
 
 [Chorus]
-A                 E
-Strangers waitin'   up and down the boulevard
-      A                         E
-Their shadows searchin' in the night
-A                     E
-Streetlights, people,   livin' just to find emotion
-A                         B  E    B  E A
-Hidin', somewhere in the night
+[A]Strangers waitin' [E]  up and down the boulevard
+Their [A]shadows searchin' in the n[E]ight
+[A]Streetlights, people, [E]  livin' just to find emotion
+[A]Hidin', somewhere in the n[B]igh[E]t [B] [E] [A]
 
 [Guitar Solo]
 E   B   C#m   A
 E   B   G#m   A
 
 [Outro]
-E            B        C#m                 A
-Don't stop believin',     hold on to that feelin'
-E             B             G#m   A
-Streetlights, people, oh-oh-o-------h
-E            B        C#m        A
-Don't stop believin',    hold o-----n
-E             B             G#m   A
-Streetlights, people, oh-oh-o-------h
-E            B        C#m                 A
-Don't stop believin',     hold on to that feelin'
-E             B             G#m   A
-Streetlights, people, oh-oh-o-------h
+[E]Don't stop be[B]lievin', [C#m]    hold on to that [A]feelin'
+[E]Streetlights, [B]people, oh-oh-[G#m]o-----[A]--h
+[E]Don't stop be[B]lievin', [C#m]   hold o--[A]---n
+[E]Streetlights, [B]people, oh-oh-[G#m]o-----[A]--h
+[E]Don't stop be[B]lievin', [C#m]    hold on to that [A]feelin'
+[E]Streetlights, [B]people, oh-oh-[G#m]o-----[A]--h
 
 (Fade out)
