@@ -3,120 +3,80 @@ Song name: All Together Now  by  The Beatles
 ----------------------------------------------------------------------
 [Verse 1]
 
-G
-One, two, three, four
-D7
-Can I have a little more?
-G                              D7           G
-Five, six, seven, eight, nine, ten, I love you
+[G]One, two, three, four
+[D7]Can I have a little more?
+[G]Five, six, seven, eight, nine, [D7]ten, I love y[G]ou
 
 
 [Verse 2]
 
 G
 A, B, C, D
-D7
-Can I bring my friend to tea?
-G              D7        G
-E, F, G, H, I, J, I love you
+[D7]Can I bring my friend to tea?
+[G]E, F, G, H, I, [D7]J, I love [G]you
 
 
 [Pre-Chorus]
 
 Boom boom boom
- C
-(Boom boom boom) Sail the ship
- G
-(Boom boom boom) Chop the tree
- C
-(Boom boom boom) Skip the rope
- D
-(Boom boom boom) Look at me (All together now)
+([C]Boom boom boom) Sail the ship
+([G]Boom boom boom) Chop the tree
+([C]Boom boom boom) Skip the rope
+([D]Boom boom boom) Look at me (All together now)
 
 
 [Chorus]
 
-G
-All together now (All together now)
-G
-All together now (All together now)
-D7
-All together now (All together now)
-G
-All together now (All together now)
+[G]All together now (All together now)
+[G]All together now (All together now)
+[D7]All together now (All together now)
+[G]All together now (All together now)
 
 
 [Verse 3]
 
-G
-Black, white, green, red
-D7
-Can I take my friend to bed?
-G                               D7            G
-Pink, brown, yellow, orange and blue, I love you
+[G]Black, white, green, red
+[D7]Can I take my friend to bed?
+[G]Pink, brown, yellow, orange and [D7]blue, I love y[G]ou
 
 (All together now)
 
 
 [Chorus]
 
-G
-All together now (All together now)
-G
-All together now (All together now)
-D7
-All together now (All together now)
-G
-All together now (All together now)
+[G]All together now (All together now)
+[G]All together now (All together now)
+[D7]All together now (All together now)
+[G]All together now (All together now)
 
-G
-All together now (All together now)
-G
-All together now (All together now)
-D7
-All together now (All together now)
-G
-All together now
+[G]All together now (All together now)
+[G]All together now (All together now)
+[D7]All together now (All together now)
+[G]All together now
 
 
 [Pre-Chorus]
 
 Boom boom boom
- C
-(Boom boom boom) Sail the ship
- G
-(Boom boom boom) Chop the tree
- C
-(Boom boom boom) Skip the rope
- D
-(Boom boom boom) Look at me (All together now)
+([C]Boom boom boom) Sail the ship
+([G]Boom boom boom) Chop the tree
+([C]Boom boom boom) Skip the rope
+([D]Boom boom boom) Look at me (All together now)
 
 
 [Chorus]
 
-G
-All together now (All together now)
-G
-All together now (All together now)
-D7
-All together now (All together now)
-G
-All together now (All together now)
+[G]All together now (All together now)
+[G]All together now (All together now)
+[D7]All together now (All together now)
+[G]All together now (All together now)
 
-G
-All together now (All together now)
-G
-All together now (All together now)
-D7
-All together now (All together now)
-G
-All together now (All together now)
+[G]All together now (All together now)
+[G]All together now (All together now)
+[D7]All together now (All together now)
+[G]All together now (All together now)
 
-G
-All together now (All together now)
-G
-All together now (All together now)
-D7
-All together now (All together now)
-D7           G
-All together now
+[G]All together now (All together now)
+[G]All together now (All together now)
+[D7]All together now (All together now)
+[D7]All together [G]now
