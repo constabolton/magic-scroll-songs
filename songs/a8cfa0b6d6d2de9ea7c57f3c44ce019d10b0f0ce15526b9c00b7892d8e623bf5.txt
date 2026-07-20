@@ -12,22 +12,15 @@ C F C E F
 | G  | D  | Bbdim | G  | N.C.
 
 [Verse 1]
-   G       D              A             Em
-If memory serves us, then who owns the master
-G          D             F#7         G
-How do we know who's projecting this reel
-    G          D             A            Em
-And is it like gruel or like quick drying plaster
-G            D            F#7             G
-Tell me how long til the paint starts to peel
+If [G]memory s[D]erves us, then [A]who owns the m[Em]aster
+[G]How do we k[D]now who's proj[F#7]ecting this [G]reel
+And [G]is it like [D]gruel or like [A]quick drying [Em]plaster
+[G]Tell me how l[D]ong til the p[F#7]aint starts to p[G]eel
 
 [Bridge 1]
-             Em         Bm         F#7             Bm
-Is it like Pyramus or Apollo or an archer we don't know
-       Em         Bm               F#7               G
-Though history repeats itself, and time's a crooked bow
-                                   Bm   A
-Come on tell us something we don't know
+Is it like Py[Em]ramus or Ap[Bm]ollo or an [F#7]archer we don't [Bm]know
+Though [Em]history rep[Bm]eats itself, and [F#7]time's a crooked b[G]ow
+Come on tell us something we don't [Bm]know [A]
 
 [Instrumental]
 (2/4)
@@ -37,43 +30,27 @@ Come on tell us something we don't know
 | G  | D  | F#7 | G  | G
 
 [Verse 2]
-    G               D           A         Em
-Now who's the best boy and the casting director
-        G     D              F#7            G
-And the editor splicing your face from the scene
-     G           D          A       Em
-It's all in the hands of a lazy projector
-        G            D          F#7      G
-That forgetting, embellishing, lying machine
-        G            D          F#7   G
-That forgetting, embellishing, lying machine
+Now [G]who's the best b[D]oy and the c[A]asting dir[Em]ector
+And the [G]editor[D] splicing your [F#7]face from the s[G]cene
+It's [G]all in the h[D]ands of a l[A]azy proj[Em]ector
+That for[G]getting, embe[D]llishing, l[F#7]ying mach[G]ine
+That for[G]getting, embe[D]llishing, l[F#7]ying m[G]achine
 
 [Instrumental]
 (4/4)
 | D    | G    | x6
 
 [Bridge 2]
-                  D
-They say all good things must come to an end
-      G
-Every day the night must fall
-D                          G
- How it all came to this, I simply can't recall
-         D
-Too many cooks in the kitchen
-G
- How the mighty must fall
-    D                           G
-But I can't see the sense in us breaking up at all
-    D                           G
-Oh, I can't see the sense in us breaking up at all
-    D                           G
-Oh, I can't see the sense in us breaking up at all
-E7              A7
-Breaking up at all
+They say all good [D]things must come to an end
+Every [G]day the night must fall
+[D] How it all came to this, I[G] simply can't recall
+Too many [D]cooks in the kitchen
+[G] How the mighty must fall
+But [D]I can't see the sense in us [G]breaking up at all
+Oh, [D]I can't see the sense in us [G]breaking up at all
+Oh, [D]I can't see the sense in us [G]breaking up at all
+[E7]Breaking up at a[A7]ll
 
 [Outro]
-         G           D          A         Em
-And it's all in the hands of a lazy projector
-        G            D          F#7     G
-That forgetting, embellishing, lying machine
+And it's [G]all in the h[D]ands of a l[A]azy projec[Em]tor
+That for[G]getting, embe[D]llishing, l[F#7]ying mac[G]hine
