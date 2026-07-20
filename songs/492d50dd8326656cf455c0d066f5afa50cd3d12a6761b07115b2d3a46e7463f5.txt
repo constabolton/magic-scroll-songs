@@ -1,0 +1,80 @@
+----------------------------------------------------------------------
+Song name: Well All Right  by  Buddy Holly
+----------------------------------------------------------------------
+Note: When I say "walk" there is a riff Buddy plays in and out of the chording
+and it goes A C D the first time and A B D the second (see Intro). 
+These are the notes which you pluck between the chords in Intro, Verse Interlude and Coda.
+
+[Intro]
+            | D C | D | 
+(walk1: a c d) 
+            | D A | D |
+(walk2: a b d)
+
+[Verse]
+         D        C         D
+Well all right so I'm being foolish
+         D         A      D
+Well all right let people know
+          D          C        D
+About the dreams and wishes you wish
+       D          A          D
+In the night when lights are low
+
+[Chorus]
+         G              A
+Well all right Well all right
+      D        C         D
+We'll live and love with all our might
+         G              A
+Well all right Well all right
+    D         C         D
+Our life time love will be all right
+
+[Interlude]
+          | D C | D |          D A | D | 
+(walk1: a c d)      (walk2: a b d)
+         | D C | D |          D A | D | 
+(walk1: a c d)      (walk2: a b d)
+
+[Verse]
+         D        C         D
+Well all right so I'm going steady
+         D           A    D
+It's all right when people say
+           D       C             D
+That those foolish kids can't be ready
+        D          A          D
+For the love that comes their way
+
+[Chorus]
+         G              A
+Well all right Well all right
+      D        C         D
+We'll live and love with all our might
+         G              A
+Well all right Well all right
+    D         C         D
+Our life time love will be all right
+
+[Interlude]
+          | D C | D |          D A | D | 
+(walk1: a c d)      (walk2: a b d)
+         | D C | D |          D A | D | 
+(walk1: a c d)      (walk2: a b d)
+
+[Chorus]
+         G              A
+Well all right Well all right
+      D        C         D
+We'll live and love with all our might
+         G              A
+Well all right Well all right
+    D         C         D
+Our life time love will be all right
+
+[Coda]
+          | D C | D |          D A | D | 
+(walk1: a c d)      (walk2: a b d)
+         | D C | D |          D A | D D D 
+(walk1: a c d)      (walk2: a b d)
