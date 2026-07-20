@@ -2,26 +2,17 @@
 Song name: L-O-V-E  by  Nat King Cole
 ----------------------------------------------------------------------
 [Verse]
-G    Em7                Am7    D7
-L is for the way you look at me
-Am7  D7            G
-O is for the only one I see
-G7             C
-V is very, very extraordinary
-A    A7            D    A7      D7
-E is even more than anyone that you adore can
+[G]L is [Em7]for the way you loo[Am7]k at me[D7]
+[Am7]O is [D7]for the only o[G]ne I see
+[G7]V is very, very[C] extraordinary
+[A]E is [A7]even more than[D] anyo[A7]ne that [D7]you adore can
 
 [Chorus]
-G       Em7            Am7       D7
-Love is all that I can   give to you
-Am7      D7              G
-Love is more than just a game for two
-G7
-Two in love can make it
-C                  C#dim
-Take my heart and please dont break it
-G        D7                G     Ab
-Love was made for me and you
+[G]Love is [Em7]all that I can [Am7]  give to [D7]you
+[Am7]Love is m[D7]ore than just a [G]game for two
+[G7]Two in love can make it
+[C]Take my heart and p[C#dim]lease dont break it
+[G]Love was [D7]made for me and yo[G]u [Ab]
 
 [Instrumental Break]
 Ab   Fm7  Bbm7  Eb7
@@ -31,27 +22,16 @@ Db
 Ab  Eb7    Ab  A
 
 [Verse]
-A     F#m7          Bm7       E7
-L is for the way you  look at me
-Bm7  E7           A
-O is for the only one I see
-A7             D
-V is very, very extraordinary
-B7                  E               E7
-E is even more than anyone that you adore can
+[A]L is f[F#m7]or the way you[Bm7]  look at [E7]me
+[Bm7]O is [E7]for the only [A]one I see
+[A7]V is very, very[D] extraordinary
+[B7]E is even more than [E]anyone that you [E7]adore can
 
 [Chorus]
-A       F#m7          Bm7        E7
-Love is all that I can   give to you
-Bm7      E7               A
-Love is more than just a game for two
-A7                     
-Two in love can make it
-D                  D#dim
-Take my heart and please don't break it
-A        E7              A
-Love was made for me and you
-A        E7              A
-Love was made for me and you
-A        E7              A G F# F E A
-Love was made for me and you
+[A]Love is [F#m7]all that I can[Bm7]   give to [E7]you
+[Bm7]Love is m[E7]ore than just a g[A]ame for two
+[A7]Two in love can make it
+[D]Take my heart and p[D#dim]lease don't break it
+[A]Love was [E7]made for me and [A]you
+[A]Love was [E7]made for me and [A]you
+[A]Love was [E7]made for me and [A]yo[G]u [F#] [F] [E] [A]
