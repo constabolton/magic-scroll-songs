@@ -3,75 +3,52 @@ Song name: Fly Like An Eagle  by  Steve Miller Band
 ----------------------------------------------------------------------
 [Verse 1]
 
-Am                                C  D
-Tick, tock, tick, do- do- doo-doo 
-Am                                C  D
-Tick, tock, tick, do- do- doo-doo
-Am                              C       D          Am     C  D
-Time keeps on slippin' slippin' slippin'  into the future 
-Am                              C       D          Am     C  D
-Time keeps on slippin' slippin' slippin'  into the future 
+[Am]Tick, tock, tick, do- do- doo-doo [C] [D]
+[Am]Tick, tock, tick, do- do- doo-doo [C] [D]
+[Am]Time keeps on slippin' slippin' [C]slippin'[D]  into the [Am]future [C] [D]
+[Am]Time keeps on slippin' slippin' [C]slippin'[D]  into the [Am]future [C] [D]
 
 
 [Chorus]
 
-D       Am          D    Dm7         Am
-I wanna fly like an eagle,    to the sea.
-Am          D             Dm7          Am                        D    Dm7
-Fly like an eagle, let my spirit carry me, I want to fly like an eagle,
-Dm7      Am     Am        D               Dm7   Am 
-'til I'm free.  Fly right through the revolution.
+[D]I wanna [Am]fly like an [D]eagle[Dm7],    to the [Am]sea.
+[Am]Fly like an [D]eagle, let my [Dm7]spirit carry [Am]me, I want to fly like an [D]eagle[Dm7],
+[Dm7]'til I'm [Am]free.  [Am]Fly right [D]through the revo[Dm7]lution[Am].
 
 
 [Verse 2]
 
-Am                   C                    D
-Feed the babies, who don't have enough to eat, 
-D        Am                C              D
-shoe the children, with no shoes on their feet.
-D         Am      C             D
-House the people, livin' in the streets.
-Am                C     D
-Oh--  there's a solution.
+[Am]Feed the babies, who [C]don't have enough to [D]eat, 
+[D]shoe the [Am]children, with no [C]shoes on their [D]feet.
+[D]House the [Am]people, [C]livin' in the [D]streets.
+[Am]Oh--  there's a so[C]lution[D].
 
 
 [Chorus]
 
-D       Am          D    Dm7         Am
-I wanna fly like an eagle,    to the sea.
-Am          D             Dm7          Am                        D    Dm7
-Fly like an eagle, let my spirit carry me, I want to fly like an eagle,
-Dm7      Am     Am        D               Dm7   Am 
-'til I'm free.  Fly right through the revolution.
+[D]I wanna [Am]fly like an [D]eagle[Dm7],    to the [Am]sea.
+[Am]Fly like an [D]eagle, let my [Dm7]spirit carry [Am]me, I want to fly like an [D]eagle[Dm7],
+[Dm7]'til I'm [Am]free.  [Am]Fly right [D]through the revo[Dm7]lution[Am].
 
 
 [Verse 3]
 
-Am                                C  D
-Tick, tock, tick, do- do- doo-doo 
-Am                                C  D
-Tick, tock, tick, do- do- doo-doo
-Am                              C       D          Am     C  D
-Time keeps on slippin' slippin' slippin'  into the future 
-Am                              C       D          Am     C  D
-Time keeps on slippin' slippin' slippin'  into the future 
+[Am]Tick, tock, tick, do- do- doo-doo [C] [D]
+[Am]Tick, tock, tick, do- do- doo-doo [C] [D]
+[Am]Time keeps on slippin' slippin' [C]slippin'[D]  into the [Am]future [C] [D]
+[Am]Time keeps on slippin' slippin' [C]slippin'[D]  into the [Am]future [C] [D]
 
 
 [Chorus]
 
-D       Am          D    Dm7         Am
-I wanna fly like an eagle,    to the sea.
-Am          D             Dm7          Am                        D    Dm7
-Fly like an eagle, let my spirit carry me, I want to fly like an eagle,
-Dm7      Am     Am        D               Dm7   Am 
-'til I'm free.  Fly right through the revolution.
+[D]I wanna [Am]fly like an [D]eagle[Dm7],    to the [Am]sea.
+[Am]Fly like an [D]eagle, let my [Dm7]spirit carry [Am]me, I want to fly like an [D]eagle[Dm7],
+[Dm7]'til I'm [Am]free.  [Am]Fly right [D]through the revo[Dm7]lution[Am].
 
 
 [Outro]
 
-Am                                C  D
-Tick, tock, tick, do- do- doo-doo 
-Am                                C  D
-Tick, tock, tick, do- do- doo-doo
+[Am]Tick, tock, tick, do- do- doo-doo [C] [D]
+[Am]Tick, tock, tick, do- do- doo-doo [C] [D]
 
 (fade out)
