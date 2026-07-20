@@ -5,38 +5,26 @@ Song name: One Meatball  by  Josh White
 Am Am/G F7 E7 x2
 
 [Verse 1]
-Am                  E7
-A little man walked up and down,
-                            Am
-He found an eating place in town,
-            Am7  Dm
-He read the menu through and through,
-E7
-To see what fifteen cents could do.
+[Am]A little man walked [E7]up and down,
+He found an eating place in [Am]town,
+He read the [Am7]menu [Dm]through and through,
+[E7]To see what fifteen cents could do.
 
 
 [Chorus]
-Am      Am/G F7 E7  Am      Am/G F7 E7
-One meatball,       one meatball,
-Am        Am/G  F7  E7      Am      Am/G F7 E7
-He could afford but one meatball.
+[Am]One meat[Am/G]ball,[F7]   [E7]    [Am]one meat[Am/G]ball,[F7] [E7]
+[Am]He could a[Am/G]fford [F7]but [E7]one meat[Am]ball. [Am/G] [F7] [E7]
 
 [Verse 2]
-Am                  E7
-He told that waiter near at hand,
-                  Am
-The simple dinner he had planned.
-                Am7      Dm
-The guests were startled one and all,
-E7
-To hear that waiter loudly call.
+[Am]He told that waiter [E7]near at hand,
+The simple dinner [Am]he had planned.
+The guests were [Am7]startled [Dm]one and all,
+[E7]To hear that waiter loudly call.
 
 
 [Chorus]
-Am      Am/G F7 E7  Am      Am/G F7 E7
-One meatball,       one meatball,
-Am        Am/G  F7  E7      Am      Am/G F7 E7
-He can   afford but one meatball.
+[Am]One meat[Am/G]ball,[F7]   [E7]    [Am]one meat[Am/G]ball,[F7] [E7]
+[Am]He can   a[Am/G]fford [F7]but [E7]one meat[Am]ball. [Am/G] [F7] [E7]
 
 
 [Solo 1]
@@ -45,21 +33,15 @@ Am Am/G F7 E7 Am Am/G F7 E7 x2
 
 
 [Verse 3]
-Am                  E7
-Little man felt so ill at ease,
-                            Am
-He said: "Some bread Sir, if you please."
-           Am7      Dm
-The waiter hollered down the hall:
-E7
-You get no bread with your one meat ball.
+[Am]Little man felt so i[E7]ll at ease,
+He said: "Some bread Sir, if[Am] you please."
+The waiter [Am7]hollered [Dm]down the hall:
+[E7]You get no bread with your one meat ball.
 
 
 [Chorus]
-Am      Am/G F7 E7  Am      Am/G F7 E7
-One meatball,       one meatball,
-Am        Am/G  F7  E7    Am      Am/G F7 E7
-He can afford but one meatball.
+[Am]One meat[Am/G]ball,[F7]   [E7]    [Am]one meat[Am/G]ball,[F7] [E7]
+[Am]He can aff[Am/G]ord bu[F7]t on[E7]e meat[Am]ball. [Am/G] [F7] [E7]
 
 
 [Solo 2]
@@ -68,21 +50,15 @@ Am Am/G F7 E7 Am Am/G F7 E7 x2
 
 
 [Verse]
-Am                  E7
-Little man felt so very bad,
-                            Am
-One meat ball is all he had.
-           Am7                 Dm
-And in his dreams he can still hear that call
-E7
-You get no bread with your one meat ball.
+[Am]Little man felt so v[E7]ery bad,
+One meat ball is all he had.[Am]
+And in his [Am7]dreams he can still [Dm]hear that call
+[E7]You get no bread with your one meat ball.
 
 
 [Chorus]
-Am      Am/G F7 E7  Am      Am/G F7 E7
-One meatball,       one meatball,
-Am        Am/G  F7  E7        Am      Am/G F7 E7
-He could afford but one meatball.
+[Am]One meat[Am/G]ball,[F7]   [E7]    [Am]one meat[Am/G]ball,[F7] [E7]
+[Am]He could a[Am/G]fford [F7]but [E7]one meatba[Am]ll. [Am/G] [F7] [E7]
 
 
 (Music written by Louis C. Singer, lyrics written by Hy Zaret, publication date 1944)
