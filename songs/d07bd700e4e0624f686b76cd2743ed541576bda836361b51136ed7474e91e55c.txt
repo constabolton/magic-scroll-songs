@@ -23,80 +23,48 @@ A|---------------------|
 E|---------------------|
 
 [Verse]
-C      Am                 G
-  Oh   thinking about our younger years
-          Dm           Am
-There was only you and me
-         Bb                 G
-We were young and wild and free
-C     Am                    G
-  Now nothing can take you away from me
-           Dm               Am
-We've been down that road before
-            Bb     Bb/A
-But that's over now
-            G
-You keep me coming back for more
+[C]  Oh   [Am]thinking about our [G]younger years
+There was [Dm]only you and [Am]me
+We were y[Bb]oung and wild and f[G]ree
+[C]  Now [Am]nothing can take you a[G]way from me
+We've been [Dm]down that road be[Am]fore
+But that's o[Bb]ver now[Bb/A]
+You keep me [G]coming back for more
 
 [Chorus]
-F           G          Am
-Baby you're all that I want
-            C                F
-When you're lying here in my arms
-    F          G         Am             G
-I'm finding it hard to believe we're in heaven
-    F       G          Am
-And love is all that I need
-      C                      F
-And I found it there in your heart
-    F         G      Am              G
-It isn't too hard to see we're in heaven
+[F]Baby you're [G]all that I [Am]want
+When you're [C]lying here in my [F]arms
+I'm [F]finding it [G]hard to be[Am]lieve we're in [G]heaven
+And [F]love is [G]all that I [Am]need
+And I [C]found it there in your [F]heart
+It i[F]sn't too h[G]ard to [Am]see we're in hea[G]ven
 
 C      Am     G  F
 
 [Verse]
-C      Am                       G
-   Oh, once in your life, you find someone
-         Dm               Am
-Who will turn your world around
-          Bb                     G
-Bring you up when you're feelin' down
-C       Am                          G
-  Yeah, nothing can change what you mean to me
-             Dm                Am
-Ohh, there's lots that I could say
-         Bb          Bb/A
-But just hold me now
-            G
-'Cause our love will light the way
+[C]   Oh, [Am]once in your life, you fi[G]nd someone
+Who will [Dm]turn your world a[Am]round
+Bring you [Bb]up when you're feelin' [G]down
+[C]  Yeah, [Am]nothing can change what you [G]mean to me
+Ohh, there's [Dm]lots that I could [Am]say
+But just [Bb]hold me now [Bb/A]
+'Cause our l[G]ove will light the way
 
 [Chorus]
-    F           G          Am
-And baby you're all that I want
-            C                F
-When you're lying here in my arms
-    F          G         Am             G
-I'm finding it hard to believe we're in heaven
-      F       G          Am
-Yeah, love is all that I need
-      C                      F
-And I found it there in your heart
-   F         G       Am           G        G
-It isn't too hard to see we're in heaven, yes
+And [F]baby you're [G]all that I [Am]want
+When you're [C]lying here in my [F]arms
+I'm [F]finding it [G]hard to be[Am]lieve we're in [G]heaven
+Yeah, [F]love is [G]all that I [Am]need
+And I [C]found it there in your [F]heart
+It [F]isn't too [G]hard to [Am]see we're in [G]heaven, y[G]es
 
 [Bridge]
-Dm                  C/E    F
-  I've been waiting for so long
-     F        G   Am
-For something to arrive
-                     G/B
-For love to come along
-C Dm                   C/E      F
-    Now our dreams are coming true
-                              C
-Through the good times and the bad
-              Gsus4             G
-Yeah, I'll be standing there by you
+[Dm]  I've been waiting [C/E]for so [F]long
+For s[F]omething [G]to a[Am]rrive
+For love to come alon[G/B]g
+[C]  [Dm]  Now our dreams are [C/E]coming tr[F]ue
+Through the good times and the[C] bad
+Yeah, I'll be [Gsus4]standing there by [G]you
 
 [Solo]
 | F G Am    | C F |
@@ -117,24 +85,16 @@ A|-----------------|--------------|
 E|-----------------|--------------|
 
 [Chorus]
-    F           G          Am
-And baby you're all that I want
-            C                F
-When you're lying here in my arms
-    F          G         Am             G
-I'm finding it hard to believe we're in heaven
-    F       G          Am
-And love is all that I need
-      C                      F
-And I found it there in your heart
-    F         G      Am           G
-It isn't too hard to see we're in heaven, heaven
+And [F]baby you're [G]all that I [Am]want
+When you're [C]lying here in my [F]arms
+I'm [F]finding it [G]hard to be[Am]lieve we're in [G]heaven
+And [F]love is [G]all that I [Am]need
+And I [C]found it there in your [F]heart
+It i[F]sn't too h[G]ard to [Am]see we're in [G]heaven, heaven
 
 [Outro]
-F    G  Am      C  F
-Whoa oh oh..
-       F          G            Am                G
-You're all that I want, you're all that I need
+[F]Whoa [G]oh [Am]oh.. [C] [F]
+You're [F]all that I [G]want, you're [Am]all that I need [G]
 
 F    G  Am      C  F
 F    G  Am      G
