@@ -64,12 +64,9 @@ riff1
 riff2      riff1           riff2
 And I howled at my ma in the driving rain,
 riff1
-D                 A       E             B
-But it's all right now, in fact, it's a gas!
-D            A      E           
-But it's all right. I'm Jumpin' Jack Flash,
-       B
-It's a gas! Gas! Gas!
+[D]But it's all right[A] now, in[E] fact, it's a [B]gas!
+[D]But it's all [A]right. [E]I'm Jumpin' Jack Flash,
+It's a [B]gas! Gas! Gas!
 
 riff1 riff2 riff1
 riff2      riff1           riff2
@@ -78,12 +75,9 @@ riff1
 riff2      riff1           riff2
 I was schooled with a strap right across my back,
 riff1
-D                 A       E             B
-But it's all right now, in fact, it's a gas!
-D            A      E           
-But it's all right, I'm Jumpin' Jack Flash,
-       B
-It's a gas! Gas! Gas!
+[D]But it's all right[A] now, in[E] fact, it's a [B]gas!
+[D]But it's all [A]right, [E]I'm Jumpin' Jack Flash,
+It's a [B]gas! Gas! Gas!
 
 intro (many times)
 riff1 riff2 riff1
@@ -99,9 +93,6 @@ riff1
 riff2      riff1           riff2
 I was crowned with a spike right thru my head.
 riff1
-D                 A       E             B
-But it's all right now, in fact, it's a gas!
-D            A      E           
-But it's all right, I'm Jumpin' Jack Flash,
-       B
-It's a gas! Gas! Gas!
+[D]But it's all right[A] now, in[E] fact, it's a [B]gas!
+[D]But it's all [A]right, [E]I'm Jumpin' Jack Flash,
+It's a [B]gas! Gas! Gas!
