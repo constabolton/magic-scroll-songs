@@ -35,26 +35,20 @@ Whisp’ring to the sun-lit shore
 
 [Verse 1]
 
-D7                     D7  Db7  C7
-Up a lazy river by the old mill run
+[D7]Up a lazy river by the [D7]old [Db7]mill [C7]run
 
-     G7                      G7   Ab7 G7
-That lazy, lazy river in the noon-day sun
+That [G7]lazy, lazy river in the [G7]noon-[Ab7]day [G7]sun
 
-C7                       C7   Db7 C7
-Linger in the shade of a kind old tree
+[C7]Linger in the shade of a [C7]kind [Db7]old [C7]tree
 
-F               Gm7  C7           F6               A7
-Throw away your troubles, dream a dream with me
+[F]Throw away your [Gm7]troub[C7]les, dream a [F6]dream with me [A7]
 
 
 [Verse 2]
 
-D7                         D7 Db7   C7
-Up a lazy river, where the ro-bin's song
+[D7]Up a lazy river, where the [D7]ro-[Db7]bin's [C7]song
 
-G7                                 G7   Ab7 G7
-Awakes a bright new morning we can loaf al--ong
+[G7]Awakes a bright new morning we can [G7]loaf [Ab7]al--[G7]ong
 
 Bb            Bdim7  F             D7*
 Blue skies up above, everyone's in love
@@ -62,5 +56,4 @@ Blue skies up above, everyone's in love
 G7           C7         F             D7*
 Up that lazy river, how happy you can be
 
-G7      C7              F
-Up that lazy river with me
+[G7]Up that [C7]lazy river with [F]me
