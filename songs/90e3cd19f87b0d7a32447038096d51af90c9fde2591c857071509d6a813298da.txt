@@ -2,38 +2,22 @@
 Song name: All Of Me  by  Frank Sinatra
 ----------------------------------------------------------------------
 [Verse]
-C
-All of me
-             E7
-Why not take all of me?
-A7
-Can't you see,
-                Dm
-I'm no good without you?
-E7
-Take my lips
-          Am7
-I want to lose them
-D7
-Take my arms
-           Dm  G7
-I'll never use them
-C
-Your goodbye
-             E7
-Left me with eyes that cry
-A7
-How can I
-              Dm
-Get along without you?
-F           Fm
-You took the part
-     C      E7   A7
-That once was my heart
-Dm           G7
-So why not, why not
-            C E7 Dm G7
-Take all of me?
+[C]All of me
+Why not take [E7]all of me?
+[A7]Can't you see,
+I'm no good with[Dm]out you?
+[E7]Take my lips
+I want to [Am7]lose them
+[D7]Take my arms
+I'll never [Dm]use [G7]them
+[C]Your goodbye
+Left me with [E7]eyes that cry
+[A7]How can I
+Get along with[Dm]out you?
+[F]You took the[Fm] part
+That [C]once wa[E7]s my [A7]heart
+[Dm]So why not, w[G7]hy not
+Take all of [C]me[E7]? [Dm] [G7]
 
 e|-----x-----|
 B|-----7-----|
@@ -42,35 +26,19 @@ D|-----7-----|
 A|-----6-----|
 E|-----x-----|
 
-Cmaj7
-All of me
-            E7
-Come on get all of me
-A7
-Can't you see,
-                Dm7
-I'm just a mess without you
-E7
-Take my lips
-          Am7
-I want to lose them
-D7
-Get a piece of these arms
-           Dm7     G7
-I'll never use them
-Cmaj7
-Your goodbye
-             E7
-Left me with eyes that cry
-A7
-How can I
-                Dm7
-Ever make it without you?
-F                    Fm7
-You know you got the part
-Cmaj7      E7      A7
-That used to be my heart
-Dm7                 G7
-So why not, why not
-           Cmaj7 Ebdim7 Dm7 G7
-Take all of me?
+[Cmaj7]All of me
+Come on get [E7]all of me
+[A7]Can't you see,
+I'm just a mess [Dm7]without you
+[E7]Take my lips
+I want to [Am7]lose them
+[D7]Get a piece of these arms
+I'll never [Dm7]use them[G7]
+[Cmaj7]Your goodbye
+Left me with [E7]eyes that cry
+[A7]How can I
+Ever make it wit[Dm7]hout you?
+[F]You know you got the [Fm7]part
+[Cmaj7]That used t[E7]o be my [A7]heart
+[Dm7]So why not, why not [G7]
+Take all of[Cmaj7] me? [Ebdim7] [Dm7] [G7]
