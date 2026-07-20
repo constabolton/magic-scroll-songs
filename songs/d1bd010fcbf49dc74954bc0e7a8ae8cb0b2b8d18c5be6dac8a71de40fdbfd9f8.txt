@@ -1,0 +1,22 @@
+X:1
+T: Dr Jazz
+C: Joe "King" Oliver
+M: 4/4
+L: 1/16
+K: G
+"G"G2A2B2c2"D7"d2e2B2A2|
+"G"G8GGF2E2D2|
+"G"G2A2B2c2"D7"d2e2B2A2|
+"G"G8-"G7"G2GABAG2|
+"C"c4c4g2g4e2|
+"G"d2d2e2d2B4-B2G2|
+"A7"A2A2A4e2e2e4|
+"D7"d2efe2d2a2f2dDED|
+"G"G2A2B2c2"D7"d2e2B2A2|
+"G"G8-"G7"G2GABAG2|
+"C"c4c4g2a4g2|
+"B7"f4^d4B8|
+"C6"e4e4"C#dim"g2g4e2|
+"G"d2d2B2d2"E7"e2de-edBG|
+"A7"A2B2c2^c2"D7"d2e2B2A2|
+"G"G12-GDED|]
