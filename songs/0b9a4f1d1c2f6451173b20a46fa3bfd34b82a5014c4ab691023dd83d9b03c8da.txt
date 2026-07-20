@@ -3,55 +3,35 @@ Song name: Left Handed Kisses  by  Andrew Bird
 ----------------------------------------------------------------------
 [Intro]
 
-A                                             A A7
-I don't believe everything happens for a reason
-D                                                   Dm
-To us romantics out here, that amounts to high treason
-A                                        A A7
-I don't go in for your star-crossed lovers
-D
-In the heart of a skeptic
-             G                         E
-There's a question that still hovers near
+[A]I don't believe everything happens for a reaso[A]n [A7]
+[D]To us romantics out here, that amounts to high treas[Dm]on
+[A]I don't go in for your star-crossed lover[A]s [A7]
+[D]In the heart of a skeptic
+There's a que[G]stion that still hovers ne[E]ar
 
 
 [Verse]
 
-C       F 
-For it begs the question
-C          F
-How did I ever find you
-C                F
-Now you got me writing love songs
-C                F
-With a common refrain like this one here, 
-C F   
-baby
+[C]For it b[F]egs the question
+[C]How did I e[F]ver find you
+[C]Now you got me wr[F]iting love songs
+[C]With a common ref[F]rain like this one here, 
+[C]ba[F]by
 
 C F x2
 C Em Am
 
-Am            F          C 
-And all your left handed kisses
-             G    Em     Am
-Were just prelude to another
-F                C            G  Em  Am
-Prelude to your back handed love song, 
-F  C
-baby
+[Am]And all your l[F]eft handed [C]kisses
+Were just pre[G]lude [Em]to anot[Am]her
+[F]Prelude to your b[C]ack handed lo[G]ve [Em]song[Am], 
+[F]bab[C]y
 
-C        F
-But it begs a question
-C          F
-How did I ever find you
-C         F                 C
-Drifting gently through the gyre
-          F            C           F    C   F  C 
-Of the great Sargasso sea, Atlantic Ocean
-          F            C     F   C
-Got me writing love songs
-                 F                    
-With a common refrain like this one here
+[C]But it be[F]gs a question
+[C]How did I e[F]ver find you
+[C]Drifting g[F]ently through the [C]gyre
+Of the gre[F]at Sargasso s[C]ea, Atlantic[F] Ocea[C]n [F] [C]
+Got me wri[F]ting love son[C]gs [F] [C]
+With a common ref[F]rain like this one here
 
 
 [Solo]
@@ -61,43 +41,26 @@ Am F C G Em x4
 
 [Verse]
 
-Am     F                  C
-The point your song here misses
-                  G     Em  Am
-Is that if you really loved me
-Am             F  
-You'd risk more than a few 50 cent
-C             G      Em   Am 
-Words in your backhanded love song
-       F           
-So it begs a question
-C           G    Em   Am
-How did I ever find you
-           F                  C
-Drifting gently through the gyre
-         G       Em    Am        F      C   G Em Am
-Of the great Sargasso sea, Atlantic Ocean
+[Am]The poi[F]nt your song here m[C]isses
+Is that if you rea[G]lly lo[Em]ved [Am]me
+[Am]You'd risk more[F] than a few 50 cent
+[C]Words in your [G]backhan[Em]ded l[Am]ove song
+So it b[F]egs a question
+[C]How did I ev[G]er fi[Em]nd yo[Am]u
+Drifting ge[F]ntly through the gy[C]re
+Of the gr[G]eat Sarg[Em]asso s[Am]ea, Atlant[F]ic Ocea[C]n [G] [Em] [Am]
 
-Am     F                   C
-The point your song here misses
-              G     Em     Am
-You got me writing love songs
-              F          C
-Is that you really love me
-                  G      Em         Am 
-With a common refrain like this one here, here (Baby)
-F             C               G      Em          E
-Is prelude to another of your backhanded love song
+[Am]The poi[F]nt your song here mi[C]sses
+You got me wri[G]ting l[Em]ove son[Am]gs
+Is that you re[F]ally love m[C]e
+With a common refr[G]ain lik[Em]e this one [Am]here, here (Baby)
+[F]Is prelude to [C]another of your [G]backhan[Em]ded love son[E]g
 
 [Coda/Outro]
 
 E|--0--2--4--|
 
-A                                        A A7
-Now it's time for a handsome little bookend
-D                                        Dm
-Now it's time to tie up all the loose ends
-A                                              A A7
-Am I still a skeptic or did you make me a believer?
-D
-If you hesitate, you'll hear the click of the receiver
+[A]Now it's time for a handsome little booke[A]nd[A7]
+[D]Now it's time to tie up all the loose end[Dm]s
+[A]Am I still a skeptic or did you make me a belie[A]ve[A7]r?
+[D]If you hesitate, you'll hear the click of the receiver
