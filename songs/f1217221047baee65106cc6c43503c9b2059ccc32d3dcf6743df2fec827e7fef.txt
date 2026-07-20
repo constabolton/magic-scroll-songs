@@ -3,54 +3,37 @@ Song name: One More Night  by  Bob Dylan
 ----------------------------------------------------------------------
 
 
-C
-One more night the stars are in sight
-                   F        G      C
-But tonight I'm as lonesome as can be
-   F           G       C                F             G7
-Oh the moon is shining bright, lighting everything in sight
-      C        F          G7       C
-But tonight no light will shine on me
+[C]One more night the stars are in sight
+But tonight I'm as [F]lonesome [G]as can [C]be
+Oh [F]the moon is [G]shining [C]bright, lighting [F]everything in [G7]sight
+But to[C]night no [F]light will [G7]shine on [C]me
 
 
 [Verse 2]
-C
-Oh it's shameful and it's sad
+[C]Oh it's shameful and it's sad
             
 I lost the only pal I had
-                        F      G     C
-I could not be what she wanted me to be
-       F       G       C             F                G7
-I will turn my head up high, to that dark and rollin' sky
-      C        F          G7       C
-But tonight no light will shine on me
+I could not be what she [F]wanted [G]me to [C]be
+I will [F]turn my [G]head up [C]high, to that [F]dark and rollin' [G7]sky
+But to[C]night no [F]light will [G7]shine on [C]me
 
 
 [Bridge]
-G7          F            C                     Dm
-I was so mistaken when I thought that she'd be true
-C         Em         F                   G7
-I had no idea what a woman in love would do
+[G7]I was so mis[F]taken when I [C]thought that she'd be [Dm]true
+[C]I had no i[Em]dea what a [F]woman in love would [G7]do
 
 
 [Verse 3]
-C
-One more night I will wait for the light
-                     F     G        C
-While the wind blows high above the trees
-     F       G     C
-Oh I miss my woman so
-         F               G
-I didn't mean to see her go
-      C        F          G7       C
-But tonight no light will shine on me
+[C]One more night I will wait for the light
+While the wind blows [F]high a[G]bove the [C]trees
+Oh I [F]miss my [G]woman [C]so
+I didn't [F]mean to see her [G]go
+But to[C]night no [F]light will [G7]shine on [C]me
 
 
 [Bridge]
-G          F            C                     Dm
-I was so mistaken when I thought that you'd be true
-C        Em         F                   G
-I had no idea what a woman in love would do
+[G]I was so mi[F]staken when I[C] thought that you'd be[Dm] true
+[C]I had no [Em]idea what a[F] woman in love would[G] do
 
 
 [Solo over Bridge]
@@ -58,13 +41,8 @@ G7   F   C   Dm   C   Em   F   G7   G7
 
 
 [Verse 4]
-C
-One more night I will wait for the light
-                     F     G        C
-While the wind blows high above the trees
-     F         G     C
-Oh I miss that woman so
-         F               G7
-I didn't mean to see her go
-      C        F          G7       C
-But tonight no light will shine on me
+[C]One more night I will wait for the light
+While the wind blows [F]high a[G]bove the [C]trees
+Oh I [F]miss that [G]woman [C]so
+I didn't [F]mean to see her [G7]go
+But to[C]night no [F]light will [G7]shine on [C]me
