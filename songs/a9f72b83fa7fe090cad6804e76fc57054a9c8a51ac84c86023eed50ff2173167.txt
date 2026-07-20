@@ -1,0 +1,30 @@
+X:1
+T: Who Walks In When I Walk Out
+C: Al Goodhart and Al Hoffman
+M: 4/4
+L: 1/16
+K: D
+"Em"B,4E4G6E2|
+B,4E4G8|
+B,4E4G4E4|
+B8G4E4|
+"B7"F4F4B,8|
+F4F2G2-G2G2F4|
+"Em"E8z8|
+z16:|
+"E7"B4B4E8|
+B2B2z2B2E8|
+"A7"B2G2-G2F2G4F4|
+E8z8|
+"D7"A4A2D6z2A2|
+A4A2D6z4|
+z16|
+z16|
+"Em"B,4E4G6E2|
+B,4E4G8|
+B,4E4G4E4|
+B8G4E4|
+"B7"F4F4B,8|
+F4F2G2-G2G2F4|
+"Em"E8z8|
+z16|]
