@@ -13,28 +13,20 @@ G|------------------------------------------------------------------------------
 C  Csus4  C  Csus4  C  F  G7  C
 
 [Verse]
-C                  F               C
-Ho-ne a-na ko le-o e, ----- 'ulili e
-             G7        C
-O kahi ma-nu no-ho 'ae ka-i
-C          F      C
-Ki-a'i ma ka la-e a'o ke-ka-ha
-              G7       C
-'O ia kai u-a la-na ma-li-e
+[C]Ho-ne a-na ko le-o [F]e, ----- 'ulili [C]e
+O kahi ma-nu [G7]no-ho 'ae [C]ka-i
+[C]Ki-a'i ma k[F]a la-e [C]a'o ke-ka-ha
+'O ia kai u-a [G7]la-na ma-[C]li-e
 
 [Pre-Chorus]
-           C            Csus4       C           Csus4     C           F  G7  C
-'U-li-li   e-----e------e-----e-----e----e------e------e
+'U-li-li   [C]e-----e------[Csus4]e-----e-----[C]e----e------[Csus4]e------e [C] [F] [G7] [C]
                 (a-ha-ha-na,   'u-li-li  'e-he-he-ne,  'u-li-li  a-ha-ha-na)
-           C           Csus4       C           Csus4      C           F  G7  C
-'U-li-li   ho'i---i----i-----i-----i-----i------i-------------------------
+'U-li-li   [C]ho'i---i----[Csus4]i-----i-----[C]i-----i-----[Csus4]-i---------[C]------------[F]---[G7]- [C]
                  (a-ha-ha-na,   'u-li-li  'e-he-he-ne, 'u-li-li a-ha-ha-na
 
 [Chorus]
-           C            F          C                         G7        C
-'U-li-li   ho-lo-ho-lo  ka-ha-kai  e -------- 'O ia kai u-a  la-na ma--li--e
-           C            F          C                         G7        C     C7sus4
-'U-li-li   ho-lo-ho-lo  ka-ha-kai  e -------- ‘O ia  kai u-a  la-na ma-li--e
+'U-li-li   [C]ho-lo-ho-lo  [F]ka-ha-kai  [C]e -------- 'O ia kai u-a  [G7]la-na ma--[C]li--e
+'U-li-li   [C]ho-lo-ho-lo  [F]ka-ha-kai  [C]e -------- ‘O ia  kai u-a [G7] la-na ma-[C]li--e [C7sus4]
 
 [Instrumental]
 C  Csus4  C  Csus4  C  F  G7  C
@@ -42,35 +34,25 @@ C  Csus4  C  Csus4  C  F  G7  C
 C   F   C  G7  C   F  C  G7 C
 
 [Pre-Chorus]
-           C            Csus4       C           Csus4     C           F  G7    C
-'U-li-li   e-----e------e-----e-----e----e------e------e-------------------
+'U-li-li   [C]e-----e------[Csus4]e-----e-----[C]e----e------[Csus4]e------e--[C]------------[F]---[G7]-- [C]
                 (a-ha-ha-na,   'u-li-li  'e-he-he-ne,  'u-li-li  a-ha-ha-na)
-           C           Csus4       C           Csus4      C          F  G7    C
-'U-li-li   ho'i---i----i-----i-----i-----i------i-------------------------
+'U-li-li   [C]ho'i---i----[Csus4]i-----i-----[C]i-----i-----[Csus4]-i---------[C]-----------[F]---[G7]-- [C]
                  (a-ha-ha-na,   'u-li-li  'e-he-he-ne, 'u-li-li a-ha-ha-na
 
-C                  F           C
-Ho-ne a-na ko le-o e  ko-le-a 'e
-              G7            C
-Pe-he-a 'o Ka-hi-ki Maika'i no
-              F          C
-'O ia 'ai-na 'u-lu-we-hi-we-hi
-              G7          C
-I hui pu 'i-a me-ke on-ao-na
+[C]Ho-ne a-na ko le-o [F]e  ko-le-a '[C]e
+Pe-he-a 'o Ka-[G7]hi-ki Maika'i [C]no
+'O ia 'ai-na '[F]u-lu-we-hi-[C]we-hi
+I hui pu 'i-a [G7]me-ke on-ao-[C]na
 
 [Pre-Chorus]
-           C            Csus4       C           Csus4     C           F  G7  C
-'U-li-li   e-----e------e-----e-----e----e------e------e
+'U-li-li   [C]e-----e------[Csus4]e-----e-----[C]e----e------[Csus4]e------e [C] [F] [G7] [C]
                 (a-ha-ha-na,   'u-li-li  'e-he-he-ne,  'u-li-li  a-ha-ha-na)
-           C           Csus4       C           Csus4      C           F  G7  C
-'U-li-li   ho'i---i----i-----i-----i-----i------i-------------------------
+'U-li-li   [C]ho'i---i----[Csus4]i-----i-----[C]i-----i-----[Csus4]-i---------[C]------------[F]---[G7]- [C]
                 (a-ha-ha-na,   'u-li-li  'e-he-he-ne, 'u-li-li a-ha-ha-na
 
 [Chorus]
-           C            F          C                         G7        C
-'U-li-li   ho-lo-ho-lo  ka-ha-kai  e -------- 'O ia kai u-a  la-na ma--li--e
-           C            F          C                         G7        C     C7sus4
-'U-li-li   ho-lo-ho-lo  ka-ha-kai  e -------- ‘O ia  kai u-a  la-na ma-li--e ------------
+'U-li-li   [C]ho-lo-ho-lo  [F]ka-ha-kai  [C]e -------- 'O ia kai u-a  [G7]la-na ma--[C]li--e
+'U-li-li   [C]ho-lo-ho-lo  [F]ka-ha-kai  [C]e -------- ‘O ia  kai u-a [G7] la-na ma-[C]li--e [C7sus4]------------
 
 [Outro]
 C  Csus4  C  Csus4  C  F  G7  C
