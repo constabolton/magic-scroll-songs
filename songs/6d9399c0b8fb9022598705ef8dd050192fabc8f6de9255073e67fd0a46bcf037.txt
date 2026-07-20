@@ -10,41 +10,26 @@ G B7 C A7 G C G  D
 
 G             B7*
 Come with me, my love
-C               A7
-To the sea, the sea of love
-G         D        C        A7     G  C G D
-I want to tell you how much I love you
+[C]To the sea, the [A7]sea of love
+[G]I want to [D]tell you [C]how much [A7]I love [G]you[C] [G] [D]
 
-G               B7
-Do you remember when we met
-C                A7
-That's the day I knew you were my pet
-G         D        C        A7     G  C G D
-I want to tell you how much I love you
+[G]Do you remember [B7]when we met
+[C]That's the day I [A7]knew you were my pet
+[G]I want to [D]tell you [C]how much [A7]I love [G]you[C] [G] [D]
 
-D         C   D      C
-Come with me, to the sea
-B7 D   D7
-Of love
+[D]Come with [C]me, [D]to the [C]sea
+[B7]Of [D]love[D7]
 
-G             B7
-Come with me, my love
-C               A7
-To the sea, the sea of love
-G         D        C        A7     G  C G D
-I want to tell you how much I love you
+[G]Come with me, [B7]my love
+[C]To the sea, the [A7]sea of love
+[G]I want to [D]tell you [C]how much [A7]I love [G]you[C] [G] [D]
 
-D         C   D      C
-Come with me, to the sea
-B7 D   D7
-Of love
+[D]Come with [C]me, [D]to the [C]sea
+[B7]Of [D]love[D7]
 
-G               B7
-Do you remember when we met
-C                A7
-That's the day I knew you were my pet
-G         D        C        A7     G  C G
-I want to tell you how much I love you
+[G]Do you remember [B7]when we met
+[C]That's the day I [A7]knew you were my pet
+[G]I want to [D]tell you [C]how much [A7]I love [G]you[C] [G]
 
 *  Some folks might prefer B instead of B7 here
 
