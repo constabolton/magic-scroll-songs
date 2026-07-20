@@ -23,62 +23,44 @@ Brdg: Am+5 xx7565  D6 x57777  C xx-10-988 Caug xx-10-998  C6 xx-10-9-10-8
 
 E Emaj7 E6 Gm F#7   F Bb6 F C9sus4
 
-F                   Bb6
-I have given you my true love
-                 F        C9sus4
-But you love   a new love
-F                     Bb6
-What am I supposed to do now?
-     F        Bb6    F
-With you now? You’re through
-Am        Am7     Am6   Am+5
-You’ll be on your merry way
+[F]I have given you my [Bb6]true love
+But you love   a [F]new love [C9sus4]
+[F]What am I supposed to [Bb6]do now?
+With [F]you now? [Bb6]You’re [F]through
+[Am]You’ll be [Am7]on your [Am6]merry [Am+5]way
 Gm7              Gm7-5   C7sus4 C7
 And there’s only this to say;
 
 [Verse 1]
 
-    Fmaj7        Abdim     Gm7          C7
-I'm through with love I'll never fall again
-      F       Faug       Bbmaj7    Bbm6
-Said adieu to love don't ever call again
+I'm [Fmaj7]through with [Abdim]love I'll [Gm7]never fall ag[C7]ain
+Said a[F]dieu to [Faug]love don't [Bbmaj7]ever call [Bbm6]again
       Am7       D7-9   Gm7
 For I must have you or no one
-           C7           Fmaj7 C9sus4
-And so I'm through with love
+And so I'm [C7]through with [Fmaj7]love [C9sus4]
 
 [Verse 2]
 
-     Fmaj7     Abdim      Gm7              C7
-I've locked my heart I'll keep my feelings there
-       F          Faug       Bbmaj7      Bbm6
-I have stocked my heart with icy, frigid air
+I've [Fmaj7]locked my [Abdim]heart I'll [Gm7]keep my feelings [C7]there
+I have [F]stocked my [Faug]heart with [Bbmaj7]icy, frigid [Bbm6]air
       Am7     D7-9     Gm7
 And I mean to care for no one
-            C7           F   F6 F7
-Because I'm through with love
+Because I'm [C7]through with [F]love[F6] [F7]
 
 [Bridge]
 
-Am          Am+5       Am6             Am+5
-Why did you lead me to think you could care?
-Am         Am+5        D6            Am+5 Am6
-You didn't need me for you have your share
-C          Caug          C6            G13sus4 G9sus4
- Of slaves around you to hound you and swear
-C          Bb     Am          Gm7
-With deep emotion devotion to you
+[Am]Why did you [Am+5]lead me to [Am6]think you could [Am+5]care?
+[Am]You didn't [Am+5]need me for [D6]you have your [Am+5]share[Am6]
+[C] Of slaves [Caug]around you to [C6]hound you and [G13sus4]swear [G9sus4]
+[C]With deep e[Bb]motion [Am]devotion to [Gm7]you
 
 [Verse 3]
 
-Fmaj7      Abdim      Gm7             C7
-Goodbye to Spring and all it meant to me
-       F     Faug      Bbmaj7             Bbm6
-It can never bring the thing that used to be
+[Fmaj7]Goodbye to [Abdim]Spring and [Gm7]all it meant to [C7]me
+It can [F]never [Faug]bring the [Bbmaj7]thing that used to [Bbm6]be
 Am7             D7-9   Gm7
 For I must have you or no one
-           C7           Fmaj7 C9sus4
-And so I'm through with love
+And so I'm [C7]through with [Fmaj7]love [C9sus4]
 
 [Instrumental]
 
@@ -100,21 +82,15 @@ And so I'm through with love
 
 [Bridge]
 
-Am          Am+5       Am6             Am+5
-Why did you lead me to think you could care?
-Am         Am+5        D6            Am+5 Am6
-You didn't need me for you have your share
-C          Caug          C6            G13sus4 G9sus4
- Of slaves around you to hound you and swear
-C          Bb     Am          Gm7
-With deep emotion devotion to you
+[Am]Why did you [Am+5]lead me to [Am6]think you could [Am+5]care?
+[Am]You didn't [Am+5]need me for [D6]you have your [Am+5]share[Am6]
+[C] Of slaves [Caug]around you to [C6]hound you and [G13sus4]swear [G9sus4]
+[C]With deep e[Bb]motion [Am]devotion to [Gm7]you
 
 [Verse 4]
 
-Fmaj7      Abdim      Gm7             C7
-Goodbye to Spring and all it meant to me
-       F     Faug      Bbmaj7             Bbm6
-It can never bring the thing that used to be
+[Fmaj7]Goodbye to [Abdim]Spring and [Gm7]all it meant to [C7]me
+It can [F]never [Faug]bring the [Bbmaj7]thing that used to [Bbm6]be
 Am7             D7-9   Gm7
 For I must have you or no one
            C            D7-9 D7
