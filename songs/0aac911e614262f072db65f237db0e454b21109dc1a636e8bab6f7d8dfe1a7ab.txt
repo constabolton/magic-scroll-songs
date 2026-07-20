@@ -5,67 +5,41 @@ Song name: Alabama Song  by  The Doors
 Keep strumming Am several times.
 
 [Verse]
-      Am
-Well, show me the way to the next whiskey bar
-F#m           D7
-Oh, don't ask why
-F#m           D7
-Oh, don't ask why
-Am
-Show me the way to the next whiskey bar
-F#m           D7
-Oh, don't ask why
-F#m           D7
-Oh, don't ask why
-Am
-For if we don't find the next whiskey bar,
-  F#m              D7
-I tell you we must die
-  F#m              D7
-I tell you we must die
-  F#m                              D        C
-I tell you, I tell you, I tell you we must die
+Well, [Am]show me the way to the next whiskey bar
+[F#m]Oh, don't ask [D7]why
+[F#m]Oh, don't ask [D7]why
+[Am]Show me the way to the next whiskey bar
+[F#m]Oh, don't ask [D7]why
+[F#m]Oh, don't ask [D7]why
+[Am]For if we don't find the next whiskey bar,
+I [F#m]tell you we must [D7]die
+I [F#m]tell you we must [D7]die
+I [F#m]tell you, I tell you, I tell you [D]we must d[C]ie
 
 [Organ Riff]
 C Cmaj7 C7 C6
 
 [Chorus 1]
-    F                                   B7   B7/A
-Oh, moon of Alabama we now must say goodbye
-      G               Gm     C
-We've lost our good old mama and must
-     C7                    F
-have whiskey, oh, you know why
+Oh, [F]moon of Alabama we now must say good[B7]bye [B7/A]
+We've [G]lost our good ol[Gm]d mama [C]and must
+have [C7]whiskey, oh, you know [F]why
 
 [Chorus 2]
-    F                                   E7
-Oh, moon of Alabama we now must say goodbye
-      Eb                F
-We've lost our good old mama
-C             C7                    F
-And must have whiskey, oh, you know why.....Yeah!
+Oh, [F]moon of Alabama we now must say good[E7]bye
+We've [Eb]lost our good old [F]mama
+[C]And must have [C7]whiskey, oh, you know [F]why.....Yeah!
 
 [Verse]
-      Am
-Well, show me the way to the next little girl
-F#m           D7
-Oh, don't ask why
-F#m           D7
-Oh, don't ask why
-Am
-Show me the way to the next little girl
-F#m           D7
-Oh, don't ask why
-F#m           D7
-Oh, don't ask why
-Am
-For if we don't find the next little girl
-  F#m              D7
-I tell you we must die
-  F#m              D7
-I tell you we must die
-  F#m                              D        C
-I tell you, I tell you, I tell you we must die
+Well, [Am]show me the way to the next little girl
+[F#m]Oh, don't ask [D7]why
+[F#m]Oh, don't ask [D7]why
+[Am]Show me the way to the next little girl
+[F#m]Oh, don't ask [D7]why
+[F#m]Oh, don't ask [D7]why
+[Am]For if we don't find the next little girl
+I [F#m]tell you we must [D7]die
+I [F#m]tell you we must [D7]die
+I [F#m]tell you, I tell you, I tell you [D]we must d[C]ie
 
 [Organ Riff]
 C Cmaj7 C7 C6
@@ -75,9 +49,6 @@ F       F       F       B7   B7/A
 G       Gm      C   C7  F
 
 [Chorus 2]
-    F                                   E7
-Oh, moon of Alabama we now must say goodbye
-      Eb                F
-We've lost our good old mama
-C             C7                    F
-And must have whiskey, oh, you know why
+Oh, [F]moon of Alabama we now must say good[E7]bye
+We've [Eb]lost our good old [F]mama
+[C]And must have [C7]whiskey, oh, you know [F]why
