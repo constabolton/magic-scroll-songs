@@ -1,28 +1,17 @@
 Intro:
 
-G  Dm7 G7
-#1:
-G7       C
-Sweet Leilani (Sweet Leilani)
-C7       F   Fm
-Heavenly flow--er (ooo-ooh)
-C                 Cm     G7      C         Am        C#dim7   G7
-Tropic skies are jealous as they shine (Oh sweet Lei-lani -  air)
-G7                Cm      G7      C             Am         C#dim7  G
-  I think they're jealous of your blue eyes (My lovely lei-lani - air)
-G              G7          C         
-  Jealous   because you're mine.
+[G]#1:[Dm7] [G7]
+[G7]Sweet Lei[C]lani (Sweet Leilani)
+[C7]Heavenly [F]flow[Fm]--er (ooo-ooh)
+[C]Tropic skies are j[Cm]ealous [G7]as they [C]shine (Oh [Am]sweet Lei-[C#dim7]lani -  a[G7]ir)
+[G7]  I think they're [Cm]jealous [G7]of your [C]blue eyes (My [Am]lovely lei-[C#dim7]lani - a[G]ir)
+[G]  Jealous   bec[G7]ause you're [C]mine.
 #2:
-C
-Sweet Leilani (Sweet Leilani)
-C7       F    Fm
-Heavenly flow--er(ooo-ooh)
-C            Cm       G7  C       Am        C#dim7 G7
-I dreamed of paradise for two.(Oh sweet Lei-lani - air)
-G7           Cm   G7       C         Am         C#dim7  G7
-  You are my paradise completed. (My lovely lei-lani - air)
-G7           Dm7   G7   C 
-  You are my dream come true.
+[C]Sweet Leilani (Sweet Leilani)
+[C7]Heavenly [F]flow-[Fm]-er(ooo-ooh)
+[C]I dreamed of [Cm]paradise [G7]for [C]two.(Oh [Am]sweet Lei-[C#dim7]lani - [G7]air)
+[G7]  You are my [Cm]parad[G7]ise compl[C]eted. (My [Am]lovely lei-[C#dim7]lani - a[G7]ir)
+[G7]  You are my [Dm7]dream [G7]come [C]true.
 
 Spoken: You see there! One lullaby from me ... and the child tosses fitfully for hours.
 
@@ -36,54 +25,34 @@ Intro:
 A E7  A
 
 #1 
-         A
-Sweet Leilani
-A7       D    Dm
-Heavenly flow--er
-A      Am        E7                A    F#m  Bbdim7 E
-Nature fashioned roses kissed with dew
-E            E7               A      F#m Bbdim7 E
-And then she placed them in a bower
-E           E7       A 
- It was the start of you.
+Sweet Lei[A]lani
+[A7]Heavenly [D]flow-[Dm]-er
+[A]Nature [Am]fashioned [E7]roses kissed with [A]dew [F#m] [Bbdim7] [E]
+[E]And then she [E7]placed them in a [A]bower [F#m] [Bbdim7] [E]
+[E] It was the [E7]start of [A]you.
 
 #2:
-A
-Sweet Leilani
-A7       D    Dm
-Heavenly flow--er
-A            Am   E7      A    F#m Bbdim7 E
-I dreamed of paradise for two.
-E            E7            A    F#m Bbdim7 E
-  You are my paradise completed.
-E            E7         A 
-  You are my dream come true.
+[A]Sweet Leilani
+[A7]Heavenly [D]flow-[Dm]-er
+[A]I dreamed of [Am]parad[E7]ise for [A]two. [F#m] [Bbdim7] [E]
+[E]  You are my [E7]paradise compl[A]eted.[F#m] [Bbdim7] [E]
+[E]  You are my [E7]dream come [A]true.
 
 A  C  Bb7
 
 #3 (Bing crosby) 
-Bb7      Eb
-Sweet Leilani
-Eb7      Ab   Abm
-Heavenly flow--er
-Eb                Ebm    Bb7     Eb     Cm Edim7 Bb
-Tropic skies are jealous as they shine
-Bb              Ebm     Bb7     Eb       Cm Edim7 Bb
-I think they're jealous of your blue eyes
-Bb           Bb7         Eb         
-Jealous   because you're mine.
+[Bb7]Sweet Lei[Eb]lani
+[Eb7]Heavenly [Ab]flow-[Abm]-er
+[Eb]Tropic skies are j[Ebm]ealous [Bb7]as they [Eb]shine [Cm] [Edim7] [Bb]
+[Bb]I think they're [Ebm]jealous [Bb7]of your [Eb]blue eyes[Cm] [Edim7] [Bb]
+[Bb]Jealous   bec[Bb7]ause you're [Eb]mine.
 
 #4
-Eb
-Sweet Leilani
-Eb7      Ab   Abm
-Heavenly flow--er
-Eb           Ebm Bb7      Eb     Cm    Edim7  Bb
-I dreamed of paradise for two.
-Bb         Bb7          Eb    Cm  Edim7  Bb
-You are my paradise completed.
-Bb  Edim7  Bb7        Eb  
-You are my dream come true.
+[Eb]Sweet Leilani
+[Eb7]Heavenly [Ab]flow-[Abm]-er
+[Eb]I dreamed of [Ebm]para[Bb7]dise for [Eb]two. [Cm] [Edim7] [Bb]
+[Bb]You are my [Bb7]paradise comp[Eb]leted.[Cm] [Edim7] [Bb]
+[Bb]You [Edim7]are my [Bb7]dream come [Eb]true.
 
 Instrumental:
 
@@ -92,7 +61,5 @@ Eb7  Ab Abm
 Eb Ebm Bb7  Eb  Cm Edim7 Bb7
    
 Outro:
-Bb7             Ebm Bb7         Eb    Cm  Edim7  Bb
-  You are my par-a- dise completed.
-Bb         Fm7 Bb7  Bb7/D Eb
-You are my dre-am   come  true.
+[Bb7]  You are my par[Ebm]-a- [Bb7]dise complet[Eb]ed. [Cm] [Edim7] [Bb]
+[Bb]You are my [Fm7]dre-[Bb7]am   [Bb7/D]come  [Eb]true.
