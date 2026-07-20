@@ -6,73 +6,45 @@ Song name: Night Life  by  Ray Price
 D F Bb Eb D
 
 [Verse]
-D                         D7
-When the evening sun goes down
-G                        Bb
-You will find me hanging 'round
-D                  Bm       Em       A
-Oh, the night life ain't no good life
-D                F Bb Eb
-But it's my life
-D                     D7
-Many people just like me
-G                       Bb
-Dreaming of old used-to-be
-D                  Bm       Em       A
-Oh, the night life ain't no good life
-D               G D D7
-But it's my life
+[D]When the evening sun goes [D7]down
+[G]You will find me hanging [Bb]'round
+[D]Oh, the night life [Bm]ain't no [Em]good life[A]
+[D]But it's my life [F] [Bb] [Eb]
+[D]Many people just like [D7]me
+[G]Dreaming of old used-to-[Bb]be
+[D]Oh, the night life [Bm]ain't no [Em]good life[A]
+[D]But it's my life[G] [D] [D7]
 
 [Bridge]
-D                                  D7
-Well, listen to the blues they're playin'
-G7                                 D7     A7
-Yeah, listen to what the blues are sayin'
+[D]Well, listen to the blues they're p[D7]layin'
+[G7]Yeah, listen to what the blues are [D7]sayin' [A7]
 
 [Verse]
-D                    D7
-Mine is just another scene
-G                        Bb
-From the world of broken dreams
-D                  Bm       Em       A
-Oh, the night life ain't no good life
-D                F Bb Eb
-But it's my life
+[D]Mine is just another [D7]scene
+[G]From the world of broken [Bb]dreams
+[D]Oh, the night life [Bm]ain't no [Em]good life[A]
+[D]But it's my life [F] [Bb] [Eb]
 
 [Instrumental]
 
 D   D7   G   Bb   D Bm Em A D F Bb Eb
 
 [Verse]
-D                         D7
-When the evening sun goes down
-G                        Bb
-You will find me hanging 'round
-D                  Bm       Em       A
-Oh, the night life ain't no good life
-D                F Bb Eb
-But it's my life
-D                     D7
-Many people just like me
-G                       Bb
-Dreaming of old used-to-be
-D                  Bm       Em       A
-Oh, the night life ain't no good life
-D               G D D7
-But it's my life
+[D]When the evening sun goes [D7]down
+[G]You will find me hanging [Bb]'round
+[D]Oh, the night life [Bm]ain't no [Em]good life[A]
+[D]But it's my life [F] [Bb] [Eb]
+[D]Many people just like [D7]me
+[G]Dreaming of old used-to-[Bb]be
+[D]Oh, the night life [Bm]ain't no [Em]good life[A]
+[D]But it's my life[G] [D] [D7]
 
 [Bridge]
-D                                  D7
-Well, listen to the blues they're playin'
-G7                                 D7     A7
-Yeah, listen to what the blues are sayin'
+[D]Well, listen to the blues they're p[D7]layin'
+[G7]Yeah, listen to what the blues are [D7]sayin' [A7]
 
 [Verse]
-D                    D7
-Mine is just another scene
-G                        Bb
-From the world of broken dreams
-D                  Bm       Em       A
-Oh, the night life ain't no good life
-D                G D D6
-But it's my life
+[D]Mine is just another [D7]scene
+[G]From the world of broken [Bb]dreams
+[D]Oh, the night life [Bm]ain't no [Em]good life[A]
+[D]But it's my life [G] [D] [D6]
