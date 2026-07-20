@@ -3,32 +3,22 @@ Song name: Well Meet Again  by  Vera Lynn
 ----------------------------------------------------------------------
 [Verse]
 
-D           F#7              Bm7               B7#5  B7
-We'll meet again, don't know where, don't know when,
-      Em9  Em7  G/B    A7      Em9    A7  D6   Fdim   Em7  A7
-But I know we'll meet again some sun - ny day.
+[D]We'll meet a[F#7]gain, don't know [Bm7]where, don't know [B7#5]when, [B7]
+But I [Em9]know [Em7]we'll[G/B] meet a[A7]gain som[Em9]e sun -[A7] ny [D6]day. [Fdim] [Em7] [A7]
 
-D              F#7              Bm7        B7#5  B7
-Keep smiling through, just like you always do
-         Em9   Em7  G/B       A7         A7  A7add13 D  G  D
-'Til the blue skies drive the dark clouds far  a  -  way.
+[D]Keep smiling th[F#7]rough, just like [Bm7]you always [B7#5]do [B7]
+'Til the [Em9]blue s[Em7]kies [G/B]drive the [A7]dark clouds[A7] far[A7add13]  a  -  [D]way[G]. [D]
 
 
 [Bridge]
 
-   Dmaj7     F#7                      Gdim          F#7
-So will you please say "Hello" to the folks that I know
-         G6
-Tell them I won't be long,
-           E9        E7           E9        E7
-They'll be happy to know that as you saw me go
-    A7    G/B A7sus4 A7
-I was singing  this song.
+So [Dmaj7]will you p[F#7]lease say "Hello" to the [Gdim]folks that I k[F#7]now
+Tell them[G6] I won't be long,
+They'll be [E9]happy to k[E7]now that as y[E9]ou saw me [E7]go
+I wa[A7]s sing[G/B]ing [A7sus4] this s[A7]ong.
 
 
 [Verse]
 
-D           F#7              Bm7               B7#5  B7
-We'll meet again, don't know where, don't know when,
-      Em9  Em7  G/B    A7    Em9  A7   D6 D  A7  D
-But I know we'll meet again some sun - ny day.
+[D]We'll meet a[F#7]gain, don't know [Bm7]where, don't know [B7#5]when, [B7]
+But I [Em9]know [Em7]we'll[G/B] meet a[A7]gain s[Em9]ome s[A7]un - [D6]ny [D]day[A7]. [D]
