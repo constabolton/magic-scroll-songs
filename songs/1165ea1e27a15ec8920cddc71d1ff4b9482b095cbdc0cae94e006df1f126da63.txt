@@ -5,23 +5,16 @@ From: "Kim Chr. Madsen"
 Play in barre chords, slow swing jazz....
 Satin Doll    Ellington/Strayhorn
 
-Dm7        G7      Dm7    G7
-Cigarrette holder, which wigs me,
-Em7      A7        Em7  A7
-Over her shoulder, she digs me,
-Am7  D7      Abm7 Db7   C7   Dm7 Em7 A7
-Out cattin' that Satin Doll.
+[Dm7]Cigarrette [G7]holder, [Dm7]which w[G7]igs me,
+[Em7]Over her [A7]shoulder, [Em7]she d[A7]igs me,
+[Am7]Out c[D7]attin' t[Abm7]hat S[Db7]atin D[C7]oll. [Dm7] [Em7] [A7]
 Baby shall we go out shippin',
 Careful amigo, you're flippin',
 Speaks latin, that Satin Doll.
-C     Gm7      C
-She's nobody's fool,
-     Gm         C           F
-So I'm playin' it cool as can be.
-     Am7       D7
-I'll give it a whirl,
-     Am7           D7           G7
-But ain't for no girl catchin' me!
+[C]She's [Gm7]nobody's [C]fool,
+So I'[Gm]m playin' i[C]t cool as ca[F]n be.
+I'll [Am7]give it a [D7]whirl,
+But a[Am7]in't for no gi[D7]rl catchin' m[G7]e!
 Telephone numbers, well, you know,
 Doing my rhumbas with Uno,
 And that 'n' my Satin Doll.
@@ -31,20 +24,16 @@ D7 - G7 - C7
 
 Satin Doll--by Duke Ellington, Billy Strayhorn, and Johnny Mercer
 
-[Chords] Dm7          G7     Dm7    G7       Em7       A7       Em7  A7
-(Notes)   A  G  A     G  A     A    G    A   B  A  B   A   B     B   A   B
+(Notes)  [Dm7] A  G  A     [G7]G  A   [Dm7]  A    [G7]G    A   [Em7]B  A  B   [A7]A   B    [Em7] B   [A7]A   B
 (Words)  Cig-a-rette holder, which wigs me,  over her shoulder, she digs me
 
-[Chords] Am9  D9        Abm9 Db9   C
-(Notes)  D   C  D        Bb  Ab Bb  G
+(Notes)  [Am9]D   C[D9]  D       [Abm9] Bb  [Db9]Ab Bb [C] G
 (Words)  Out cattin',   that satin doll
 
 subsequent verses are the same.  onto the bridge:
 
-[Chords]  Gm7             C7           Gm7        C7b9        FM7  Gm7 Am7 Bbm7
-(Notes)   G    C  Bb  A    G    A  Bb  C   Bb  A   G   A  Bb  C
+(Notes)   [Gm7]G    C  Bb  A   [C7] G    A  Bb  [Gm7]C   Bb  A  [C7b9] G   A  Bb  [FM7]C [Gm7] [Am7] [Bbm7]
 (Words) She's no-bod-y's fool, so I'm playing it cool as can be
 
-[Chords]      Am7             D7     Am7          D7b9           G7  Dm7 G7
-(Notes)  C     D   C  B A      B   C D     C   B  A    B   C    D
+(Notes)  C    [Am7] D   C  B A     [D7] B   C [Am7]D     C   B  [D7b9]A    B   C    D[G7] [Dm7] [G7]
 (Words)  I'll give it a whirl, but I ain't for no girl catching me
