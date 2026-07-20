@@ -6,54 +6,34 @@ Ramblin' Rose:Nat King Cole.
 
 
 INTRO:/CHORUS:
-A     Cdim   E7             A
-Ram...blin'  rose, ramblin' rose,
-        B7             E7   Bm7 E7
-Why you ramble, no one knows.
-A7       D                      A
-Wild and wind-blown, that's how you've grown.
-        Bm7        E7sus  E7   A    D6 A
-Who can cling to a ramb...lin' rose?
+[A]Ram...[Cdim]blin'  [E7]rose, ramblin' [A]rose,
+Why you [B7]ramble, no one [E7]knows[Bm7]. [E7]
+[A7]Wild and [D]wind-blown, that's how [A]you've grown.
+Who can [Bm7]cling to a [E7sus]ramb...[E7]lin' [A]rose?[D6] [A]
 
 #1.
-A     Cdim   E7         A
-Ram...ble    on, ramble on.
-          B7                E7  Bm7 E7
-When your ramblin' days are gone.
-A7       D                A
-Who will love you, with a love true?
-          Bm7      E7sus  E7  A   D6 A
-When your ramblin' days   are gone?
+[A]Ram...[Cdim]ble    [E7]on, ramble [A]on.
+When your [B7]ramblin' days are [E7]gone[Bm7]. [E7]
+[A7]Who will [D]love you, with a [A]love true?
+When your [Bm7]ramblin' [E7sus]days   [E7]are [A]gone[D6]? [A]
 
 #2.
-A#    C#sus F7             A#
-Ram...blin' rose, ramblin' rose.
-      C7               F7   Cm7 F7
-Why I want you, heaven knows.
-A#7      D#               A#
-Though I love you, with a love true,
-        Cm7        F7sus  F7   A#   D#6 A# 
-Who can cling to a ramb...lin' rose?
+[A#]Ram...[C#sus]blin' [F7]rose, ramblin' [A#]rose.
+Why I [C7]want you, heaven [F7]knows[Cm7]. [F7]
+[A#7]Though I [D#]love you, with a [A#]love true,
+Who can [Cm7]cling to a [F7sus]ramb...[F7]lin' [A#]rose?[D#6] [A#]
 
 CHORUS:
-A#    C#dim  F7             A#
-Ram...blin'  rose, ramblin' rose,
-        C7             F7   Cm7 F7
-Why you ramble, no one knows.
-A#7      D#                     A#
-Wild and wind-blown, that's how you've grown.
-        Cm7        F7sus  F7   A#   D#6 A# 
-Who can cling to a ramb...lin' rose?
+[A#]Ram...[C#dim]blin'  [F7]rose, ramblin' [A#]rose,
+Why you [C7]ramble, no one [F7]knows[Cm7]. [F7]
+[A#7]Wild and [D#]wind-blown, that's how [A#]you've grown.
+Who can [Cm7]cling to a [F7sus]ramb...[F7]lin' [A#]rose?[D#6] [A#]
 
 #3.
-A#    C#sus F7             A#
-Ram...blin' rose, ramblin' rose.
-      C7               F7   Cm7 F7
-Why I want you, heaven knows.
-A#7      D#               A#
-Though I love you, with a love true,
-        Cm7        F7sus  F7   A#   D#6 A# 
-Who can cling to a ramb...lin' rose?
+[A#]Ram...[C#sus]blin' [F7]rose, ramblin' [A#]rose.
+Why I [C7]want you, heaven [F7]knows[Cm7]. [F7]
+[A#7]Though I [D#]love you, with a [A#]love true,
+Who can [Cm7]cling to a [F7sus]ramb...[F7]lin' [A#]rose?[D#6] [A#]
 
 
 A sixties smash from Kraziekhat.
