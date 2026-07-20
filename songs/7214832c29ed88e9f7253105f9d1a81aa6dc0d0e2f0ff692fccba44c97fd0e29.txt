@@ -14,46 +14,32 @@ E|-----------------|
 
 [Verse 1]
 
-       C                        Em
-It's a heartache, nothing but a heartache,
-                   F                              C G
-hits you when it's too late, hits you when you're down.
-       C                          Em
-It's a fool's game, nothing but a fool's game,
-                F                         C  G
-standing in the cold rain, feeling like a clown.
+It's a [C]heartache, nothing but a [Em]heartache,
+hits you when it's [F]too late, hits you when you're [C]do[G]wn.
+It's a [C]fool's game, nothing but a [Em]fool's game,
+standing in the [F]cold rain, feeling like a [C]clo[G]wn.
 
 
 [Verse 2]
 
-       C                        Em
-It's a heartache, nothing but a heartache,
-                   F                            C G
-love him till your arms break, then he lets you down.
+It's a [C]heartache, nothing but a [Em]heartache,
+love him till your [F]arms break, then he lets you [C]do[G]wn.
 
 
 [Bridge]
 
-         F                   G
-It ain't right with love to share,
-         Em              Am        G  G/F  G/E  G/D
-when you find he doesn't care, for you.
-         F                G
-It ain't wise to need someone,
-           Em         Am   G  G/F  G/E
-as much as I depended on, you.
+It ain't [F]right with love to s[G]hare,
+when you [Em]find he doesn't [Am]care, for [G]you[G/F]. [G/E] [G/D]
+It ain't [F]wise to need some[G]one,
+as much as [Em]I depended [Am]on, y[G]ou.[G/F] [G/E]
 
 
 [Verse 3]
 
-    G/D    C                        Em
-Oh, it's a heartache, nothing but a heartache,
-                   F                              C G
-hits you when it's too late, hits you when you're down.
-       C                          Em
-It's a fool's game, nothing but a fool's game,
-                F                         C  G
-standing in the cold rain, feeling like a clown.
+Oh, [G/D]it's a [C]heartache, nothing but a [Em]heartache,
+hits you when it's [F]too late, hits you when you're [C]do[G]wn.
+It's a [C]fool's game, nothing but a [Em]fool's game,
+standing in the [F]cold rain, feeling like a [C]clo[G]wn.
 
 
 [Solo]
@@ -64,32 +50,21 @@ standing in the cold rain, feeling like a clown.
 
 [Bridge]
 
-         F                   G
-It ain't right with love to share,
-         Em              Am        G  G/F  G/E  G/D
-when you find he doesn't care, for you.
-         F                G
-It ain't wise to need someone,
-           Em         Am   G  G/F  G/E
-as much as I depended on, you.
+It ain't [F]right with love to s[G]hare,
+when you [Em]find he doesn't [Am]care, for [G]you[G/F]. [G/E] [G/D]
+It ain't [F]wise to need some[G]one,
+as much as [Em]I depended [Am]on, y[G]ou.[G/F] [G/E]
 
 
 [Verse 4/Outro]
 
-    G/D    C                        Em
-Oh, it's a heartache, nothing but a heartache,
-                   F                            C G
-love him till your arms break, then he lets you down.
-C                     Em
-   It's a fool's game,
-                         F                   C  G
-standing in the cold rain ... feeling like a clown.
+Oh, [G/D]it's a [C]heartache, nothing but a [Em]heartache,
+love him till your [F]arms break, then he lets you [C]do[G]wn.
+[C]   It's a fool's game,[Em]
+standing in the cold rain[F] ... feeling like a [C]clo[G]wn.
 
-       C        Em
-It's a heartache,
-                   F                            C G
-love him till your arms break, then he lets you down.
-        C                           Em
-It's a fool's game, standing in the cold rain.
+It's a [C]heartache[Em],
+love him till your [F]arms break, then he lets you [C]do[G]wn.
+It's a f[C]ool's game, standing in the [Em]cold rain.
 
 (Fade out)
