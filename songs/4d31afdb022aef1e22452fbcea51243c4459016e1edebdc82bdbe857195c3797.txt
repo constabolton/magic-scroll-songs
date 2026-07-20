@@ -2,53 +2,34 @@
 Song name: You Light Up My Life  by  Debby Boone
 ----------------------------------------------------------------------
 [Verse 1]
-Am      D          G         Em
-So many nights I'd sit by my window
-F#m7        B7          Em         E7
-waiting for someone to sing me his song
-Am      D        G           Em
-So many dreams I kept deep inside me
-F#                        A           Em7 A7
-Alone in the dark but now you've come a - long
+[Am]So many [D]nights I'd [G]sit by my [Em]window
+[F#m7]waiting for [B7]someone to s[Em]ing me his [E7]song
+[Am]So many [D]dreams I [G]kept deep in[Em]side me
+[F#]Alone in the dark but now [A]you've come [Em7]a - [A7]long
  
 
 [Chorus]
-    D   Dmaj7       D7
-And you light up my life
-            B7            Em
-You give me hope to carry on
-    Em7          A   A7          D     Bm      Em   A7
-You light up my days and fill my nights   with song
+And [D]you [Dmaj7]light up my [D7]life
+You give me [B7]hope to carry [Em]on
+You [Em7]light up my d[A]ays [A7]and fill my [D]nights[Bm]   with [Em]song [A7]
 
 
 [Verse 2]
-Am         D     G            Em
-Rollin' at sea a-drift on the waters
-F#m7        B7          Em          E7
-could it be finally I'm turning for home
-Am        D         G           Em
-Finally a chance to say "Hey! I love you"
-F#             A      Em7 A7
-Never again to be all a - lone
+[Am]Rollin' at [D]sea a-[G]drift on the [Em]waters
+[F#m7]could it be [B7]finally I'm [Em]turning for [E7]home
+[Am]Finally a [D]chance to [G]say "Hey! I [Em]love you"
+[F#]Never again to [A]be all [Em7]a - [A7]lone
 
 
 [Chorus]
-    D   Dmaj7       D7
-And you light up my life
-            B7            Em
-You give me hope to carry on
-    Em7         A    A7          D     Bm      Em   A7
-You light up my days and fill my nights   with song
+And [D]you [Dmaj7]light up my [D7]life
+You give me [B7]hope to carry [Em]on
+You [Em7]light up my [A]days [A7]and fill my [D]nights[Bm]   with [Em]song [A7]
 
 
 [Chorus/Ending]
-       D        Dmaj7       D7
-'Cause you, you light up my life
-            B7            Em
-You give me hope to carry on
-    Em7         A    A7          F#          Bm
-You light up my days and fill my nights with song
-E           D          F#          Bm    E
-It can't be wrong when it feels so right
-       D     Em  A      G     D  A      G    D
-'cause you          you light up my-y-y life
+'Cause [D]you, you [Dmaj7]light up my [D7]life
+You give me [B7]hope to carry [Em]on
+You [Em7]light up my [A]days [A7]and fill my [F#]nights with [Bm]song
+[E]It can't be [D]wrong when [F#]it feels so [Bm]right [E]
+'cause [D]you   [Em]    [A]   you [G]light [D]up [A]my-y-y [G]life [D]
