@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Joy to the World
+R: Polka
+C: Hymn by Isaac Watts, 1719, Tune after Handell by Lowell Mason, 1839, Arranged for dance by John Waterworth
+M:2/4
+L:1/8
+K:D
+A|"D"d2 c>B|A2>G2|"A"F2 E2|"D"D2>A2|"G"B2>B2|"A"c2> c2|"D"d4 -|d3:|
+d|"D"dc BA|A>G Fd|"D"dc BA|A>G F||
+F|"D"FF FF/G/|A3 G/F/|"A"EE EE/F/|G3||
+|:F/E/|"D"Dd- dB|"G"A>G FG|1"D"F2 "G"G2|"A"A2-A:|2"D"F2 "A"E2|"D"D2-D|]

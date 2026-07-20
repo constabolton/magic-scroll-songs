@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Sunshine Schottische
+C: Gregory Jolivet
+R: Schottische
+L: 1/8
+M: 4/4
+K: D
+FG|"D"A2dc d3A-|"D"ABAG F2D2|"Em"E2dc d3G-|"G"GAGF "A"E2|
+FG|"D"A2dc d3A-|"D"ABAG F2D2|1"Em"E2dc d3G-|"G"GAGF "A"E2:|
+|2"Em"E2dc "G"d2e2|"A"c4- cc|:de|"D"f2ed A3"Em"B-|BAGF E2|
+EF|"G"GBAG A2FA|"G"GFEG "A"F2D2|"D"f2ed A3"Em"B-|BAGF E2|
+EF|"G"GBAG A2FA|1"G"GFEG "D"DA:|2"G"GFEG "D"D2|]

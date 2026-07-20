@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Bonnie Dundee
+R: Jig
+C: Traditional, Scotland
+L: 1/8
+M: 6/8
+K: G
+Bc|"G"ded ded|"C"gfe "G"d2c|"Em"BdG BdG|"D7"ABA A|
+Bc|"G"ded ded|"C"gfe "G"d2c|"C"BdG "D"AdF|1"G"GAG G:|2"G"GAG G3||
+|:"G"G2G GAB|"D"ADD D3|"D"ABA ABc|"G"cBA B2|
+G|"G"BAB "Am"cBc|"Bm"dcd "C"edc|"G"BdG "D"AdF|1"G"GAG G3:|2"G"GAG G|]

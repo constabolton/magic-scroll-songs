@@ -1,0 +1,16 @@
+X:1
+T: Worth the Weight (Solo)
+C: Spencer California
+M: 4/4
+L: 1/16
+K: D
+F2A2|
+B4F4E4F2E2|
+E2D4F6F2E2|
+FE3D4B,4A,2B,2|
+F4A4A4[Fd]2[Ae]2|
+[Bf]4[Fd]4E4F2E2|
+E2D4F6F2E2|
+FE3D4B,4z2B,D|
+B,4z2A,4F,2|
+E,4D,12|]

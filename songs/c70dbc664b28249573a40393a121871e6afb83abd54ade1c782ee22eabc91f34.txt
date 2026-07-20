@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Gazebo Trot, The
+C: Sally Kirkpatrick
+R: Jig
+L: 1/8
+M: 6/8
+K: G
+D|E2E "Em"B2B|AGA "Em"B2B|AGA "Em"B2c|B2A "Bm"G2|
+F|E2E "Em"B2B|AGA "Em"B2B|"Em"BcB "Bm"AGF|"Em"E3 E2:|
+z|"C"cBc e2c|"G"B2c B3|"D"A2A G2A|"G"B2c B3|
+"C"c2c e2c|"G"B2c B3|"Em"BcB "Bm"AGF|"Em"E3 E2:|

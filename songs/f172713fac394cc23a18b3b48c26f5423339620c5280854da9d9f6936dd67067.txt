@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Weasel in the Grass
+C: Chris Taylor
+R: Jig
+M: 6/8
+K: G
+A|"G"B2B A2B|"G"AGG G2d|"C"efg dBd|"D"c2B A2|
+A|"G"B2B A2B|"G"AGG G2d|"C"efg dBd|"D"cBA "G"G2:|
+g|"D"fed "C"cBA|"G"BGG G2g|"D"fed "C"cBA|"Am"eAA A2|
+g|"D"fed "C"cBA|"G"BGG G2d|"C"efg dBd|"D"cBA "G"G2:|
+D|"Em"E2E-EDE|"G"G2G-GFG|"D"A2A-AGA|"G"BAG Bcd|"C"edc edc|
+|1"G"d2B G2B|"D"A2B c2B|"D"ABG FE:|2"G"d2B G2g|"D"fed cBA|"G"G3-G2|]

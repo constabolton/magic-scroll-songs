@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Peacock Followed the Hen, The
+T: Mad Moll
+C: Traditional tune and song, England and Scotland, and Playford, 1698
+R: Slip Jig
+M: 9/8
+L: 1/8
+K: Adorian
+"Am"cde cAA cAA|cde cAA "Em/G"B2G|"Am"cde cAA cAA|
+"G"Bcd dgd B2G:||:"C"cde gee gee|cde gee "D"f2d|
+"C"cde gee gee|"G"Bcd dgd B2G:|

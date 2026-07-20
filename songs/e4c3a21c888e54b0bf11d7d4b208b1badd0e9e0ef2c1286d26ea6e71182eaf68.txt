@@ -1,0 +1,22 @@
+X:1
+T: When the Saints go Marching In
+C: Traditional
+M: 4/4
+L: 1/16
+K: G
+G4B4c4|
+d4z12|
+z4G4B4c4|
+d4z12|
+z4G4B4c4|
+d8B8|
+G8B8|
+A4z12|
+z4B4B4A4|
+G12G4|
+B8d4d4|
+d4c4z8|
+z4G4B4c4|
+d8B8|
+G8A8|
+G4z12|]

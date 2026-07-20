@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Aunt Crisps
+C: Saul Rose
+R: Reel
+M: 4/4
+L: 1/8
+K: D
+z2|"D"d2>c2 d2A2|"G"GABG "D"A2>A2|"G"Bcde f2e2|"A"d2c2 A2|
+Bc|"D"d2>c2 d2A2|"G"GABG "D"A2dc|"G"BcdB GABc|"A"dfec "D"d2:|
+cd|"A"e2ed efge|"D"a2ag fedc|"G"B2BA GABc|"D"dABc defg|
+"A"e2ed efge|"D"a2ag fedc|"G"BdAd GABc|"A"dfec "D"d2:|

@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Four Up Hornpipe
+R: Hornpipe
+C: Barry Goodman
+M: 4/4
+L: 1/8
+K: Em
+ "Em" E2EF G2GA |"G" BAGB- BAG2 |"D"A2AB AGF2 |"Em" G2F2 E2 "D" D2|
+ "C" E2EF G2GA |"Em" BAGB- BAG2 |"D"A2AB AGF2 |"Bm" G2F2 "Em" E4 :|
+"C" cc-cc e2c2 |"G" BB-Bc BAG2 |"D" AA-AA B2A2 |"Em" GABc "Bm" d4 |
+ "C" cc-cc e2c2 |"G" BB-Bc BAG2 |"D" AA-AA G2F2 |"Em" EFGF E4 :|

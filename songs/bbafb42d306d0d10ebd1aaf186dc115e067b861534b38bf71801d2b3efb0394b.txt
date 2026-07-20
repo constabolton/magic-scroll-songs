@@ -1,0 +1,18 @@
+%%abc-charset utf-8
+
+X:1
+T: Slip it in Easy
+C: Compleat Country Dancing-Master, John Walsh, 1735, arranged by Ross Grant
+R: Jig
+M: 6/8
+L: 1/8
+K: D
+c|"D"d2f gfe|fgf "D/F#"fee|"G"dBB B2A|d2B BAB|
+"D/F#"d2f gfe|fgf "G"fed|"A"cee a2e|cee a2:|
+e|"D/F#"agf gfe|fgf fee|"G"dBB B2A|d2B BAB|
+"D/F#"agf gfe|fgf fed|"A"cee a2e|cee a2:|
+P: Harmony
+A,|F2A dAG|ABA AFF|GDD D2B,|FGD DCD|
+FGA BAG|AdB AGF|AEE E2A,|AEE E2:|
+A,|FED GFE|ABA AFF|GDD D2D|G2D DDD|
+FED GFE|ABA AGF|EA,A, A,2A,|EA,A, A,2:|

@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T: Morgan Rattler
+R: Jig
+C: Traditional, England
+M: 6/8
+L: 1/8
+K: D
+"D"AGF EFG|"D"FEF D2B|"D"AGF EFG|"G"B2A Bcd|
+"D"AGF EFG|"D"FEF D2A|"D"def edc|"G"B2A Bcd:|
+"D"d2e fdB|"A"c2d ecA|"D"d2e fdB|"G"g2e fga|
+"D"d2e fdB|"A"c2d ecA|"D"def edc|"G"B2A Bcd:|
+P: Extra part for 48 bar dances
+"A"c3 ecA|"D"d3 fdB|"A"c3 ecA|"Bm"BcB BAB|
+"A"c3 ecA|"D"d3 fdB|"D"afd "A"ecA|"G"B2A Bcd:|
+P: Final part
+"D"D2d dcd|"Em"E2e ede|"D"D2d dcd|"G"B2A Bcd|
+"D"D2d dcd|"Em"E2e efg|"A"agf edc|"G"B2A Bcd:|

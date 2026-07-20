@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Oats and Beans
+C: Traditional, Britain and America
+R: Jig
+M: 6/8
+L: 1/8
+K: G
+"G"B2B B2B|"D"ABA "G"G2G|"D"F2G A2F|"G"G2A B3|
+"G"B2B B2B|"D"ABA "G"GAB|"C"c2B A2G|"D"FEF "G"G3:|
+K:D
+"D"A2A F2D|"G"GAB "A"A3|"D"A2A F2D|"G"GAB "A"A3|
+"D"d2d "A"c2c|"Em"B2B "D"A2A|"Em"G2G "D"F2F|"A"EFE "D"D3:|

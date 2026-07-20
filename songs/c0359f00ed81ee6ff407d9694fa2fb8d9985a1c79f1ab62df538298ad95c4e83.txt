@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Advent Jig
+C: John Waterworth
+R: Jig
+L: 1/8
+M: 6/8
+K: G
+D|"G"G2G B2B|"G"dBA G2G|"Em"E2G A2G|"C"E2G "D"D2|
+D|"G"G2G B2B|"G"ded B2B|"Em"ABA "C"GBA|1"D"dBA "G"G2:|2"G"G3 G2||
+|:B|"Em"d2g ged|"Em"ged B2B|"C"A2B d2B|"D"A2B d2|
+A|"Em"B2d e2d|"Em"ged B2B|"C"G2B A2B|1"D"dBA "G"G2:|2"G"G3 G2|]

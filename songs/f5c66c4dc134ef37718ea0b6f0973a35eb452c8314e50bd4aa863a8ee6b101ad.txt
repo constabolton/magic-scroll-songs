@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: General Ludd
+C: Tune for the song The Triumph of General Ludd
+R: Jig
+L: 1/8
+M: 6/8
+K: G
+d2c|"G"BGG GED|"C"EGc B2A|"G"GED DEG|"D"A3|
+d2c|"G"BGG GED|"C"EGc B2A|"G"GED "C"EGG|"G"G3:|
+B2A|"G"GBd dBd|"C"edc d2c|"G"BAG GBd|"D"A3|
+d2c|"G"BGG GED|"C"EGc B2A|"G"GED "C"EGG|"G"G3:|
