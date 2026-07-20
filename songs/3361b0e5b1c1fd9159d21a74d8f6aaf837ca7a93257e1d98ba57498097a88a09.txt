@@ -9,74 +9,49 @@ D|--------------------------------------------------------------------------|
 A|--------------------------------------------------------------------------|
 E|--------------------------------------------------------------------------|
 
-F
-     Section 8 city, 
+[F]     Section 8 city, 
      section 8 city
-              Am
-     Have you lied to us?
-F
-     And something gets in it
+     Have you [Am]lied to us?
+[F]     And something gets in it
      Well something gets in it
-                Am
-     It's not alright with us.
+     It's not al[Am]right with us.
 
-F
-     Section 8 city,
-              Am
-     Have you lied to us?
+[F]     Section 8 city,
+     Have you [Am]lied to us?
 
-F
-     Something gets in it,
+[F]     Something gets in it,
      something gets in it
-                Am
-     It's not alright with us.
+     It's not al[Am]right with us.
 
-                Bb
-     And you're not so sure you want to go through with this
+     And you're [Bb]not so sure you want to go through with this
      Not so sure.
-                    Am
-     Oh, with this -life thing
-            Gm       C                A
-     It's a trifling, it's a trifling sight
+     Oh, with this -[Am]life thing
+     It's a [Gm]trifling,[C] it's a trifling [A]sight
 
-F
-     Section 8 city,
-              Am 
-     have you lied to us?
-F
-     Something gets in it,
+[F]     Section 8 city,
+     have you [Am]lied to us?
+[F]     Something gets in it,
      well something gets in it
-            Am
-     It's alright with us
+     It's al[Am]right with us
 
-F
-     Section 8 city, 
+[F]     Section 8 city, 
      section 8 city,
-              Am
-     Have you lied to us?
-F
-     And something gets in it
+     Have you [Am]lied to us?
+[F]     And something gets in it
      Something gets in it
-                Am
-     It's not alright with us
-F
-     Section 8 city
+     It's not al[Am]right with us
+[F]     Section 8 city
 
 
 F,Am (repeat during instrumental breaks)
 
 
-F
-     Section 8 city lover
+[F]     Section 8 city lover
      Section 8 city lover
 Am
 
-               Bb
-     Oh you're not so sure you want to go through with this
+     Oh you're [Bb]not so sure you want to go through with this
      Not so sure, 
-                Am 
-     with this -life thing
-            Gm     
-     It's a trifling
-     C                   A
-     Oh it's a trifling sight.
+     with this -[Am]life thing
+     It's a [Gm]trifling
+     [C]Oh it's a trifling s[A]ight.
