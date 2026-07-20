@@ -2,33 +2,21 @@
 Song name: Pennies From Heaven  by  Bing Crosby
 ----------------------------------------------------------------------
 [Verse 1]
-G     Bm      A7sus4     A7  
-Ev'ry time it rains, it rains  
-C            D7 
-Pennies from heaven. 
-G          Bm       A7sus4    A7 
-Don't you know each cloud contains  
-C             D7 
-Pennies from heaven? 
+[G]Ev'ry [Bm]time it [A7sus4]rains, it r[A7]ains  
+[C]Pennies from [D7]heaven. 
+[G]Don't you k[Bm]now each [A7sus4]cloud cont[A7]ains  
+[C]Pennies from h[D7]eaven? 
 
  
 [Verse 2]
-G7                                C    G    C     E7 
-You'll find your fortune falling all over town  
-A7                         D9    D7      D9   D7   
-Be sure that your umbrella   is upside down. 
-   G       Bm    A7sus4  A7 
-Trade them for a package of  
-C            D7 
-Sunshine and flowers 
+[G7]You'll find your fortune falling a[C]ll ov[G]er to[C]wn  [E7]
+[A7]Be sure that your umbrella [D9]  is u[D7]pside do[D9]wn. [D7]
+Tra[G]de them [Bm]for a [A7sus4]package [A7]of  
+[C]Sunshine and [D7]flowers 
  
 
 [Verse 3]
-G      Bm        G9         G9      C 
-If you want the things you love,   
-    C/B       Am 
-You must have showers. 
-C   C/B       Am    Em   B     C         C9    Bm7b5   E7 
-So when you hear it thunder, don't run under a tree
-Bm7b5       A7                      D7      G   Gdim   D7 
-There'll be pennies from heaven for you and me.
+[G]If you [Bm]want the t[G9]hings you l[G9]ove,   [C]
+You [C/B]must have [Am]showers. 
+[C]So w[C/B]hen you he[Am]ar it [Em]thund[B]er, do[C]n't run un[C9]der a [Bm7b5]tree [E7]
+[Bm7b5]There'll be [A7]pennies from heaven for [D7]you and [G]me. [Gdim] [D7]
