@@ -16,48 +16,37 @@ Intro: |  D7 |G    |G  D7  |G    |G  D7  |
 
 Verse-1:
 
-G          |C    D7  |G          |C    D7  | 
-  I’VE BEEN MADE BLUE,  I’VE BEEN LIED TO,     
+[G]  I’VE BEEN MADE [D7]BLUE,  I’VE BEEN LIED [D7]TO,     
 
-G          |C  D7  |G     |C  D7  |
-  WHEN WILL I    BE LOVED.
+[G]  WHEN WILL I  [D7]  BE LOVED. [D7]
 
 Verse-2:
 
-G          |C      D7  |G          |C       D7   |
-  I’VE BEEN TURNED DOWN,  I’VE BEEN PUSHED ‘ROUND,   
+[G]  I’VE BEEN TURNED [D7]DOWN,  I’VE BEEN PUSHED ‘[D7]ROUND,   
 
-G          |C  D7  |G    |G7    |
-  WHEN WILL I    BE LOVED.
+[G]  WHEN WILL I  [D7]  BE LOVED.
 
 Chorus:
 
-C              |D7      |C                |G
-  WHEN I MEET A NEW GIRL,  THAT I WANT FOR MINE.
+[C]  WHEN I MEET A NEW GIRL,  THAT I WANT FOR MINE.
 
-   |C               |D7              |C            |D7  D7+  |
-SHE ALWAYS BREAKS MY HEART IN TWO, IT HAPPENS EVERY TIME.
+SHE ALWAYS BREAKS MY HEART IN TWO, IT HAPPENS EVERY TIME[D7+].
 
 Verse-3:
 
-G          |C     D7 |G         |C     D7 |G          |C  D7  |G     |G7    |
-  I’VE BEEN CHEAT-ED,   BEEN MIS-TREAT-ED,   WHEN WILL I    BE LOVED.
+[G]  I’VE BEEN CHEAT-[D7]ED,   BEEN MIS-TREAT-[D7]ED,   WHEN WILL I  [D7]  BE LOVED.
 
 Chorus:
 
-C              |D7      |C                |G
-  WHEN I MEET A NEW GIRL,  THAT I WANT FOR MINE.
+[C]  WHEN I MEET A NEW GIRL,  THAT I WANT FOR MINE.
 
-   |C               |D7              |C            |D7  D7+  |
-SHE ALWAYS BREAKS MY HEART IN TWO, IT HAPPENS EVERY TIME.
+SHE ALWAYS BREAKS MY HEART IN TWO, IT HAPPENS EVERY TIME[D7+].
 
 Verse-4 + Outro:
 
-G          |C     D7 |G         |C     D7 |G          |C  D7  |G    |./.   |
-  I’VE BEEN CHEAT-ED,   BEEN MIS-TREAT-ED,   WHEN WILL I    BE LOVED.
+[G]  I’VE BEEN CHEAT-[D7]ED,   BEEN MIS-TREAT-[D7]ED,   WHEN WILL I  [D7]  BE LOVED.
 
-G          |C  D7  |G     |./.    |  
-  WHEN WILL I    BE LOVED.         (: in Fade Out)
+[G]  WHEN WILL I  [D7]  BE LOVED.         (: in Fade Out)
 
 
 DAIRYBEAT (André H. Hofman, Purmerend, The Netherlands).
