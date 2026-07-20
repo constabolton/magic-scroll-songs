@@ -5,54 +5,34 @@ Song name: Red Sails In The Sunset  by  Bing Crosby
 | G C | G C | G | D |
 
 [Verse 1]
-       G                      D
-'t Was down where fisher folk gathered
-G                   F
-I wandered far from the throng
-G                     F7/C
-I heard a fisher girl singin'
-D
- And this refrain was her song:
+'t Was [G]down where fisher folk [D]gathered
+[G]I wandered far from [F]the throng
+[G]I heard a fisher girl [F7/C]singin'
+[D] And this refrain was her song:
 
 [Chorus]
-G
- Red sails in the sunset
-C                G
-  Way out on the sea
-D7           Am
- Oh carry my loved one
-D7                E7
-   Home safely to me
+[G] Red sails in the sunset
+[C]  Way out on the [G]sea
+[D7] Oh carry my [Am]loved one
+[D7]   Home safely to [E7]me
 
 [Verse 2]
-G
- He sailed at the dawning
-C                  G
- All day I've been blue
-D7                Am7 D7
- Red sails in the sun-set
-                G7
-I'm trusting in you
+[G] He sailed at the dawning
+[C] All day I've been [G]blue
+[D7] Red sails in the [Am7]sun-[D7]set
+I'm trusting in [G7]you
 
 [Verse 3]
-C     Cm             G
-Swift wings you must borrow
-D7                     E     G
- Make straight for the shore
-C  Cm      G
-We marry tomorrow
-A7                      D7
- And he goes sailing no more
+[C]Swift [Cm]wings you must [G]borrow
+[D7] Make straight for the [E]shore [G]
+[C]We [Cm]marry to[G]morrow
+[A7] And he goes sailing no [D7]more
 
 [Chorus]
-G
- Red sails in the sunset
-C                G
-  Way out on the sea
-D7  Dm       D7
- Oh carry my loved one
-               G
-Home safely to me
+[G] Red sails in the sunset
+[C]  Way out on the [G]sea
+[D7] Oh [Dm]carry my [D7]loved one
+Home safely to [G]me
 
 [Interlude]
 | G | G | F7 | G |
@@ -61,21 +41,13 @@ Home safely to me
 | D7 Em | D7 | D7 | G G7 |
 
 [Verse 3]
-C                    G    A7
-Swift wings you must borrow
-D7                     E     G
- Make straight for the shore
-C  Cm      G
-We marry tomorrow
-A7                     D7
-And he goes sailing no more
+[C]Swift wings you must [G]borro[A7]w
+[D7] Make straight for the [E]shore [G]
+[C]We [Cm]marry to[G]morrow
+[A7]And he goes sailing no [D7]more
 
 [Chorus]
-G
- Red sails in the sunset
-C                G
-  Way out on the sea
-D7
- Oh carry my loved one
-     D         G
-Home safely to me
+[G] Red sails in the sunset
+[C]  Way out on the [G]sea
+[D7] Oh carry my loved one
+Home [D]safely to [G]me
