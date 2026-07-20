@@ -6,77 +6,53 @@ D6    (xx0202)
 Em/D  (xx0453
 Em7   (022030)
 A7    (x02020)
-Bm7   (x24232)
-Dm    (xx0231)
+[Bm7]Dm    (xx0231)
 Bb/D  (xx0331)
-C7    (x32310)
-Dm7   (xx0211)
+[C7]Dm7   (xx0211)
 
 [Intro]
 D6      D6     
 
 [Verse 1]
-D6              Em/D
-day after day, alone on a hill
-    D6                                   Em/D
-the man with the foolish grin is keeping perfectly still
-    Em7               A7               D6                    Bm7
-but nobody wants to know him, they can see that he's just a fool
-    Em7                  A7
-and he never gives an answer
+[D6]day after day, a[Em/D]lone on a hill
+the [D6]man with the foolish grin is keeping [Em/D]perfectly still
+but [Em7]nobody wants to kn[A7]ow him, they can [D6]see that he's just a f[Bm7]ool
+and [Em7]he never gives an ans[A7]wer
 
 [Chorus 1]
-         Dm  Bb/D  Dm            Bb/D
-but the fool on the hill sees the sun going down
-        C7                         Dm              Dm7   D6
-and the eyes in his head see the world spinning round
+but the f[Dm]ool [Bb/D]on the[Dm] hill sees the[Bb/D] sun going down
+and the [C7]eyes in his head see the wo[Dm]rld spinning rou[Dm7]nd [D6]
 
 [Verse 2]
-D6                   Em/D
-well on the way, his head in a cloud
-    D6                               Em/D
-the man of a thousand voices talking perfectly loud
-    Em7         A7                  D6                 Bm7
-but nobody ever hears him, or the sound he appears to make
-    Em7                 A7
-and he never seems to notice
+[D6]well on the way, his [Em/D]head in a cloud
+the [D6]man of a thousand voices talking [Em/D]perfectly loud
+but [Em7]nobody ever [A7]hears him, or the so[D6]und he appears to m[Bm7]ake
+and [Em7]he never seems to no[A7]tice
 
 [Chorus 2]
-         Dm  Bb/D  Dm            Bb/D
-but the fool on the hill sees the sun going down
-         C7                         Dm              Dm7   D6
-and the eyes in his head see the world spinning round
+but the f[Dm]ool [Bb/D]on the[Dm] hill sees the[Bb/D] sun going down
+and the e[C7]yes in his head see the wor[Dm]ld spinning roun[Dm7]d [D6]
 
 [Solo]
 D6      D6      Em/D    Em/D   
 D6      D6      Em/D    Em/D   
 
 [Verse 3]
-    Em7             A7                 D6                    Bm7
-and nobody seems to like him, they can tell what he wants to do
-    Em7                A7
-and he never shows his feelings
+and [Em7]nobody seems to [A7]like him, they can [D6]tell what he wants to [Bm7]do
+and [Em7]he never shows his [A7]feelings
 
 [Chorus 3]
-          Dm  Bb/D  Dm            Bb/D
- but the fool on the hill sees the sun going down
-        C7                         Dm              Dm7
-and the eyes in his head see the world spinning round
-D6            Em/D    D6                          Em/D
-  oh______  oh______  round, round, round, round, round
+ but the f[Dm]ool [Bb/D]on the[Dm] hill sees the[Bb/D] sun going down
+and the [C7]eyes in his head see the wo[Dm]rld spinning rou[Dm7]nd
+[D6]  oh______  oh[Em/D]______  [D6]round, round, round, round, [Em/D]round
 
 [Verse 4]
-    Em7              A7          D6                     Bm7
-and he never listens to them, he knows that they're the fool
-Em7           A7
-   they don't like him
+and [Em7]he never listens [A7]to them, he [D6]knows that they're the [Bm7]fool
+[Em7]   they don't [A7]like him
 
 [Chorus 4]
-         Dm  Bb/D  Dm            Bb/D
-but the fool on the hill sees the sun going down
-         C7                         Dm              Dm7
-and the eyes in his head see the world spinning round
+but the f[Dm]ool [Bb/D]on the[Dm] hill sees the[Bb/D] sun going down
+and the e[C7]yes in his head see the wor[Dm]ld spinning roun[Dm7]d
 
 [Outro]
-D6          Em/D
-  oh______  round, round, round, round and...
+[D6]  oh______  [Em/D]round, round, round, round and...
