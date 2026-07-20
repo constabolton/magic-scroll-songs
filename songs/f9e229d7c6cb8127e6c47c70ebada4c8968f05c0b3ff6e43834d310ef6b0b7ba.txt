@@ -1,0 +1,22 @@
+X:1
+T: 5 Foot 2, Eyes of Blue
+C: Ray Henderson
+M: 4/4
+L: 1/16
+K: G
+"G"B2d2B4"B7"B2^d2B4|
+"E7"B2e2B2e2B2e2B2e2|
+"Am7"g2e2g2e2"D7"d4e4|
+"G"B8-"D7"B2dd-d^c=c2|
+"G"B2d2B4"B7"B2^d2B4|
+"E7"B2e2B2e2B2e2B2e2|
+"Am7"g2e2g2e2"D7"d4b4|
+"G"g8-g2gg-gag2|
+"B7"f2g2f4f2g2f4|
+"E7"f2e2f2e2-e6-ee|
+"A7"f2e2a4f2e2a4|
+"D7"e2d2e2d2-d8|
+"G"B2d2B4"B7"B2^d2B4|
+"E7"B2e2B2e2B2e2B2e2|
+"Am7"g2e2g2e2"D7"b4b4|
+"G"g16|]
