@@ -5,41 +5,29 @@ Song name: English Tea  by  Paul McCartney
  
 ____1st. Verse:
 
-D                  A/C#                                
- Would you care to sit with me 
-Am/C          Bm
- For a cup of English tea 
-F#/A#      F#m/A    E/G#        Asus4  A
- Very twee, Very me, Any Sunday mor----ning                
+[D] Would you care to [A/C#]sit with me 
+[Am/C] For a cup of [Bm]English tea 
+[F#/A#] Very twee,[F#m/A] Very me,[E/G#] Any Sunday [Asus4]mor----[A]ning                
 
 ____2nd. Verse:
 
-D                A/C#                                
- What a pleasure it would be
-Am/C            Bm
-  Chatting so delightfully
-F#/A#        F#m/A        E/G#          Asus4  A
- Nanny bakes, Fairy cakes, Every Sunday mor----ning
+[D] What a pleasure [A/C#]it would be
+[Am/C]  Chatting so de[Bm]lightfully
+[F#/A#] Nanny bakes,[F#m/A] Fairy cakes,[E/G#] Every Sunday [Asus4]mor----[A]ning
  
 ____Bridge:
 
- G         Em       A       D              
- Miles and miles of English garden
- G          Em       A       D
- Stretching past the willow tree
- G        Em   A         D              
- Lines of hollyhocks and roses
+ [G]Miles and [Em]miles of [A]English [D]garden
+ [G]Stretching [Em]past the [A]willow t[D]ree
+ [G]Lines of [Em]holly[A]hocks and [D]roses
  G      Em     A    Asus4--A
  Listen most a-tten-tive---ly
  
 ____3rd. Verse:
 
-D                A/C#                                
- Do you know the game croquet
-Am/C          Bm
- Peradventure we might play
-F#/A#     F#m/A       E/G#        Asus4  A
- Very gay, Hip hooray, Any Sunday mor----ning
+[D] Do you know the [A/C#]game croquet
+[Am/C] Peradventure [Bm]we might play
+[F#/A#] Very gay,[F#m/A] Hip hooray,[E/G#] Any Sunday [Asus4]mor----[A]ning
  
 ____Whistle:
 
@@ -48,23 +36,17 @@ F#/A#---F#m/A---E/G#---Dsus---A
  
 ____Bridge:
 
- G         Em       A       D              
- Miles and miles of English garden
- G          Em       A       D
- Stretching past the willow tree
- G        Em   A         D              
- Lines of hollyhocks and roses
+ [G]Miles and [Em]miles of [A]English [D]garden
+ [G]Stretching [Em]past the [A]willow t[D]ree
+ [G]Lines of [Em]holly[A]hocks and [D]roses
  G      Em     A    Asus4--A
  Listen most a-tten-tive---ly
 
 ____4th. Verse:
 
-D              A/C#                                
- As a rule the church bells chime
-Am/C              Bm
- When it's almost suppertime
-F#/A#        F#m/A        E/G#         Asus4  A
- Nanny bakes, Fairy cakes, On a Sunday mor----ning
+[D] As a rule the [A/C#]church bells chime
+[Am/C] When it's almost [Bm]suppertime
+[F#/A#] Nanny bakes,[F#m/A] Fairy cakes,[E/G#] On a Sunday [Asus4]mor----[A]ning
  
 ____Ending Notes:
 
