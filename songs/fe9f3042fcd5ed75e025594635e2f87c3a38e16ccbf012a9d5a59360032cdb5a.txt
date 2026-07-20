@@ -2,69 +2,43 @@
 Song name: Werewolf  by  Fiona Apple
 ----------------------------------------------------------------------
 [Verse 1]
-G 
-I could liken you to a werewolf the way you left me for dead
-      Am           G               F
-But I admit that I provided a full moon
-G
-And I could liken you to a shark the way you bit off my head
-         Am          G               F             G
-But then again I was waving around a bleeding open wound
+[G]I could liken you to a werewolf the way you left me for dead
+But I [Am]admit that I [G]provided a full [F]moon
+[G]And I could liken you to a shark the way you bit off my head
+But then [Am]again I was [G]waving around a [F]bleeding open [G]wound
 
 [Pre-Chorus 1]
-    F               C                  Am
-But you were such a super guy 'til the second you get a whiff of me
-F            D#                 D
-We're like a wishing well and a bolt of electricity
+But [F]you were such a [C]super guy 'til the [Am]second you get a whiff of me
+[F]We're like a [D#]wishing well and a [D]bolt of electricity
 
 [Chorus 1] 
-    F            Am
-But we can still support each other
-C                  Gm
-All we gotta do is avoid each other
-F                   C          Dm         Am
-Nothing wrong when a song ends in a minor key
-F                   C          Dm         Am
-Nothing wrong when a song ends in a minor key
+But [F]we can still [Am]support each other
+[C]All we gotta do is [Gm]avoid each other
+[F]Nothing wrong when a[C] song ends [Dm]in a minor [Am]key
+[F]Nothing wrong when a[C] song ends [Dm]in a minor [Am]key
 C
 
 [Bridge]
-A#               D#
-The lava of a volcano
-A#                         D#
-Shot up hot from under the sea
-D7                 F#m
-One thing leads to another
-E                               
-And you made an island of me
+[A#]The lava of a vol[D#]cano
+[A#]Shot up hot from under the [D#]sea
+[D7]One thing leads to [F#m]another
+[E]And you made an island of me
 G   E
 
 [Verse 2]
-G
-And I could liken you to a chemical the way you made me compound to compound
-          Am           G          F
-But I'm a chemical too inevitable you and me would mix
-G
-And I could liken you to a lot of things but I always come around
-              Am        G            F                   G
-'Cause in the end I'm a sensible girl I know the fiction of the fix
+[G]And I could liken you to a chemical the way you made me compound to compound
+But I'm a [Am]chemical too [G]inevitable [F]you and me would mix
+[G]And I could liken you to a lot of things but I always come around
+'Cause in the [Am]end I'm a [G]sensible girl[F] I know the fiction [G]of the fix
 
 [Pre-Chorus 2]
-    F               C                  Am
-But you were such a super guy 'til the second you get a whiff of me
-F            D#                 D
-We're like a wishing well and a bolt of electricity
+But [F]you were such a [C]super guy 'til the [Am]second you get a whiff of me
+[F]We're like a [D#]wishing well and a [D]bolt of electricity
 
 [Chorus 2] 
-    F            Am
-But we can still support each other
-C                  Gm
-All we gotta do is avoid each other
-F                   C          Dm         Am
-Nothing wrong when a song ends in a minor key
-F                   C          Dm         Am
-Nothing wrong when a song ends in a minor key
-F                   C          Dm         Am
-Nothing wrong when a song ends in a minor key
-F                   C          Dm         Am
-Nothing wrong when a song ends in a minor key
+But [F]we can still [Am]support each other
+[C]All we gotta do is [Gm]avoid each other
+[F]Nothing wrong when a[C] song ends [Dm]in a minor [Am]key
+[F]Nothing wrong when a[C] song ends [Dm]in a minor [Am]key
+[F]Nothing wrong when a[C] song ends [Dm]in a minor [Am]key
+[F]Nothing wrong when a[C] song ends [Dm]in a minor [Am]key
