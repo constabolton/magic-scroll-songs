@@ -8,56 +8,36 @@ INTRO:
 C7 C9 C7b9
 
 #1.
-C7           F     Dm7        Gm7     C7b9
-Well, do you wanna dance, and hold my hand?
-F    Dm7         Gm7   C7b9    F  Dm7
-Tell me I'm your lover man, oh ba-by,
-Gm7    C7b9  F     Db9
-Do you wanna dance?
+[C7]Well, do you [F]wanna [Dm7]dance, and [Gm7]hold my [C7b9]hand?
+[F]Tell [Dm7]me I'm your [Gm7]lover [C7b9]man, oh [F]ba-[Dm7]by,
+[Gm7]Do you [C7b9]wanna [F]dance?[Db9]
 
 #2.
-C7           F       Dm7       Gm7    C7b9
-Well, do you want to dance and make romance?
-F       Dm7    Gm7         C7b9      F  Dm7
-Squeeze me all through the night, oh ba-by,
-Gm7    C7b9    F     Db9
-Do you want to dance?
+[C7]Well, do you [F]want to [Dm7]dance and [Gm7]make ro[C7b9]mance?
+[F]Squeeze [Dm7]me all [Gm7]through the [C7b9]night, oh [F]ba-[Dm7]by,
+[Gm7]Do you [C7b9]want to [F]dance?[Db9]
 
 #3.
-C7    F      Dm7            Gm7       C7b9
-Well, do you want to dance, under the moonlight?
-F       Dm7    Gm7         C7b9      F  Dm7
-Squeeze me all through the night, oh ba-by,
-Gm7    C7b9    F      Eb9 F6
-Do you want to dance?
+[C7]Well, [F]do you [Dm7]want to dance, [Gm7]under the [C7b9]moonlight?
+[F]Squeeze [Dm7]me all [Gm7]through the [C7b9]night, oh [F]ba-[Dm7]by,
+[Gm7]Do you [C7b9]want to [F]dance? [Eb9] [F6]
 
 #4.
-C7           F       Dm7          Gm7     C7
-Well, do you want to dance and to hold my hand?
-F       Dm7     Gm7      C7b9    F  Dm7
-Squeeze me, say I'm your man, oh ba-by,
-Gm7    C7b9    F      Db9
-Do you want to dance?
+[C7]Well, do you [F]want to [Dm7]dance and to [Gm7]hold my [C7]hand?
+[F]Squeeze [Dm7]me, say [Gm7]I'm your [C7b9]man, oh [F]ba-[Dm7]by,
+[Gm7]Do you [C7b9]want to [F]dance? [Db9]
 
 #5.
-C7   F      Dm7           Gm7       C7b9
-Well do you want to dance under the moonlight?
-F         Dm7     Gm7         C7b9      F  Dm7
-Squeee-ze me, all through the night, oh ba-by,
-Gm7    C7b9  F      Eb9 F6
-Do you wanna dance?
+[C7]Well [F]do you [Dm7]want to dance [Gm7]under the [C7b9]moonlight?
+[F]Squeee-ze [Dm7]me, all [Gm7]through the [C7b9]night, oh [F]ba-[Dm7]by,
+[Gm7]Do you [C7b9]wanna [F]dance? [Eb9] [F6]
 
 #6.
-C7           F       Dm7       Gm7  C7b9     F      Dm7
-Well, do you want to dance and make romance? Kiss & squeeze..
-Gm7  C7b9  F    Dm7   Gm7    C7b9  F
-Mmm, yes.. Do.. you.. want.. to... dance?
-F               Dm7            Gm7   C7
-Do you, do you, do you, do you wanna dance?
-F               Dm7            Gm7   C7
-Do you, do you, do you, do you wanna dance?
-F               Dm7            Gm7  C7b9 F6     Eb9 F6 C7 C9 C7b9 F6
-Do you, do you, do you, do you want to   dance?
+[C7]Well, do you [F]want to [Dm7]dance and [Gm7]make [C7b9]romance? [F]Kiss & [Dm7]squeeze..
+[Gm7]Mmm, [C7b9]yes.. [F]Do.. [Dm7]you.. [Gm7]want.. [C7b9]to... [F]dance?
+[F]Do you, do you, [Dm7]do you, do you [Gm7]wanna [C7]dance?
+[F]Do you, do you, [Dm7]do you, do you [Gm7]wanna [C7]dance?
+[F]Do you, do you, [Dm7]do you, do you [Gm7]want [C7b9]to   [F6]dance? [Eb9] [F6] [C7] [C9] [C7b9] [F6]
 
 
 A fifties smash hit fromn Kraziekhat.
