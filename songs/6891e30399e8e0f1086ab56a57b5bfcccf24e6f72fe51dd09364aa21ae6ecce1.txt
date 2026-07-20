@@ -6,38 +6,25 @@ Blame It On The Bossa Nova - Eyedie Gorme.
 
 
 [Verse 1]
-C#                                  G#
-I was at a dance, when he caught my eye,
-                            G#7      C#
-standin' all alone, lookin' sad and shy..
-            C#7                    F#
-We began to dance, swaying' to and fro,
-    C#              G#            C#
-And soon I knew I'd never let him go.
+[C#]I was at a dance, when he caught my [G#]eye,
+standin' all alone, lookin' [G#7]sad and s[C#]hy..
+We began to [C#7]dance, swaying' to and [F#]fro,
+And [C#]soon I knew I'd [G#]never let him [C#]go.
 
 
 [Chorus]
-C#                    G#                   C#
-Blame it on the Bossa Nova, with its magic spell.
-                      G#                   C#
-Blame it on the Bossa Nova, that he did so well.
-                      F#
-Oh, it all began with just one little dance,
-                  C#
-But soon it ended up, a big romance.
-                      G#                 C#
-Blame it on the Bossa Nova..the dance of love.
+[C#]Blame it on the Bossa [G#]Nova, with its magic [C#]spell.
+Blame it on the Bossa [G#]Nova, that he did so [C#]well.
+Oh, it all began with [F#]just one little dance,
+But soon it ended [C#]up, a big romance.
+Blame it on the Bossa [G#]Nova..the dance of [C#]love.
 
 
 [Post-Chorus]
-               G#
-Now was it the moon? No, no, the Bossa Nova.
-             C#
-Or the stars above? No, no, the Bossa Nova.
-               G#
-Now was it the tune? Yeah, yeah, the Bossa Nova.
-C#  F#       C#    D
-The dance of love.
+Now was it the [G#]moon? No, no, the Bossa Nova.
+Or the stars [C#]above? No, no, the Bossa Nova.
+Now was it the [G#]tune? Yeah, yeah, the Bossa Nova.
+[C#]The [F#]dance of [C#]love. [D]
 
 
 [Interlude]
@@ -45,49 +32,32 @@ The dance of love.
 | G#7 | % | C# | A |
 
 [Verse 2]
-                D                     A
-Now I'm glad to say, I'm his bride to be.
-                A7          D
-And we're gonna raise, a family.
-                  D7                G
-And when our kids ask, how it came about?
-    D            A               D
-I'm gonna say to them, without a doubt.
+Now I'm glad to [D]say, I'm his bride to [A]be.
+And we're gonna [A7]raise, a fam[D]ily.
+And when our kids [D7]ask, how it came a[G]bout?
+I'm [D]gonna say to [A]them, without a [D]doubt.
   
 
 [Chorus]
-D                     A                    D
-Blame it on the Bossa Nova, with its magic spell.
-                      A                    D
-Blame it on the Bossa Nova, that he did so well.
-                      G
-Oh, it all began with just one little dance,
-                  D
-But soon it ended up, a big romance.
-                      A                  D
-Blame it on the Bossa Nova..the dance of love.
+[D]Blame it on the Bossa [A]Nova, with its magic [D]spell.
+Blame it on the Bossa [A]Nova, that he did so [D]well.
+Oh, it all began with [G]just one little dance,
+But soon it ended [D]up, a big romance.
+Blame it on the Bossa [A]Nova..the dance of [D]love.
 
 
 [Post-Chorus]
-               A
-Now was it the moon? No, no, the Bossa Nova.
-             D
-Or the stars above? No, no, the Bossa Nova.
-               A
-Now was it the tune? Yeah, yeah, the Bossa Nova.
-D   G        D
-The dance of love.
+Now was it the [A]moon? No, no, the Bossa Nova.
+Or the stars [D]above? No, no, the Bossa Nova.
+Now was it the [A]tune? Yeah, yeah, the Bossa Nova.
+[D]The [G]dance of [D]love.
 
 
 [Outro]
-               A
-Now was it the moon? No, no, the Bossa Nova.
-             D
-Or the stars above? No, no, the Bossa Nova.
-               A
-Now was it the tune? Yeah, yeah, the Bossa Nova.
-D   G        D
-The dance of love.
+Now was it the [A]moon? No, no, the Bossa Nova.
+Or the stars [D]above? No, no, the Bossa Nova.
+Now was it the [A]tune? Yeah, yeah, the Bossa Nova.
+[D]The [G]dance of [D]love.
 (Fade.)
 
 
