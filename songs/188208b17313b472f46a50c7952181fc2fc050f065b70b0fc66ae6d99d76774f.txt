@@ -8,42 +8,26 @@ Intro
 E A E A
 
 #1.
-E                 A           E
-There is a place, where I can go,
-A           E   C#m           B7
-When I feel low...when I feel blue.
-A           G#m7 A                G#m7
-And it's my mind...and there's no time,
-          B7   C#m7
-when I'm alone.
-           E    A              E
-I think of you, and things you do,
-A           E   C#m7              B7
-Go round my head...the things you said,
-C#m7     A         B7   E
-Like, 'I love only you.'
+[E]There is a place, [A]where I can [E]go,
+[A]When I feel [E]low.[C#m]..when I feel [B7]blue.
+[A]And it's my [G#m7]mind.[A]..and there's no [G#m7]time,
+when I'm a[B7]lone.[C#m7]
+I think of [E]you, [A]and things you [E]do,
+[A]Go round my [E]head[C#m7]...the things you [B7]said,
+[C#m7]Like, 'I [A]love only [B7]you.'[E]
 
 CHORUS:
-C#m7                  F#7
-In my mind there's no sorrow,
-E                        G#m7
-Don't you know that it's so.
-C#m7                 F#7
-There'll be no sad tomorrow,
-E                        G#m7 C#m7 G#m7 C#m7
-Don't you know that it's so?
+[C#m7]In my mind there's no [F#7]sorrow,
+[E]Don't you know that it's [G#m7]so.
+[C#m7]There'll be no sad to[F#7]morrow,
+[E]Don't you know that it's [G#m7]so? [C#m7] [G#m7] [C#m7]
 
 #2.
-E                 A           E
-There is a place, where I can go,
-A           E  C#m            B7
-When I feel low...when I feel blue.
-A           G#m7  A
-And it's my mind,
-               G#m7            B7   C#m7 E
-And there's no time, when I'm alone.
-E
-There's a place...
+[E]There is a place, [A]where I can [E]go,
+[A]When I feel [E]low[C#m]...when I feel [B7]blue.
+[A]And it's my [G#m7]mind, [A]
+And there's no [G#m7]time, when I'm a[B7]lone.[C#m7] [E]
+[E]There's a place...
 
 CHORUS:
 REPEAT#2.
