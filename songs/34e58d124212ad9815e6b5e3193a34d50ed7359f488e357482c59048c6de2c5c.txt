@@ -17,39 +17,27 @@ E|-3-----|-----------------|---3-------------|-----------------|----------------
 
 [Verse]
 
-               C     F  G
-Para bailar la Bamba
-        F      C        F   G        F       C      F  G
-Para bailar la Bamba se necesita una poca de gracia
-    F       C          F      G       F        C     F  G
-una poca de gracia pa' mi pa' ti y arriba y arriba
-       F         C       F    G       F    C       F     G
-ah y arriba y arriba por ti sere, por ti seré, por ti seré
+Para bailar la [C]Bamba [F] [G]
+Para bai[F]lar la [C]Bamba se [F]nece[G]sita una [F]poca de [C]gracia [F] [G]
+una [F]poca de [C]gracia pa' [F]mi pa' [G]ti y arr[F]iba y arr[C]iba [F] [G]
+ah y ar[F]riba y arr[C]iba por [F]ti se[G]re, por [F]ti se[C]ré, por [F]ti ser[G]é
 
 [Verse]
 
-              C    F  G
-Yo no soy marinero
-      F       C        F   G       F   C       F   G    F
-yo no soy marinero soy capitan soy capitan soy capitan
+Yo no soy mari[C]nero [F] [G]
+yo no [F]soy mari[C]nero soy [F]capi[G]tan soy [F]capi[C]tan soy [F]capi[G]tan [F]
 
 [Chorus]
 
-C  F   G     F
-Bamba, Bamba
-C  F   G     F
-Bamba, Bamba
-C  F   G     F
-Bamba, Bamba
-   C     F  G
-Bamba
+[C]Bam[F]ba, [G]Bamba [F]
+[C]Bam[F]ba, [G]Bamba [F]
+[C]Bam[F]ba, [G]Bamba [F]
+Bam[C]ba [F] [G]
 
 [Verse]
 
-               C     F  G
-Para bailar la Bamba
-        F      C        F   G        F       C      F  G
-Para bailar la Bamba se necesita una poca de gracia
+Para bailar la [C]Bamba [F] [G]
+Para bai[F]lar la [C]Bamba se [F]nece[G]sita una [F]poca de [C]gracia [F] [G]
     F       C          F      G       F       (C)
 una poca de gracia pa' mi pa' ti y arriba y arriba
 
@@ -60,22 +48,15 @@ C
 
 [Verse]
 
-               C     F  G
-Para bailar la Bamba
-        F      C        F   G        F       C      F  G
-Para bailar la Bamba se necesita una poca de gracia
-    F       C          F      G       F        C   F  G
-una poca de gracia pa' mi pa' ti y arriba y arriba
-       F         C       F    G       F    C       F     G   F
-ah y arriba y arriba por ti sere, por ti seré, por ti seré
+Para bailar la [C]Bamba [F] [G]
+Para bai[F]lar la [C]Bamba se [F]nece[G]sita una [F]poca de [C]gracia [F] [G]
+una [F]poca de [C]gracia pa' [F]mi pa' [G]ti y arr[F]iba y arr[C]iba [F] [G]
+ah y ar[F]riba y arr[C]iba por [F]ti se[G]re, por [F]ti se[C]ré, por [F]ti ser[G]é [F]
 
 [Chorus]
 
-C  F   G     F
-Bamba, Bamba
-C  F   G     F
-Bamba, Bamba
-C  F   G     F
-Bamba, Bamba
+[C]Bam[F]ba, [G]Bamba [F]
+[C]Bam[F]ba, [G]Bamba [F]
+[C]Bam[F]ba, [G]Bamba [F]
 
 Set8
