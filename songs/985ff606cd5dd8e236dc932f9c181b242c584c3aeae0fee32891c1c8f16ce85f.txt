@@ -8,108 +8,66 @@ Here's "Orphan Annie" from Tony Rice's album Church Street Blues.
 | C | % | G | C | % |
 
 [Verse 1]
-C           
-Ridin' in planes and hailin' cabs
-  F                   C
-I been on the road so long
-C               Em     Am
-Lookin' for the sunshi_ine everyday
-D                           G
-That I've been a-missin' so long
+[C]Ridin' in planes and hailin' cabs
+I [F]been on the road so [C]long
+[C]Lookin' for the [Em]sunshi_[Am]ine everyday
+[D]That I've been a-missin' so [G]long
 
-C
-Two blocks over and one street across
-   F                C
-'n uptown round the down
-            C
-Lord, there must be someone a hidin' out somewhere
-G                 C
-Someplace I ain't found
+[C]Two blocks over and one street across
+'n [F]uptown round the [C]down
+Lord, there [C]must be someone a hidin' out somewhere
+[G]Someplace I ain't [C]found
 
 [Chorus]
-C
-Annie, orphan Annie
-         F                      G
-Are your Nashville nights still warm?
-Am
-Somewhere in the west of town
-             D           G
-Well, it's a comin' up a storm
-         F               Em
-Are your rivers dark and muddy
-          G                   C
-Where the green swamp willows grow?
-C         F        Em      Am
-Nine more days and I'll be home
-      G               C
-Lord, back in off the road
+[C]Annie, orphan Annie
+Are your [F]Nashville nights still [G]warm?
+[Am]Somewhere in the west of town
+Well, it's a [D]comin' up a [G]storm
+Are your [F]rivers dark and [Em]muddy
+Where the [G]green swamp willows [C]grow?
+[C]Nine more [F]days and [Em]I'll be [Am]home
+Lord, [G]back in off the [C]road
 
 [Instrumental]
 | C | % | % | F | % | % | % | D | G | % |
 | C | % | F | C | % | % | G | C | % |
 
 [Verse 
-  C
-A pickin' and a grinnin' and a playin' the games
-  F                C
-A-listen to what I say
-        C          Em      Am
-Lord, I wish I was down in Nashville town
- D                   G
-About Fifth and Broadway
+A [C]pickin' and a grinnin' and a playin' the games
+A-[F]listen to what I [C]say
+Lord, I [C]wish I was [Em]down in [Am]Nashville town
+A[D]bout Fifth and Broad[G]way
 
-          C
-Where the Cumberland rows, the soft breeze blows
-    F                       C
-And home, it ain't far away
-      C                      Am
-But a-here I sit in New York City
-       G                 C
-Just a-hangin' out every day
+Where the [C]Cumberland rows, the soft breeze blows
+And [F]home, it ain't far away [C]
+But a-[C]here I sit in New York [Am]City
+Just a-[G]hangin' out every [C]day
 
 [Chorus]
-C
-Annie, orphan Annie
-         F                      G
-Are your Nashville nights still warm?
-Am
-Somewhere in the west of town
-             D           G
-Well, it's a comin' up a storm
-         F               Em
-Are your rivers dark and muddy
-          G                   C
-Where the green swamp willows grow?
-C         F        Em      Am
-Nine more days and I'll be home
-      G               C
-Lord, back in off the road
+[C]Annie, orphan Annie
+Are your [F]Nashville nights still [G]warm?
+[Am]Somewhere in the west of town
+Well, it's a [D]comin' up a [G]storm
+Are your [F]rivers dark and [Em]muddy
+Where the [G]green swamp willows [C]grow?
+[C]Nine more [F]days and [Em]I'll be [Am]home
+Lord, [G]back in off the [C]road
 
 [Instrumental]
 | C | % | % | F | % | % | % | D | G | % |
 | C | % | F | C | % | % | G | C | % |
 
 [Chorus]
-C
-Annie, orphan Annie
-         F                      G
-Are your Nashville nights still warm?
-Am
-Somewhere in the west of town
-             D           G
-Well, it's a comin' up a storm
-         F               Em
-Are your rivers dark and muddy
-          G                   C
-Where the green swamp willows grow?
-C         F        Em      Am
-Nine more days and I'll be home
-      G               C
-Lord, back in off the road
+[C]Annie, orphan Annie
+Are your [F]Nashville nights still [G]warm?
+[Am]Somewhere in the west of town
+Well, it's a [D]comin' up a [G]storm
+Are your [F]rivers dark and [Em]muddy
+Where the [G]green swamp willows [C]grow?
+[C]Nine more [F]days and [Em]I'll be [Am]home
+Lord, [G]back in off the [C]road
 
 [Outro]
-C         F        Em      Am
-Nine more days and I'll be home
-      G               C
-Lord, back in off the road
+[C]Nine more [F]days and [Em]I'll be [Am]home
+Lord, [G]back in off the [C]road
 | C | % | % | G | C
