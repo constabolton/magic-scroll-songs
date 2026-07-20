@@ -7,16 +7,11 @@ Play Dm as barre chord x57765
 Dm
 
 [Verse]
-Dm
-We don't need no education
-Dm
-We don't need no thought control
-Dm
-No dark sarcasm in the classroom
-Dm                               G
-Teacher, leave them kids alone...
-G                               Dm
-Hey! Teacher, leave them kids alone...
+[Dm]We don't need no education
+[Dm]We don't need no thought control
+[Dm]No dark sarcasm in the classroom
+[Dm]Teacher, leave them kids alone...[G]
+[G]Hey! Teacher, leave them kids al[Dm]one...
 
 [Riff]
    Dm                  C     Dm        C     G      F
@@ -28,22 +23,15 @@ A|-5---5-5-----------------|---------------------------|
 E|-------------------------|---------------------------|
 
 [Сhorus]
-F                        C                     Dm
-  All in all it's just a - nother brick in the wall
-F                          C                     Dm
-  All in all you're just a - nother brick in the wall
+[F]  All in all it's just a [C]- nother brick in the [Dm]wall
+[F]  All in all you're just a [C]- nother brick in the [Dm]wall
 
 [Verse]
-Dm
-We don't need no education
-Dm
-We don't need no thought control
-Dm
-No dark sarcasm in the classroom
-Dm                                G
-Teachers, leave them kids alone...
-G                                Dm
-Hey! Teacher, leave those kids alone...
+[Dm]We don't need no education
+[Dm]We don't need no thought control
+[Dm]No dark sarcasm in the classroom
+[Dm]Teachers, leave them kids alone...[G]
+[G]Hey! Teacher, leave those kids al[Dm]one...
 
 [Riff]
    Dm                  C     Dm        C     G      F
@@ -55,11 +43,8 @@ A|-5---5-5-----------------|---------------------------|
 E|-------------------------|---------------------------|
 
 [Сhorus]
-F                          C                     Dm
-  All in all you're just a - nother brick in the wall
-F                          C                     Dm
-  All in all you're just a - nother brick in the wall
+[F]  All in all you're just a [C]- nother brick in the [Dm]wall
+[F]  All in all you're just a [C]- nother brick in the [Dm]wall
 
 [Solo]
-Dm
-(fade out)
+[Dm](fade out)
