@@ -8,73 +8,49 @@ One Fine Day: The Chiffons
 | F# | D#m | B | C# |
 
 [Chorus]
- F#                        D#m
- (Shooby-dooby-dooby-dooby-dooby-doo-wah-wah
- B                         C#
-  Shooby-dooby-dooby-dooby-dooby-doo-wah-wah)
+ [F#](Shooby-dooby-dooby-dooby-[D#m]dooby-doo-wah-wah
+ [B] Shooby-dooby-dooby-dooby-[C#]dooby-doo-wah-wah)
 
 [Verse 1]
-F#            C#
- One fine day, you'll look at me
-D#m                            Bm
- And you will know our love was meant to be
-F#        D#m B             C#               F#
- One fine day, you're gonna want me for your girl
+[F#] One fine day,[C#] you'll look at me
+[D#m] And you will know our love was[Bm] meant to be
+[F#] One fine [D#m]day,[B] you're gonna [C#]want me for your [F#]girl
 
 [Chorus]
- F#                        D#m
- (Shooby-dooby-dooby-dooby-dooby-doo-wah-wah
- B                         C#
-  Shooby-dooby-dooby-dooby-dooby-doo-wah-wah)
+ [F#](Shooby-dooby-dooby-dooby-[D#m]dooby-doo-wah-wah
+ [B] Shooby-dooby-dooby-dooby-[C#]dooby-doo-wah-wah)
 
 [Verse 2]
-F#                   C#
- The arms I long for, will open wide
-D#m                            Bm
- And you'll be proud to have me right by your side
-F#        D#m B             C#               F#
- One fine day, you're gonna want me for your girl
+[F#] The arms I long for,[C#] will open wide
+[D#m] And you'll be proud to have me[Bm] right by your side
+[F#] One fine [D#m]day,[B] you're gonna [C#]want me for your [F#]girl
 
 [Chorus]
- F#                        B
- (Shooby-dooby-dooby-dooby-dooby-doo-wah-wah
- F#                F#7
-  Shooby-dooby-doo-wah)
+ [F#](Shooby-dooby-dooby-dooby-[B]dooby-doo-wah-wah
+ [F#] Shooby-dooby-doo-[F#7]wah)
 
 [Bridge]
-C#m       F#             C#m      F#
- Though I know you're the kind of boy 
-B         Bmaj7         B6    Bmaj7
- Who only wants to run around
-D#m        G#         D#m7      G#
- I'll keep waiting and someday, darling
-C#             C#sus4      C#              C#7
-You'll come to me when you want to settle down
+[C#m] Though I [F#]know you're the[C#m] kind of [F#]boy 
+[B] Who only [Bmaj7]wants to run a[B6]round [Bmaj7]
+[D#m] I'll keep [G#]waiting and[D#m7] someday, [G#]darling
+[C#]You'll come to [C#sus4]me when you [C#]want to settle d[C#7]own
 
 [Verse 3]
-F#            C#
- One fine day, we'll meet once more
-D#m                               Bm
- And then you'll want the love you threw away before
-F#        D#m B             C#               F#
- One fine day, you're gonna want me for your girl
+[F#] One fine day,[C#] we'll meet once more
+[D#m] And then you'll want the love you[Bm] threw away before
+[F#] One fine [D#m]day,[B] you're gonna [C#]want me for your [F#]girl
 
 [Interlude]
 | F# | D#m | B | C# |
 
 [Verse 4]
-| F# | % | C# | % |
-(saxophone solo)
-| D#m | % | Bm | % |
-(saxophone solo)
-F#        D#m B             C#               F#
- One fine day, you're gonna want me for your girl
+(s[F#]axophone [C#]solo)
+(s[D#m]axophone s[Bm]olo)
+[F#] One fine [D#m]day,[B] you're gonna [C#]want me for your [F#]girl
 
 [Outro]
-F#        D#m B                     C#
-(One fine day, you're gonna want me for your girl)
-F#        D#m B                     C#
-(One fine day, you're gonna want me for your girl)
+[F#](One fine [D#m]day,[B] you're gonna want me [C#]for your girl)
+[F#](One fine [D#m]day,[B] you're gonna want me [C#]for your girl)
 
 (Fade)
 
