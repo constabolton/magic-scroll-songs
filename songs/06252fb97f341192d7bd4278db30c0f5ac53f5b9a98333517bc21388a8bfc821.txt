@@ -8,8 +8,7 @@ ALL NIGHT LONG... by Lionel Richie
 
 [Chords used]
 ---------------
-  G       F       Am      C       Dm     Fmaj7    Em7     F/G    Fadd9
-EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE
+EA[G]DGBE  EA[F]DGBE  EA[Am]DGBE  EA[C]DGBE  EA[Dm]DGBE  E[Fmaj7]ADGBE  EA[Em7]DGBE  EA[F/G]DGBE  E[Fadd9]ADGBE
 320003  133211  x02210  x32010  xx0231  x03210  022030  303211  13x213
 
 
@@ -17,143 +16,96 @@ EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE  EADGBE
 G  F  x2
 
 [Verse]
-G                       F
-  Well, my friends; the time has come,
-Am                      G
-  To raise the roof and have some fun.
-G                 F
-  Throw away, the work to be done;
-Am               G
-  let the music play on.
-G                 F
-  Everybody sing, everybody dance;
-Am                  G
-  Lose your self in wild romance.
+[G]  Well, my friends; the [F]time has come,
+[Am]  To raise the roof and [G]have some fun.
+[G]  Throw away, the [F]work to be done;
+[Am]  let the music p[G]lay on.
+[G]  Everybody sing, [F]everybody dance;
+[Am]  Lose your self in [G]wild romance.
 
-                G
-We're going to;   party, Karamu,
-F
-  Fiesta, forever;
-Am              G
-   Come on and sing along.
+We're going to; [G]  party, Karamu,
+[F]  Fiesta, forever;
+[Am]   Come on and s[G]ing along.
 
-                G
-We're going to;   party, Karamu,
-F
-  Fiesta, forever;
-Am              G
-   Come on and sing along.
+We're going to; [G]  party, Karamu,
+[F]  Fiesta, forever;
+[Am]   Come on and s[G]ing along.
 
 [Chorus]
-G    Am     F
- All night long,
+[G] All [Am]night l[F]ong,
 (all night),all night, (all night).
-F    Am     G
- All night long,
+[F] All [Am]night l[G]ong,
 (all night),all night, (all night).
-G    Am     F
- All night long,
+[G] All [Am]night l[F]ong,
 (all night),all night, (all night).
-F    Am     G
- All night long,
+[F] All [Am]night l[G]ong,
 (all night),all night, (all night).
 
 [Verse]
-G                     F
-  People dancing, all in the streets,
-Am                     G
-  See the rhythm flow, in their feet.
-G               F
-  Life is cool, wild and sweet; 
-Am               G
-  let the music play on.
-G                           F
-  Feel it in your heart and feel it in your soul;
-Am              G
-  Let the music take control.
+[G]  People dancing, all [F]in the streets,
+[Am]  See the rhythm flow, [G]in their feet.
+[G]  Life is cool, [F]wild and sweet; 
+[Am]  let the music p[G]lay on.
+[G]  Feel it in your heart and [F]feel it in your soul;
+[Am]  Let the music [G]take control.
 
-                G
-We're going to;   party, Niming,
-F
-  Fiesta, forever;
-Am            G
-  Come on and sing my song.
+We're going to; [G]  party, Niming,
+[F]  Fiesta, forever;
+[Am]  Come on and [G]sing my song.
 
 [Chorus]
-G    Am    F
- All night long,
+[G] All [Am]night [F]long,
 (all night), all night, (all night).
-F    Am    G
- All night long,
+[F] All [Am]night [G]long,
 (all night), all night, (all night).
-G    Am    F
- All night long,
+[G] All [Am]night [F]long,
 (all night), all night, (all night).
-F    Am    G
- All night long,
+[F] All [Am]night [G]long,
 (all night), all night, (all night).
 
 [Bridge]
-G             C
-Once you get started,
-     G    C   Fadd9
-you can't sit down.
-G              C
-Come join the fun;
-       G         Fadd9
-it's a merry-go-round.
-G           C             G          Fadd9
- Everyone's dancing their troubles a-way.
-G              C      G          Fadd9
- Come join our party; see how we play.
+[G]Once you get s[C]tarted,
+you c[G]an't [C]sit [Fadd9]down.
+[G]Come join the f[C]un;
+it's a [G]merry-go-r[Fadd9]ound.
+[G] Everyone's [C]dancing their [G]troubles a-[Fadd9]way.
+[G] Come join our [C]party; [G]see how we [Fadd9]play.
 
 [Interlude]
 Fmaj7  Em7  Fmaj7  Em7  x2
 
 [Break]
-G  N.C.
- Tom bo li de, say de moi ya, yeah, Jambo Jumbo.
+[G] Tom bo li de, say de moi ya, yeah, Jambo Jumbo.
 
 Way to parti', oh we goin', oh, jambali.
 
 Tom bo li de, say de moi ya,
-               Fmaj7  Em7, Fmaj7  Em7
-yeah, Jambo Jumbo.
-     F/G   Fmaj7      Em7
-Wo...ah... yes, we're gonna have a party...
+yeah, Jambo Jum[Fmaj7]bo. [Fmaj7] [Em7]
+Wo...[F/G]ah... [Fmaj7]yes, we're [Em7]gonna have a party...
 
 [Chorus]
-G    Am    F
- All night long,
+[G] All [Am]night [F]long,
 (all night), all night, (all night).
-F    Am    G
- All night long,
+[F] All [Am]night [G]long,
 (all night), all night, (all night).
-G    Am    F
- All night long,
+[G] All [Am]night [F]long,
 (all night), all night, (all night).
-F    Am    G
- All night long,
+[F] All [Am]night [G]long,
 (all night), all night, (all night).
 
 [Coda]
-F
-Everyone you meet, (all night),
+[F]Everyone you meet, (all night),
 
 They're jamming in the street, (all night),
-Am         G
-All night long. (all night),
+[Am]All night l[G]ong. (all night),
 
 yeah, I said... (all night).
-Am F
-   Everyone you meet, (all night),
+[Am]   [F]Everyone you meet, (all night),
 
 They're jamming in the street, (all night),
-Am         G
-All night long. (all night),
+[Am]All night l[G]ong. (all night),
 
 feel good, feel good.
 
 [Outro]
-F  Am  G G  Am F
-(Repeat to fade)
+[F](Re[Am]peat[G] t[G]o f[Am]ade[F])
