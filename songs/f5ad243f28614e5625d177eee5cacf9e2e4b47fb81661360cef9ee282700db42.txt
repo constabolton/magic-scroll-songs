@@ -7,110 +7,67 @@ D/A Bm
 D/A Bm E7 A7 A13 A7 D Dsus4 D
 
 [Verse 1]
-D         A7
-Day is ending,
-D     A13     B7
-Birds are wending
-E7                  A7
-Back to the shelter of
-D           E7        A7
-Each little nest they love
+[D]Day is end[A7]ing,
+[D]Birds [A13]are wend[B7]ing
+[E7]Back to the shelter [A7]of
+[D]Each little [E7]nest they [A7]love
 
 [Verse 2]
-D           E7  A7
-Nightshades falling,
-D    A13   B7
-Love-birds calling
-E7
-What makes the world go round?
-            A7
-Nothing but love
+[D]Nightshades [E7]fall[A7]ing,
+[D]Love-[A13]birds [B7]calling
+[E7]What makes the world go round?
+Nothing but [A7]love
 
 [Chorus]
-D
-When whippoorwills call,
-D
-And evening is nigh
-           E7
-I hurry to my
-A7   D     Dsus4 D
-Blue Heaven
+[D]When whippoorwills call,
+[D]And evening is nigh
+I hurry to [E7]my
+[A7]Blue [D]Heaven[Dsus4] [D]
 
-D
-I turn to the right
-D
-A little white light
-                 E7
-Will lead you to my
-A7   D     Dsus4 D
-Blue Heaven
+[D]I turn to the right
+[D]A little white light
+Will lead you to [E7]my
+[A7]Blue [D]Heaven[Dsus4] [D]
 
 [Bridge]
-G
-A smiling face
-B7
-a fireplace
-  Em
-A cozy room
-A7
-A little nest that's nestled
-          D
-where the roses bloom
+[G]A smiling face
+[B7]a fireplace
+A [Em]cozy room
+[A7]A little nest that's nestled
+where the [D]roses bloom
 
 [Refrain]
-D
-Just Molly and me
-D
-And baby makes three
-D              E7
-We're happy in my
-A13  A7 D  Dsus4 D
-Blue Heaven
+[D]Just Molly and me
+[D]And baby makes three
+[D]We're happy in [E7]my
+[A13]Blue [A7]Hea[D]ven[Dsus4] [D]
 
 [Instrumental]
 D Bm D B E7 A7 A13 A7 D
 D Bm D B E7 A7 A13 A7 D Dsus4 D
 
 [Bridge]
-G
-A smiling face
-B7
-a fireplace
-  Em
-A cozy room
-A7
-A little nest that's nestled
-          D
-where the roses bloom
+[G]A smiling face
+[B7]a fireplace
+A [Em]cozy room
+[A7]A little nest that's nestled
+where the [D]roses bloom
 
 [Refrain]
-D
-Just Molly and me
-D              F#m
-And baby makes three
-Bm              E7
-We're happy in my
-A7   D     Dsus4 D
-Blue Heaven
+[D]Just Molly and me
+[D]And baby makes [F#m]three
+[Bm]We're happy in m[E7]y
+[A7]Blue [D]Heaven[Dsus4] [D]
 
 [Bridge]
-G
-A smiling face
-B7
-a fireplace
-  Em
-A cozy room
-A7
-A little nest that's nestled
-          D
-where the roses bloom
+[G]A smiling face
+[B7]a fireplace
+A [Em]cozy room
+[A7]A little nest that's nestled
+where the [D]roses bloom
 
 [Outro]
-D
-Just Molly and me
-D
-And baby makes three
-D              E7
-We're happy in my
-A7   D     Dsus4 D
-Blue Heaven
+[D]Just Molly and me
+[D]And baby makes three
+[D]We're happy in [E7]my
+[A7]Blue [D]Heaven[Dsus4] [D]
