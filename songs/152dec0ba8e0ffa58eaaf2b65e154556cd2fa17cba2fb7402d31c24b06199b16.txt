@@ -18,62 +18,43 @@ G  Am  Bm
 
 [Verse 1]
 
-Gmaj7            G6       Gmaj7     G6       Gmaj7  G6  Gmaj7  G6
- Nothing you can say, can tear me a-way from my guy.
-Gmaj7              G6           Gmaj7      G6       B     B7
- Nothing you could do, 'cos I'm stuck like glue, to my guy.
+[Gmaj7] Nothing you can [G6]say, can [Gmaj7]tear me a-[G6]way from [Gmaj7]my guy.[G6] [Gmaj7] [G6]
+[Gmaj7] Nothing you could [G6]do, 'cos I'm [Gmaj7]stuck like [G6]glue, to [B]my guy[B7].
 
 [Chorus 1]
 
-    Am             D           Am         D
-I'm sticking to my guy, like a stamp to a letter;
-     Am       D            Am N.C.
-Like birds of feather; we, stick together.
-      G                 Gmaj7    Am7              D7        G      Am  D
-I can tell you from the start; I can't be torn a-part from my guy.
+I'm [Am]sticking to my [D]guy, like a [Am]stamp to a [D]letter;
+Like [Am]birds of [D]feather; we, [Am]stick together.
+I can [G]tell you from the [Gmaj7]start; I [Am7]can't be torn a-p[D7]art from m[G]y guy. [Am] [D]
 
 [Verse 2]
 
-Gmaj7              G6        Gmaj7         G6       Gmaj7  G6  Gmaj7  G6
- Nothing you could do, could make me be un-true, to my guy.
-Gmaj7              G6         Gmaj7          G6      B     B7
- Nothing you could buy, could make me tell a lie, to my guy.
+[Gmaj7] Nothing you could [G6]do, could [Gmaj7]make me be un-[G6]true, to [Gmaj7]my guy.[G6] [Gmaj7] [G6]
+[Gmaj7] Nothing you could [G6]buy, could [Gmaj7]make me tell a [G6]lie, to [B]my guy[B7].
 
 [Chorus 2]
 
-  Am      D       Am      D
-I gave my guy my, word of honour;
-Am     D        Am N.C.
- To be faithful; and I'm gonna.
-      G          Gmaj7      Am7          D7      G      Am  D
-You'd best be be-lieving; I won't be de-ceiving my guy.
+I [Am]gave my [D]guy my, [Am]word of [D]honour;
+[Am] To be [D]faithful;[Am] and I'm gonna.
+You'd [G]best be be-[Gmaj7]lieving; I [Am7]won't be de-c[D7]eiving m[G]y guy. [Am] [D]
 
 [Bridge 1]
 
-     Am7         D         Am         D
-As a matter of o-pinion; I think he's tops;
-Am          D            G            Gmaj7
- My opinion is; he's the cream of the crop.
-     Em        Bm        Em    Bm
-As a matter of taste; to be ex-act;
-A7                   D7
- He's my ideal, as a matter of fact.
+As a [Am7]matter of o-[D]pinion; I [Am]think he's [D]tops;
+[Am] My opinion [D]is; he's the [G]cream of the [Gmaj7]crop.
+As a [Em]matter of [Bm]taste; to [Em]be ex-[Bm]act;
+[A7] He's my ideal, as a [D7]matter of fact.
 
 [Verse 3]
 
-   Gmaj7        G6         Gmaj7   G6         Gmaj7  G6  Gmaj7  G6
-No muscle bound man, could take my hand, from my guy.
-   Gmaj7    G6               Gmaj7    G6       B    B7
-No handsome face, could ever take the place of my guy.
+No [Gmaj7]muscle bound [G6]man, could [Gmaj7]take my [G6]hand, from [Gmaj7]my guy.[G6] [Gmaj7] [G6]
+No [Gmaj7]handsome [G6]face, could ever [Gmaj7]take the [G6]place of [B]my gu[B7]y.
 
 [Chorus 3]
 
-   Am      D    Am    D
-He may not be a movie star;
-            Am             D      Am N.C.
-But when it comes to being happy; we are.
-              G      Gmaj7        Am7        D7       Gmaj7  G6, Am  D
-There's not a man to-day, who can take me a-way from my guy.
+He [Am]may not [D]be a [Am]movie [D]star;
+But when it [Am]comes to being [D]happy; [Am]we are.
+There's not a [G]man to-[Gmaj7]day, who can [Am7]take me a-w[D7]ay from m[Gmaj7]y guy. [Am] [D]
 
 [Interlude]
 
@@ -81,17 +62,13 @@ G  Am  Bm
 
 [Verse 4]
 
-   Gmaj7        G6         Gmaj7   G6         Gmaj7  G6  Gmaj7  G6
-No muscle bound man, could take my hand, from my guy.
-   Gmaj7    G6               Gmaj7    G6       B     B7
-No handsome face, could ever take the place of my guy.
+No [Gmaj7]muscle bound [G6]man, could [Gmaj7]take my [G6]hand, from [Gmaj7]my guy.[G6] [Gmaj7] [G6]
+No [Gmaj7]handsome [G6]face, could ever [Gmaj7]take the [G6]place of [B]my guy[B7].
 
 [Chorus 4]
 
-   Am      D    Am    D
-He may not be a movie star;
-            Am             D      Am N.C.
-But when it comes to being happy; we are.
+He [Am]may not [D]be a [Am]movie [D]star;
+But when it [Am]comes to being [D]happy; [Am]we are.
 
 Coda:
 
@@ -99,14 +76,11 @@ Coda:
 
 N.C.
  There's not a man today, who can take me away from my guy.
-Am         Bm
- (What'cha say?)
+[Am] (What'cha [Bm]say?)
 N.C.
  There's not a man today, who can take me away from my guy.
-Am       Bm
-(Tell me more!)
-N.C.                                                       Am  Bm
- There's not a man today, who can take me away from my guy.
+[Am](Tell me [Bm]more!)
+ There's not a man today, who can take me away from my guy.[Am] [Bm]
 
 (Fade)
 
