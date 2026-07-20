@@ -26,42 +26,26 @@ G|---3--2---------------|
 D|-----------3----0-----|
 A|------------------3---|
 E|----------------------|
-   Fmaj7          C9sus4         Fmaj7
-|  /  /  /  /  |  /  /  /  /  |  /  /  /  /  |
+|  [Fmaj7]/  /  /  /  |  [C9sus4]/  /  /  /  |  [Fmaj7]/  /  /  /  |
 
 [Verse 1]
-C9sus4    N.C.                   Bbmaj7
-          I am a lineman for the county,
-Fmaj7/A                        C9sus4
-          And I drive the main road,
-Dm7              Am7         Gsus4  G      D  Dsus4 D
-Searching in the sun for a - nother over - load,
-N.C.                      Cadd9
-I hear you singing in the wires,
-                           G/B    Gm/Bb
-I can hear you through the whine,
-                D/A      A7sus4
-And the Wichita lineman...
-                Bbmaj7  Csus2    Bbmaj7
-Is still on the line----------!
+[C9sus4]          I am a lineman for the [Bbmaj7]county,
+[Fmaj7/A]          And I drive the main [C9sus4]road,
+[Dm7]Searching in the [Am7]sun for a - [Gsus4]nother [G]over - [D]loa[Dsus4]d, [D]
+I hear you singing in the [Cadd9]wires,
+I can hear you through the [G/B]whine, [Gm/Bb]
+And the Wichita [D/A]lineman..[A7sus4].
+Is still on the [Bbmaj7]line----[Csus2]------! [Bbmaj7]
 
 [Verse 2]
-C9sus4   N.C.                       Bbmaj7
-         I know I need a small va - cation,
-Fmaj7/A                         C9sus4
-         But it don't look like rain,
-     Dm7                Am7
-And, if it snows, that stretch down south...
-         Gsus4 G         D      Dsus4 D
-...Won't ever  stand the strain,
-N.C.                     Cadd9
-And I need you more than want you,
-                       G/B   Gm/Bb
-And I want you for all time,
-                D/A       A7sus4
-And the Wichita lineman...
-                Bbmaj7   Csus2    Bbmaj7
-Is still on the line----------!
+[C9sus4]         I know I need a small va - [Bbmaj7]cation,
+[Fmaj7/A]         But it don't look like [C9sus4]rain,
+And, [Dm7]if it snows, that s[Am7]tretch down south...
+...Won't [Gsus4]ever  [G]stand the [D]strain,[Dsus4] [D]
+And I need you more than [Cadd9]want you,
+And I want you for all [G/B]time, [Gm/Bb]
+And the Wichita [D/A]lineman...[A7sus4]
+Is still on the [Bbmaj7]line-----[Csus2]-----! [Bbmaj7]
 
 [Verse 3 - Lead riff through tremolo effect]
      C9sus4                     Bbmaj7
@@ -93,25 +77,18 @@ D|------0-0--0-0--0-0--|---0---------------|
 A|---------------------|-------------------|
 E|---------------------|-------------------|
 
-N.C.                     Cadd9
-And I need you more than want you,
-                       G/B    Gm/Bb
-And I want you for all time,
-                D/A       A7sus4
-And the Wichita lineman...
-                Bbmaj7  Csus2   Bbmaj7  C9sus4
-Is still on the line---------!
+And I need you more than [Cadd9]want you,
+And I want you for all [G/B]time, [Gm/Bb]
+And the Wichita [D/A]lineman...[A7sus4]
+Is still on the [Bbmaj7]line----[Csus2]-----! [Bbmaj7] [C9sus4]
 
 [Orchestral coda]
-   Bbmaj7         C
-||: /  /  /  / |  /  /  /  / :|| [Repeats to fade]
+||:[Bbmaj7] /  /  /  / |  [C]/  /  /  / :|| [Repeats to fade]
 
 [Suggestion for staccato 'morse code' rhythm ending]
-  Bbmaj7
-| /_/_/_/  /__/_/  /_/__/  /_/__/ |
+| [Bbmaj7]/_/_/_/  /__/_/  /_/__/  /_/__/ |
   ^ ^   ^  ^  ^ ^    ^  ^  ^ ^  ^
-  Csus2                              D *
-| /_/_/_/  /__/_/  /_/__/  /_/__/ |  /  ||
+| [Csus2]/_/_/_/  /__/_/  /_/__/  /_/__/ |  [D]/  ||
   ^ ^   ^  ^  ^ ^    ^  ^  ^ ^  ^    ^
 =====================================================
 For the closest GUITAR chord box diagrams to my chord
@@ -123,5 +100,4 @@ first option and don't need any reselecting. As long
 as you are logged into your account, these choices
 will be saved automatically for every time you view
 this tab.
-   Am7        Gsus4       G        G/B       Csus2
-<5 of 46>  <3 of 20>  <4 of 27>  <2 of 21>  <2 of 10>
+<5 [Am7]of 46>  <3 [Gsus4]of 20>  <4 o[G]f 27>  <2[G/B] of 21>  <[Csus2]2 of 10>
