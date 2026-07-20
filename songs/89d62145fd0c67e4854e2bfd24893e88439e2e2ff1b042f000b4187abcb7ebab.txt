@@ -12,67 +12,45 @@ NOTE: Capo 3rd fret
 
 [Chorus]
 
-G        C       G         C          G       C    G    C
-Sunshine   on my shoulders   makes me happy.
-G        C       G    C           Am7   C     D    D7
-Sunshine   in my eyes can make me cry
-G        C        G     C          G        C    G    C
-Sunshine   on the water   looks so lovely.
-G        C        G      C          G     C    G    C
-Sunshine   almost always   makes me high
+[G]Sunshine [C]  on my [G]shoulders [C]  makes me [G]happy. [C] [G] [C]
+[G]Sunshine [C]  in my [G]eyes [C]can make me [Am7]cry [C] [D] [D7]
+[G]Sunshine [C]  on the [G]water [C]  looks so [G]lovely. [C] [G] [C]
+[G]Sunshine [C]  almost [G]always [C]  makes me [G]high [C] [G] [C]
 
 
 [Verse 1]
 
-G     Am7  Bm   C              G        Am7  Bm   C
-If I had a day    that I could give you
-    G          Am7   Bm    C             Am7  C    D    D7
-I'd give to you    a day   just like   today.
-G    Am7   Bm   C              G           Am7  Bm   C
-If I had a song   that I could sing for you.
-G              Am7   Bm         C       G    Am7   Bm   C
- I'd sing a song  to make you feel this way.            
+[G]If I h[Am7]ad a [Bm]day  [C]  that I could [G]give you [Am7] [Bm] [C]
+I'd [G]give to you[Am7]    a [Bm]day   [C]just like   to[Am7]day. [C] [D] [D7]
+[G]If I [Am7]had a [Bm]song [C]  that I could [G]sing for you[Am7]. [Bm] [C]
+[G] I'd sing a son[Am7]g  to [Bm]make you fe[C]el this [G]way. [Am7]      [Bm]     [C]
 
 
 [Chorus]
 
-G        C       G         C          G       C    G    C
-Sunshine   on my shoulders   makes me happy.
-G        C       G    C           Am7   C     D    D7
-Sunshine   in my eyes can make me cry
-G        C        G     C          G        C    G    C
-Sunshine   on the water   looks so lovely.
-G        C        G      C          G     C    G    C
-Sunshine   almost always   makes me high
+[G]Sunshine [C]  on my [G]shoulders [C]  makes me [G]happy. [C] [G] [C]
+[G]Sunshine [C]  in my [G]eyes [C]can make me [Am7]cry [C] [D] [D7]
+[G]Sunshine [C]  on the [G]water [C]  looks so [G]lovely. [C] [G] [C]
+[G]Sunshine [C]  almost [G]always [C]  makes me [G]high [C] [G] [C]
 
 
 [Verse 2]
 
-G    Am7   Bm       C              G       Am7  Bm   C
-If I had     a tale   that I could tell you
-G             Am7 Bm       C             Am7  Am7  D7   D7
- I'd tell a tale  sure  to   make you smile.
-G    Am7      Bm   C              G          Am7  Bm  C
-If I had    a wish   that I could wish for you.
-G               Am7  Bm    C     G      Am7  Bm   C
- I'd make a wish for sunshine all the while.             
+[G]If I [Am7]had   [Bm]  a tale [C]  that I could [G]tell you[Am7] [Bm] [C]
+[G] I'd tell a ta[Am7]le  [Bm]sure  to [C]  make you smi[Am7]le. [Am7] [D7]
+[G]If I [Am7]had    a [Bm]wish [C]  that I could [G]wish for yo[Am7]u. [Bm] [C]
+[G] I'd make a wish[Am7] for [Bm]sunshi[C]ne all[G] the wh[Am7]ile. [Bm]     [C]       
 
 
 [Chorus]
 
-G        C       G         C          G       C    G    C
-Sunshine   on my shoulders   makes me happy.
-G        C       G    C           Am7   C     D    D7
-Sunshine   in my eyes can make me cry
-G        C        G     C          G        C    G    C
-Sunshine   on the water   looks so lovely.
-G        C        G      C          G    Am7   Bm   C
-Sunshine   almost always   makes me high
+[G]Sunshine [C]  on my [G]shoulders [C]  makes me [G]happy. [C] [G] [C]
+[G]Sunshine [C]  in my [G]eyes [C]can make me [Am7]cry [C] [D] [D7]
+[G]Sunshine [C]  on the [G]water [C]  looks so [G]lovely. [C] [G] [C]
+[G]Sunshine [C]  almost [G]always [C]  makes me [G]high [Am7] [Bm] [C]
 
 
 [Coda]
 
-G        C        G            C          G     Am7   Bm   C
-Sunshine   almost all the time   makes me high.
-G        C        G      C    G   Am7   Bm    C   G
-Sunshine   almost always.
+[G]Sunshine [C]  almost [G]all the time [C]  makes me [G]high. [Am7] [Bm] [C]
+[G]Sunshine [C]  almost [G]always.[C] [G] [Am7] [Bm] [C] [G]
