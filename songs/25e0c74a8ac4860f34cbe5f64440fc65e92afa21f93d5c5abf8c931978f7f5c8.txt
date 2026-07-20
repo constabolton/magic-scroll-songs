@@ -8,12 +8,9 @@ https://en.wikipedia.org/wiki/Wild_Thing_(The_Troggs_song)
 
 A D E
 
-A        D E  D           A         D E
-Wild thing.. .you make my heart sing...
-D        A    D
-You make everything
-E     D
-Groovy
+[A]Wild thin[D]g.[E]. .[D]you make my [A]heart sing[D]..[E].
+[D]You make [A]every[D]thing
+[E]Groovy[D]
 A         D E    (G A G)
 wild thing...
 
@@ -28,14 +25,10 @@ I love you
 
 A D E D 2x
 
-A        D E  D           A         D E
-Wild thing.. .you make my heart sing...
-D        A    D
-You make everything
-E     D
-Groovy
-A         D E
-Wild thing...
+[A]Wild thin[D]g.[E]. .[D]you make my [A]heart sing[D]..[E].
+[D]You make [A]every[D]thing
+[E]Groovy[D]
+[A]Wild thing[D]..[E].
 
 A D E D 3x
 A D E    (G A G)
@@ -53,17 +46,11 @@ A D E D
 A D E
 E
 
-A        D E  D           A         D E
-Wild thing.. .you make my heart sing...
-D        A    D
-You make everything
-E     D
-Groovy
-A         D E
-Wild thing...
-              A        D E
-C'mon, c'mon, Wild Thing
-                    A         D E
-Shake it, shake it, Wild Thing... 2x
+[A]Wild thin[D]g.[E]. .[D]you make my [A]heart sing[D]..[E].
+[D]You make [A]every[D]thing
+[E]Groovy[D]
+[A]Wild thing[D]..[E].
+C'mon, c'mon, [A]Wild Thin[D]g [E]
+Shake it, shake it, [A]Wild Thing[D]..[E]. 2x
 
 Set8
