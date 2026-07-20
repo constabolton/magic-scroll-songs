@@ -1,37 +1,21 @@
 ----------------------------------------------------------------------
 Song name: The Sound Of Music - My Favorite Things  by  Misc Musicals
 ----------------------------------------------------------------------
-Em
-Raindrops on roses and whiskers on kittens
-C
-Bright copper kettles and warm woolen mittens
-Am        D         G            C
-Brown paper packages tied up with string
-G            C          Am         B7
-These are a few of my favorite things
-Em
-Cream colored ponies and crisp apple strudels
-C
-Door bells and sleigh bells and schnitzel with noodles
-Am                  D             G              C
-wild geese with that fly with the moon on their wings
-G             C         Am          B7
-These are a few of my favorite things
+[Em]Raindrops on roses and whiskers on kittens
+[C]Bright copper kettles and warm woolen mittens
+[Am]Brown pape[D]r packages[G] tied up with[C] string
+[G]These are a f[C]ew of my fa[Am]vorite thin[B7]gs
+[Em]Cream colored ponies and crisp apple strudels
+[C]Door bells and sleigh bells and schnitzel with noodles
+[Am]wild geese with that[D] fly with the [G]moon on their w[C]ings
+[G]These are a fe[C]w of my fa[Am]vorite thing[B7]s
 
-E 
-Girls in white dresses with blue satin sashes
-A
-Snowflakes that stay on my nose and eyelashes
-Am           D         G            C
-Silver white winters that melt into spring
-G              C         Am           B7
-These are a few of my favorite things
+[E]Girls in white dresses with blue satin sashes
+[A]Snowflakes that stay on my nose and eyelashes
+[Am]Silver white [D]winters th[G]at melt into [C]spring
+[G]These are a few[C] of my fav[Am]orite things [B7]
 
-Em                     Am        B7
-When the dog bites,  When the bee stings
-Em                 C
-When I'm feeling sad
- Am                  A
-I simply remember my favorite things
-G     C    Am     D   G
-and then I won't feel so bad
+[Em]When the dog bites,  Wh[Am]en the bee[B7] stings
+[Em]When I'm feeling sa[C]d
+I[Am] simply remember my [A]favorite things
+[G]and th[C]en I [Am]won't f[D]eel [G]so bad
