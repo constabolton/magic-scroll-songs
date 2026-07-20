@@ -1,32 +1,23 @@
 [Intro]
 
 (Either strum once lightly for melancholy effect or rhythmically)
-Dm
-Over prescribed
-G
-Under the mister
+[Dm]Over prescribed
+[G]Under the mister
 C      C/B   (01022X) Play as walk down from open chord ‘C’
 We had survived to
-A7
-Turn on the history channel
-Dm                   G
-And ask our esteemed panel
-           C
-Why are we alive
-    C/B               A7
-And here's how they replied
-Dm                                      G
-You're what happens when two substances collide
-       Dm               G                Am
-And by all accounts you really should've died
+[A7]Turn on the history channel
+[Dm]And ask our esteemed [G]panel
+Why are we [C]alive
+And [C/B]here's how they re[A7]plied
+[Dm]You're what happens when two substances [G]collide
+And by [Dm]all accounts you [G]really should've [Am]died
 Am      E      (Pluck Root note and then rest of chord in 4/4)
         E       (Then play ‘E’ chord loud into interlude…)
 
 
 [Interlude] (RIFF 1)
 
-Am C/G Gm F E
-(Interlude chords played behind RIFF 1)
+[Am](In[C/G]terl[Gm]ude[F] c[E]hords played behind RIFF 1)
 
          Am                C/G             Gm
 e|----------------------------------------------------------|
@@ -53,96 +44,63 @@ Verses and Chorus.)
 
 [Verse 1]
 
-Am                   C/G
-Stretched out on the tarmac
-Gm                 F              E
-Six miles south of North Platte
-Am                C/G
-He can't stand to look back
-Gm                 F         E
-At sixteen tons of HazMat
+[Am]Stretched out on the [C/G]tarmac
+[Gm]Six miles south of [F]North Platte [E]
+[Am]He can't stand to [C/G]look back
+[Gm]At sixteen tons of [F]HazMat [E]
 
 
 [Pre-Chorus]
 
-              Am
-And it's what goes
-B     E
-Undelivered
-A   D    Gm Gm/F E
-Undelivered
+And it's what [Am]goes
+[B]Undeli[E]vered
+[A]Unde[D]liver[Gm]ed [Gm/F] [E]
 
 
 [Chorus]
 
-           Am                        C/G                 Gm
-And it's a nervous tic motion of the head to the left
-                                 F
-It's a nervous tic motion of the head to the left
-                    E
-Of the what? Of the head to the left
-Am                      C/G            Gm
-Exercise yourself 'till you're bereft
-                                        F
-'Cause it's a nervous tic motion of the head to the left
-                  E
-Of the...of the...to the...
+And it's a [Am]nervous tic motion of the [C/G]head to the left [Gm]
+It's a nervous tic motion of the [F]head to the left
+Of the what? Of the [E]head to the left
+[Am]Exercise yourself 'till [C/G]you're bereft [Gm]
+'Cause it's a nervous tic motion of the [F]head to the left
+Of the...of the...[E]to the...
 
 
 [Verse 2]
 
-Am                 C/G
-Splayed out on a bathmat
-Gm                 F              E
-Six miles north of South Platte
-Am                    C/G
-And he just wants his life back
-Gm                      F         E
-What's in that paper knapsack
+[Am]Splayed out on a ba[C/G]thmat
+[Gm]Six miles north of [F]South Platte [E]
+[Am]And he just wants his [C/G]life back
+[Gm]What's in that paper kna[F]psack [E]
 
 
 [Pre-Chorus]
 
-              Am
-And it's what goes
-B     E
-Undelivered
-A   D    Gm Gm/F E
-Undelivered
+And it's what [Am]goes
+[B]Undeli[E]vered
+[A]Unde[D]liver[Gm]ed [Gm/F] [E]
 
 
 [Chorus]
 
-Am                               C/G               Gm
-It's a nervous tic motion of the head to the left
-              F             E
-A nervous tic motion of the head
+[Am]It's a nervous tic motion of the [C/G]head to the left [Gm]
+A nervous tic [F]motion of the [E]head
 
 
 [Outro]
 
-Dm
-Over imbibed
-G
-Under the mister
-C      C/B
-Barely alive we
-A7                    Dm
-Cover the blisters in flannel
-                              G
-Though the words we speak are banal
-                    C
-Not one of them's a lie
-    C/B             A7
-Not one of them's a lie
-            Dm
-You're what happens when
-               G
-Two substances collide
-           Dm
-And by all accounts
-    G                Am
-You really should've died
+[Dm]Over imbibed
+[G]Under the mister
+[C]Barely [C/B]alive we
+[A7]Cover the blisters in [Dm]flannel
+Though the words we speak are [G]banal
+Not one of them's a [C]lie
+Not [C/B]one of them's a [A7]lie
+You're what [Dm]happens when
+Two substances [G]collide
+And by all [Dm]accounts
+You [G]really should've [Am]died
 
 
 (Song order may vary - follow recording or cover in your own way.
