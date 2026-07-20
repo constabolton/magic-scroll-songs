@@ -13,48 +13,32 @@ Subject: j/jolson_al/you_made_me_love_you.crd
 You Made Me Love You (Monaco/McCarthy) as sung by Al Jolson
 
 E
-A	    C#m7 Cm7
-You made me love you
-  Bm7		 E
-I didn't want to do it
-  Bm		 E
-I didn't want to do it
-E	    E7
-You made me want you
-A
-And all the time you knew it
+[A]You ma[C#m7]de me[Cm7] love you
+I [Bm7]didn't[E] want to do it
+I [Bm]didn'[E]t want to do it
+[E]You ma[E7]de me want you
+[A]And all the time you knew it
 
 I guess you always knew it
-F#
-You made me happy sometimes
-B7
-You made me glad
+[F#]You made me happy sometimes
+[B7]You made me glad
 
 But there were times, baby
-E
-You made me feel so bad
-A	    C#m7 Cm7
-You made me cry, for
-  Bm7		 E
-I didn't want to tell you
-  Bm		 E
-I didn't want to tell you
+[E]You made me feel so bad
+[A]You ma[C#m7]de me[Cm7] cry, for
+I [Bm7]didn't[E] want to tell you
+I [Bm]didn'[E]t want to tell you
 E	    (Bm) 	C#
 I want some love that's true
 
 Yes I do Indeed I do You know I do
-F#	G
-Give me give me
-F#	G
-Give me give me
-F#   G F#
-What I cry for
-    B					B7
-You know you've got the kind of kisses
+[F#]Giv[G]e me give me
+[F#]Giv[G]e me give me
+[F#]What [G]I [F#]cry for
+You [B]know y[B7]ou've got the kind of kisses
 
 That I'd die for
-A	     Bm7     E    A
-You know you made me love you.
+[A]You kno[Bm7]w you ma[E]de me[A] love you.
 
 Transcribed 6th June 1998 by David Linley.
 Comments and corrections to <dal23@hermes.cam.ac.uk>
