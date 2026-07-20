@@ -6,83 +6,49 @@ Em  D  C   Em  D  C
 Em  D  C   Em  D  C
 
 [Verse]
-Em            D       C
-White are the far-off plains
-    Am        G/B    C       D
-And white the fading forests grow
-    Am             Em       D
-The wind dies out along the height
-Am               Em  D
-Denser still the snow___
-  Em        D         C
-A gathering weight on roof and tree
-      Am          G/B C     D
-Falls down scarce audibly
+[Em]White are the [D]far-off [C]plains
+And [Am]white the [G/B]fading [C]forests [D]grow
+The [Am]wind dies out a[Em]long the [D]height
+[Am]Denser still the [Em]snow[D]___
+A [Em]gathering [D]weight on [C]roof and tree
+Falls [Am]down scarce [G/B]audi[C]bly [D]
 
 [Verse]
-Em          D           C
-Meadows and far-sheeted streams
-    Am    G/B C     D
-Lie still without a sound
-Am                  Em     D
-Like some soft minister of dreams
-             Am        Em  D
-The snowfall hoods me around__
-   Em       D     C
-In wood and water, earth and air
-  Am         G/B  C      D  C  D
-A silence is everywhere
+[Em]Meadows and [D]far-sheeted [C]streams
+Lie [Am]still [G/B]with[C]out a [D]sound
+[Am]Like some soft minis[Em]ter of [D]dreams
+The snowfall [Am]hoods me a[Em]roun[D]d__
+In [Em]wood and [D]water,[C] earth and air
+A [Am]silence is [G/B]every[C]where [D] [C] [D]
 
 [Verse]
-Em           D     C
-Save when it lowly spills
-     Am       G/B       C     D
-Some farmer's sleigh is urged on
-     Am                   Em    D
-With rustling runners and sharp bells
-Am                  Em  D
-Swings by me and is gone___
-   Em       D    C
-Or from the empty waste I hear
-  Am      G/B      C      D  C  D  C  D
-A sound remote and clear
+[Em]Save when it [D]lowly [C]spills
+Some [Am]farmer's [G/B]sleigh is [C]urged [D]on
+With [Am]rustling runners and [Em]sharp [D]bells
+[Am]Swings by me and is [Em]gone[D]___
+Or [Em]from the [D]empty[C] waste I hear
+A [Am]sound re[G/B]mote and [C]clear [D] [C] [D] [C] [D]
 
 [Verse]
-Em      D    C
-Barking of a dog
-   Am G/B    C       D
-To cattle is sharply pealed
-      Am                Em      D
-Borne echoing from some wayside stall
-   Am            Em  D
-Or barnyard far afield__
-     Em     D     C
-Then all is silent and the snow
-      Am       G/B      C     D
-Falls settling soft and slow
+[Em]Barking [D]of a [C]dog
+To [Am]cat[G/B]tle is [C]sharply [D]pealed
+Borne [Am]echoing from some [Em]wayside [D]stall
+Or [Am]barnyard far a[Em]fiel[D]d__
+Then [Em]all is [D]silent[C] and the snow
+Falls [Am]settling [G/B]soft and [C]slow [D]
 
 [Instrumental]
 C   D   C   D   C   D   C   D
 C   D   C   D   C   D   C   D
 
 [Verse]
-    Em       D              C
-The evening deepens and the grey
-      Am G/B C         D
-Folds closer earth and sky
-    Am                      Em   D
-The world seems shrouded so far away
-    Am                Em D
-Its noises sleep, and I____
-   Em     D      C
-As secret as yon buried stream
-     Am     G/B    C      D
-Plod dumbly on and dream
-    C   D    C  D
-And dream__
-    C   D    C  D
-And dream__
-    C   D
-And dream__
-    Em
-And dream__
+The [Em]evening d[D]eepens and the [C]grey
+Folds [Am]clo[G/B]ser [C]earth and [D]sky
+The [Am]world seems shrouded so [Em]far a[D]way
+Its [Am]noises sleep, and [Em]I__[D]__
+As [Em]secret [D]as yon [C]buried stream
+Plod [Am]dumbly [G/B]on and [C]dream [D]
+And [C]drea[D]m__ [C] [D]
+And [C]drea[D]m__ [C] [D]
+And [C]drea[D]m__
+And [Em]dream__
