@@ -12,12 +12,10 @@ Chords:
 G    320003
 F    X33211
 G7   320001
-C    X32010
-D    X00230 or X00232 (play with it for variety)
+[C]D    X00230 or X00232 (play with it for variety)
 Em   022000
 G/B  X20003
-Am7  X02010
------------
+[Am7]-----------
 
 A couple of notes:
 1) in order to be in the correct key, capo on the 2nd fret.
@@ -40,24 +38,15 @@ E|-3-----3---------3-----3---------|
 
 [Verse 1]
 
-G
-   If you could read my mind love
-F
-   What a tale my thoughts could tell
-G
-   Just like an old time movie
-F
-   'bout a ghost from a wishin' well
-G                G7      C
-   In a castle dark or a fortress strong
-     D              Em
-With chains upon my feet
-    C                  G
-You know that ghost is me
-    C            G/B
-And I will never be set free
-   Am7           D                    G
-As long as I'm a ghost that you can't see
+[G]   If you could read my mind love
+[F]   What a tale my thoughts could tell
+[G]   Just like an old time movie
+[F]   'bout a ghost from a wishin' well
+[G]   In a castle da[G7]rk or a [C]fortress strong
+With [D]chains upon my [Em]feet
+You [C]know that ghost is [G]me
+And [C]I will never [G/B]be set free
+As [Am7]long as I'm a [D]ghost that you can't [G]see
 
 
 [Instrumental]
@@ -67,24 +56,15 @@ G
 
 [Verse 2]
 
-G
-   If I could read your mind love
-F
-   What a tale your thoughts could tell
-G
-   Just like a paperback novel
-F
-   The kind that drugstores sell
-G                       G7             C
-   When you reach the part where the heartaches come
-    D             Em
-The hero would be me
-    C            G
-But heroes often fail
-    C                   G/B
-And you won't read that book again
-   Am7               D                G
-Because the ending's just too hard to take
+[G]   If I could read your mind love
+[F]   What a tale your thoughts could tell
+[G]   Just like a paperback novel
+[F]   The kind that drugstores sell
+[G]   When you reach the pa[G7]rt where the he[C]artaches come
+The [D]hero would be [Em]me
+But [C]heroes often [G]fail
+And [C]you won't read that [G/B]book again
+Bec[Am7]ause the ending's [D]just too hard to [G]take
 
 
 [Instrumental]
@@ -94,28 +74,17 @@ G F G F
 
 [Verse 3]
 
-G           G7         C
-  I'd walk away like a movie star
-         D                     Em
-Who gets burned in a three way script
-C            G
-Enter number two
-  C              G/B
-A movie queen to play the scene
-   Am7              D                  Em
-Of bringing all the good things out in me
-        C                  G
-But for now love, let's be real
-    C                     G/B
-* I never thought I could act this way *
-         Am7               D
-And I've got to say that I just don't get it
-C                     G/B
-   I don't know where we went wrong
-        Am7
-But the feelin's gone
-      D                 G
-And I just can't get it back
+[G]  I'd walk a[G7]way like a [C]movie star
+Who gets [D]burned in a three way [Em]script
+[C]Enter number [G]two
+A [C]movie queen to [G/B]play the scene
+Of [Am7]bringing all the [D]good things out in [Em]me
+But for [C]now love, let's be [G]real
+* I [C]never thought I could [G/B]act this way *
+And I've [Am7]got to say that I [D]just don't get it
+[C]   I don't know where [G/B]we went wrong
+But the [Am7]feelin's gone
+And I [D]just can't get it [G]back
 
 
 [Instrumental]
@@ -125,36 +94,21 @@ G
 
 [Verse 4]
 
-G
-   If you could read my mind love
-F
-   What a tale my thoughts could tell
-G
-   Just like an old time movie
-F
-   'bout a ghost from a wishin' well
-G                 G7      C
-    In a castle dark or a fortress strong
-     D              Em
-With chains upon my feet
-    C              G
-But stories always end
-    C             G/B
-And if you read between the lines
-       Am7                D              Em
-You'll know that I'm just tryin' to understand
-    C                 G
-The feelin's that you lack
-  C                     G/B
-I never thought I could feel this way
-         Am7               D
-And I've got to say that I just don't get it
-C                     G/B
-   I don't know where we went wrong
-        Am7
-But the feelin's gone
-      D                 G
-And I just can't get it back
+[G]   If you could read my mind love
+[F]   What a tale my thoughts could tell
+[G]   Just like an old time movie
+[F]   'bout a ghost from a wishin' well
+[G]    In a castle da[G7]rk or a [C]fortress strong
+With [D]chains upon my [Em]feet
+But [C]stories always [G]end
+And [C]if you read be[G/B]tween the lines
+You'll [Am7]know that I'm just [D]tryin' to under[Em]stand
+The [C]feelin's that you [G]lack
+I [C]never thought I could [G/B]feel this way
+And I've [Am7]got to say that I [D]just don't get it
+[C]   I don't know where [G/B]we went wrong
+But the [Am7]feelin's gone
+And I [D]just can't get it [G]back
 
 
 [Outro]
