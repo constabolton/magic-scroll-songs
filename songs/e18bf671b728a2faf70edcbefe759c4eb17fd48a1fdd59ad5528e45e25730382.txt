@@ -13,31 +13,20 @@ E|-----------------|-----------------|
 
 
 [Verse]
-Em                   A
-Sick at heart and lonely,
-C                  Em
-Deep in dark despair.
-Em                     A
-Thinking one thought only
-C                     Em
-Where is she tell me where.
-Em                  A
-And if she says to you
-C               Em
-She don't love me
-Em                   A
-Just give her my message
-C               Em
-Tell her of my plea
+[Em]Sick at heart and lon[A]ely,
+[C]Deep in dark despai[Em]r.
+[Em]Thinking one thought on[A]ly
+[C]Where is she tell me w[Em]here.
+[Em]And if she says to y[A]ou
+[C]She don't love m[Em]e
+[Em]Just give her my mess[A]age
+[C]Tell her of my p[Em]lea
 
 
 [Chorus]
-E                       G      A      E     
-And I know that if she had me back again
-            C       G        E
-Then I would never make her sad.
-             B        A          E  
-I've gotta heart....... full of soul.
+[E]And I know that if she h[G]ad me b[A]ack aga[E]in
+Then I would[C] never m[G]ake her s[E]ad.
+I've gotta he[B]art......[A]. full of s[E]oul.
 
 
 [Solo]
@@ -45,31 +34,20 @@ I've gotta heart....... full of soul.
 
 
 [Verse]
-Em                          A
-She's been gone such a long time
-C                  Em
-Longer than I can bear
-Em                      A
-But if she says she wants me
-C                       Em  
-Tell her that I'll be there
-E                   A
-And if she says to you
-C              Em
-She don't love me
-Em                    A
-Just give her my message
-C               Em
-Tell her of my plea.
+[Em]She's been gone such a long [A]time
+[C]Longer than I can b[Em]ear
+[Em]But if she says she want[A]s me
+[C]Tell her that I'll be th[Em]ere
+[E]And if she says to y[A]ou
+[C]She don't love [Em]me
+[Em]Just give her my messa[A]ge
+[C]Tell her of my p[Em]lea.
 
 
 [Chorus]
-E                       G      A      E     
-And I know that if she had me back again
-            C       G        E
-Then I would never make her sad.
-             B         A          E  
-I've gotta heart....... full of soul.
+[E]And I know that if she h[G]ad me b[A]ack aga[E]in
+Then I would[C] never m[G]ake her s[E]ad.
+I've gotta he[B]art.......[A] full of so[E]ul.
 
 
    v   v   v   v     v   v   v   v
