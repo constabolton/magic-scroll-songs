@@ -1,22 +1,13 @@
 ----------------------------------------------------------------------
 Song name: Up The Lazy River  by  The Mills Brothers
 ----------------------------------------------------------------------
-G   E                                 E7
-    Up the lazy river by the old mill run
-    A                      A7
-The lazy lazy river in the noon-day sun
- D                       D7
-Layin' in the shade of a kind old tree
-  G              G                            G7
-Throw away your troubles, dream a dream with me
+[G]    [E]Up the lazy river by the old mill [E7]run
+The [A]lazy lazy river in the [A7]noon-day sun
+L[D]ayin' in the shade of a [D7]kind old tree
+Th[G]row away your t[G]roubles, dream a dream with m[G7]e
 
-E                           E7
-Up the lazy river where the robin's song
- A                             A7
-Awaits a bright new mornin' as we just roll along
- C           C#dim     G            E
-Blue skies up above, every one's in love
-A           D          G              E
-Up the lazy river, how happy we would be
-A           D          G
-Up the lazy river with me
+[E]Up the lazy river where the [E7]robin's song
+A[A]waits a bright new mornin' as [A7]we just roll along
+B[C]lue skies up[C#dim] above, ev[G]ery one's in [E]love
+[A]Up the lazy [D]river, how [G]happy we would [E]be
+[A]Up the lazy [D]river with [G]me
