@@ -6,39 +6,23 @@ Capt. Robert Crawford  1939
 
 https://en.wikipedia.org/wiki/The_U.S._Air_Force_(song)
 
-G         D        G
-Off we go into the wild blue yonder,
-C                      G   D
-climbing high into the sun
-G              D          G
-Here they come zooming to meet our thunder,
-A                         D
-at 'em boys, Give 'er the gun!
-G             D            G
-Down we dive, spouting our flame from under,
-C                      B7
-off with one hell of a roar!
-   Em      E          Am      A7
-We live in fame or go down in flame,
-G                         D   G     D 
-nothing can stop the U.S. Air Force!
+[G]Off we go [D]into the [G]wild blue yonder,
+[C]climbing high into the [G]sun [D]
+[G]Here they come [D]zooming to [G]meet our thunder,
+[A]at 'em boys, Give 'er the [D]gun!
+[G]Down we dive, [D]spouting our [G]flame from under,
+[C]off with one hell of a [B7]roar!
+We [Em]live in [E]fame or go [Am]down in [A7]flame,
+[G]nothing can stop the U.S. [D]Air [G]Force![D]
 
-G                        D        G
-Minds of men fashioned a crate of thunder,
-C                     G   D
-sent it high into the blue
-G                        D      G
-Hands of men blasted the world asunder;
-A                       D
-how they lived God only knew! (God only knew!)
-G            D           G
-Souls of men dreaming of skies to conquer,
-C                      B7
-gave us wings, ever to soar!
-     Em       E        Am        A7
-With scouts before and bombers galore,
-G                          D   G     D
-nothing will stop the U.S. Air Force!
+[G]Minds of men fashioned a [D]crate of [G]thunder,
+[C]sent it high into the [G]blue[D]
+[G]Hands of men blasted the [D]world a[G]sunder;
+[A]how they lived God only [D]knew! (God only knew!)
+[G]Souls of men [D]dreaming of [G]skies to conquer,
+[C]gave us wings, ever to [B7]soar!
+With [Em]scouts be[E]fore and [Am]bombers ga[A7]lore,
+[G]nothing will stop the U.S. [D]Air [G]Force![D]
             
 Here's a toast to the host
 Of those who love the vastness of the sky,
