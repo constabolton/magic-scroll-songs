@@ -11,8 +11,7 @@ From: “The Band” (1969)
 ---------------------------------------------------------------------------
 
 Link 1 (to Verse 1]       
-  C              [ Am ]
-  1 + 2 + 3 + 4 +  
+  [C]1 + 2 + 3 + 4 +  [Am]
 e|----------------|0
 B|1---------------|1
 G|0-----------0---|2
@@ -21,8 +20,7 @@ A|3---------------|0
 E|----------------|
 
 Link 2 (end of Chorus 1 to Verse 2)
-  F      C                          [ Am ]
-     1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 + 0
+  [F]   1 + [C]2 + 3 + 4 +  1 + 2 + 3 + 4 + [Am]0
 e --|----0-----------|----------------|0
 B --|----1-----------|----------------|1
 G --|--0-0-----------|--------------0-|2
@@ -31,8 +29,7 @@ A 3-|----3-----------|----------------|0
 E --|----------------|----------------|
 
 [Link 3] (end of Chorus 2 to Verse 3)
- F       C     C      F            C                          [ Am ]
-     1 + 2 + 3 + 4 +  1 + 2 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+ [F]    1 + [C]2 + 3 [C]+ 4 +  [F]1 + 2 +  1 + [C]2 + 3 + 4 +  1 + 2 + 3 + 4 + [Am] 
 e --|----0-----0-----|1-------|----0-----------|----------------|0
 B --|----1-----1-----|1-------|----1-----------|----------------|1
 G --|--0-0-----0-----|2-------|--0-0-----------|------------0---|2
@@ -41,8 +38,7 @@ A 3-|----3-----3-----|3-----3-|----3-----------|----------------|0
 E --|----------------|1-------|----------------|----------------|
 
 [Link 4] (end of Chorus 3 to Chorus 4)
-  F      C            G/B     Bb       F/A   Ddim/Ab    C/G    D/F#    [ C/G ]
-     1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 + 
+  [F]   1 + [C]2 + 3 + 4 +  [G/B]1 + 2 + [Bb]3 + 4 +  [F/A]1 + 2 [Ddim/Ab]+ 3 + 4 +  [C/G]1 + 2 +[D/F#] 3 + 4 + [C/G]
 e --|----0-----------|----------------|----------------|----------------|0
 B --|----1-----------|0---0---3---3---|1---1---6---6---|1---1---3---3---|1
 G --|--0-0-----------|0---0---3---3---|2---2---7---7---|0---0---2---2---|0
@@ -63,83 +59,54 @@ F     (t)1-3-3-2-1-0
 ---------------------------------------------------------------------------
 
 [Intro]
-|   C   |
- (Link 1)
+ (Li[C]nk 1)
 
 
 [Verse 1]
-Am       C/G                      F             C/E      Dm
-  Virgil Caine is the name, and I served on the Danville train
-Am               C/G              F           C/E     Dm
- 'Til Stoneman's cavalry came and tore up the tracks again
-Am/E               F           C/G          Dm
- In the winter of '65, We were hungry, just barely alive
-Am/E               F                         C/G      Dm            D/F#
- By May the tenth, Richmond had fell, it's a time I remember, oh so well
+[Am]  Virgil [C/G]Caine is the name, and I [F]served on the [C/E]Danville [Dm]train
+[Am] 'Til Stoneman's [C/G]cavalry came and [F]tore up the [C/E]tracks a[Dm]gain
+[Am/E] In the winter of '[F]65, We were [C/G]hungry, just [Dm]barely alive
+[Am/E] By May the tenth, [F]Richmond had fell, it's a [C/G]time I re[Dm]member, oh so [D/F#]well
 
 
 [Chorus 1]
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the bells were ringing
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the people were singin' 
-          C/G             Am            Gsus4           F               |    C   |  %  |
-They went:  Naah, na, na, naah, na, na  Na, na, na, na, naah, na, na, na, na    [Link 2)
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]bells were ringing
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]people were singin' 
+They went:[C/G]  Naah, na, na, [Am]naah, na, na  [Gsus4]Na, na, na, na, [F]naah, na, na, na, na [C]   [Link 2)
 
 
 [Verse 2]
-Am                     C/G             F           C/E       Dm
-  Back with my wife in Tennessee, when one day she called to me
-Am         C/G              F              C/E       Dm
-  "Virgil, quick, come see, there goes the Robert E. Lee!"
-Am/E               F                    C/G               Dm
-  Now I don't mind choppin' wood, and I don't care if the money's no good
-   Am/E                     F
-Ya take what ya need and ya leave the rest
-                C/G        Dm             D/F#
-But they should never have taken the very best
+[Am]  Back with my wife in [C/G]Tennessee, when [F]one day she [C/E]called to [Dm]me
+[Am]  "Virgil, [C/G]quick, come see, [F]there goes the [C/E]Robert E. [Dm]Lee!"
+[Am/E]  Now I don't mind [F]choppin' wood, and I [C/G]don't care if the [Dm]money's no good
+Ya [Am/E]take what ya need and ya [F]leave the rest
+But they should [C/G]never have [Dm]taken the very [D/F#]best
 
 
 [Chorus 2]
-    C/G          Fmaj7         C/G           Fmaj7
-The night they drove Old Dixie down, and the bells were ringing
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the people were singin'
-           C/G            Am
-They went:  Naah, na, na, naah, na, na  
+The [C/G]night they dr[Fmaj7]ove Old Dixie [C/G]down, and the [Fmaj7]bells were ringing
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]people were singin'
+They went: [C/G] Naah, na, na, [Am]naah, na, na  
                                                2/4
-Gsus4               F                |   C  C | F |  C  |  N.C.  |
-Na, na, na, na, na, naah, na, na, na       (Link 3)
+[Gsus4]Na, na, na, na, na, [F]naah, na, na, na     [C]  ([C]Link[F] 3) [C]
 
 
 [Verse 3]
-Am                 C/G      F      C/E      Dm
-  Like my father before me, I will work the land
-Am                 C/G      F          C/E   Dm
-  Like my brother above me, who took a rebel stand
-       Am/E           F                      C               Dm
-He was just eighteen, proud and brave, but a Yankee laid him in his grave
-Am/E                   F
-  I swear by the mud below my feet
-          C                  Dm                D/F#
-You can't raise a Caine back up when he's in defeat
+[Am]  Like my father be[C/G]fore me, [F]I will [C/E]work the [Dm]land
+[Am]  Like my brother a[C/G]bove me, [F]who took a [C/E]rebel [Dm]stand
+He was [Am/E]just eighteen, [F]proud and brave, but a [C]Yankee laid him [Dm]in his grave
+[Am/E]  I swear by the mud be[F]low my feet
+You can't [C]raise a Caine back [Dm]up when he's in de[D/F#]feat
 
 
 [Chorus 3]
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the bells were ringing
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the people were singin'  
-           C/G            Am
-They went:  Naah, na, na, naah, na, na  
-Gsus4           F                 |  C    | G/B Bb | F/A Ddim/Ab | C/G D/F# |
-Na, na, na, na, naah, na, na, na        (Link 4)
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]bells were ringing
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]people were singin'  
+They went: [C/G] Naah, na, na, [Am]naah, na, na  
+[Gsus4]Na, na, na, na, [F]naah, na, na, na     [C]   (Lin[G/B]k 4)[Bb] [F/A] [Ddim/Ab] [C/G] [D/F#]
 
 
 [Chorus 4] (fade out)
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the bells were ringing,
-    C/G        Fmaj7           C/G           Fmaj7
-The night they drove Old Dixie down, and the people were singin'.  
-          C/G             Am            Gsus4           F               |    C   |  %  |
-They went:  Naah, na, na, naah, na, na  Na, na, na, na, naah, na, na, na    [Link 2)
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]bells were ringing,
+The [C/G]night they [Fmaj7]drove Old Dixie [C/G]down, and the [Fmaj7]people were singin'.  
+They went:[C/G]  Naah, na, na, [Am]naah, na, na  [Gsus4]Na, na, na, na, [F]naah, na, na, na    [[C]Link 2)
