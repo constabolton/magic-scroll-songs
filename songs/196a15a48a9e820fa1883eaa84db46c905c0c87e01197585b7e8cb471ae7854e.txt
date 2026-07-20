@@ -8,39 +8,25 @@ Capo 1st fret
 
 [Verse]
 
-Am                 G
-As I walk along, I wonder  what went wrong 
-     F
-With our love 
-                   E7
-A love that was so strong.
-Am                        G
-And as I still walk on, I think of, the things 
-             F
-We`ve done together 
-                      E7
-while our hearts were young.
+[Am]As I walk along, I [G]wonder  what went wrong 
+With [F]our love 
+A love that was so [E7]strong.
+[Am]And as I still walk on, I [G]think of, the things 
+We`ve done to[F]gether 
+while our hearts were [E7]young.
 
 
 [Chorus]
 
-A                       
-I`m  walking in the rain   
-F#m
-   Tears are falling and I feel the pain 
-A                           
-Wishing you were here by me   
-F#m
-   To end this misery.
+[A]I`m  walking in the rain   
+[F#m]   Tears are falling and I feel the pain 
+[A]Wishing you were here by me   
+[F#m]   To end this misery.
    
-  A                      F#m       
-I wonder   I wa-wa-wa-wa-wonder?  
-A                        F#m
-Why? Wha, wha, wha, wha, why, she ran away?
-      D                      E7
-And I wonder, where she will stay-yay 
-          A        D                   A       E7
-My little runaway  run, run, run, run, runaway.
+I [A]wonder   I wa-wa-wa-wa-[F#m]wonder?  
+[A]Why? Wha, wha, wha, wha, [F#m]why, she ran away?
+And I [D]wonder, where she will [E7]stay-yay 
+My little [A]runaway  [D]run, run, run, run, [A]runaway.[E7]
 
 
 [Interlude]
@@ -51,28 +37,18 @@ Am  G  F  E E7
 
 [Chorus]
 
-A                       
-I`m  walking in the rain   
-F#m
-   Tears are falling and I feel the pain 
-A                           
-Wishing you were here by me   
-F#m
-   To end this misery.
+[A]I`m  walking in the rain   
+[F#m]   Tears are falling and I feel the pain 
+[A]Wishing you were here by me   
+[F#m]   To end this misery.
    
-  A                      F#m       
-I wonder   I wa-wa-wa-wa-wonder?  
-A                        F#m
-Why? Wha, wha, wha, wha, why, she ran away?
-      D                      E7
-And I wonder, where she will stay-yay 
-          A        D                   A       E7
-My little runaway  run, run, run, run, runaway.
+I [A]wonder   I wa-wa-wa-wa-[F#m]wonder?  
+[A]Why? Wha, wha, wha, wha, [F#m]why, she ran away?
+And I [D]wonder, where she will [E7]stay-yay 
+My little [A]runaway  [D]run, run, run, run, [A]runaway.[E7]
 
 
 [Outro]
 
-D                   A
-Run, run, run, run, runaway 
-D                   A
-Run, run, run, run, runaway
+[D]Run, run, run, run, [A]runaway 
+[D]Run, run, run, run, [A]runaway
