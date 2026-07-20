@@ -15,15 +15,11 @@ remake, not the Tempos' 1959 original.
 
 Intro:
 
-	Bm7                    E7
-	I'll be alone each and every night
-	 Bm7                        E7
-	While you're away, don't forget to write
+	[Bm7]I'll be alone each and [E7]every night
+	W[Bm7]hile you're away, don't for[E7]get to write
 
-	Em7          A7
-	Bye-bye, so long, farewell
-	Em7          A7
-	Bye-bye, so long
+	[Em7]Bye-bye, so l[A7]ong, farewell
+	[Em7]Bye-bye, so l[A7]ong
 
 Verse 1:
 
@@ -32,65 +28,47 @@ Verse 1:
 	Em7     A7                     F#m7  B7-9
 	See you    when the summer's through
 
-	        Em7
-	Here we are (bye, baby, goodbye)
-	 A7                   F#m7                    B7
-	Saying goodbye at the station (bye, baby, goodbye)
-	         Em7               E7
-	Summer vacation (bye, baby    bye, baby)
-	               Em7                 A7 [N.C.]
-	Is taking you away (bye, baby, goodbye)
+	Here we [Em7]are (bye, baby, goodbye)
+	S[A7]aying goodbye at the [F#m7]station (bye, baby, good[B7]bye)
+	Summer va[Em7]cation (bye, baby [E7]   bye, baby)
+	Is taking you a[Em7]way (bye, baby, good[A7]bye)
 
 Verse 2:
 
 	       Em7        A7       F#m7    B7-9
 	Have a good time,    but remember
-	         Em7    A7                     F#m7   B7
-	There is danger    in the summer moon above
+	There is [Em7]danger [A7]   in the summer moon a[F#m7]bove [B7]
 	        G      C9        F#m7  B7-9
 	Will I see you    in September
-	    Em7      A7 [N.C.]
-	Or lose you
+	Or l[Em7]ose you [A7]
 
 Intro 2:
 
-	             Bm7                              E7
-	To a summer love (counting the days 'til I'll be with you)
-	  Bm7                        E7
-	(Counting the hours and the minutes, too)
+	To a summer l[Bm7]ove (counting the days 'til I'll [E7]be with you)
+	(C[Bm7]ounting the hours and the m[E7]inutes, too)
 
-	Em7            A7
-	Bye, baby, goodbye
-	Em7            A7
-	Bye, baby, goodbye
+	[Em7]Bye, baby, good[A7]bye
+	[Em7]Bye, baby, good[A7]bye
 
-	Em7            A7
-	Bye, baby, goodbye
+	[Em7]Bye, baby, good[A7]bye
 	  (bye-bye, so long, farewell)
 
 	(key changes to Bb)
 
-	Fm7            Bb7 [N.C.]
-	Bye, baby, goodbye
+	[Fm7]Bye, baby, good[Bb7]bye
 	  (bye-bye, so long, farewell)
 
 Verse 2 in Eb:
 
-	        Fm7      Bb7       Gm7    C7
-	Have a good time     but remember
-	          Fm7   Bb7                     Gm7   C7
-	There is danger     in the summer moon above
-	        Ab     Db9       Gm7     C7
-	Will I see you     in September
-	    Fm7     Bb7 [N.C.]
-	Or lose you
+	Have a g[Fm7]ood time [Bb7]    but re[Gm7]member [C7]
+	There is d[Fm7]anger [Bb7]    in the summer moon a[Gm7]bove [C7]
+	Will I s[Ab]ee you [Db9]    in Sep[Gm7]tember [C7]
+	Or l[Fm7]ose you [Bb7]
 
 Intro 3:
 
-	            Cm7                          F7
-	To a summer love (I'll be alone each and every night)
-	  Cm7                        F7
-	(While you're away, don't forget to write)
+	To a summer [Cm7]love (I'll be alone each and [F7]every night)
+	(W[Cm7]hile you're away, don't for[F7]get to write)
 
 Coda (repeat to fade):
 
