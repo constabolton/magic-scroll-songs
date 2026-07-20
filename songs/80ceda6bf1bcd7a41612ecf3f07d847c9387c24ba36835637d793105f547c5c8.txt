@@ -2,16 +2,12 @@
 Song name: Its Been A Long Long Time  by  Bing Crosby
 ----------------------------------------------------------------------
 [Chorus]
-C                C/B               Am7           Am7/G
-Kiss me once and kiss me twice and kiss me once again
-            Adim     Edim     G7
-It's been a long,    long     time.
+[C]Kiss me once and [C/B]kiss me twice and [Am7]kiss me once a[Am7/G]gain
+It's been a [Adim]long,    [Edim]long     [G7]time.
 
 [Verse]
-Dm                Dm/C#                Dm7/C          Dm/B
-Haven't felt like this, my dear, since can't remember when
-            G      G+    C     C7
-It's been a long,  long  time.
+[Dm]Haven't felt like [Dm/C#]this, my dear, since [Dm7/C]can't remember [Dm/B]when
+It's been a [G]long,  [G+]long  [C]time. [C7]
 
 [Bridge]
             Em7           Em7-5       A7b9            A7
@@ -20,7 +16,5 @@ You'll never know how many dreams I've dreamed about you,
 Or just how empty they all seemed without you,
 
 [Chorus]
-   C                C/B               C/Bb          A7
-So kiss me once and kiss me twice and kiss me once again
-            Dm7    G7b9     C
-It's been a long,  long     time,
+So [C]kiss me once and [C/B]kiss me twice and [C/Bb]kiss me once a[A7]gain
+It's been a [Dm7]long,  [G7b9]long     [C]time,
