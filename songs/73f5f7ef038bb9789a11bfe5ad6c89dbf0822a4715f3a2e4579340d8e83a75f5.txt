@@ -11,49 +11,32 @@ F   G   Em   F   x2
 
 [Verse 1]
 
-Dm/C  C     Dm/C   C        Dm/C  C        Dm/C     C
-Lying in my bed, I hear the clock tick and think of you.
-Dm/C   C     Dm/C   C       Dm/C  C       Dm/C    C
-Caught up in circ - les, confu -  sion is nothing new.
-F     G     Em   F              G      Em
-Flash back, warm nights, almost left behind.
-F   G       Em   F
-Suitcase of memories...
-     G
-Time after...
+[Dm/C]Lying [C]in my [Dm/C]bed, I [C]hear the [Dm/C]clock [C]tick and [Dm/C]think of [C]you.
+[Dm/C]Caught [C]up in [Dm/C]circ - [C]les, con[Dm/C]fu -  [C]sion is [Dm/C]nothing [C]new.
+[F]Flash [G]back, [Em]warm [F]nights, almost [G]left be[Em]hind.
+[F]Suit[G]case of [Em]memor[F]ies...
+Time [G]after...
 
 
 [Verse 2]
 
-Dm/C C         Dm/C    C       Dm/C   C       Dm/C  C
-Some times you picture me, I'm walk - ing too far ahead.
-Dm/C   C       Dm/C  C     Dm/C  C         Dm/C   C
-You're calling to    me, I can't hear what you've said.
-     F   G    Em  F       G      Em
-Then you say, go  slow, I fall behind.
-F     G      Em     F
-  The second hand unwinds.
+[Dm/C]Some [C]times you [Dm/C]picture [C]me, I'm [Dm/C]walk - [C]ing too [Dm/C]far ah[C]ead.
+[Dm/C]You're [C]calling [Dm/C]to    [C]me, I [Dm/C]can't [C]hear what [Dm/C]you've [C]said.
+Then [F]you [G]say, [Em]go  [F]slow, I [G]fall be[Em]hind.
+[F]  The [G]second [Em]hand un[F]winds.
 
 
 [Chorus]
 
-          G                          Am7
-If you're lost, you can look and you will find me
-Fadd9   G     C
-   time after time.
-       G                           Am7
-If you fall I will catch you, I'll be waiting
-Fadd9  G     C
-  Time after time.
+If you're [G]lost, you can look and you [Am7]will find me
+[Fadd9]   time [G]after [C]time.
+If you [G]fall I will catch you, I'll [Am7]be waiting
+[Fadd9]  Time [G]after [C]time.
 
-          G                          Am7
-If you're lost, you can look and you will find me
-Fadd9   G     C
-   time after time.
-       G                           Am7
-If you fall I will catch you, I'll be waiting
-Fadd9  G     C
-  Time after time.
+If you're [G]lost, you can look and you [Am7]will find me
+[Fadd9]   time [G]after [C]time.
+If you [G]fall I will catch you, I'll [Am7]be waiting
+[Fadd9]  Time [G]after [C]time.
 
 
 [Instrumental]
@@ -63,26 +46,18 @@ F   G   Em   F   x2
 
 [Verse 3]
 
-Dm/C  C      Dm/C    C         Dm/C   C        Dm/C      C
-Af  - ter my picture fades and dark - ness has turned to grey,
-Dm/C    C           Dm/C  C            Dm/C  C      Dm/C    C
-Watch - ing through win - dows, you're wondering if I'm o - kay.
-F  G    Em  F       G      Em
-Secrets stolen from deep inside,
-F     G          Em     F
-  The drum beats out of time.
+[Dm/C]Af  - [C]ter my [Dm/C]picture [C]fades and [Dm/C]dark - [C]ness has [Dm/C]turned to [C]grey,
+[Dm/C]Watch - [C]ing through [Dm/C]win - [C]dows, you're [Dm/C]wonder[C]ing if [Dm/C]I'm o - [C]kay.
+[F]Sec[G]rets [Em]stol[F]en from [G]deep in[Em]side,
+[F]  The [G]drum beats [Em]out of [F]time.
 
 
 [Chorus]
 
-          G                          Am7
-If you're lost, you can look and you will find me
-Fadd9   G     C
-   time after time.
-       G                           Am7
-If you fall I will catch you, I'll be waiting
-Fadd9  G     C
-  Time after time.
+If you're [G]lost, you can look and you [Am7]will find me
+[Fadd9]   time [G]after [C]time.
+If you [G]fall I will catch you, I'll [Am7]be waiting
+[Fadd9]  Time [G]after [C]time.
 
 
 [Instrumental]
@@ -92,42 +67,28 @@ G   Am7   Fadd9 G C   x2 *
 
 [Bridge]
 
-F   G    Em  F       G      Em
-You say, go  slow, I fall behind.
-F     G      Em     F
-  The second hand unwinds.
+[F]You [G]say, [Em]go  [F]slow, I [G]fall be[Em]hind.
+[F]  The [G]second [Em]hand un[F]winds.
 
 
 [Chorus]
 
-          G                          Am7
-If you're lost, you can look and you will find me
-Fadd9   G     C
-   time after time.
-       G                           Am7
-If you fall I will catch you, I'll be waiting
-Fadd9  G     C
-  Time after time.
+If you're [G]lost, you can look and you [Am7]will find me
+[Fadd9]   time [G]after [C]time.
+If you [G]fall I will catch you, I'll [Am7]be waiting
+[Fadd9]  Time [G]after [C]time.
 
-          G                          Am7
-If you're lost, you can look and you will find me
-Fadd9   G     C
-   time after time.
-       G                           Am7
-If you fall I will catch you, I'll be waiting
-Fadd9  G     C
-  Time after time.
+If you're [G]lost, you can look and you [Am7]will find me
+[Fadd9]   time [G]after [C]time.
+If you [G]fall I will catch you, I'll [Am7]be waiting
+[Fadd9]  Time [G]after [C]time.
 
 
 [Outro]
 
-Fadd9  G     C
-  Time after time.
-Fadd9  G     C
-  Time after time.
-Fadd9  G     C
-  Time after time.
-Fadd9  G     C
-  Time after time.
+[Fadd9]  Time [G]after [C]time.
+[Fadd9]  Time [G]after [C]time.
+[Fadd9]  Time [G]after [C]time.
+[Fadd9]  Time [G]after [C]time.
 
 (fade out)
