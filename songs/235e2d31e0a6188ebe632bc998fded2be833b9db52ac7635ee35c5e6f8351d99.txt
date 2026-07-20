@@ -13,8 +13,7 @@ C#sus4   C#   C#       C#
 
 
 [Verse]
-        C#
-Well, I lay my head on the railroad tracks
+Well, I [C#]lay my head on the railroad tracks
 
 Waiting on the double E
 
@@ -24,16 +23,11 @@ Poor, poor pitiful me
 
 
 [Chorus]
-F#    C#    G#      C#
-Poor, poor, pitiful me
-F#          C#
-Poor, poor, pitiful me
-F#        C#         G#     C#
-Oh, these boys won't let me be
-F#                 G#
-Lord have mercy on me
-G#          C#
-Woe, woe is me
+[F#]Poor, [C#]poor, [G#]pitiful [C#]me
+[F#]Poor, poor, [C#]pitiful me
+[F#]Oh, these [C#]boys won't [G#]let me [C#]be
+[F#]Lord have mercy on [G#]me
+[G#]Woe, woe is [C#]me
 
 
 [Instrumental]
@@ -41,33 +35,26 @@ C#   C#   C#   C#
 
 
 [Verse]
-        C#
-Well, I met a man out in Hollywood
+Well, I [C#]met a man out in Hollywood
 
 Now I ain't namin' names
 
 Well, he really worked me over good
 
 Just like Jesse James
-        F#     C#
-Yes, he really worked me over good
+Yes, he [F#]really [C#]worked me over good
 
 He was a credit to his gender
-F#     C#
-Put me through some changes, Lord
+[F#]Put me [C#]through some changes, Lord
 
 Sort of like a Waring blender
 
 
 [Chorus]
-F#    C#    G#      C#
-Poor, poor, pitiful me
-F#          C#
-Poor, poor, pitiful me
-F#        C#         G#     C#
-Oh, these boys won't let me be
-F#                 G#
-Lord have mercy on me
+[F#]Poor, [C#]poor, [G#]pitiful [C#]me
+[F#]Poor, poor, [C#]pitiful me
+[F#]Oh, these [C#]boys won't [G#]let me [C#]be
+[F#]Lord have mercy on [G#]me
 G#          (C#)
 Woe, woe is me
 
@@ -78,8 +65,7 @@ Woe, woe is me
 
 
 [Verse]
-        C#
-Well, I met a boy in the Vieux Carres
+Well, I [C#]met a boy in the Vieux Carres
 
 Down in Yokohama
 
@@ -89,23 +75,17 @@ He said "Please don't hurt me mama"
 
 
 [Chorus]
-F#    C#    G#       C#
-Poor, poor, pitiful me
-F#          C#
-Poor, poor, pitiful me
-F#        C#         G#     C#
-Oh, these boys won't let me be
-F#                 G#
-Lord have mercy on me
+[F#]Poor, [C#]poor, [G#]pitiful m[C#]e
+[F#]Poor, poor, [C#]pitiful me
+[F#]Oh, these [C#]boys won't [G#]let me [C#]be
+[F#]Lord have mercy on [G#]me
 G#          (C#sus4)
 Woe, woe is me
 
 C#sus4   C#   C#sus2   C#
 C#sus4   C#   C#sus2   C#
 
-C#sus4  C#    C#sus2  C#   C#sus4  C#   C#sus2  C#
-Whoa,   poor, poor    me,  Whoa    poor pitiful me    (x2)
+[C#sus4]Whoa,   [C#]poor, [C#sus2]poor    [C#]me,  [C#sus4]Whoa    [C#]poor [C#sus2]pitiful [C#]me    (x2)
 
 
-C#sus4   C#   C#sus2   C#
-(repeat to fade)
+[C#sus4](repeat t[C#]o fad[C#sus2]e) [C#]
