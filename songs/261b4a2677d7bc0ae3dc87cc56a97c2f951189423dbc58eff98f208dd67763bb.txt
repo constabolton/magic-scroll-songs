@@ -18,77 +18,51 @@ E|----------------|----------------|
 | E D | A E | 
 
 [Verse 1]
-      E         D     A       E  
-Got a feeling inside (can't explain)
-       E       D     A       E  
-It's a certain kind (can't explain)  
-  E            D     A       E  
-I feel hot and cold (can't explain)
-E             D           B       E  
-Yeah, down my soul, yeah (can’t explain)
+Got a [E]feeling in[D]side ([A]can't ex[E]plain)
+It's a [E]certain [D]kind ([A]can't ex[E]plain)  
+I [E]feel hot and [D]cold ([A]can't ex[E]plain)
+[E]Yeah, down my [D]soul, yeah ([B]can’t ex[E]plain)
 
 [Chorus]
-| E D |           A       E  
-      I said ... (can't explain)
-            E         D          A       E  
-I'm feeling good now, yeah, but (can't explain)
+  [E]  [D]  I said ... ([A]can't ex[E]plain)
+I'm feeling [E]good now, [D]yeah, but ([A]can't ex[E]plain)
 
 [Verse 2]
-E            D         A           E  
-Dizzy in the head, and I'm feeling blue
-    E             D           A             E  
-The things you've said, well, maybe they’re true?
-    E             D        A         E  
-I'm getting funny dreams, again and again
-  E            D      B
-I know what it means, but ...
+[E]Dizzy in the [D]head, and [A]I'm feeling [E]blue
+The [E]things you've [D]said, well, [A]maybe they’re [E]true?
+I'm [E]getting funny [D]dreams, a[A]gain and a[E]gain
+I [E]know what it [D]means, [B]but ...
 
 [Middle 8]
-E
-Can't explain
-  C#m
-I think it's love
-       A         Asus4 A
-Try to say it to you
-     B      Bsus4 B
-When I feel blue
+[E]Can't explain
+I [C#m]think it's love
+Try to [A]say it to [Asus4]you [A]
+When [B]I feel [Bsus4]blue [B]
 
 [Chorus]
-      E       D      A       E  
-But I can't explain (can't explain)
-      E             D             A       E  
-Yeah, hear what I'm saying, girl (can’t explain)
+But I [E]can't ex[D]plain ([A]can't ex[E]plain)
+Yeah, [E]hear what I'm [D]saying, girl ([A]can’t ex[E]plain)
 
 [Solo]
 | E D | A E | 
 | E D | A E | 
 
 [Verse 3]
-E            D         A           E  
-Dizzy in the head, and I'm feeling bad
-    E           D          A           E  
-The thing's you said, have got me real mad
-    E             D        A         E  
-I'm getting funny dreams, again and again
-  E            D      B
-I know what it means, but ...
+[E]Dizzy in the [D]head, and [A]I'm feeling [E]bad
+The [E]thing's you [D]said, have [A]got me real [E]mad
+I'm [E]getting funny [D]dreams, a[A]gain and a[E]gain
+I [E]know what it [D]means, [B]but ...
 
 [Middle 8]
-E
-Can't explain
-  C#m
-I think it's love
-       A
-Try to say it to you
-     B
-When I feel blue
+[E]Can't explain
+I [C#m]think it's love
+Try to [A]say it to you
+When [B]I feel blue
 
 [Chorus]
-      E       D      A       E  
-But I can't explain (can't explain)
+But I [E]can't ex[D]plain ([A]can't ex[E]plain)
 
-E              D               A     E  
-Forgive me one more time, now (can't explain)
+[E]Forgive me one [D]more time, now ([A]can't [E]explain)
 
 [Solo]
 | E D | A E | 
@@ -97,13 +71,9 @@ Forgive me one more time, now (can't explain)
 | E D | A E | 
 
 [Chorus]
-| E D |       A       E  
-     I said I can't explain, yeah
-| E D |           A         E  
-     You drive me out of my mind
+  [E]  [D] I said I [A]can't ex[E]plain, yeah
+  [E]  [D] You drive me [A]out of my [E]mind
 
 [Chorus] (+ coda)
-| E D |            A       E  
-     Yeah, I'm the worried kind, babe
-| E D |       A       E
-     I said I can't explain
+  [E]  [D] Yeah, I'm the [A]worried [E]kind, babe
+  [E]  [D] I said I [A]can't ex[E]plain
