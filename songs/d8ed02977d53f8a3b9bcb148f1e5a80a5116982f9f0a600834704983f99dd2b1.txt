@@ -44,46 +44,33 @@ F#|-----------0---0-0-0-|
     PM - - - - - - - -|
 
 [Verse 1]
-D
-We were born before the wind
+[D]We were born before the wind
 
 Also younger than the sun
-A                       Asus4
-Ere the bonnie boat was won
-A            Asus4 A  D
-As we sailed into the mystic
+[A]Ere the bonnie boat was [Asus4]won
+[A]As we sailed [Asus4]into t[A]he [D]mystic
 
 [Verse 2]
-D
-Hark, now hear the sailors cry
+[D]Hark, now hear the sailors cry
 
 Smell the sea and feel the sky
-A              Asus4     A
-Let your soul and spirit fly
-Asus4 A  D
-Into the mystic
+[A]Let your soul a[Asus4]nd spirit [A]fly
+[Asus4]Into t[A]he [D]mystic
 
 [Pre-Chorus]
-F#5 F#sus2 F#m                 D Gsus2
-           And when that foghorn blows
+[F#5]    [F#sus2]       [F#m]And when that foghor[D]n [Gsus2]blows
 D D*
 I will be coming home, mmhmm hmm
-F#5 F#sus2 F#m                D Gsus2
-           And when the foghorn blows
-A5
-I want to hear it
-A6              A A6 A Asus4
-I don't have to fear it
+[F#5]    [F#sus2]       [F#m]And when the foghor[D]n [Gsus2]blows
+[A5]I want to hear it
+[A6]I don't have to [A]fe[A6]ar [A]it[Asus4]
 
 [Chorus]
-D
-And I want to rock your gypsy soul
+[D]And I want to rock your gypsy soul
 
 Just like way back in the days of old
-A               Asus4     A
-And magnificently we will float
-Asus4 A  D
-Into the mystic, mmm
+[A]And magnificentl[Asus4]y we will [A]float
+[Asus4]Into t[A]he [D]mystic, mmm
 
 [Instrumental]
 
@@ -104,26 +91,19 @@ A |--0---0----0--0--0--0--0-|--------0---0---0---0--|
 D |-------------------------|--------0---0---8---0--|
 
 [Pre-Chorus]
-F#5 F#sus2 F#m             D Gsus2
-           When that foghorn blows
+[F#5]    [F#sus2]       [F#m]When that foghor[D]n [Gsus2]blows
 D D*
 You know I will be coming home, mmm uh
-F#5 F#sus2 F#m                         D Gsus2
-           And when that foghorn whistle blows
-A5
-I gotta hear it
-A6              A A6 A Asus4
-I don't have to fear it
+[F#5]    [F#sus2]       [F#m]And when that foghorn whistl[D]e [Gsus2]blows
+[A5]I gotta hear it
+[A6]I don't have to [A]fe[A6]ar [A]it[Asus4]
 
 [Chorus]
-D
-And I wanna rock your gypsy soul
+[D]And I wanna rock your gypsy soul
 
 Just like way back in the days of old
-A               Asus4     A
-And together we will float
-Asus4 A  D
-Into the mystic, mmm
+[A]And together we [Asus4]will float[A]
+[Asus4]Into t[A]he [D]mystic, mmm
 Come on girl
 
 [Instrumental]
