@@ -8,39 +8,23 @@ https://en.wikipedia.org/wiki/The_Minstrel_Boy
 
 Capo I *
 
-    D        G          D      G
-The Minstrel Boy to the war is gone
-                D              A    D
-In the ranks of death you will find him;
-    D        G             D      G
-His father's sword he hath girded on,
-                  D       A    D
-And his wild harp slung behind him;"
-Bm      G               A       D
-Land of Song!" said the warrior bard,
-      G               A     D
-"Tho' all the world betrays thee,
-              G          D            G
-One sword, at least, thy rights shall guard,
-    D                   A      D
-One faithful harp shall praise thee!" 
+The [D]Minstrel [G]Boy to the [D]war is [G]gone
+In the ranks of [D]death you will [A]find [D]him;
+His [D]father's [G]sword he hath [D]girded [G]on,
+And his wild harp [D]slung be[A]hind [D]him;"
+[Bm]Land of [G]Song!" said the [A]warrior [D]bard,
+"Tho' [G]all the world be[A]trays [D]thee,
+One sword, at [G]least, thy [D]rights shall [G]guard,
+One [D]faithful harp shall [A]praise [D]thee!" 
 
-    D        G             D        G
-The Minstrel fell! But the foeman's chain
-          D                     A   D
-Could not bring that proud soul under;
-    D       G           D      G
-The harp he lov'd ne'er spoke again,
-       D               A   D
-For he tore its chords asunder;
-    Bm       G            A     D
-And said "No chains shall sully thee,
-     G                A    D
-Thou soul of love and brav'ry!
-               G            D        G
-Thy songs were made for the pure and free,
-           D              A    D
-They shall never sound in slavery!"
+The [D]Minstrel [G]fell! But the [D]foeman's [G]chain
+Could not [D]bring that proud soul [A]unde[D]r;
+The [D]harp he [G]lov'd ne'er [D]spoke a[G]gain,
+For he [D]tore its chords [A]asun[D]der;
+And [Bm]said "No [G]chains shall [A]sully [D]thee,
+Thou [G]soul of love and [A]brav'[D]ry!
+Thy songs were [G]made for the [D]pure and [G]free,
+They shall [D]never sound in [A]slave[D]ry!"
 
 
 American Civil War verses added later:
