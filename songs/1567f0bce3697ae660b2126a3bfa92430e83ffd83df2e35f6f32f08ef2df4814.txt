@@ -2,79 +2,50 @@
 | C F C   | C   Dm   | F   C   | Dm   F   | x2
 
 [Verse 1]
-C          F      C
-There will come a soldier
-                     Dm
-Who carries a mighty sword
-F                 C         
-He will tear your city down, 
-   Dm            F
-oh lei oh lai oh lord
-   F       C    
-O  lei, o  lai, 
-   Dm      Am
-o  lei, o  lord
-F                 Am          
-He will tear your city down,
-    Dm            F
-oh lei oh lai oh lord
+[C]There will [F]come a [C]soldier
+Who carries a mighty [Dm]sword
+[F]He will tear your [C]city down, 
+oh [Dm]lei oh lai oh [F]lord
+O  [F]lei, o  [C]lai, 
+o  [Dm]lei, o  [Am]lord
+[F]He will tear your [Am]city down,
+oh l[Dm]ei oh lai oh l[F]ord
 
 [Break]
 F F
 
 [Verse 2]
-C          F      C
-There will come a poet
-                    Dm
-Whose weapon is his word
-F                C               
-He will slay you with his tongue,
-   Dm            F
-oh lei oh lai oh lord
-F          C      
-Oh lei, oh lai,
-   Dm      Am
-oh lei, oh lord
-F                Am               
-He will slay you with his tongue,
-   Dm            F
-oh lei oh lai oh lord
+[C]There will [F]come a [C]poet
+Whose weapon is his [Dm]word
+[F]He will slay you [C]with his tongue,
+oh [Dm]lei oh lai oh [F]lord
+[F]Oh lei, oh [C]lai,
+oh [Dm]lei, oh [Am]lord
+[F]He will slay you [Am]with his tongue,
+oh [Dm]lei oh lai oh [F]lord
 
 [Instrumental]
 F F F F
 
 [Verse 3]
-C          F      C
-There will come a ruler
-                      Dm
-Whose brow is laid in thorn
-F                     C           
-Smeared with oil like David's boy,
-   Dm            F
-oh lei oh lai oh lord
-   F       C   
-Oh lei, oh lai,
-   Dm      Am
-oh lei, oh lord
-F                     Am           
-Smeared with oil like David's boy,
-   Dm            F
-oh lei oh lai oh lord
-   F       C   
-Oh lei, oh lai,
-   Dm      Am
-oh lei, oh lord
-F                 Am            D5
-He will tear your city down, oh lei oh lai....
+[C]There will [F]come a [C]ruler
+Whose brow is laid in [Dm]thorn
+[F]Smeared with oil like [C]David's boy,
+oh [Dm]lei oh lai oh [F]lord
+Oh [F]lei, oh [C]lai,
+oh [Dm]lei, oh [Am]lord
+[F]Smeared with oil like [Am]David's boy,
+oh [Dm]lei oh lai oh [F]lord
+Oh [F]lei, oh [C]lai,
+oh [Dm]lei, oh [Am]lord
+[F]He will tear your [Am]city down, oh [D5]lei oh lai....
 
 [Solo]
 C C C C
 
 [Break]
-   C       C
-Oh lei oh lai, 
-   C        C
-oh lei, oh lai, oh
+Oh [C]lei oh l[C]ai, 
+oh [C]lei, oh l[C]ai, oh
 
 [Solo]
 C C C C
@@ -83,21 +54,15 @@ C C C C
 C C C C
 
 [Break]
-   C       C
-Oh lei oh lai, 
-   C        C
-oh lei, oh lai, oh
+Oh [C]lei oh l[C]ai, 
+oh [C]lei, oh l[C]ai, oh
 
 [Solo 3]
 C C C C
 
 [Outro]
-   F       F
-Oh lei oh lai, 
-   Dm        Dm
-oh lei, oh lai,
-   Am      Am
-Oh lei oh lai, 
-   F       F
-Oh lei oh lai, oh
+Oh [F]lei oh l[F]ai, 
+oh [Dm]lei, oh la[Dm]i,
+Oh [Am]lei oh l[Am]ai, 
+Oh [F]lei oh l[F]ai, oh
 C
