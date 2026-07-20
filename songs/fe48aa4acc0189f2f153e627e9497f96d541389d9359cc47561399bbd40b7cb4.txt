@@ -4,84 +4,50 @@ Song name: The Hollywood Argyles - Alley Oop  by  Misc Unsigned Bands
 Alley Oop:The Hollywood Argyles.
 #1 in 1960.
 
-       G               D     G        
-INTRO:(Alley Oop, oop..oop...oop-oop...
-G               D    G
-Alley Oop, oop..oop..oop, oop.)
+INTRO:([G]Alley Oop, oop..[D]oop...[G]oop-oop...
+[G]Alley Oop, oop..[D]oop..[G]oop, oop.)
 
 #1.
-         G
-Theres a man in the funny papers we all know.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-He lived 'way back a long time ago.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-He don't eat nothin' but a bear cat stew. 
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-Well, this cat's name is-a Alley Oop.
- G               D    G   
-(Alley Oop, oop..oop..oop-oop.)
-         G
-He got a chauffeur that's a genuine dinosoaur-uh.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-           G
-And he can knuckle your head before you count to four-uh.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
+Theres a [G]man in the funny papers we all know.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]He lived 'way back a long time ago.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]He don't eat nothin' but a bear cat stew. 
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]Well, this cat's name is-a Alley Oop.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+He got a [G]chauffeur that's a genuine dinosoaur-uh.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+And he can [G]knuckle your head before you count to four-uh.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
 
 #2.
-G
-He got a big ugly club and a head full-a hair-uh.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-Like great big lions and grizzly bear-uhs.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
+[G]He got a big ugly club and a head full-a hair-uh.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]Like great big lions and grizzly bear-uhs.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
 
 CHORUS:
-            G                              G7
-(Alley Oop) He's the toughest man there is alive.
-            C
-(Alley Oop) Wearin' clothes from a wildcat's hide.
-            A                           A7
-(Alley Oop) He's the king of the jungle jive.
- D            A        D      D7
-(Look at that cave man go!!) (AHHHHHHHH!)
+(Alley Oop) [G]He's the toughest man there is [G7]alive.
+(Alley Oop) [C]Wearin' clothes from a wildcat's hide.
+(Alley Oop) [A]He's the king of the jungle [A7]jive.
+([D]Look at that [A]cave man [D]go!!) ([D7]AHHHHHHHH!)
 
 #3.
-   G
-He rides thru the jungle tearin' limbs offa trees.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-Knockin' great big monsters dead on their knees.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-The cats don't bug him cause they know better.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
-G
-Cause he's a mean motor scooter and a bad go-get-tah.
- G               D    G
-(Alley Oop, oop..oop..oop-oop.)
+He [G]rides thru the jungle tearin' limbs offa trees.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]Knockin' great big monsters dead on their knees.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]The cats don't bug him cause they know better.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
+[G]Cause he's a mean motor scooter and a bad go-get-tah.
+([G]Alley Oop, oop..[D]oop..[G]oop-oop.)
 
 CHORUS:
-            G                              G7
-(Alley Oop) He's the toughest man there is alive.
-            C
-(Alley Oop) Wearin' clothes from a wildcat's hide.
-            A                           A7
-(Alley Oop) He's the king of the jungle jive.
- D            A        D      D7
-(Look at that cave man go!!) (AHHHHHHHH!)
+(Alley Oop) [G]He's the toughest man there is [G7]alive.
+(Alley Oop) [C]Wearin' clothes from a wildcat's hide.
+(Alley Oop) [A]He's the king of the jungle [A7]jive.
+([D]Look at that [A]cave man [D]go!!) ([D7]AHHHHHHHH!)
 
 OUTRO:
 G-D-G                G-D-G
