@@ -9,8 +9,7 @@ Song name: A Message To You Rudy  by  The Specials
 
 [Intro]
 
-     C                 F       G
-e|-x-3-x-3-x-3-x-3-|-x-5-x-5-x-7-x-7-|
+e|-x-[C]3-x-3-x-3-x-3-|-x-[F]5-x-5-x-[G]7-x-7-|
 B|-x-5-x-5-x-5-x-5-|-x-6-x-6-x-8-x-8-|
 G|-x-5-x-5-x-5-x-5-|-x-5-x-5-x-7-x-7-|
 D|-x-5-x-5-x-5-x-5-|-----------------|
@@ -20,8 +19,7 @@ E|-----------------|-----------------| x4
 
 [Trombone Riff] (3rd and 4th time)
 
-   C                       F         G
-  (two parts)
+  ([C]two parts) [F] [G]
 e|------5----5-----------|---------------------|
 B|-5--8----8----5--------|---------------------|
 G|------5----5-----------|---------------------|
@@ -32,24 +30,19 @@ E|-----------------------|---------------------| x2
 
 [Verse 1]
 
-C                         F  G
- Stop your messin' around,
-C                            F  G
- Better think of your future.
-C                                F         G           C    F  G
- Time you straightened right out, creatin' problems in town.
+[C] Stop your messin' around,[F] [G]
+[C] Better think of your future.[F] [G]
+[C] Time you straightened right out,[F] creatin' [G]problems in [C]town.[F] [G]
 
 
 [Chorus]
 
-  C     F          G      C     F          G
-Rudy, a message to you, Rudy; a message to you.
+Ru[C]dy, a [F]message to [G]you, Ru[C]dy; a [F]message to [G]you.
 
 
 [Interlude / Trombone Riff]
 
-   C                       F         G
-  (two parts)
+  ([C]two parts) [F] [G]
 e|------5----5-----------|---------------------|
 B|-5--8----8----5--------|---------------------|
 G|------5----5-----------|---------------------|
@@ -60,23 +53,18 @@ E|-----------------------|---------------------| x2
 
 [Verse 2]
 
-C                         F  G
- Stop your foolin' around,
-C                                F  G
- Time you straightened right out.
-C                            F               G          C    F  G
- Better think of your future, or else you'll wind up in jail.
+[C] Stop your foolin' around,[F] [G]
+[C] Time you straightened right out.[F] [G]
+[C] Better think of your future,[F] or else you'll [G]wind up in [C]jail.[F] [G]
 
 
 [Chorus]
 
-  C     F          G      C     F          G
-Rudy, a message to you, Rudy; a message to you.
+Ru[C]dy, a [F]message to [G]you, Ru[C]dy; a [F]message to [G]you.
 
 
 [Trombone Solo]
-   C                       F         G
-  (two parts)
+  ([C]two parts) [F] [G]
 e|------5----5-----------|---------------------|
 B|-5--8----8----5--------|---------------------|
 G|------5----5-----------|---------------------|
@@ -92,8 +80,7 @@ D|-5--5------------------3------5---5--5--5---------------/7------------------|
 A|-------3-----/7----------------------------3--------------------------------|
 E|----------------------------------------------------------------------------|
 
-   C                       F         G          C                        F          G
-                        (part 2)                                     (part 2)
+   [C]                     (pa[F]rt 2)     [G]           [C]                     (par[F]t 2) [G]
 e|--------------------------------------------------------------------------------------------|
 B|----------------------5-/6----5--3-/5---/5--------------------------5-/6----5--3-/5---/8----|
 G|------5----5----------------------------------5----5-----5----------------------------------|
@@ -105,36 +92,27 @@ E|------------------------------------------------------------------------------
 
 [Verse 3]
 
-C                          F  G
- Stop your messin' around,
-C                            F  G
- Better think of your future.
-C                                F         G           C    F  G
- Time you straightened right out, creatin' problems in town.
+[C] Stop your messin' around, [F] [G]
+[C] Better think of your future.[F] [G]
+[C] Time you straightened right out,[F] creatin' [G]problems in [C]town.[F] [G]
 
 
 [Chorus]
 
-  C     F          G      C     F          G
-Rudy, a message to you, Rudy; a message to you.
+Ru[C]dy, a [F]message to [G]you, Ru[C]dy; a [F]message to [G]you.
 
 
 [Verse 4]
 
-C                          F  G
- Stop your messin' around,
-C                            F  G
- Better think of your future.
-C                                F         G           C    F  G
- Time you straightened right out, creatin' problems in town.
+[C] Stop your messin' around, [F] [G]
+[C] Better think of your future.[F] [G]
+[C] Time you straightened right out,[F] creatin' [G]problems in [C]town.[F] [G]
 
 
 [Chorus]
 
-  C     F          G      C
-Rudy, a message to you, Rudy;
-  F          G      C
-A message to you, Rudy...
+Ru[C]dy, a [F]message to [G]you, Ru[C]dy;
+A [F]message to [G]you, Ru[C]dy...
 
 (Repeat to Fade)
 
