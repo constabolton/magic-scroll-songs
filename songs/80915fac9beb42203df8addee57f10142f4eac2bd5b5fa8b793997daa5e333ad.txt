@@ -12,58 +12,38 @@ Paperback writer, paperback writer
 
 [Verse 1]
 
-     G7
-Dear Sir or Madam, will you read my book?
-           G7
-It took me years to write, will you take a look?
-     G7
-It's based on a novel by a man named Lear
-      G7                                     C
-And I need a job so I want to be a paperback writer
-          G7
-Paperback writer
+Dear [G7]Sir or Madam, will you read my book?
+It took me [G7]years to write, will you take a look?
+It's [G7]based on a novel by a man named Lear
+And I [G7]need a job so I want to be a paperback [C]writer
+Paperback [G7]writer
 
 
 [Verse 2]
 
-         G7
-It's the dirty story of a dirty man
-        G7
-And his clinging wife doesn't understand
-    G7
-His son is working for the Daily Mail
-       G7                                        C
-It's a steady job but he wants to be a paperback writer
-          G7
-Paperback writer
+It's the [G7]dirty story of a dirty man
+And his [G7]clinging wife doesn't understand
+His [G7]son is working for the Daily Mail
+It's a [G7]steady job but he wants to be a paperback [C]writer
+Paperback [G7]writer
 
 
 [Verse 3]
 
-       G7
-It's a thousand pages, give or take a few
-        G7
-I'll be writing more in a week or two
-        G7
-I could make it longer if you like the style
-      G7                                           C
-I can change it round and I want to be a paperback writer
-          G7
-Paperback writer
+It's a [G7]thousand pages, give or take a few
+I'll be [G7]writing more in a week or two
+I could [G7]make it longer if you like the style
+I can [G7]change it round and I want to be a paperback [C]writer
+Paperback [G7]writer
 
 
 [Verse 4]
 
-       G7
-If you really like it you can have the rights
-         G7
-It could make a million for you overnight
-       G7
-If you must return it you can send it here
-      G7                                        C
-But I need a break and I want to be a paperback writer
-          G7
-Paperback writer
+If you [G7]really like it you can have the rights
+It could [G7]make a million for you overnight
+If you [G7]must return it you can send it here
+But I [G7]need a break and I want to be a paperback [C]writer
+Paperback [G7]writer
 
 
 [Outro]
@@ -71,7 +51,6 @@ Paperback writer
 N.C.
 Paperback writer, paperback writer
 
-G7
-Paperback writer
+[G7]Paperback writer
 
 (Repeat and fade)
