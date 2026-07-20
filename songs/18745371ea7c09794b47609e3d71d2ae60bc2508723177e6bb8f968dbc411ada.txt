@@ -2,88 +2,54 @@
 Song name: Rock Me On The Water  by  Jackson Browne
 ----------------------------------------------------------------------
 [Verse]
-G          Em                  C              G
-Oh people, look around you the signs are everywhere
-       C           G        F          C      D             Em  D Em
-You've left it for somebody other than you to be the one to care
-       G                Em                C            Em7 A
-You're lost inside your houses there's no time to find you now
-A/B   D/C# Em7/D                      D
-While your walls are burning and your towers are turning
-             Em                            C                   G
-I'm going to leave you here and try to get down to the sea somehow
+[G]Oh people, [Em]look around you the [C]signs are every[G]where
+You've [C]left it for [G]somebody [F]other than [C]you to [D]be the one to [Em]care[D] [Em]
+You're [G]lost inside your [Em]houses there's no [C]time to find [Em7]you [A]now
+[A/B]While [D/C#]your [Em7/D]walls are burning and your [D]towers are turning
+I'm going to [Em]leave you here and try to get [C]down to the sea some[G]how
 
 G C
 
 [Verse]
-    G                   Em                   C                G
-The road is filled with homeless souls every woman, child and man
-    Cadd9/G G    F               C              D                Em
-Who have no idea where they will go but they'll help you if they can
-    G             Em                                C                     A
-Now everyone must have some thought that's going to pull them through somehow
-A/B   A/C# Em7/D           D
-While the fires are raging hotter and hotter
-        Em                              C
-But the sisters of the sun are going to rock me on the water now
+The [G]road is filled with [Em]homeless souls every [C]woman, child and [G]man
+Who [Cadd9/G]have no [G]idea [F]where they will [C]go but they'll [D]help you if they [Em]can
+Now [G]everyone must [Em]have some thought that's going to [C]pull them through some[A]how
+[A/B]While [A/C#]the f[Em7/D]ires are raging [D]hotter and hotter
+But the [Em]sisters of the sun are going to [C]rock me on the water now
 
 [Chorus]
-G D              C
-  Rock me on the water
-D               G         D       C  D
-Sister will you soothe my fevered brow
-G     D/F#     Em  Em7
-Rock me on the water
-A
-I'll get down to the sea somehow
-C                             G
-(I'll get down to the sea somehow)
+[G]  [D]Rock me on the [C]water
+[D]Sister will you [G]soothe my [D]fevered [C]bro[D]w
+[G]Rock m[D/F#]e on the [Em]wate[Em7]r
+[A]I'll get down to the sea somehow
+[C](I'll get down to the sea some[G]how)
 
 [Interlude]
 G   Em   Em7/D C C/B A A/B A/C#
 Em7/D  D Em G7 C
 
 [Verse]
-G          Em                  C                       G
-Oh people, look among you it's there your hope must lie
-          C        G         F              C          D            Em
-There's a sea bird above you gliding in one place like Jesus in the sky
-   G               Em                   C                      A
-We all must do the best we can and then hang on to that gospel plow
-A/B  A/C# Em7/D             D
-When my life is over, and I stand before the father
-        Em                              C
-But the sisters of the sun are going to rock me on the water now
+[G]Oh people, [Em]look among you it's [C]there your hope must lie[G]
+There's a [C]sea bird [G]above you [F]gliding in one [C]place like [D]Jesus in the [Em]sky
+We [G]all must do the [Em]best we can and then [C]hang on to that gospel [A]plow
+[A/B]When [A/C#]my li[Em7/D]fe is over, and I [D]stand before the father
+But the [Em]sisters of the sun are going to [C]rock me on the water now
 
 [Chorus]
-G       Dsus4          C
-Rock me rock me on the water
-D               G         Dsus4   C  D
-Sister will you soothe my fevered brow
-G    F#m       Em  D
-Rock me on the water
-A     A/B  A/C#
-Maybe I'll remember
-Cadd9               G
-Maybe I'll remember now
-Dsus4          C   D
-Rock me on the water
-G           D       C  D
-The wind is with me now
-   G     F#m      Em  D
-So rock me on the water
-     A                       C
-I'll get down to the sea somehow
-     C                       G  G/B
-I'll get down to the sea somehow
-G              C     G
-Rock me on the water
-G9/B       C
-Rock me now
-G    G9/B      C
-Rock me on the water
-G  G9/B    C
-   Rock me now
+[G]Rock me [Dsus4]rock me on the [C]water
+[D]Sister will you [G]soothe my [Dsus4]fevered [C]bro[D]w
+[G]Rock [F#m]me on the [Em]wate[D]r
+[A]Maybe [A/B]I'll [A/C#]remember
+[Cadd9]Maybe I'll remember [G]now
+[Dsus4]Rock me on the [C]wate[D]r
+[G]The wind is [D]with me [C]now[D]
+So [G]rock m[F#m]e on the [Em]wate[D]r
+I'll [A]get down to the sea some[C]how
+I'll [C]get down to the sea some[G]how[G/B]
+[G]Rock me on the [C]water [G]
+[G9/B]Rock me now[C]
+[G]Rock [G9/B]me on the [C]water
+[G]   [G9/B]Rock me [C]now
 
 [Outro]
 G G7 C E5 F5 F#5
