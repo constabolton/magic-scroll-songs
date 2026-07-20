@@ -27,35 +27,24 @@ C7-9: x33310
 F7-9: xx1212
 
 [Verse]
-Bb     Bdim    Cm7        F7
-Rubber Duckie, you're the one,
-Bb          Bb7+5 Eb      Ebm6
-you make bathtime lots of fun
-Bb/D    Gm7        Cm7       F7    Bb  Gm7 Cm7
-Rubber Duckie, I'm awfully fond of you,
-       F7       
-Vo, vo, dee-oh.
-Bb     Bdim    Cm7    F7
-Rubber Duckie, joy of joys,
-Bb            Bb7+5 Eb      Ebm6
-When I sqeeze you, you make noise.
+[Bb]Rubber [Bdim]Duckie, [Cm7]you're the [F7]one,
+[Bb]you make bat[Bb7+5]htime [Eb]lots of [Ebm6]fun
+[Bb/D]Rubber D[Gm7]uckie, I'm [Cm7]awfully fo[F7]nd of [Bb]you,[Gm7] [Cm7]
+Vo, vo,[F7] dee-oh.
+[Bb]Rubber [Bdim]Duckie, [Cm7]joy of [F7]joys,
+[Bb]When I sqeeze [Bb7+5]you, y[Eb]ou make [Ebm6]noise.
 Bb/D   Gm7               Cm7       F7          Bb   Em7-5
 Rubber Duckie, you're my very best friend it's true
-A7 Dm               A7                  Dm
-Oh, ev'ry day when I make my way to the tubby
-  Bbm  F/C                 Gm7/C                 Cm7    F7
-I find a little fellow who's cute and yellow and chubby,
-Bb     Bdim    Cm7       F7
-Rubber Duckie, you're so fine,
+[A7]Oh,[Dm] ev'ry day when I[A7] make my way to the [Dm]tubby
+I [Bbm]find [F/C]a little fellow who'[Gm7/C]s cute and yellow and [Cm7]chubby,[F7]
+[Bb]Rubber [Bdim]Duckie, [Cm7]you're so [F7]fine,
 Bb      B7-5   Eb         Ebm6
 and I'm lucky that you're mine.
 
 [Interlude] x2
-Bb/D   Gm7         Cm7     F7      Bb  Bdim Cm7 F7
-Rubber Duckie, I'm awfully fond of you.
+[Bb/D]Rubber [Gm7]Duckie, I'm [Cm7]awfully [F7]fond of [Bb]you.[Bdim] [Cm7] [F7]
 
 [Interlude 2]
-Bb/D   Gm7         Cm7         F7       Bb/D    Gm7
-Rubber Duckie, I'd like a whole pond of Rubber Duckie, 
+[Bb/D]Rubber [Gm7]Duckie, I'd [Cm7]like a whole[F7] pond of [Bb/D]Rubber D[Gm7]uckie, 
     Cm7     F7       Bb Gm7 C7-9 F7-9 Bb
 I'm awfully fond of you.
