@@ -11,59 +11,34 @@ F#dim7 x-x-1-2-1-2
 | C E7 | Am G#7 | C G | C Gaug | C9 Gaug |
 
 [Verse 1]
-C            Gaug      C   C7 
-You've got a friend in me 
-F            F#dim7    C   C7
-You've got a friend in me 
-F         C         E7      Am  
- When the road looks rough ahead 
-           F         C               E7        Am
-And you're miles and miles from your nice warm bed 
-F          C                E7      Am
-You just remember what your old pal said 
-     D7           G         C    A7
-Boy, you've got a friend in me 
-      D7           G        | C E7 | Am G#7 | C G |
-Yeah, you've got a friend in me 
+[C]You've got a [Gaug]friend in [C]me [C7]
+[F]You've got a [F#dim7]friend in [C]me [C7]
+[F] When the [C]road looks[E7] rough a[Am]head 
+And you're [F]miles and [C]miles from your [E7]nice warm [Am]bed 
+[F]You just re[C]member what your [E7]old pal [Am]said 
+Boy, [D7]you've got a [G]friend in [C]me [A7]
+Yeah, [D7]you've got a [G]friend in m[C]e [E7] [Am] [G#7] [C] [G]
 
 [Verse 2]
-C            Gaug      C   C7   
-You've got a friend in me 
-F             F#dim7    C   C7 
- You've got a friend in me 
-F       C       E7           Am
-You got troubles, I got them too 
-F            C          E7       Am
- There isn't anything I wouldn't do for you 
-F           C              E7     Am
- We stick together, we can see it through 
-      D7           G         C    A7
-Cause you've got a friend in me 
-D7             G       | C C7 |
- You've got a friend in me 
+[C]You've got a [Gaug]friend in [C]me [C7]
+[F] You've got a [F#dim7]friend in [C]me [C7]
+[F]You got [C]troubles[E7], I got them [Am]too 
+[F] There isn't [C]anything I [E7]wouldn't [Am]do for you 
+[F] We stick to[C]gether, we can [E7]see it [Am]through 
+Cause [D7]you've got a [G]friend in [C]me [A7]
+[D7] You've got a f[G]riend in m[C]e [C7]
 
 [Bridge]
-F                           B                                    
- Some other folks might be a little bit smarter than I am 
-C           B7       C
- Bigger and stronger too, maybe ...
-B                      B7
- But none of them will ever love you 
-    Em    A7
-The way I do 
-     Dm     G
-It's me and you, boy 
+[F] Some other folks might be a[B] little bit smarter than I am 
+[C] Bigger and [B7]stronger [C]too, maybe ...
+[B] But none of them will [B7]ever love you 
+The [Em]way I [A7]do 
+It's [Dm]me and [G]you, boy 
 
 [Verse 3]
-C           Gaug     C   C7
- And as the years go by, 
-    F               F#dim7 C   C7
-Our friendship will never  die 
-F             F#dim7       C   E7 Am
- You're gonna see it's our des-ti-ny 
-D7            G         C    A7
- You've got a friend in me 
-D7            G         C    A7
- You've got a friend in me 
-D7            G        | C E7 | Am G#7 | C G | C
- You've got a friend in me
+[C] And as the [Gaug]years go [C]by, [C7]
+Our [F]friendship will [F#dim7]never  [C]die [C7]
+[F] You're gonna [F#dim7]see it's our [C]des-[E7]ti-[Am]ny 
+[D7] You've got a [G]friend in [C]me [A7]
+[D7] You've got a [G]friend in [C]me [A7]
+[D7] You've got a [G]friend in m[C]e [E7] [Am] [G#7] [C] [G] [C]
