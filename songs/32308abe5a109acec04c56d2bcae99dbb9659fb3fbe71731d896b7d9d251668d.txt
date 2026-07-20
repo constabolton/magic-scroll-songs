@@ -1,26 +1,16 @@
 ----------------------------------------------------------------------
 Song name: The Best Things In Life Are Free  by  Jack Hylton
 ----------------------------------------------------------------------
-G7   C   C/B  Am7  Cdim CM7      Cmaj7
-The moon be - longs to  ev'ryone
-    C              Edim Cdim Dm7   G7
-The best things in life  are free
+[G7]The m[C]oon [C/B]be - [Am7]longs[Cdim] to  [CM7]ev'ryone [Cmaj7]
+The [C]best things in [Edim]life [Cdim] are [Dm7]free [G7]
 
-    Dm      Dmmaj7   Dm7      Dm6
-The stars belong to ev'ryone
-      F              Dm7 Fdim C
-They gleam there for you  and me
+The [Dm]stars be[Dmmaj7]long to e[Dm7]v'ryone [Dm6]
+They g[F]leam there for [Dm7]you [Fdim] and [C]me
 
-    C    C9 C    C9    C7
-The flowers in spring
-     F    F6   F    F6
-The rob - ins that sing
-  D7sus4          D7
-The sunbeams that shine
-        Dm7    Bb9     G7
-They're yours, they're mine
+The [C]flowe[C9]rs [C]in sp[C9]ring [C7]
+The r[F]ob - [F6]ins t[F]hat s[F6]ing
+Th[D7sus4]e sunbeams that [D7]shine
+They're [Dm7]yours, [Bb9]they're [G7]mine
 
-G7#5 C   C/B  Am7  Cdim CM7    Cmaj7  A9
-And love be - longs to  ev'ry - one
-A7   Dm   Dmmaj7   Dm7  Bb9  C
-The best things in life are free
+[G7#5]And l[C]ove [C/B]be - [Am7]longs[Cdim] to  [CM7]ev'ry -[Cmaj7] one [A9]
+[A7]The b[Dm]est t[Dmmaj7]hings in [Dm7]life [Bb9]are f[C]ree
