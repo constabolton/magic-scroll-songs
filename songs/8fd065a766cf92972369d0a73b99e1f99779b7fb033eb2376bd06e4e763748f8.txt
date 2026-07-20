@@ -5,62 +5,40 @@ BEI MIR BIST DU SCHOEN
 
 
 [Verse]
-           Em                             B7
-Of all the boys I've known and I've known some
-        Em                   Am6/F# B7
-Until I first met you I was lonesome
-             Em                  Am
-And when you came in sight, dear, my heart grew light
-                 F#7       B7
-And this old world seemed new to me
-              Em                B7
-You're really swell, I have to admit you
-            Em                    B7
-Deserve expressions that really fit you
-            Em                    Am
-And so I've racked my brain hoping to explain
-       B7
-All the things that you do to me
+Of all the [Em]boys I've known and I've known [B7]some
+Until I [Em]first met you I was l[Am6/F#]onesome[B7]
+And when you [Em]came in sight, dear,[Am] my heart grew light
+And this old worl[F#7]d seemed n[B7]ew to me
+You're really [Em]swell, I have to a[B7]dmit you
+Deserve expr[Em]essions that really fi[B7]t you
+And so I've [Em]racked my brain hoping[Am] to explain
+All the[B7] things that you do to me
 
 
 [Refrain]
-     Em  Em/F#   Em/G  Em/A  Em/B     Em/A  Em/G  Em
-Bei mir  bist du schoen,         please let me explain
-     Bm   Am/F# B7     Em D7 C7 B7
-Bei mir bist du schoen - means you're grand
-     Em  Em/F#   Em/G  Em/A  Em/B     Em/A  Em/G  Em
-Bei mir  bist du schoen,       again     I'll explain
-    Bm   Am/F# B7     Em Am Em
-It means you're the fairest in the land
+Bei m[Em]ir  [Em/F#]bist du [Em/G]schoen[Em/A],     [Em/B]    pleas[Em/A]e let [Em/G]me exp[Em]lain
+Bei m[Bm]ir bi[Am/F#]st du [B7]schoen [Em]- m[D7]ean[C7]s y[B7]ou're grand
+Bei m[Em]ir  [Em/F#]bist du [Em/G]schoen[Em/A],     [Em/B]  again  [Em/A]   I'l[Em/G]l expl[Em]ain
+It m[Bm]eans [Am/F#]you're[B7] the fa[Em]ire[Am]st [Em]in the land
 
 
 [Bridge]
-             Am                 Em
-I could say "bello, bella" even "sehr wunderbar"
-              Am                    B7  C7       B7
-Each language only helps me tell you how grand you are
-     Em
-I've tried to explain, bei mir bist du schoen
-   B7                        Em D7 C7 B7
-So kiss me and say you understand
+I could say "[Am]bello, bella" even [Em]"sehr wunderbar"
+Each language [Am]only helps me tell you[B7] how[C7] grand yo[B7]u are
+I've [Em]tried to explain, bei mir bist du schoen
+So [B7]kiss me and say you unders[Em]tan[D7]d [C7] [B7]
 
 
 [Refrain]
-        Em  Em/F#   Em/G  Em/A  Em/B     Em/A  Em/G  Em
-Bei mir  bist du schoen, you've heard it all before but let me  try to explain
-     Bm   Am/F# B7     Em D7 C7 B7
-Bei mir bist du schoen means that you're grand
-    Em  Em/F#   Em/G  Em/A  Em/B     Em/A  Em/G  Em
-Bei mir  bist du schoen, it's such an old refrain and yet I should explain,
- Bm   Am/F# B7     Em Am Em
-It means I am begging for your hand
+Bei mir [Em] bis[Em/F#]t du sch[Em/G]oen, y[Em/A]ou've [Em/B]heard it [Em/A]all be[Em/G]fore b[Em]ut let me  try to explain
+Bei m[Bm]ir bi[Am/F#]st du [B7]schoen [Em]mea[D7]ns [C7]tha[B7]t you're grand
+Bei [Em]mir [Em/F#] bist du[Em/G] schoe[Em/A]n, it'[Em/B]s such an[Em/A] old r[Em/G]efrain[Em] and yet I should explain,
+I[Bm]t mea[Am/F#]ns I a[B7]m beggi[Em]ng [Am]for[Em] your hand
 
 
 [Bridge]
-             Am                 Em
-I could say "bello, bella" even "sehr wunderbar"
-              Am                    B7  C7       B7
-Each language only helps me tell you how grand you are
+I could say "[Am]bello, bella" even [Em]"sehr wunderbar"
+Each language [Am]only helps me tell you[B7] how[C7] grand yo[B7]u are
 
 
 [Solo]
@@ -71,11 +49,7 @@ Am     Em       B7
 
 
 [Outro]
-             Am                 Em
-I could say "bello, bella" even "sehr wunderbar"
-              Am                    B7  C7       B7
-Each language only helps me tell you how grand you are
-     Em             C7
-I've tried to explain, bei mir bist du schoen
-  Am/F#     B7                   Em D7 C7 B7
-So kiss me and say you understand
+I could say "[Am]bello, bella" even [Em]"sehr wunderbar"
+Each language [Am]only helps me tell you[B7] how[C7] grand yo[B7]u are
+I've [Em]tried to explai[C7]n, bei mir bist du schoen
+So[Am/F#] kiss me a[B7]nd say you understand[Em] [D7] [C7] [B7]
