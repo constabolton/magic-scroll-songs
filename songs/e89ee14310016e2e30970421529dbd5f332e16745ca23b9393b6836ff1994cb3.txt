@@ -1,0 +1,163 @@
+Music:  Mike Shapiro and Harry Middlebrooks Jr.
+Lyrics: James Cobb and Buddy Buie
+
+Tabbed by DJ   15th Oct 2012
+
+PLEASE NOTE:
+'Classics IV' recorded different versions in the keys
+of Em and also in Fm. The most commonly heard mix on
+compilation albums is in Fm, so use a capo at the
+first fret for that one.
+By the late 1990's, the bands' vocalist, Dennis Yost,
+dropped the key down for live performances to Dm, use
+the transpose function set to (-2) to display chords 
+in Dm for that one.
+
+Atlanta Rhythm Section's cover version has a key
+change, it starts off in Em and then modulates
+up a semi-tone to Fm.
+
+I would recommend using the voicings in the text
+column numbers below.
+Regarding the CHORD BOX DIAGRAMS please follow the
+information at the bottom of the tab.
+
+Em7    = 079787 or 022030
+Em7/B  = 779787 or x22030
+A13    = 575675 or x02022
+A#dim7 = xx8989 or x12020
+Bm7    = 797777 or x20202 or x24232
+
+N.C. = No chords  ^ = Emphasise the syncopated beats
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+=====================================================
+[Intro] (See bottom of page for tablature of riff)
+  Em7  Em7/B   A13          Em7  Em7/B   A13
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+
+[Verse 1]
+       Em7         Em7/B
+In the cool of the evening,
+     A13                         Em7   Em7/B   A13
+When everything is getting kinda groovy,
+  Em7              Em7/B           A13
+I call you up and ask you if you'd like to go with me
+          Em7   Em7/B  A13  Em7           Em7/B
+And see a movie,            first you say no,
+                Em7/B
+You've got some plans for the night,
+             A13   N.C.       A#dim7    N.C.
+And then you stop, and say...      al - right,
+             ^                ^    ^
+Em7           Em7/B
+Love is kinda crazy...
+       A13                     Em7  Em7/B
+With a spooky little girl like you!
+      Bm7
+|  /__/  /__/  /  /__/  |
+      ^     ^  ^  ^  ^
+[Verse 2]
+    Em7            Em7/B
+You always keep me guessing,
+  A13                             Em7     Em7/B  A13
+I never seem to know what you are thinking,
+         Em7             Em7/B         A13
+And if a feller looks at you, it's for sure,
+                            Em7   Em7/B   A13
+Your little eye will be a - winking,
+Em7         Em7/B                 Em7          Em7/B
+I get con - fused, 'cause I don't know where I stand,
+             A13          A#dim7  N.C.
+And then you smile ...and hold my hand,
+             ^            ^    ^
+Em7           Em7/B
+Love is kinda crazy...
+          A13                     Em7  Em7/B
+...With a spooky little girl like you,
+Bm7
+Spooky, hey - ey, yeah!
+
+[Saxophone solo]
+  Em7 Em7/B    A13          Em7  Em7/B   A13
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+  Em7 Em7/B    A13          Em7  Em7/B   A13
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+  Em7 Em7/B    Em7  Em7/B   A13 N.C.     A#dim7
+| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+                            ^            ^  ^
+  Em7  Em7/B   A13          Em7  Em7/B
+| /  /  /  / | /  /  /  / | /  /  /  / |
+      Bm7
+|  /__/  /__/  /  /__/  |
+      ^     ^  ^  ^  ^
+[Verse 3]
+Em7         Em7/B
+If you de - cide, someday,
+   A13                                Em7   Em7/B A13
+To stop this little game that you are playing,
+    Em7            Em7/B
+I'm gonna tell you all the things...
+   A13                        Em7   Em7/B   A13
+My heart's been a-dying to be saying,
+Em7         Em7/B                 Em7         Em7/B
+Just like a ghost, you've been a- haunting my dreams,
+              A13         A#dim7     N.C.
+So I'll pro - pose...  on Hall - o - ween,
+              ^           ^      ^
+Em7           Em7/B
+Love is kinda crazy...
+       A13                     Em7  Em7/B  Bm7
+With a spooky little girl like you!        Spooky!
+
+[Coda]
+Em7     Em7/B           A13
+Spooky!       Oh - oo - woh, alright!
+       Em7     Em7/B   A13
+I said spooky,           ...oh------!
+      Em7   Em7/B          A13
+Hey - yeah,         I said spooky!
+          Em7   Em7/B            A13
+A - yeah, yeah!        Oh - oo - woh!
+
+[Suggestion for ending]
+      Bm7                  Em7
+|  /__/  /__/  /  /__/  |   /   ||
+      ^     ^  ^  ^  ^
+=====================================================
+[Intro]
+    Em7  Em7/B           A13
+e|-------7---7-7-----|---5-5---5--------------|
+B|-------8---8-8-----|---7-7---7--------------|
+G|-------7---7-7-----|---6-6---6--------------| [x2]
+D|-------9---9-9-----|---5-5---5--------------|
+A|-------7---7-7-----|---7-7---7---5-p7-5-----|
+E|---0---7---7-7-----|---5-5---5----------7---|
+                               p = pull-off note
+
+Alternative simpler main riff:
+[Intro]
+     Em7 Em7/B           A13
+e|-------0---0-0-----|---2-2---2--------------|
+B|-------3---3-3-----|---2-2---2--------------|
+G|-------0---0-0-----|---0-0---0--------------| [x2]
+D|-------2---2-2-----|---2-2---2---0-h2-0-----|
+A|-------2---2-2-----|---0-0---0----------2---|
+E|---0---------------|------------------------|
+                             h = Hammer-on note 
+
+=====================================================
+
+For the GUITAR chord box diagrams to match my
+suggested choices you need to manually select the
+following choice of options by clicking on the
+forward/backward arrows below three of the diagrams.
+The remaining chord boxes can be the default
+first option and don't need any reselecting.
+As long as you are logged into your account,
+these choices will be saved automatically for every
+time you view this tab
+
+   Em7         Em7/B       Bm7
+<16 of 49>   <6 of 15>  <4 of 31>
