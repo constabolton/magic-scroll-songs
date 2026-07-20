@@ -1,0 +1,141 @@
+(Will then sound in the recorded key of Bb)
+
+I would suggest using the voicings in the text
+column numbers below.
+Regarding the CHORD BOX DIAGRAMS please follow the
+information at the bottom of the tab.
+
+C#dim7 = x45650    Am7      = x02010   B7   = x24242
+G      = 320003   (G *)     = 3xxxxx   F#m7 = 242222
+E7     = 022130   (G/F#)    = 2xxxxx   C#   = x46664
+A7     = x02020   (G/F)     = 1xxxxx   C#7  = x46464
+D7     = xx0212    C#dim7/E = xx2323   F#m  = 244222
+Gmaj7  = 320002    E        = 022100   A    = x02220
+G6     = 320000    Emaj7    = 021100   Am   = x02210
+G7     = 320001    E6       = 022120   D    = xx0232
+N.C. = No chords
+
+Please take a second to scroll down to the bottom of
+the page and select a star rating for my tab, thanks
+=====================================================
+[Intro]
+C#dim7                        G
+       Whenever life gets you down, (Mrs. Brown)
+    C#dim7              G
+And things seem hard or tough,
+    C#dim7                  G          E7
+And people are stupid, ob - noxious or daft,
+        A7                             D7
+And you feel that you've had quite e - nough...
+
+[Verse 1]
+N.C.      G                  Gmaj7
+Just re - member that you're standing...
+     G6                G
+On a planet that's e - volving,
+         G               G6      G7       D7
+And re - volving at nine hundred miles an hour,
+       D7          Am7              D7
+That's orbiting at nineteen miles a second,
+        Am7
+So it's reckoned,
+  D7              Am7               G       D7
+A sun that is the source of all our power
+
+[Verse 2]
+    G                Gmaj7
+The sun, and you and me,
+            G6                G
+And all the stars that we can see,
+(G)(G/F#)(G/F)     E           E7              Am
+               Are moving at a million miles a day,
+      C            C#dim7
+In an outer spiral arm, 
+         G                 E7
+At forty thousand miles an hour,
+       Am7       D7             G
+Of the galaxy we call The Milky Way
+
+[Break]
+  C#dim7 C#dim7/E  G (G) (G/F#)(G/F) E7
+|  /  /  /  /  |   /__/     /__/    /  /  |
+  Am7    D7       G     D7
+|  /  /  /  /  |  /  /  /  /  |
+
+[Verse 3]
+    G          Gmaj7           G6              G
+Our galaxy it- self contains a hundred billion stars,
+      G                G6          G7      D7
+Its a hundred thousand light years side-to-side,
+   D7            Am7
+It bulges in the middle,
+        D7                   Am7                D7
+Sixteen thousand light years thick, but, out by us,
+                Am7                  G      D7
+It's just three thousand light years wide
+
+[Verse 4]
+      G               Gmaj7
+We're thirty thousand light years...
+          G6             G
+From ga - lactic central point,
+(G)(G/F#)(G/F)  E               E7              Am
+         We go 'round every two hundred million years
+        C         C#dim7                  E7
+And our galaxy is only one of millions of billions,
+            Am7             D7            G
+In this a - mazing and ex - panding uni - verse
+
+[Verse 5]   (Instrumental in 3/4 time)
+  E    Emaj7   E6   E       E    E6   E7   B7
+| /  /_/  / |  /  /_/  / |  /  /_/  /_/ |  /  /  / |
+  B7   F#m7    B7   F#m7    B7   F#m7   E
+| /  /_/  / |  /  /_/  / |  /  /_/  / | /  /  /  |
+  E    Emaj7   E6   E       C#   C#7     F#m
+| /  /_/  / |  /  /_/  / |  /  /_/  / |  /  /  /  |
+   A    Am      G           D    G       D7
+|  /  /_/  / |  /  /  /  |  /  /_/  / |  /  /  /  |
+
+[Verse 6] - Back to 4/4 time
+D7  G             Gmaj7
+The universe it - self...
+              G6               G
+Keeps on ex - panding and ex - panding,
+   G               G6       G7     D7
+In all of the di - rections it can whizz,
+   D7             Am7     D7                  Am7
+As fast as it can go, the speed of light, you know,
+       D7              Am7
+Twelve million miles a minute,
+               G
+And that's the fastest speed there is
+
+[Verse 7]
+D7      G
+So re - member,
+            Gmaj7        G6             G
+When you're feeling very small and in - secure,
+(G)(G/F#)(G/F)    E             E7             Am
+          How a - mazingly un - likely is your birth,
+    C                      C#dim7
+And pray that there's in - telligent life...
+G               E7
+Somewhere up in space,
+               Am7        D7           G
+'Cause there's bugger all down here on Earth!
+=====================================================
+For the GUITAR chord box diagrams to match my
+suggested choices you need to manually select the
+following choice of options by clicking on the
+forward/backward arrows below eight of the diagrams.
+All the other chord boxes should be the default
+first option and don't need any reselecting.
+As long as you are logged into your account,
+these choices will be saved automatically for every
+time you view this tab.
+
+  Cdim7        E7        Cdim7/E       E6
+<5 of 10>   <7 of 47>   <4 of 27>   <2 of 59>
+
+   B7         F#m7         C#          C#7
+<2 of 26>   <3 of 33>   <2 of 16>   <2 of 29>
