@@ -19,50 +19,32 @@ G   Em   C   D   x2
 
 [Verse 1]
 
-G                Em
-I'm so young and you're so old
-C                 D
-This, my darling, I've been told
-G                 Em
-I don't care just what they say
- C             D
-'Cause forever I will pray
-G              Em
-You and I will be as free
-C               D
-As the birds up in the trees
-G   Em     C       D     G    Em   C   D
-Oh, please stay by me, Diana
+[G]I'm so young and [Em]you're so old
+[C]This, my darling, [D]I've been told
+[G]I don't care just [Em]what they say
+'[C]Cause forever [D]I will pray
+[G]You and I will [Em]be as free
+[C]As the birds up [D]in the trees
+[G]Oh, [Em]please [C]stay by [D]me, Di[G]ana [Em] [C] [D]
 
 
 [Verse 2]
 
-G                     Em
-Thrills I get when you hold me close
-C                D
- Oh, my darling, you're the most
-G                 Em
-I love you but do you love me
-C          D
-Oh, Diana, can't you see
-G               Em
-I love you with all my heart
-C                  D
-And I hope we will never part
-G   Em     C         D     G    Em   C   D
-Oh, please stay with me, Diana
+[G]Thrills I get when you[Em] hold me close
+[C] Oh, my darling, [D]you're the most
+[G]I love you but do [Em]you love me
+[C]Oh, Diana, [D]can't you see
+[G]I love you with [Em]all my heart
+[C]And I hope we will [D]never part
+[G]Oh, [Em]please [C]stay with [D]me, Di[G]ana [Em] [C] [D]
 
 
 [Bridge]
 
-C               Cm
- Oh, my darlin', oh, my lover
-G
- Tell me that there is no other
-C          Cm
- I love you with my heart
-   D
-Oh-oh, oh-oh, oh-oh-oh-oh-oh-oh-oh-oh-oh-
+[C] Oh, my darlin',[Cm] oh, my lover
+[G] Tell me that there is no other
+[C] I love you[Cm] with my heart
+Oh-[D]oh, oh-oh, oh-oh-oh-oh-oh-oh-oh-oh-oh-
 
 (Riff in Bridge, on 1st and 3rd lines)
    C              Cm             (G or D)
@@ -76,29 +58,19 @@ E|--------------------------------------|
 
 [Verse 3]
 
-G            Em
-Only you can take my heart
-C            D
-Only you can tear it apart
-G                        Em
-When you hold me in your loving arms
-C                     D
-I can feel you giving all your charms
-G                     Em
-Hold me, darling, h-h-hold me tight
-  C                      D
-A-squeeze me baby with-a all your might
+[G]Only you can [Em]take my heart
+[C]Only you can [D]tear it apart
+[G]When you hold me in your [Em]loving arms
+[C]I can feel you giving [D]all your charms
+[G]Hold me, darling, h-h-[Em]hold me tight
+A-[C]squeeze me baby with-a [D]all your might
 
 
 [Outro]
 
-G   Em     C       D     G
-Oh, please stay by me, Diana
-Em   C   D         G
-     Oh, please, Diana
-Em   C   D         G
-     Oh, please, Diana
-Em   C   D         G
-     Oh, please, Diana
+[G]Oh, [Em]please [C]stay by [D]me, Di[G]ana
+[Em]     [C]Oh, [D]please, Di[G]ana
+[Em]     [C]Oh, [D]please, Di[G]ana
+[Em]     [C]Oh, [D]please, Di[G]ana
 
 (fade out)
