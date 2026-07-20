@@ -2,100 +2,62 @@
 Song name: City Of New Orleans  by  Steve Goodman
 ----------------------------------------------------------------------
 [Verse 1]
-G             D           G
-Riding on the City of New Orleans,
-Em                C              G
-Illinois Central, Monday morning rail,
-          G                D                G
-There are fifteen cars and fifteen restless riders,
-Em                    D                    G
-Three conductors, and twenty five sacks of mail.
+[G]Riding on the [D]City of New [G]Orleans,
+[Em]Illinois Central, [C]Monday morning [G]rail,
+There are [G]fifteen cars and [D]fifteen restless [G]riders,
+[Em]Three conductors, and [D]twenty five sacks of [G]mail.
 
-            Em
-They're all out on the southbound odyssey,
-         Bm
-And the train pulls out of Kankakee,
-D                                  A
-  Rolls past the houses, farms and fields.
-Em
-Passing towns that have no name,
-    Bm
-And freight yards full of old black men,
-        D                          G
-And the graveyards of rusted automobiles.
+They're all [Em]out on the southbound odyssey,
+And the t[Bm]rain pulls out of Kankakee,
+[D]  Rolls past the houses, farms and [A]fields.
+[Em]Passing towns that have no name,
+And [Bm]freight yards full of old black men,
+And the [D]graveyards of rusted automo[G]biles.
 
 
 [Chorus]
-C               D           G
-  Good morning America, how are you?
-    Em                  C                 G
-Say   don't you know me,  I'm your native   son.
-D         G                     D             Em
-  I'm the   train they call the   City of New   Orleans,
-          F       C               D                 G
-I'll be gone five   hundred miles   when the day is   done.
+[C]  Good morning A[D]merica, how [G]are you?
+Say [Em]  don't you know me,[C]  I'm your native [G]  son.
+[D]  I'm the [G]  train they call the [D]  City of New [Em]  Orleans,
+I'll be go[F]ne five [C]  hundred miles [D]  when the day is [G]  done.
 
 
 [Verse 2]
-G                      D                     G
-Dealin' cards with the old men in the club car
-Em                        C               G
-Penny a point, there ain't no one keeping score
-G                 D                 G
-Pass the paper bag that holds the bottle
-      Em                D                    G
-I can feel the wheels a-rumbling through the floor.
+[G]Dealin' cards with the [D]old men in the club ca[G]r
+[Em]Penny a point, there ain't[C] no one keeping [G]score
+[G]Pass the paper bag[D] that holds the bo[G]ttle
+I can [Em]feel the wheels a-[D]rumbling through the [G]floor.
 
-Em                                      Bm
-And the sons of Pullman porters and the sons of engineers
-           D                              A
-Ride their father's magic carpets made of steel
-Em                            Bm
-Mother with her babes asleep rocking to the gentle beat
-        D             D7                G
-And the rhythm of the rails is all they dream.
+[Em]And the sons of Pullman porters and the [Bm]sons of engineers
+Ride their [D]father's magic carpets made of [A]steel
+[Em]Mother with her babes asleep r[Bm]ocking to the gentle beat
+And the [D]rhythm of the [D7]rails is all they [G]dream.
 
 
 [Chorus]
-C               D           G
-  Good morning America, how are you?
-    Em                  C                 G
-Say   don't you know me,  I'm your native   son.
-D         G                     D             Em
-  I'm the   train they call the   City of New   Orleans,
-          F       C               D                 G
-I'll be gone five   hundred miles   when the day is   done.
+[C]  Good morning A[D]merica, how [G]are you?
+Say [Em]  don't you know me,[C]  I'm your native [G]  son.
+[D]  I'm the [G]  train they call the [D]  City of New [Em]  Orleans,
+I'll be go[F]ne five [C]  hundred miles [D]  when the day is [G]  done.
 
 
 [Verse 3]
-G             D            G
-Nightime on the City of New Orleans
-Em               C        G          D
-Changing cars in Memphis, Tennessee
-G                  D                G
-Half way there and we'll be home by morning
-           Em                   D                    G
-Through the Mississippi darkness rolling down to the sea.
+[G]Nightime on th[D]e City of New[G] Orleans
+[Em]Changing cars in [C]Memphis, [G]Tennessee [D]
+[G]Half way there and [D]we'll be home by [G]morning
+Through the[Em] Mississippi darkness[D] rolling down to the [G]sea.
 
-    Em                               Bm
-But all the towns and people seem to fade into a dark dream
-        D                                A
-And the steel rail still ain't heard the news
-     Em                                 Bm
-The conductor sings his song again, the passengers will please refrain…
-     D                 D                 G
-This train got the disappearing railroad blues.
+But [Em]all the towns and people seem to [Bm]fade into a dark dream
+And the [D]steel rail still ain't heard the [A]news
+The c[Em]onductor sings his song again, the [Bm]passengers will please refrain…
+This [D]train got the disa[D]ppearing railroad [G]blues.
 
 
 [Chorus]
-C            D           G
-  Goodnight America, how are you?
-    Em                  C                 G
-Say   don't you know me,  I'm your native   son.
-D         G                     D             Em
-  I'm the   train they call the   City of New   Orleans,
-          F       C               D                 G
-I'll be gone five   hundred miles   when the day is   done.
+[C]  Goodnight A[D]merica, how [G]are you?
+Say [Em]  don't you know me,[C]  I'm your native [G]  son.
+[D]  I'm the [G]  train they call the [D]  City of New [Em]  Orleans,
+I'll be go[F]ne five [C]  hundred miles [D]  when the day is [G]  done.
 
 
 [Outro]
