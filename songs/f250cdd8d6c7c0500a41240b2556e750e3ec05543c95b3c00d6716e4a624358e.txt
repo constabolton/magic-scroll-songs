@@ -23,92 +23,57 @@ C6     x-3-5-5-5-5
 | C | % |
 
 [Verse 1]
-F                 C
-  Got a gun in my holster
-F                        C
-  Got a horse between my knees
-        F  F#dim7   C/G
-And I'm goin' to Arizona
-       G       G/B      C
-Pardon me, boys, if you please
+[F]  Got a gun in my [C]holster
+[F]  Got a horse between my [C]knees
+And I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+Pardon [G]me, boys[G/B], if you [C]please
 
 [Verse 2]
-F                    C
-  I have been a desperado
-          F                   C
-Raped and pillaged 'cross the plain
-         F  F#dim7   C/G
-Now, I'm goin' to Arizona
-       G     G/B    C
-Just a rider in the rain
+[F]  I have been a despe[C]rado
+Raped and [F]pillaged 'cross the [C]plain
+Now, I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+Just a [G]rider [G/B]in the [C]rain
 
 [Chorus]
-       Am           C
-He's a rider in the rain
-       F            C
-He's a rider in the rain
-        F  F#dim7   C/G
-And I'm goin' to Arizona
-       G  G/B       C
-He's a rider in the rain
+He's a [Am]rider in the [C]rain
+He's a [F]rider in the [C]rain
+And I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+He's a [G]rid[G/B]er in the [C]rain
 
 [Verse 3]
-F                        C
-  Oh, my mother's in St. Louis
-F                         C
-  And my bride's in Tennessee
-        F  F#dim7   C/G
-So, I'm goin' to Arizona
-       G     G/B   C
-With a banjo on my knee
+[F]  Oh, my mother's in St. [C]Louis
+[F]  And my bride's in Tennes[C]see
+So, I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+With a [G]banjo [G/B]on my [C]knee
 
 [Chorus]
-       Am           C
-He's a rider in the rain (I'm a rider in the rain)
-       F            C
-He's a rider in the rain
-        F  F#dim7   C/G
-And I'm goin' to Arizona
-       G  G/B       C
-He's a rider in the rain
+He's a [Am]rider in the [C]rain (I'm a rider in the rain)
+He's a [F]rider in the [C]rain
+And I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+He's a [G]rid[G/B]er in the [C]rain
 
 [Verse 4]
-        F               C
-Used to work in Uncle's feed store
-             F               C
-While he was fightin' in the war
-        F  F#dim7   C/G
-Now I'm goin' to Arizona
-            G   G/B         C
-Ain't gonna work for him no more
+Used to [F]work in Uncle's [C]feed store
+While he was [F]fightin' in the [C]war
+Now I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+Ain't gonna [G]work[G/B] for him no [C]more
 
 [Verse 5]
-        F          C
-I'm the son of the prairie
-        F                    C
-And the wind that sweeps the plain
-        F  F#dim7   C/G
-So, I'm goin' to Arizona
-       G     G/B   C
-Just a rider in the rain
+I'm the [F]son of the [C]prairie
+And the [F]wind that sweeps the [C]plain
+So, I'm [F]goi[F#dim7]n' to Ari[C/G]zona
+Just a [G]rider [G/B]in the[C] rain
 
 [Chorus]
-      Am           C
-I'm a rider in the rain 
-      F            C
-I'm a rider in the rain
-         F  F#dim7   C/G
-And he's goin' to Arizona
-       G  G/B       C
-Just a rider in the rain
+I'm a [Am]rider in the [C]rain 
+I'm a [F]rider in the [C]rain
+And he's [F]goi[F#dim7]n' to Ari[C/G]zona
+Just a [G]rid[G/B]er in the [C]rain
 
 [Chorus] (variation)
-       Am           C
-He's a rider in the rain (I'm a rider in the rain)
-       F            C
-He's a rider in the rain (You know I'm a rider)
-        F  F#dim7   C/G    Am [break]
-And I'm goin' to Arizona
+He's a [Am]rider in the [C]rain (I'm a rider in the rain)
+He's a [F]rider in the [C]rain (You know I'm a rider)
+And I'm [F]goi[F#dim7]n' to Ari[C/G]zona [Am]
        G            C             C6 (break)
 Just a rider in the rain (ritardando)
 
@@ -116,5 +81,4 @@ Take it boys ...
 
 [Outro]
 [ F | C | F | C | F F#dim7 | C/G | G G/B | C |
-[ F | C | F | C | F F#dim7 | C/G | G G/B | C |
-(repeat and fade)
+(r[F]epea[C]t an[F]d fa[C]de) [F] [F#dim7] [C/G] [G] [G/B] [C]
