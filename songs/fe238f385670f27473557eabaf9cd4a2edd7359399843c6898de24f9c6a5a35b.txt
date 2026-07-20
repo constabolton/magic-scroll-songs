@@ -7,8 +7,7 @@ EMAIL:  GUITARZAN7@HOTMAIL.COM
 
 INTRO:
     E       A             E           A
-E -----------------------------------------|
-B ----------5-5----------------------------| 
+[E]B ----------5-5----------------------------| 
 G ----4-6-7-------7-6-4--------------------|
 D --7-------------------7-6-6-7-6-4-6-7----| 
 A -----------------------------------------| 
@@ -16,45 +15,29 @@ E -----------------------------------------|
 
 
 VERSE:
-                  A                  E
-When I'm feelin' blue, all I have to do,
-                   A                    E
-Is take a look at you, then I'm not so blue, 
-                     Bm                   Dbm
-When you're close to me, I can feel your heartbeat, 
-                Bm              E
-I can hear you breathing in my ear, 
-                A                E                        A
-Wouldn't you agree, baby you and me got a groovy kind of love. 
-                 E
-(Groovy kind of love)
-                         A
-We got a groovy kind of love 
-                  E
-(Groovy kind of love)
+When I'm feelin' b[A]lue, all I have to [E]do,
+Is take a look at y[A]ou, then I'm not so b[E]lue, 
+When you're close to [Bm]me, I can feel your h[Dbm]eartbeat, 
+I can hear you b[Bm]reathing in my e[E]ar, 
+Wouldn't you agr[A]ee, baby you and [E]me got a groovy kind of l[A]ove. 
+(Groovy kind of l[E]ove)
+We got a groovy kind of l[A]ove 
+(Groovy kind of lo[E]ve)
 
 
 VERSE:
-             A                       E
-Anytime you want to, you can turn me on to, 
-              A                   E
-Anything you want to, anytime at all,
-                   Bm                  Dbm
-When I taste your lips, oh I start to shiver, 
-                    Bm         E
-Can't control the quivering inside, 
-                A                E                        A
-Wouldn't you agree, baby you and me got a groovy kind of love. 
-                 E
-(Groovy kind of love)
-                         Am
-We got a groovy kind of love 
+Anytime you w[A]ant to, you can turn me [E]on to, 
+Anything you w[A]ant to, anytime at a[E]ll,
+When I taste your l[Bm]ips, oh I start to s[Dbm]hiver, 
+Can't control the qu[Bm]ivering ins[E]ide, 
+Wouldn't you agr[A]ee, baby you and [E]me got a groovy kind of l[A]ove. 
+(Groovy kind of l[E]ove)
+We got a groovy kind of l[Am]ove 
 
 
 INSTRUMENTAL:
             Bb            F          Bb             F
-E ---------------------------------------------------------|
-B ----------6-6--------------------------------------------| 
+[E]B ----------6-6--------------------------------------------| 
 G ----5-7-8-------8-7-5--------------------5--------5h6p5--|
 D --8-------------------8-7-7-8-7-5-7-8-8----8-7-8---------| 
 A ---------------------------------------------------------| 
@@ -62,17 +45,10 @@ E ---------------------------------------------------------|
 
 
 VERSE: 
-                  Cm                     Dm
-When I'm in your arms, nothing seems to matter, 
-                    Cm               F
-If the world would shatter, I don't care, 
-               Bb                F                        Bb
-Wouldn't you agree, baby you and me got a groovy kind of love. 
-                 F
-(Groovy kind of love)
-                         Bb
-We got a groovy kind of love 
-                  F
-(Groovy kind of love)
-                         Bb
-We got a groovy kind of love
+When I'm in your a[Cm]rms, nothing seems to m[Dm]atter, 
+If the world would s[Cm]hatter, I don't c[F]are, 
+Wouldn't you ag[Bb]ree, baby you and [F]me got a groovy kind of l[Bb]ove. 
+(Groovy kind of l[F]ove)
+We got a groovy kind of l[Bb]ove 
+(Groovy kind of lo[F]ve)
+We got a groovy kind of l[Bb]ove
