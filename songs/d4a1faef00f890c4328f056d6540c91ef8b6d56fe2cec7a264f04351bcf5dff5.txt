@@ -2,90 +2,55 @@
 Song name: Ac-Cent-Tchu-Ate The Positive  by  Johnny Mercer
 ----------------------------------------------------------------------
 [Intro]
-        Cm   Cm#5   Cm6    Cm#5
-Gather 'round me, everybody
-      Cmmaj7  Cm6        Cm#5   Cm
-Gather 'round me while I preach some
-      G Adim A#dim Bdim B#11
-Feel a sermon coming on here
-Cmaj7
-The topic will be sin
-    A#dim Bdim     G7 G7#5
-And that's what I'm agin'
+Gather '[Cm]round[Cm#5] me, ev[Cm6]erybody[Cm#5]
+Gather[Cmmaj7] 'round [Cm6]me while I [Cm#5]preach [Cm]some
+Feel a[G] s[Adim]ermon[A#dim] comin[Bdim]g on [B#11]here
+[Cmaj7]The topic will be sin
+And [A#dim]that's[Bdim] what I'm[G7] ag[G7#5]in'
 
-       C6
-If you wanna hear my story
-     F7
-Then settle back and just sit tight
-        Dm7    G13
-While I start reviewing
-    Dm7        G13    Cmaj7 A7 Dm7 G13
-The attitude of doing right
+If you [C6]wanna hear my story
+Then [F7]settle back and just sit tight
+While I [Dm7]start r[G13]eviewing
+The [Dm7]attitude of[G13] doing [Cmaj7]right [A7] [Dm7] [G13]
 
 Cmaj7 C#dim Dm7 G13
 
 
 [Chorus]
-          C  C+   Am           C7
-You gotta ac-cent-tchu-ate the positive
-F   Fm  Dm7      G7
-E-lim-i-nate the negative
-    C     C+    Am   C7
-And latch on to the affirmative
-Dm7             G7       C
-Don't mess with Mr. In-Between
+You gotta [C]ac-[C+]cent-[Am]tchu-ate the [C7]positive
+[F]E-li[Fm]m-i-[Dm7]nate the [G7]negative
+And [C]latch [C+]on to [Am]the a[C7]ffirmative
+[Dm7]Don't mess with [G7]Mr. In-Be[C]tween
 
-           C      C+   Am           C7
-You got to spread joy up to the maximum
-F   Fm      Dm7         G7
-Bring gloom down to the minimum
-C     C+    Am   C7
-Have faith, or pandemonium
-Dm7             G7       C
-Liable to walk upon the scene
+You got to [C]spread [C+]joy u[Am]p to the maxi[C7]mum
+[F]Brin[Fm]g gloom [Dm7]down to the [G7]minimum
+[C]Have f[C+]aith, [Am]or pa[C7]ndemonium
+[Dm7]Liable to walk u[G7]pon the s[C]cene
 
 
 [Verse]
-   C                  C7
-To illustrate my last remark
-             F                  C
-Jonah in the whale, Noah in the ark
-                            A7#5                 D7
-What did they do, just when everything looked so dark?
-G7
-Man, they said, we better
+To [C]illustrate my last [C7]remark
+Jonah in the [F]whale, Noah in the [C]ark
+What did they do, just when [A7#5]everything looked so [D7]dark?
+[G7]Man, they said, we better
 
 
 [Chorus]
-C  C+   Am           C7
-Ac-cent-tchu-ate the positive
-F   Fm  Dm7      G7
-E-lim-i-nate the negative
-    C     C+    Am   C7
-And latch on to the affirmative
-Dm7             G7       C
-Don't mess with Mr. In-Between
-A7#5  Dm7             G7        C
-No    Don't mess with Mr. In-Between
+[C]Ac-[C+]cent-[Am]tchu-ate the [C7]positive
+[F]E-li[Fm]m-i-[Dm7]nate the [G7]negative
+And [C]latch [C+]on to [Am]the a[C7]ffirmative
+[Dm7]Don't mess with [G7]Mr. In-Be[C]tween
+[A7#5]No    [Dm7]Don't mess with [G7]Mr. In-Bet[C]ween
 
-           C      C+   Am           C7
-You got to spread joy up to the maximum
-F   Fm      Dm7         G7
-Bring gloom down to the minimum
-C     C+    Am   C7
-Have faith, or pandemonium
-Dm7             G7       C
-Liable to walk upon the scene
+You got to [C]spread [C+]joy u[Am]p to the maxi[C7]mum
+[F]Brin[Fm]g gloom [Dm7]down to the [G7]minimum
+[C]Have f[C+]aith, [Am]or pa[C7]ndemonium
+[Dm7]Liable to walk u[G7]pon the s[C]cene
 
 
 [Outro]
-C  C+   Am           C7
-Ac-cent-tchu-ate the positive
-F   Fm  Dm7      G7
-E-lim-i-nate the negative
-    C     C+    Am   C7
-And latch on to the affirmative
-Dm7             G7       C
-Don't mess with Mr. In-Between
-A7#5  Dm7             G7        C
-No    Don't mess with Mr. In-Between
+[C]Ac-[C+]cent-[Am]tchu-ate the [C7]positive
+[F]E-li[Fm]m-i-[Dm7]nate the [G7]negative
+And [C]latch [C+]on to [Am]the a[C7]ffirmative
+[Dm7]Don't mess with [G7]Mr. In-Be[C]tween
+[A7#5]No    [Dm7]Don't mess with [G7]Mr. In-Bet[C]ween
