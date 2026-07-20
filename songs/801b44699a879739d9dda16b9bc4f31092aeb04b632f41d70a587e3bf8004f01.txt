@@ -22,26 +22,19 @@ strum# # #$#$#$#$#$#$
 
 
 [verses]
-   A                                                                    D
-(1)there is nothing that is wrong in wanting you to      stay here with me
+(1)[A]there is nothing that is wrong in wanting you to      stay here with [D]me
 (2)the sun aint nearly on the rise and we still got the moon and stars above
 (3)i long to see the morning light             coloring your face so dreamily
 
-   A                                                                    D
- i know you got somewhere to go but wont you make your self at home and stay with me
+ i [A]know you got somewhere to go but wont you make your self at home and [D]stay with me
 underneath the velvet skies           love is all that matters wont you stay with me
 so dont you go and say goodbye        you can lay your worries down and stay with me
 
-             E
-and dont you ever leave
+and dont you [E]ever leave
 
 
 [chorus]
-A                    D
-lay down sally   and rest herein my arms
-E                                       A
-dont you think you wont someone to talk to
-A                    D
-lay down sally    no need to leave so soon
-E                                       A
-ive been trying all night long just to talk to you
+[A]lay down sally   and [D]rest herein my arms
+[E]dont you think you wont someone to talk [A]to
+[A]lay down sally    no [D]need to leave so soon
+[E]ive been trying all night long just to t[A]alk to you
