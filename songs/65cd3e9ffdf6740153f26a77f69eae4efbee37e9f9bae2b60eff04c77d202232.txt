@@ -8,43 +8,26 @@ F
 
 [Verse]
 
-F         Fmaj7    Dm7
-The first, the last, my everything, 
-Fmaj7             F7       Bb
-And the answer to / all my dreams
-Gm7            C       Am7            Dm
-You're my sun, my moon /   My guiding star
-G7                     Bbm                C7  [tacet]
-   My kind of wonderful / that's what you are
+[F]The first,[Fmaj7] the last[Dm7], my everything, 
+[Fmaj7]And the answer to [F7]/ all my [Bb]dreams
+[Gm7]You're my sun, [C]my moon [Am7]/   My guiding [Dm]star
+[G7]   My kind of wonderful[Bbm] / that's what you [C7]are
 
-F      Fmaj7         Dm7
-I know there's only, only one like you
-Fmaj7          F7                     Bb
-There's no way / they could have made two
-Gm7/Bb               Bbm
-      You're all I'm living for
-F                     D7
-Your love I'll keep / For evermore
-G7                C7                  F
-You're the first, you're the last, my ev'-ry-thing
+[F]I know [Fmaj7]there's only, [Dm7]only one like you
+[Fmaj7]There's no way [F7]/ they could have made [Bb]two
+[Gm7/Bb]      You're all I'm [Bbm]living for
+[F]Your love I'll keep / [D7]For evermore
+[G7]You're the first, [C7]you're the last, my [F]ev'-ry-thing
 
-F        Fmaj7   Dm7
-With you I found / So many things,
-Fmaj7           F7         Bb
-Our love so new only you / could bring
-Gm7           C7         Am7             Dm
-Can't you see it's you / You make me feel this way
-G7                                Bbm               C7  [tacet]
-   You're like a first morning dew / On a brand new day
+[F]With you [Fmaj7]I found [Dm7]/ So many things,
+[Fmaj7]Our love so new [F7]only you / [Bb]could bring
+[Gm7]Can't you see [C7]it's you / [Am7]You make me feel[Dm] this way
+[G7]   You're like a first morning dew[Bbm] / On a brand new [C7]day
 
-F     Fmaj7    Dm7
-I see       so many ways that I
-Fmaj7         F7   Bb
-Can love you 'Till the day I die
-Gm7/Bb             Bbm     F                   D7
-      You're my re-al-i-ty / yet I'm lost when I'm free
-G7                C7                  F
-You're the first, you're the last, my ev-'ry-thing
+[F]I see [Fmaj7]      so [Dm7]many ways that I
+[Fmaj7]Can love you '[F7]Till [Bb]the day I die
+[Gm7/Bb]      You're my re-[Bbm]al-i-ty [F]/ yet I'm lost when [D7]I'm free
+[G7]You're the first, [C7]you're the last, my [F]ev-'ry-thing
 
 
 [Instrumental]
@@ -55,13 +38,9 @@ Bb  . . . / Bbm . . . / F7    . . . / D7    . . .
 G7  . . . / C7  . . .
 
 
-F      Fmaj7         Dm7
-I know there's only, only one like you
-Fmaj7          F7                     Bb
-There's no way / they could have made two
-Gm7/Bb                  Bbm     F                   D7
-      Girl you're my re-al-i-ty / yet I'm lost when I'm free
-G7                C7                  F
-You're the first, you're the last, my ev'-ry-thing
+[F]I know [Fmaj7]there's only, [Dm7]only one like you
+[Fmaj7]There's no way [F7]/ they could have made [Bb]two
+[Gm7/Bb]      Girl you're my re-[Bbm]al-i-ty [F]/ yet I'm lost when [D7]I'm free
+[G7]You're the first, [C7]you're the last, my [F]ev'-ry-thing
 
 [Lots of F to finish]
