@@ -21,71 +21,46 @@ A/E   0-x-2-2-2-x
 
 
 [Verse]
-    D       E/D        A/C#  G/B    A
-My, my, at Waterloo Napoleon did surrender 
-   D         E/D           A/C# G/B   D/A      A       Bm
-Oh yeah, and I have met my destiny in quite a similar way 
-    Bm
-The history book on the shelf 
-Bm/A E/G#             |  A   G | D/F#  A/E |
-Is   always repeating itself 
+My, [D]my, at W[E/D]aterloo Nap[A/C#]oleon [G/B]did sur[A]render 
+Oh [D]yeah, and [E/D]I have met my [A/C#]desti[G/B]ny in [D/A]quite a s[A]imilar w[Bm]ay 
+The [Bm]history book on the shelf 
+[Bm/A]Is   [E/G#]always repeating its[A]elf [G] [D/F#] [A/E]
 
 
 [Chorus]
-D                              G
-Waterloo - I was defeated, you won the war 
-A                                  D        |   A A A |
-Waterloo - Promise to love you for ever more 
-D                               G
-Waterloo - Couldn't escape if I wanted to 
-A                                D         
-Waterloo - Knowing my fate is to be with you 
-                 A                            |  D  |  %  |  %  |  %  | 
-Wo-wo-wo, wo-wo, Waterloo - Finally facing my Waterloo 
+[D]Waterloo - I was defeated, you [G]won the war 
+[A]Waterloo - Promise to love you for [D]ever more [A]
+[D]Waterloo - Couldn't escape if I [G]wanted to 
+[A]Waterloo - Knowing my fate is to [D]be with you 
+Wo-wo-wo, wo-wo, [A]Waterloo - Finally facing my Wat[D]erloo 
 
 
 [Verse]
-    D      E/D              A/C#     G/B      A
-My, my, I tried to hold you back but you were stronger 
-   D         E/D             A/C# G/B       D/A     A      Bm
-Oh yeah, and now it seems my only chance is giving up the fight 
-    Bm
-And how could I ever refuse 
-Bm/A E/G#                   |  A  G | D/F#  A/E |
-I    feel like I win when I lose 
+My, [D]my, I t[E/D]ried to hold you [A/C#]back but [G/B]you were [A]stronger 
+Oh [D]yeah, and [E/D]now it seems my [A/C#]only [G/B]chance is [D/A]giving u[A]p the f[Bm]ight 
+And [Bm]how could I ever refuse 
+[Bm/A]I    [E/G#]feel like I win when I los[A]e [G] [D/F#] [A/E]
 
 
 [Chorus]
-D                              G
-Waterloo - I was defeated, you won the war 
-A                                  D        |   A A A |
-Waterloo - Promise to love you for ever more 
-D                               G
-Waterloo - Couldn't escape if I wanted to 
-A                                D         
-Waterloo - Knowing my fate is to be with you 
-                 A                            |  D  |  D  [ A/C# | ]
-Wo-wo-wo, wo-wo, Waterloo - Finally facing my Waterloo     (So    how ...)
+[D]Waterloo - I was defeated, you [G]won the war 
+[A]Waterloo - Promise to love you for [D]ever more [A]
+[D]Waterloo - Couldn't escape if I [G]wanted to 
+[A]Waterloo - Knowing my fate is to [D]be with you 
+Wo-wo-wo, wo-wo, [A]Waterloo - Finally facing my Wat[D]erloo [D]    ([A/C#]So    how ...)
 
 
 [Bridge]
-A/C# Bm
-So   how could I ever refuse 
-Bm/A E                       A 
-I    feel like I win when I lose 
+[A/C#]So   [Bm]how could I ever refuse 
+[Bm/A]I    [E]feel like I win when I l[A]ose 
 
 
 [Chorus]
-D                               G
-Waterloo - Couldn't escape if I wanted to 
-A                                D
-Waterloo - Knowing my fate is to be with you 
-                 A                            |  D  |  %  |  %  |  %  | 
-Wo-wo-wo, wo-wo, Waterloo - Finally facing my Waterloo          Oooh-ooh-ooh-ooh
-A                                D         
-Waterloo - Knowing my fate is to be with you 
-                 A                            |  D  |  %  |  %  |  %  | 
-Wo-wo-wo, wo-wo, Waterloo - Finally facing my Waterloo          Oooh-ooh-ooh-ooh
+[D]Waterloo - Couldn't escape if I [G]wanted to 
+[A]Waterloo - Knowing my fate is to [D]be with you 
+Wo-wo-wo, wo-wo, [A]Waterloo - Finally facing my Wat[D]erloo          Oooh-ooh-ooh-ooh
+[A]Waterloo - Knowing my fate is to [D]be with you 
+Wo-wo-wo, wo-wo, [A]Waterloo - Finally facing my Wat[D]erloo          Oooh-ooh-ooh-ooh
 
 (fade out over last 3 lines)
 
