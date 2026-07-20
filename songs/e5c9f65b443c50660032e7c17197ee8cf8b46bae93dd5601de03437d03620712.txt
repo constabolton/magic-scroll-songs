@@ -31,74 +31,48 @@ D: XX0232
 Intro:
 C   D/C   C   D/C
 
-C                        Em
-If I could wait here for you,
-        Am              Am7/G    F
-Without hope or knowing what to  do.
-C                   Em
-Watch the light fade away,
-        Am              Am7/G    F        F/E
-Without fear or knowing what to say.
+[C]If I could wait here for [Em]you,
+Without [Am]hope or knowing [Am7/G]what to  [F]do.
+[C]Watch the light fade[Em] away,
+Without [Am]fear or knowing [Am7/G]what to s[F]ay. [F/E]
 
-Dm                 Dm/E   F         F/E
-Cry the tears from my     eyes.
-Dm               Dm/E  F
-Leave me here long    enough to realize.
+[Dm]Cry the tears from [Dm/E]my     [F]eyes. [F/E]
+[Dm]Leave me here lon[Dm/E]g    e[F]nough to realize.
 
-C              Em
-Where is love now?
-C              Em
-Where is love now;
-Am               D
-Out here in the dark?
+[C]Where is love n[Em]ow?
+[C]Where is love n[Em]ow;
+[Am]Out here in the d[D]ark?
 
 C    D/C
 
-C                     Em
-If I should hold all my dreams,
-            Am                    Am7/G      F
-Through the night of the way life sometimes seems.
-C                          Em
-And if I can't see which way to go,
-        Am                 Am7/G     F         F/E
-I'll stay lost in silence 'til   I  know.
+[C]If I should hold all m[Em]y dreams,
+Through the [Am]night of the way life [Am7/G]sometimes s[F]eems.
+[C]And if I can't see which wa[Em]y to go,
+I'll sta[Am]y lost in silence '[Am7/G]til   I  k[F]now. [F/E]
 
-Dm                 Dm/E   F      F/E
-Cry the tears from my     eyes.
-    Dm             Dm/E   F
-And leave me here long   enough to realize.
+[Dm]Cry the tears from [Dm/E]my     [F]eyes. [F/E]
+And [Dm]leave me here l[Dm/E]ong   e[F]nough to realize.
 
-C              Em
-Where is love now?
-C              Em
-Where is love now;
-Am               D       Em     D
-Out here in the dark?
+[C]Where is love n[Em]ow?
+[C]Where is love n[Em]ow;
+[Am]Out here in the d[D]ark? [Em] [D]
 
 Instrumental Solo:
 C   Em   Am   F
 C   Em   Am   F
 
-Dm                 Dm/E   F      F/E
-Cry the tears from my     eyes.
-Dm             Dm/E   F
-Leave me here long   enough to realize.
+[Dm]Cry the tears from [Dm/E]my     [F]eyes. [F/E]
+[Dm]Leave me here l[Dm/E]ong   e[F]nough to realize.
 
-C              Em
-Where is love now?
-C              Em
-Where is love now?
-C              Em
-Where is love now?
-C              Em
-Where is love now;
-Am               D
-Out here in the dark?
+[C]Where is love n[Em]ow?
+[C]Where is love n[Em]ow?
+[C]Where is love n[Em]ow?
+[C]Where is love n[Em]ow;
+[Am]Out here in the d[D]ark?
 
 Em     D
 
-Am               D
-Out here in the dark?
+[Am]Out here in the d[D]ark?
 
 Outro:
 Em     D
