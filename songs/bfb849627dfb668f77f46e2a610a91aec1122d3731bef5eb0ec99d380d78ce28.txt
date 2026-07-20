@@ -4,100 +4,78 @@ Song name: Noho Pai Pai  by  Ka'au Crater Boys
 Intro and Vamp Chords:
 D7 5657 (barre)
 Db7 4546 (barre)
-C 0003
-Bb 3211 (barre)
+[C]Bb 3211 (barre)
 B 4322 (barre)
 C 5433 (barr)
 
 
 [Intro]
-D7  Db7  C  x4
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C 
 
 [Chorus]
-         C        F           C       A7   D7  G7     C
-Pupu e i hou wau, e me hana `oni ana `ou wesei ku`u poli
+Pupu e i [C]hou wau, [F]e me hana `o[C]ni ana `[A7]ou we[D7]sei [G7]ku`u po[C]li
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
 
-         C        F           C       A7   D7  G7     C
-Pupu e i hou wau, e me hana `oni ana `ou wesei ku`u poli
+Pupu e i [C]hou wau, [F]e me hana `o[C]ni ana `[A7]ou we[D7]sei [G7]ku`u po[C]li
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
-         C       F            C  A7   D7  G7    C
-Me he `ala no ei mai ana, au hea ku`u lei Roselani
+Me he `al[C]a no ei [F]mai ana, au h[C]ea [A7]ku`u [D7]lei [G7]Rosela[C]ni
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
 
 [Solo]
-C  F  C  A7  D7  G7  C
-[Vamp]
+[C][Va[F]mp][C] [A7] [D7] [G7] [C]
 Bb B  C
 
 [Chorus]
-         C       F           C    A7    D7     G7     C
-Malahini `oe malihini au, ma ka nose ka ua lai kama`aina
+Malahini [C]`oe mali[F]hini au, ma [C]ka no[A7]se ka [D7]ua lai [G7]kama`ai[C]na
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
 
-         C       F           C    A7    D7     G7     C
-Malahini `oe malihini au, ma ka nose ka ua lai kama`aina
+Malahini [C]`oe mali[F]hini au, ma [C]ka no[A7]se ka [D7]ua lai [G7]kama`ai[C]na
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
 
 [Solo]
-C  F  C  A7  D7  G7  C
-[Vamp]
+[C][Va[F]mp][C] [A7] [D7] [G7] [C]
 Bb B  C
 
 [Chorus]
-         C       F         C  A7  D7   G7  C
-Ina `o you me i a`u kapono, ika no ho pai pai
+Ina `o yo[C]u me i a[F]`u kapono,[C] ik[A7]a no[D7] ho p[G7]ai p[C]ai
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
 
-         C        F          C     A7   D7 G7       C
-Ina `o you me a`u somebody's sitting in my rocking chair -
+Ina `o yo[C]u me a`u [F]somebody's [C]sittin[A7]g in [D7]my [G7]rocking c[C]hair -
 
 [Solo]
-C  F  C  A7  D7  G7  C
-[Vamp]
+[C][Va[F]mp][C] [A7] [D7] [G7] [C]
 Bb B  C
 
 [Chorus]
-         C        F          C     A7   D7 G7       C
-Ha`ina `ia mai kapuana `hone ana o'u wesei ku`u poli
+Ha`ina `i[C]a mai kap[F]uana `hone [C]ana o'[A7]u wes[D7]ei [G7]ku`u poli[C]
 
 [Intro]
-D7  Db7  C
-[Vamp]
+[D7][Vam[Db7]p] [C]
 Bb B  C
 
-         C        F          C     A7   D7 G7       C
-Ha`ina `ia mai kapuana `hone ana o'u wesei ku`u poli
+Ha`ina `i[C]a mai kap[F]uana `hone [C]ana o'[A7]u wes[D7]ei [G7]ku`u poli[C]
 
 [Outro]
-G7     C    G7     C
-Ku'u poli   ku`u poli
+[G7]Ku'u po[C]li   [G7]ku`u po[C]li
 
 [Vamp]
 Bb B  C
