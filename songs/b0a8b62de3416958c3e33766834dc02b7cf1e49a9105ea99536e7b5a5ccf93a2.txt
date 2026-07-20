@@ -10,29 +10,19 @@ G5   A Asus4 A   C Cadd9 C   D Dsus4 D
 
 
 [Verse]
-G           A              C  D Dsus4 D
-  It is the evening of the da-ay
-G           A                  C   D
-  I sit and watch the children pla-ay
-C               D
-  Smiling faces I can see
-G     G/F#    Em
-  but not for me
-C                             D D/A
-  I sit and watch as tears go b--y
+[G]  It is the [A]evening of the [C]da-[D]ay[Dsus4] [D]
+[G]  I sit and [A]watch the children [C]pla-[D]ay
+[C]  Smiling faces [D]I can see
+[G]  but [G/F#]not for [Em]me
+[C]  I sit and watch as tears go [D]b-[D/A]-y
 
 
 [Verse 2]
-G           A              C   D Dsus4 D
-  My riches can't buy everythi-ing
-G           A                 C  D
-  I want to hear the children si-ing
-C            D
-  all I hear is the sound
-G    G/F#         Em
-  of rain falling on the ground
-C                             D D/A
-  I sit and watch as tears go b--y
+[G]  My riches [A]can't buy every[C]thi-[D]in[Dsus4]g [D]
+[G]  I want to [A]hear the children [C]si-[D]ing
+[C]  all I hear [D]is the sound
+[G]  of [G/F#]rain falling [Em]on the ground
+[C]  I sit and watch as tears go [D]b-[D/A]-y
 
 
 [Interlude]
@@ -43,20 +33,14 @@ C     D D/A
 
 
 [Verse 3]
-G           A              C  D Dsus4 D
-  It is the evening of the da-ay
-G           A                  C   D
-  I sit and watch the children pla-ay
-C                D
-  doing things I used to do
-G      G/F#      Em
-  they think are new
-C                             D D/A
-  I sit and watch as tears go b--y
+[G]  It is the [A]evening of the [C]da-[D]ay[Dsus4] [D]
+[G]  I sit and [A]watch the children [C]pla-[D]ay
+[C]  doing things I [D]used to do
+[G]  they [G/F#]think are [Em]new
+[C]  I sit and watch as tears go [D]b-[D/A]-y
 
 
 [Outro]
-G             A           C   D Dsus4 D
-  Hmm Hmm Hmm Hmm Hmm Hmm Hmm Hmm
+[G]  Hmm Hmm Hmm [A]Hmm Hmm Hmm [C]Hmm [D]Hm[Dsus4]m [D]
 
 (repeat and fade)
