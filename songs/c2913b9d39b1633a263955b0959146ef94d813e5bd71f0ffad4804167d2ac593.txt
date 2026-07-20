@@ -10,26 +10,19 @@ Tips:
       up from the 3rd to the 5th fret like a slur. The following G6 = XX5X00
 
 
-D    D/C#        D/B         Asus4
- Her Majesty's a pretty nice girl
-        E7             A      D
-But she doesn't have a lot to say   
+[D] Her [D/C#]Majesty's a [D/B]pretty nice [Asus4]girl
+But she [E7]doesn't have a [A]lot to [D]say   
                             A|----0---2---4---|
                             (walk-up on A-string)
-D    D/C#        D/B         Asus4
- Her Majesty's a pretty nice girl
-        E7                  A   Asus4 A
-But she changes from day to day
-Bm                       Bsus2
- I wanna tell her that I love her a lot
-      D7                       G
-But I gotta get a bellyfull of wine
+[D] Her [D/C#]Majesty's a [D/B]pretty nice [Asus4]girl
+But she [E7]changes from day to [A]day [Asus4] [A]
+[Bm] I wanna tell her that I [Bsus2]love her a lot
+But I [D7]gotta get a bellyfull of [G]wine
 G*   G6          D           B7
  Her Majesty's a pretty nice girl
 (slide to G
  on D-string)
-    Em7            A        D        B7
-Someday, I'm gonna make her mine, oh yeah
+Some[Em7]day, I'm gonna [A]make her [D]mine, oh [B7]yeah
     Em7            A        D  (A)
 Someday, I'm gonna make her mine
                           A|----0-----------|
