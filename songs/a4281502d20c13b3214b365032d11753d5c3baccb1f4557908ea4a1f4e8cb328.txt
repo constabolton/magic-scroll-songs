@@ -12,34 +12,24 @@ Intro:
 
 	[flutes and bass, 2X; percussion enters 2nd time]
 
-	Ebsus4 Ebm   Ebsus4 Ebm     Bb
-	  /  /  /  /   /  /  /  /   /  /  /  /   /  /  /  /
+	[Ebsus4]  /  / [Ebm] /  / [Ebsus4]  /  / [Ebm] /  /   [Bb]/  /  /  /   /  /  /  /
 
 Verse 1:
 
-	           Abm7             Gb/Bb Db
-	Now if you feel that you can't go on
-	       Abm7         Gb/Bb Db
-	Because all your hope is gone
-	         Abm7                    Gb/Bb Db
-	And your life is filled with much confusion
-	      Abm7             Gb/Bb  Db
-	Until happiness is just an illusion
-	         Abm7                   Gb/Bb  Db
-	And your world around you is tumbling down, darling
+	Now if you [Abm7]feel that you can[Gb/Bb]'t go [Db]on
+	Because[Abm7] all your hop[Gb/Bb]e is g[Db]one
+	And your [Abm7]life is filled with much[Gb/Bb] confu[Db]sion
+	Until [Abm7]happiness is just[Gb/Bb] an ill[Db]usion
+	And your [Abm7]world around you is tum[Gb/Bb]bling d[Db]own, darling
 
-	 Gb/Bb                Gb
-	(Reach out) Come on, girl, reach out for me
-	 Bb/D                    Fdim [N.C.]
-	(Reach out) Reach out for me
+	([Gb/Bb]Reach out) Come on, g[Gb]irl, reach out for me
+	([Bb/D]Reach out) Reach out for[Fdim] me
 	[spoken: Hah!]
 
 Chorus 1:
 
-	 Bb     Eb/Bb        Ebm                    Bb
-	I'll be there with a love that will shelter you
-	 Bb     Eb/Bb        Ebm                      Bb
-	I'll be there with a love that will see you through
+	I[Bb]'ll be [Eb/Bb]there with a [Ebm]love that will shelter [Bb]you
+	I[Bb]'ll be [Eb/Bb]there with a [Ebm]love that will see you th[Bb]rough
 
 Verse 2:
 
@@ -80,8 +70,7 @@ Chorus 3:
 
 Coda:
 
-	Bb      Eb/Bb
-	I'll be there, don't worry [fade]
+	[Bb]I'll be [Eb/Bb]there, don't worry [fade]
 
 
 -- another ace 60's tab from Andrew Rogers
