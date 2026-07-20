@@ -1,49 +1,27 @@
 ----------------------------------------------------------------------
 Song name: Blueberry Hill  by  Fats Domino
 ----------------------------------------------------------------------
-C           F
-I found my thrill
-             C
-On Blueberry Hill
-             G7
-On Blueberry Hill
-              C    Fm  C
-Where I found you
-    C7         F
-The moon stood still
-             C
-On Blueberry Hill
-                G7         
-And lingered un-til
-                   C   Fm   C
-My dreams came true
+[C]I found my t[F]hrill
+On Blueberry [C]Hill
+On Blueberry [G7]Hill
+Where I found [C]you [Fm] [C]
+The [C7]moon stood [F]still
+On Blueberry [C]Hill
+And lingered un-[G7]til
+My dreams came true[C] [Fm] [C]
 
-    G           C
-The wind in the willow played
-       G7         C
-Love's sweet melody
-    B7           Em       
-But all of the vows you made
-     B7       E   G7
-Were never to be
+The [G]wind in the [C]willow played
+Love's [G7]sweet melod[C]y
+But [B7]all of the vo[Em]ws you made
+Were [B7]never to [E]be [G7]
 
-C7         F
-Tho' we're apart
-                  C
-You're part of me still
-                G7
-For you were my thrill
-                C   Fm   C
-On BlueBerry Hill
-    G          C
-The wind in the willow played
-       G7       C
-love's sweet mel-ody
-    B7         Em      
-But all of the vows you made
-     B7       E
-were never to be
-       C7      F                       C
-Though we're a-part, you're part of me still
-                G7                  C     Fm     C
-For you were my thrill, on Blueberry Hill
+[C7]Tho' we're [F]apart
+You're part of me [C]still
+For you were my [G7]thrill
+On BlueBerry Hil[C]l [Fm] [C]
+The [G]wind in the[C] willow played
+love's [G7]sweet mel[C]-ody
+But [B7]all of the [Em]vows you made
+were [B7]never to [E]be
+Though [C7]we're a-[F]part, you're part of me [C]still
+For you were my [G7]thrill, on Blueberry[C] Hill [Fm] [C]
