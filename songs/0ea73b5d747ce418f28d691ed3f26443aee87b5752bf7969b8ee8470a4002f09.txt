@@ -11,65 +11,44 @@ second song "Sunshine" easy with Capo II (Transpose Button -2)
 Cm7
  
 [Verse 1]
-         Cm7  C7sus4      Cm7
-When the moon   is in the seventh house,
-    Cm7     C7sus4   Cm7
-And Jupiter   aligns with Mars.
-     Cm7   C7sus4        Cm7
-Then peace    will guide the planets,
+When the [Cm7]moon [C7sus4]  is in the [Cm7]seventh house,
+And [Cm7]Jupiter [C7sus4]  aligns [Cm7]with Mars.
+Then [Cm7]peace [C7sus4]   will guide [Cm7]the planets,
     Eb   F                Bb*
 And love   will steer the stars.
  
 [Chorus 1]
-                           Ab
-This is the dawning of the Age of Aquarius,
-Ab                 Cm
-age of Aquarius
- F        F  Cm          Cm
-Aquarius,   Aquarius.
+This is the dawning of the [Ab]Age of Aquarius,
+[Ab]age of Aquarius [Cm]
+A[F]quarius, [F]  A[Cm]quarius. [Cm]
  
 [Bridge 1]
-Bb                 Eb
-  Harmony and understanding,
-Bb                  Eb
-sympathy and trust abounding.
-Bb                        Eb
-  No more falsehoods or derisions,
-       Cm     Bb/D      Eb
-golden living dreams of visions,
-       Eb      Bb  Cm
-mystic crystal revelations
-              Cm          Fm  Gm
-and the mind's true liberation.
- Ab/C     Ab/C  Cm        Cm
-Aquarius,   A - quarius.
+[Bb]  Harmony and under[Eb]standing,
+[Bb]sympathy and trust a[Eb]bounding.
+[Bb]  No more falsehoods or de[Eb]risions,
+golden [Cm]living [Bb/D]dreams of [Eb]visions,
+mystic [Eb]crystal [Bb]reve[Cm]lations
+and the mind's[Cm] true libera[Fm]tion[Gm].
+A[Ab/C]quarius, [Ab/C]  A - [Cm]quarius. [Cm]
  
 [Interlude]
 Cm7  C7sus4      Cm7  C7sus4
  
 [Verse 2]
-         Cm7  C7sus4      Cm7
-When the moon   is in the seventh house,
-    Cm7     C7sus4   Cm7
-And Jupiter   aligns with Mars.
-     Cm7   C7sus4           Cm7
-Then peace   will guide the planets,
+When the [Cm7]moon [C7sus4]  is in the [Cm7]seventh house,
+And [Cm7]Jupiter [C7sus4]  aligns [Cm7]with Mars.
+Then [Cm7]peace [C7sus4]  will guide the [Cm7]planets,
     Eb   F                Bb*
 And love   will steer the stars.
  
 [Chorus 2]
-                           Ab
-This is the dawning of the Age of Aquarius,
-Ab               Cm
-age of Aquarius
- F        F  Cm          Cm
-Aquarius,   Aquarius.
- F        F  Cm          Cm
-Aquarius,   Aquarius.
+This is the dawning of the [Ab]Age of Aquarius,
+[Ab]age of Aquarius [Cm]
+A[F]quarius, [F]  A[Cm]quarius. [Cm]
+A[F]quarius, [F]  A[Cm]quarius. [Cm]
  
 [Break] (Vamp)
 Bm     F#7       F#7       Bm       G          D
  
 [Coda] (Repeat and Fade Out)
-Bm         F#7    F#7        Bm            G        D
-Let the sunshine, let the sunshine in, the sunshine in.
+[Bm]Let the sun[F#7]shine, [F#7]let the sun[Bm]shine in, the [G]sunshine [D]in.
