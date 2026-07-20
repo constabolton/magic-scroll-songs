@@ -5,57 +5,33 @@ Song name: Ukulele Lady  by  Arlo Guthrie
 F#m D E A D
 
 [Verse 1]
-D         F#m             Bm                 A# A   D
-I saw the splendor of the moonlight on Honolu....lu Bay,
-D                 F#m           Bm                 A# A   D
-There's something tender in the moonlight on Honolu....lu Bay.
-    Bm                                          F#m
-And all the beaches are filled with peaches who bring their Ukes along,
-D          Bm             F#m                    E7        A7
-And in the glimmer of the moonlight they love to sing this song.
+[D]I saw the [F#m]splendor of the [Bm]moonlight on Honolu[A#]...[A].lu [D]Bay,
+[D]There's something [F#m]tender in the [Bm]moonlight on Honolu[A#]...[A].lu [D]Bay.
+And [Bm]all the beaches are filled with peaches who [F#m]bring their Ukes along,
+[D]And in the [Bm]glimmer of the [F#m]moonlight they love to [E7]sing this [A7]song.
 
 [Chorus]
-   D   A    Bm            D       A         Bm
-If you like Ukulele Lady, Ukulele Lady like you,
-   A   Cm6     A                        A7                   D
-If you like to linger where it's shady, Ukulele Lady linger, too.
-       A    Bm      A    D                 A          Bm
-If you kiss Ukulele Lady while you promise ever to be true,
-    A                             A7                  D
-And she sees another Ukulele Lady foolin' 'round with you,
-G                                 D
-Maybe she'll sigh (an awful lot), maybe she'll cry (and maybe not),
-E7                                     A7
-Maybe she'll find somebody else by and by.
-   D    A  Bm                 D                      A           Bm
-To sing to when it's cool and shady where the tricky wicky wacky woo,
-   A   Cm6          A                       D
-If you like Ukulele Lady, Ukulele Lady like you.
+If [D]you [A]like [Bm]Ukulele Lady, [D]Ukulele [A]Lady like [Bm]you,
+If [A]you [Cm6]like to [A]linger where it's shady, [A7]Ukulele Lady linger, [D]too.
+If you [A]kiss [Bm]Ukulele [A]Lady [D]while you promise [A]ever to be [Bm]true,
+And [A]she sees another Ukulele Lady [A7]foolin' 'round with [D]you,
+[G]Maybe she'll sigh (an awful lot), [D]maybe she'll cry (and maybe not),
+[E7]Maybe she'll find somebody else by and [A7]by.
+To [D]sing [A]to [Bm]when it's cool and [D]shady where the tricky [A]wicky wacky [Bm]woo,
+If [A]you [Cm6]like Ukulele [A]Lady, Ukulele Lady like [D]you.
 
 [Verse 2]
-D                         Bm  F#m            A# A   D
-She used to sing to me by moonlight on Honolu....lu Bay,
-D             F#m                Bm                  A# A  D
-Fond memories cling to me by moonlight, although I'm far away.
-Bm                                              F#m
-Some day I'm going, where eyes are glowing, and lips are made to kiss,
-   D       F#m         Bm                     E7     A7
-To see somebody in the moonlight and hear the song I miss.
+[D]She used to sing to me by [Bm]moon[F#m]light on Honolu[A#]...[A].lu [D]Bay,
+[D]Fond memories [F#m]cling to me by moon[Bm]light, although I'm [A#]far[A] aw[D]ay.
+[Bm]Some day I'm going, where eyes are glowing, and [F#m]lips are made to kiss,
+To [D]see some[F#m]body in the [Bm]moonlight and hear the [E7]song I [A7]miss.
 
 [Chorus]
-   D   A    Bm            D       A         Bm
-If you like Ukulele Lady, Ukulele Lady like you,
-   A   Cm6     A                        A7                   D
-If you like to linger where it's shady, Ukulele Lady linger, too.
-       A    Bm      A    D                 A          Bm
-If you kiss Ukulele Lady while you promise ever to be true,
-    A                             A7                  D
-And she sees another Ukulele Lady foolin' 'round with you,
-G                                 D
-Maybe she'll sigh (an awful lot), maybe she'll cry (and maybe not),
-E7                                     A7
-Maybe she'll find somebody else by and by.
-   D    A  Bm                 D                      A           Bm
-To sing to when it's cool and shady where the tricky wicky wacky woo,
-   A   Cm6          A                       D
-If you like Ukulele Lady, Ukulele Lady like you.
+If [D]you [A]like [Bm]Ukulele Lady, [D]Ukulele [A]Lady like [Bm]you,
+If [A]you [Cm6]like to [A]linger where it's shady, [A7]Ukulele Lady linger, [D]too.
+If you [A]kiss [Bm]Ukulele [A]Lady [D]while you promise [A]ever to be [Bm]true,
+And [A]she sees another Ukulele Lady [A7]foolin' 'round with [D]you,
+[G]Maybe she'll sigh (an awful lot), [D]maybe she'll cry (and maybe not),
+[E7]Maybe she'll find somebody else by and [A7]by.
+To [D]sing [A]to [Bm]when it's cool and [D]shady where the tricky [A]wicky wacky [Bm]woo,
+If [A]you [Cm6]like Ukulele [A]Lady, Ukulele Lady like [D]you.
