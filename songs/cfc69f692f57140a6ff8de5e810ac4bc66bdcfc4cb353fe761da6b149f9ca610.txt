@@ -12,12 +12,9 @@ D     D     G     A7
 
 [Chorus]
 
-D
-  Here comes the sun (doo doo doo doo)
-G                E7
-  Here comes the sun
-          D
-And I say   it's alright
+[D]  Here comes the sun (doo doo doo doo)
+[G]  Here comes the [E7]sun
+And I say [D]  it's alright
 
 
 [Instrumental]
@@ -39,20 +36,15 @@ E|-------------------------------------|
 
 [Verse 1]
 
-D                             G                  A7
- Little darling, it's been a long, cold, lonely winter
-D                                G                     A7
- Little darling, it feels like years since it's been here
+[D] Little darling, it's been a l[G]ong, cold, lonely w[A7]inter
+[D] Little darling, it feels like ye[G]ars since it's been he[A7]re
 
 
 [Chorus]
 
-D
-  Here comes the sun (doo doo doo doo)
-G                 E7
-  Here comes the sun
-          D
-And I say   it's alright
+[D]  Here comes the sun (doo doo doo doo)
+[G]  Here comes the s[E7]un
+And I say [D]  it's alright
 
 
 [Instrumental]
@@ -74,20 +66,15 @@ E|-------------------------------------|
 
 [Verse 2]
 
-D                              G                  A7
- Little darling, the smile's returning to their faces,
-D                               G                      A7
- Little darling, it seems like years since it's been here
+[D] Little darling, the smile's re[G]turning to their fa[A7]ces,
+[D] Little darling, it seems like y[G]ears since it's been he[A7]re
 
 
 [Chorus]
 
-D
-  Here comes the sun (doo doo doo doo)
-G                 E7
-  Here comes the sun
-          D
-And I say  it's alright
+[D]  Here comes the sun (doo doo doo doo)
+[G]  Here comes the s[E7]un
+And I say [D] it's alright
 
 
 [Instrumental]
@@ -118,28 +105,22 @@ A|--0--4--------------3--------2-----------2-----0--|
 E|--------------------------------------3-----------|
 
 
-F     C   G/B   G        D       A7
-Sun, sun, sun, here it comes        (x5)
+[F]Sun, s[C]un, [G/B]sun, h[G]ere it co[D]mes     [A7]   (x5)
 
 A7 A7sus4 A7
 
 
 [Verse 3]
 
-D                             G               A7
- Little darling, I feel that ice is slowly melting,
-D                               G                       A7
- Little darling, it seems like years since it's been clear
+[D] Little darling, I feel that i[G]ce is slowly mel[A7]ting,
+[D] Little darling, it seems like y[G]ears since it's been cle[A7]ar
 
 
 [Chorus]
 
-D
-  Here comes the sun
-G                E7
-  Here comes the sun
-           D
-And I say    it's alright
+[D]  Here comes the sun
+[G]  Here comes the [E7]sun
+And I say  [D]  it's alright
 
 
 [Instrumental]
@@ -154,12 +135,9 @@ E|----------------------------------------------------|
 
 [Chorus]
 
-D
-  Here comes the sun.
-G                E7
-  Here comes the sun
-         D
-           It's alright
+[D]  Here comes the sun.
+[G]  Here comes the [E7]sun
+         [D]  It's alright
 
 
 [Instrumental]
@@ -174,8 +152,7 @@ E|----------------------------------------------------|
 
 [Outro]
 
-D
-It's alright
+[D]It's alright
 
 e|----------0--------0--------0--------0--------------|
 B|-------3--------3--------3--------3-----3--2--0-----|
