@@ -1,45 +1,27 @@
 ----------------------------------------------------------------------
 Song name: San Francisco Bay Blues  by  Jesse Fuller
 ----------------------------------------------------------------------
-C                                F                        C  C7
-I got the blues for my baby down beside the San Francisco Bay,
-   F                            C  C7
-An ocean-liner took her so far away.
-F                             G
-I didn't mean to treat her so bad,
-            C                     Am
-She was the best girl I ever ever had.
-F                                          G7
-She said goodbye, she like to make me cry, gonna lay down my head and die.
+[C]I got the blues for my baby down [F]beside the San Francisco [C]Bay[C7],
+An [F]ocean-liner took her so far a[C]way[C7].
+[F]I didn't mean to treat her so [G]bad,
+She was the [C]best girl I ever ever [Am]had.
+[F]She said goodbye, she like to make me cry, [G7]gonna lay down my head and die.
 
-C                        F                 C   C7
-I ain't got a nickel and ain't got a lousy dime.
-    F                                         Em7 Em
-She don't come back I think I'm gonna lose my mind,
-F                     G7         C                          Am
-She ever come back to stay, it's gonna be another brand new day.
-F                         G                        C  G
-Walking with my baby down beside the San Francisco Bay.
+[C]I ain't got a nickel and [F]ain't got a lousy [C]dime[C7].
+She [F]don't come back I think I'm gonna lose my [Em7]mind[Em],
+[F]She ever come back to [G7]stay, it's [C]gonna be another brand new [Am]day.
+[F]Walking with my baby down [G]beside the San Francisco [C]Bay[G].
 
-C                F                  C                         F      C C7
-I'm sittin' here lookin' through my back door, I wonder which way to go.
-F                                             C   C7
-Woman I'm so crazy about you don't love me anymore,
-F                    G7             C                 Am
-Think I'll take me a freight train, cause I'm feelin' blue.
-F                                       G7
-Ride all the way to the end of the line thinking only of you.
+[C]I'm sittin' here [F]lookin' through my [C]back door, I wonder which [F]way to [C]go[C7].
+[F]Woman I'm so crazy about you don't love me any[C]more[C7],
+[F]Think I'll take me a [G7]freight train, [C]cause I'm feelin' [Am]blue.
+[F]Ride all the way to the end of the line [G7]thinking only of you.
 
-C         F          C                   F    C   C7
-Meanwhile in another city, just about to go insane.
-F                                      G7
-Thought I heard my sweet baby, and the way she used to call my name.
-F                        G7               C                    Am
-If she ever come back to stay, it's gonna be another brand new day.
-F                         G                        C  Am
-Walking with my baby down beside the San Francisco Bay.
-F                         G                        C  Am
-Walking with my baby down beside the San Francisco Bay......
+[C]Meanwhile [F]in another [C]city, just about to [F]go in[C]sane[C7].
+[F]Thought I heard my sweet baby, and the [G7]way she used to call my name.
+[F]If she ever come back to [G7]stay, it's gonna [C]be another brand new [Am]day.
+[F]Walking with my baby down [G]beside the San Francisco [C]Bay[Am].
+[F]Walking with my baby down [G]beside the San Francisco [C]Bay[Am]......
 
 (Fade Out)
 
