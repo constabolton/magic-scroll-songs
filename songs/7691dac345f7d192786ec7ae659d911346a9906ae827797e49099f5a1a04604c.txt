@@ -1,0 +1,93 @@
+----------------------------------------------------------------------
+Song name: Til I Kissed You  by  The Everly Brothers
+----------------------------------------------------------------------
+To play along to the original:
+- tune down one half-step,
+- transpose -1 to F# or 
+- transpose -2 to F (+ "use flats") and use a capo 1st fret.
+ 
+ 
+[Intro]
+| G | Em | G | Em | 
+ 
+ 
+[Verse 1]
+G      Em                     G         Em
+ Never felt like this until I kissed ya
+G        Em              G           Em
+ How did I exist until I kissed ya
+G
+ Never had you on my mind
+C                           (G)
+ Now you're there all the time
+G      Em                        G         Em
+ Never knew what I missed 'til I kissed ya, uh-huh,
+  G         Em
+I kissed ya, oh yeah
+ 
+ 
+[Verse 2]
+G            Em                     G         Em
+ Things have really changed since I kissed ya, uh-huh
+G          Em                      G         Em
+ My life's not the same now that I kissed ya, oh yeah
+G
+ Mmm, ya got a way about ya
+C                           (G)
+ Now I can't live without ya
+G      Em                        G          Em
+ Never knew what I missed 'til I kissed ya,  uh-huh,
+  G         Em
+I kissed ya,  oh yeah
+ 
+ 
+[Bridge]
+Em                          G
+ You don't realize what you do to me
+    Em                      G
+And I didn't realize what a kiss could be
+ 
+ 
+[Verse 3]
+G                           C                           (G)
+ Mmm, ya got a way about ya, now I can't live without ya
+G      Em                        G         Em
+ Never knew what I missed 'til I kissed ya,  uh-huh
+  G         Em
+I kissed ya,  oh yeah
+ 
+ 
+[Bridge]
+Em                          G
+ You don't realize what you do to me
+    Em                      G
+And I didn't realize what a kiss could be
+ 
+ 
+[Verse 4]
+G                           C
+ Mmm, ya got a way about ya, now I can't live without ya
+G      Em                        G          Em
+ Never knew what I missed 'til I kissed ya,  uh-huh
+  G          Em
+I kissed ya,  oh yeah
+ 
+ 
+[Outro]
+  G         Em
+I kissed ya,  uh-huh
+  G          Em
+I kissed ya,  oh yeah
+
+
+
+Riff after each line of Bridge 
+(here: key of G, half step-down; in F# the frets are 11 and 9 respectively)
+  
+  1 + 2 + 3 + 4 + 
+e|----10--10------|
+B|----------------|
+G|12--------------|
+D|----------------|
+A|----------------|
+E|----------------|
