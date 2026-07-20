@@ -6,75 +6,47 @@ and it goes A C D the first time and A B D the second (see Intro).
 These are the notes which you pluck between the chords in Intro, Verse Interlude and Coda.
 
 [Intro]
-            | D C | D | 
-(walk1: a c d) 
-            | D A | D |
-(walk2: a b d)
+(walk1: a c d)[D] [C] [D]
+(walk2: a b d)[D] [A] [D]
 
 [Verse]
-         D        C         D
-Well all right so I'm being foolish
-         D         A      D
-Well all right let people know
-          D          C        D
-About the dreams and wishes you wish
-       D          A          D
-In the night when lights are low
+Well all [D]right so [C]I'm being [D]foolish
+Well all [D]right let [A]people [D]know
+About the [D]dreams and [C]wishes yo[D]u wish
+In the [D]night when [A]lights are [D]low
 
 [Chorus]
-         G              A
-Well all right Well all right
-      D        C         D
-We'll live and love with all our might
-         G              A
-Well all right Well all right
-    D         C         D
-Our life time love will be all right
+Well all [G]right Well all [A]right
+We'll [D]live and [C]love with [D]all our might
+Well all [G]right Well all [A]right
+Our [D]life time [C]love will [D]be all right
 
 [Interlude]
-          | D C | D |          D A | D | 
-(walk1: a c d)      (walk2: a b d)
-         | D C | D |          D A | D | 
-(walk1: a c d)      (walk2: a b d)
+(walk1: a c [D]d)[C]    [D]  (walk2: a b[D] d[A]) [D]
+(walk1: a c[D] d[C])   [D]   (walk2: a [D]b [A]d) [D]
 
 [Verse]
-         D        C         D
-Well all right so I'm going steady
-         D           A    D
-It's all right when people say
-           D       C             D
-That those foolish kids can't be ready
-        D          A          D
-For the love that comes their way
+Well all [D]right so [C]I'm going [D]steady
+It's all [D]right when p[A]eople[D] say
+That those [D]foolish [C]kids can't be [D]ready
+For the [D]love that c[A]omes their [D]way
 
 [Chorus]
-         G              A
-Well all right Well all right
-      D        C         D
-We'll live and love with all our might
-         G              A
-Well all right Well all right
-    D         C         D
-Our life time love will be all right
+Well all [G]right Well all [A]right
+We'll [D]live and [C]love with [D]all our might
+Well all [G]right Well all [A]right
+Our [D]life time [C]love will [D]be all right
 
 [Interlude]
-          | D C | D |          D A | D | 
-(walk1: a c d)      (walk2: a b d)
-         | D C | D |          D A | D | 
-(walk1: a c d)      (walk2: a b d)
+(walk1: a c [D]d)[C]    [D]  (walk2: a b[D] d[A]) [D]
+(walk1: a c[D] d[C])   [D]   (walk2: a [D]b [A]d) [D]
 
 [Chorus]
-         G              A
-Well all right Well all right
-      D        C         D
-We'll live and love with all our might
-         G              A
-Well all right Well all right
-    D         C         D
-Our life time love will be all right
+Well all [G]right Well all [A]right
+We'll [D]live and [C]love with [D]all our might
+Well all [G]right Well all [A]right
+Our [D]life time [C]love will [D]be all right
 
 [Coda]
-          | D C | D |          D A | D | 
-(walk1: a c d)      (walk2: a b d)
-         | D C | D |          D A | D D D 
-(walk1: a c d)      (walk2: a b d)
+(walk1: a c [D]d)[C]    [D]  (walk2: a b[D] d[A]) [D]
+(walk1: a c[D] d[C])   [D]   (walk2: a [D]b [A]d) [D]
