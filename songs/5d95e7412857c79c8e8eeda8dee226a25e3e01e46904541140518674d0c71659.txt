@@ -2,57 +2,37 @@ Title: Born Too Late
 
 
 [Verse]
-E        C#m      F#m    B      E
-Born too late for you to notice me
-   G#m     F#m    B        E         C#m
-To you, Im just a kid that you won't date
-F#m       B        E     C#m  F#m  B
-Why was I born too late?
+[E]Born too [C#m]late for [F#m]you to [B]notice [E]me
+To [G#m]you, Im [F#m]just a [B]kid that [E]you won't [C#m]date
+[F#m]Why was I [B]born too [E]late? [C#m] [F#m] [B]
 
 [Verse]
-E        C#m     F#m    B         E        G#m
-Born too late to have a chance to win your love
-   F#m7    B7      E     C#m
-Oh why, oh why was it my fate
-F#m   B        E     A  E  E7
-To be born too late?
+[E]Born too [C#m]late to [F#m]have a [B]chance to [E]win your [G#m]love
+Oh [F#m7]why, oh [B7]why was [E]it my [C#m]fate
+[F#m]To be [B]born too [E]late? [A] [E] [E7]
 
 
 [Bridge]
-  A                  E
-I see you walk with another
-  A                E  E7
-I wish it could be me
-  A                    E
-I long to hold you and kiss you
-      F#                B
-But I know it never can be
+I [A]see you walk with a[E]nother
+I [A]wish it could be [E]me [E7]
+I [A]long to hold you and [E]kiss you
+But I [F#]know it never can [B]be
 
 
 For I was
 
 
 [Verse]
-E        C#m      F#m    B
-Born too late for you to care
-    E        G#m
-Now my heart cries
-  F#m        B          E        C#m
-Because your heart just couldn't wait
-F#m       B        E             C
-Why was I born too late?
+[E]Born too [C#m]late for [F#m]you to [B]care
+Now [E]my heart [G#m]cries
+Be[F#m]cause your [B]heart just [E]couldn't [C#m]wait
+[F#m]Why was I [B]born too [E]late? [C]
 
 
 [Key Change]
-F        Dm       Gm     C
-Born too late for you to care
-    F        Am
-Now my heart cries
-   Gm        C          F        Dm
-Because your heart just couldn't wait
-Gm        C        F  D#    D7
-Why was I born too la-a-a-a-ate?
-Gm        C        F
-Why was I born too late?
-A#  F
-Too late
+[F]Born too [Dm]late for [Gm]you to [C]care
+Now [F]my heart [Am]cries
+Bec[Gm]ause your [C]heart just [F]couldn't [Dm]wait
+[Gm]Why was I [C]born too [F]la-[D#]a-a-a-[D7]ate?
+[Gm]Why was I [C]born too [F]late?
+[A#]Too [F]late
