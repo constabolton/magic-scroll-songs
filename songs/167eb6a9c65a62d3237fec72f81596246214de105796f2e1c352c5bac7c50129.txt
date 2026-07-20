@@ -12,41 +12,27 @@ G Em7 Am7 D7 x2
 
 [Verse 1]
 
-G        Em7    Am7          D7
-Have yourself a merry little Christmas
-G          Em7      Am7   D7
-  Let your heart be light
-G           Em7     Am7              D7     B7   E7  A7  D  D7
-  Next year all our troubles will be out of sight
+[G]Have your[Em7]self a [Am7]merry little [D7]Christmas
+[G]  Let your [Em7]heart be [Am7]light [D7]
+[G]  Next year [Em7]all our [Am7]troubles will be [D7]out of [B7]sight[E7] [A7] [D] [D7]
 
-G        Em7    Am7          D7
-Have yourself a merry little Christmas
-G          Em7      Am7    D7
-  Make the Yuletide gay
-G           Em7     Am7              B7     Em   G  G7
-  Next year all our troubles will be miles away
+[G]Have your[Em7]self a [Am7]merry little [D7]Christmas
+[G]  Make the [Em7]Yuletide [Am7]gay [D7]
+[G]  Next year [Em7]all our [Am7]troubles will be [B7]miles a[Em]way [G] [G7]
 
 
 [Bridge]
-Cmaj7       Cm6        Bm         Bbdim
-      Once again as in olden days
-      Am          D7      Gmaj7
-Happy golden days      of yore
-Em       F#7              Bm         E7
-Faithful friends who were dear to us
-        D7         A7       Am7   D7
-Will be near to us    once more
+[Cmaj7]      Once a[Cm6]gain as in [Bm]olden days [Bbdim]
+Happy [Am]golden days [D7]     of [Gmaj7]yore
+[Em]Faithful [F#7]friends who were [Bm]dear to us [E7]
+Will be [D7]near to us [A7]   once m[Am7]ore [D7]
 
 
 [Verse 2]
-G        Em7    Am7           D7
-Someday soon we all will be together
-G        Em7     Am7  D7
-  If the Fates allow
-G       Em7         Am7            B7          Em    G  G7
-  Until then, we'll have to muddle through somehow
-   Cmaj7           Am7          D7        G
-So have yourself a merry little Christmas now.
+[G]Someday s[Em7]oon we [Am7]all will be to[D7]gether
+[G]  If the [Em7]Fates al[Am7]low [D7]
+[G]  Until [Em7]then, we'll [Am7]have to muddle [B7]through some[Em]how [G] [G7]
+So [Cmaj7]have yourself a [Am7]merry little [D7]Christmas [G]now.
 
 
 [Outro]
