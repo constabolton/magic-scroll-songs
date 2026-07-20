@@ -7,56 +7,37 @@ Recorded in 1958.
 INTRO: D G A D
 
 CHORUS:
-D               A              D
-Yellow bird, up high in banana tree.
-D                A                  D
-Yellow bird, you sit all alone like me.
+[D]Yellow bird, up [A]high in banana [D]tree.
+[D]Yellow bird, you [A]sit all alone like [D]me.
 
 #1.
-G                     D
-Did your lady friend, leave the nest again?
-A                 D
-That is very sad, makes me feel so bad.
-G                 D
-You can fly away, in the sky away..
-A                      D
-you're more lucky than me.
+[G]Did your lady friend, [D]leave the nest again?
+[A]That is very sad, [D]makes me feel so bad.
+[G]You can fly away, [D]in the sky away..
+[A]you're more lucky than [D]me.
 
 #2.
-D             A                                 D
-I also have a pretty girl, she's not with me, today.
-D                         G             A
-They're all the same, the pretty girls..make them the nest..
-               D
-then they fly away.
+[D]I also have a [A]pretty girl, she's not with me, to[D]day.
+[D]They're all the same, the [G]pretty girls..[A]make them the nest..
+then they fly a[D]way.
 
 CHORUS:
-D               A              D
-Yellow bird, up high in banana tree.
-D                A                  D
-Yellow bird, you sit all alone like me.
+[D]Yellow bird, up [A]high in banana [D]tree.
+[D]Yellow bird, you [A]sit all alone like [D]me.
 
 #3.
-G                D
-Better fly away, in the sky away.
-A                   D
-Picker coming soon, pick from night to noon.
-G                     D
-Black on yellow, you, like banana, too.
-A                       D
-They might pick you someday.
+[G]Better fly away, [D]in the sky away.
+[A]Picker coming soon, [D]pick from night to noon.
+[G]Black on yellow, you, [D]like banana, too.
+[A]They might pick you some[D]day.
 
 #4.
-D                  G            A                 D
-Wish that I were a yellow bird..I'd fly away with you.
-D              G                A
-But I am not a yellow bird..so, here I sit, nothing 
-        D
-else to do.
+[D]Wish that I were a [G]yellow bird..[A]I'd fly away with [D]you.
+[D]But I am not a [G]yellow bird..so, [A]here I sit, nothing 
+else to [D]do.
 
 OUTRO:
-D            
-Yellow bird..yellow bird..yellow bird..
+[D]Yellow bird..yellow bird..yellow bird..
 
 yellow bird..yellow bird..(Fade.)
 
