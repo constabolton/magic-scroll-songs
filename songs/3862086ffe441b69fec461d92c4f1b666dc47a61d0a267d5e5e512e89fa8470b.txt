@@ -9,98 +9,60 @@ usually written as. It's easier to play and I personally find it easier to sing 
 
 [Verse 1]
 
-Am                  C
-All around me are familiar faces
-G                D
-Worn out places, worn out faces
-Am                         C
-Bright and early for their daily races
-G              D
-Going nowhere, going nowhere
-Am                          C
-And their tears are filling up their glasses
-G              D
-No expression, no expression
-Am                      C
-Hide my head; I want to drown my sorrow
-G            D
-No tomorrow, no tomorrow
+[Am]All around me are fa[C]miliar faces
+[G]Worn out places, [D]worn out faces
+[Am]Bright and early for their [C]daily races
+[G]Going nowhere, [D]going nowhere
+[Am]And their tears are filling [C]up their glasses
+[G]No expression, [D]no expression
+[Am]Hide my head; I want to [C]drown my sorrow
+[G]No tomorrow, [D]no tomorrow
 
 
 [Chorus]
 
-Am                       D
-   And I find it kind of funny
-                  Am
-I find it kind of sad
-                        D
-The dreams in which I'm dying
-                       Am
-Are the best I've ever had
-                  D
-I find it hard to tell you,
-                         Am
-'cause I find it hard to take
-                   D
-When people run in circles it's a very, very...
+[Am]   And I find it kind of [D]funny
+I find it kind of [Am]sad
+The dreams in which I'm [D]dying
+Are the best I've ever [Am]had
+I find it hard to [D]tell you,
+'cause I find it hard to [Am]take
+When people run in [D]circles it's a very, very...
 
 
-Am C   D
-   Mad world
-Am C   D
-   Mad world
-Am C   D
-   Mad world
-Am C   D
-   Mad world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
 
 
 [Verse 2]
 
-Am                       C
-Children waiting for the day they feel good
-G               D
-Happy birthday, happy birthday
-Am                        C
-Made to feel the way that every child should
-G               D
-Sit and listen, sit and listen
-Am                       C
-Went to school and I was very nervous
-G               D
-No one knew me, no one knew me
-Am                     C
-Hello, teacher tell me what's my lesson?
-G                      D
-Look right through me, look right through me
+[Am]Children waiting for the [C]day they feel good
+[G]Happy birthday, [D]happy birthday
+[Am]Made to feel the way that [C]every child should
+[G]Sit and listen, [D]sit and listen
+[Am]Went to school and I was [C]very nervous
+[G]No one knew me, [D]no one knew me
+[Am]Hello, teacher tell me [C]what's my lesson?
+[G]Look right through me, [D]look right through me
 
 
 [Chorus]
 
-Am                       D
-   And I find it kind of funny
-                  Am
-I find it kind of sad
-                        D
-The dreams in which I'm dying
-                       Am
-Are the best I've ever had
-                  D
-I find it hard to tell you,
-                         Am
-'cause I find it hard to take
-                   D
-When people run in circles it's a very, very...
+[Am]   And I find it kind of [D]funny
+I find it kind of [Am]sad
+The dreams in which I'm [D]dying
+Are the best I've ever [Am]had
+I find it hard to [D]tell you,
+'cause I find it hard to [Am]take
+When people run in [D]circles it's a very, very...
 
 
-Am C   D
-   Mad world
-Am C   D
-   Mad world
-Am C   D
-   Mad world
-Am C   D
-   Mad world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
 
 
 [Instrumental]
@@ -113,30 +75,19 @@ Am C   D
 
 [Chorus]
 
-Am                       D
-   And I find it kind of funny
-                  Am
-I find it kind of sad
-                        D
-The dreams in which I'm dying
-                       Am
-Are the best I've ever had
-                  D
-I find it hard to tell you,
-                         Am
-'cause I find it hard to take
-                   D
-When people run in circles it's a very, very...
+[Am]   And I find it kind of [D]funny
+I find it kind of [Am]sad
+The dreams in which I'm [D]dying
+Are the best I've ever [Am]had
+I find it hard to [D]tell you,
+'cause I find it hard to [Am]take
+When people run in [D]circles it's a very, very...
 
 
-Am C   D
-   Mad world
-Am C   D
-   Mad world
-Am C      D
-   Halargian world
-Am C   D
-   Mad world
+[Am]   [C]Mad [D]world
+[Am]   [C]Mad [D]world
+[Am]   [C]Halargi[D]an world
+[Am]   [C]Mad [D]world
 
 
 (At the end here, on the last 'world' I like to finish on A (major) chord instead
