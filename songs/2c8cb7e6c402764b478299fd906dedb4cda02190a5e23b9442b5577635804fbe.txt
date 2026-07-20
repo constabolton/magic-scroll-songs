@@ -8,47 +8,31 @@ pattern of: p-i-m-a-m-i. I love its gentle prettiness. :) ]]
 
 
 (v.1)
-D
-Far away places with strange-sounding names
-D                  A7
-Far away over the sea
-       D                          G
-Those far away places with their strange-sounding names
-    D         A7     D
-Are callin', callin' me.
+[D]Far away places with strange-sounding names
+[D]Far away over the s[A7]ea
+Those f[D]ar away places with their s[G]trange-sounding names
+Are [D]callin', c[A7]allin' [D]me.
 
 
 (v.2)
-D
-Goin' to China, or maybe Siam
-D                    A7
-I want to see for myself
-       D                        G
-Those far away places I've been reading about
-     D            A7            D
-In a book that I took from the shelf.
+[D]Goin' to China, or maybe Siam
+[D]I want to see for mys[A7]elf
+Those f[D]ar away places I've been [G]reading about
+In a [D]book that I t[A7]ook from the s[D]helf.
 
 
 (Bridge:)
-   G                        D
-I start gettin' restless whenever I hear
-     A7           D
-The whistle of a train.
-   G                     D
-I pray for the day I can get underway
-    E                          A
-And look for those castles in Spain.
+I s[G]tart gettin' restless whe[D]never I hear
+The w[A7]histle of a t[D]rain.
+I p[G]ray for the day I can [D]get underway
+And [E]look for those castles in S[A]pain.
 
 
 (v.3)
-      D
-They call me a dreamer, well maybe I am
-D                  A7
-But I know that I'm yearnin' to see
-       D                          G
-Those far away places with their strange-sounding names
-          D        A7     D
-That are callin', callin' me.
+They c[D]all me a dreamer, well maybe I am
+[D]But I know that I'm[A7] yearnin' to see
+Those f[D]ar away places with their s[G]trange-sounding names
+That are c[D]allin', c[A7]allin' [D]me.
 
 
 (Repeat entire.)
