@@ -5,43 +5,27 @@ Song name: Broom People  by  The Mountain Goats
 E - C#m - A - B - E
 
 [Verse]
-E         C#m
-36 Hudson in the garage
-A                        E
-All sorts of junk in the unattached spare room
-E             C#m
-Dishes in the kitchen sink
-A                 B
-New straw for the old broom
-A                        E
-Friends who don't have a clue
-A            E
-Well-meaning teachers
-A                C#m                  A     B
-But down in your arms, in your arms, 
-            E                 A
-I am a wild creature
+[E]36 Hudson [C#m]in the garage
+[A]All sorts of junk in the [E]unattached spare room
+[E]Dishes in the [C#m]kitchen sink
+[A]New straw for the [B]old broom
+[A]Friends who don't have a [E]clue
+[A]Well-meaning [E]teachers
+[A]But down in your [C#m]arms, in your arms, [A] [B]
+I am a wild [E]creature [A]
 
 [Instrumental] (x3)
 E - A
 
 [Verse]
-E                            C#m
-Floor two foot high with newspapers
-A                          E
-White carpet thick with pet hair
-E                     C#m
-Half-eaten gallons of ice cream in the freezer
-A                  B
-Fresh fuel for the sodium flares
-A                            E
-I write down good reasons to freeze to death
-A                 E
-In my spiral ring notebook
-A               C#m                    A       B
-But in the long tresses of your hair
-                E        A
-I am a babbling brook
+[E]Floor two foot high with news[C#m]papers
+[A]White carpet thick with pet[E] hair
+[E]Half-eaten gallons of [C#m]ice cream in the freezer
+[A]Fresh fuel for the [B]sodium flares
+[A]I write down good reasons to [E]freeze to death
+[A]In my spiral ring [E]notebook
+[A]But in the long [C#m]tresses of your hair [A] [B]
+I am a babbling [E]brook [A]
 
 [Outro]
 E  A  (x3)
