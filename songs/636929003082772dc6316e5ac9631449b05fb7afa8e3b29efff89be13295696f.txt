@@ -3,84 +3,56 @@ Song name: Eleanor Rigby  by  The Beatles
 ----------------------------------------------------------------------
 [Intro]
 
-C                          Em
-Ah, look at all the lonely people
-C                          Em
-Ah, look at all the lonely people
+[C]Ah, look at all the lonely [Em]people
+[C]Ah, look at all the lonely [Em]people
 
 
 [Verse 1]
 
-Em                                                                C
-Eleanor Rigby picks up the rice in the church where a wedding has been
-C          Em
-Lives in a dream
-Em                                                                   C
-Waits at the window, wearing the face that she keeps in a jar by the door
-          Em
-Who is it for?
+[Em]Eleanor Rigby picks up the rice in the church where a wedding has [C]been
+[C]Lives in a [Em]dream
+[Em]Waits at the window, wearing the face that she keeps in a jar by the [C]door
+Who is it [Em]for?
 
 
 [Chorus]
 
-Em7            Em6
-All the lonely people
-       C                Em
-Where do they all come from?
-Em7            Em6
-All the lonely people
-       C             Em
-Where do they all belong?
+[Em7]All the lonely [Em6]people
+Where d[C]o they all come f[Em]rom?
+[Em7]All the lonely [Em6]people
+Where d[C]o they all bel[Em]ong?
 
 
 [Verse 2]
 
-Em                                                             C
-Father McKenzie writing the words of a sermon that no one will hear
-C            Em
-No one comes near.
-Em                                                                      C
-Look at him working. darning his socks in the night when there's nobody there
-C            Em
-What does he care?
+[Em]Father McKenzie writing the words of a sermon that no one will [C]hear
+[C]No one comes [Em]near.
+[Em]Look at him working. darning his socks in the night when there's nobody [C]there
+[C]What does he [Em]care?
 
 
 [Chorus]
 
-Em7            Em6
-All the lonely people
-       C                Em
-Where do they all come from?
-Em7            Em6
-All the lonely people
-       C             Em
-Where do they all belong?
+[Em7]All the lonely [Em6]people
+Where d[C]o they all come f[Em]rom?
+[Em7]All the lonely [Em6]people
+Where d[C]o they all bel[Em]ong?
 
-C                          Em
-Ah, look at all the lonely people
-C                         Em
-Ah, look at all the lonely people
+[C]Ah, look at all the lonely [Em]people
+[C]Ah, look at all the lonely[Em] people
 
 
 [Verse 3]
 
-Em                                                             C
-Eleanor Rigby died in the church and was buried along with her name
-C      Em
-Nobody came
-Em                                                                  C
-Father McKenzie wiping the dirt from his hands as he walks from the grave
-C          Em
-No one was saved
+[Em]Eleanor Rigby died in the church and was buried along with her [C]name
+[C]Nobody [Em]came
+[Em]Father McKenzie wiping the dirt from his hands as he walks from the [C]grave
+[C]No one was [Em]saved
 
 
 [Chorus]
 
-Em7            Em6
-All the lonely people
-       C                Em
-Where do they all come from?
-Em7            Em6
-All the lonely people
-       C             Em
-Where do they all belong?
+[Em7]All the lonely [Em6]people
+Where d[C]o they all come f[Em]rom?
+[Em7]All the lonely [Em6]people
+Where d[C]o they all bel[Em]ong?
