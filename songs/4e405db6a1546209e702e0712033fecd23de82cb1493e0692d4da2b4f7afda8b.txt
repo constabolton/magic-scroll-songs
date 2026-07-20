@@ -13,54 +13,34 @@ A|--------------------------|---------------------|
 E|--------------------------|---------------------|
 
 [Chorus]
-C                   F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
+[C]Driving that train, [F]high on cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [F]trouble behind,
+[F]and you know that notion just crossed my [C]mind.
 
 [Verse 1]
-C               D
-This old engine makes it on time,
-F                              G
-Leaves central station ’bout a quarter to nine,
-C                      D
-Hits river junction at seventeen to,
-     F          E                 Am        G
-At a quarter to ten you know it’s travlin’ again.
+[C]This old engine [D]makes it on time,
+[F]Leaves central station ’bout a [G]quarter to nine,
+[C]Hits river junction at [D]seventeen to,
+At a [F]quarter to [E]ten you know it’s [Am]travlin’ a[G]gain.
 
 [Chorus]
-C                   F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              F
-Trouble ahead, trouble behind,
-F                                        C
-And you know that notion just crossed my mind.
+[C]Driving that train, [F]high on cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [F]trouble behind,
+[F]And you know that notion just crossed my [C]mind.
 
 [Verse 2]
-C            C# D
-Trouble ahead, lady in red,
-F                       G
-Take my advice you’d be better off dead.
-C                           D
-Switchman’s sleeping, train hundred and two is
-F            E         Am         G
-On the wrong track and headed for you.
+[C]Trouble ahead[C#], l[D]ady in red,
+[F]Take my advice you’d be [G]better off dead.
+[C]Switchman’s sleeping, train [D]hundred and two is
+[F]On the wrong [E]track and [Am]headed for [G]you.
 
 [Chorus]
-C                   F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
+[C]Driving that train, [F]high on cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [F]trouble behind,
+[F]and you know that notion just crossed my [C]mind.
 
 [Instrumental]
 C     D     F     G
@@ -69,63 +49,38 @@ C     F     F     C
 C     F     F     C
 
 [Verse 3]
-C                       D
-Trouble with you is the trouble with me,
-    F                     G
-Got two good eyes but you still don’t see.
-C                        D
-Come round the bend, you know it’s the end,
-    F       E               Am          G
-The fireman screams and the engine just gleams...
+[C]Trouble with you is the [D]trouble with me,
+Got [F]two good eyes but you [G]still don’t see.
+[C]Come round the bend, you [D]know it’s the end,
+The [F]fireman [E]screams and the [Am]engine just [G]gleams...
 
 [Chorus]
-C                   F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
+[C]Driving that train, [F]high on cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [F]trouble behind,
+[F]and you know that notion just crossed my [C]mind.
 
-C                   F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
+[C]Driving that train, [F]high on cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [F]trouble behind,
+[F]and you know that notion just crossed my [C]mind.
 
-C                   F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
+[C]Driving that train, [F]high on cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [F]trouble behind,
+[F]and you know that notion just crossed my [C]mind.
 
 [Outro]
-C                   Bb      F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              Bb      F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
+[C]Driving that train, [Bb]high on [F]cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [Bb]trouble [F]behind,
+[F]and you know that notion just crossed my [C]mind.
 
-C                   Bb      F
-Driving that train, high on cocaine,
-F                                 C
-Casey Jones you better watch your speed.
-C              Bb      F
-Trouble ahead, trouble behind,
-F                                        C
-and you know that notion just crossed my mind.
-A7                D7     G7              C7
-and you know that notion just crossed my mind.
+[C]Driving that train, [Bb]high on [F]cocaine,
+[F]Casey Jones you better watch your [C]speed.
+[C]Trouble ahead, [Bb]trouble [F]behind,
+[F]and you know that notion just crossed my [C]mind.
+[A7]and you know that [D7]notion [G7]just crossed my [C7]mind.
 
 
 *********************************
