@@ -11,45 +11,31 @@ ___________________________________________________________________
 G     D     G       Em          Am      D7
 
 [Intro]
-G      D      Em
-Love  Love  Love
-G       D      Em
-Love  Love  Love
+[G]Love  L[D]ove  Lo[Em]ve
+[G]Love  Lo[D]ve  Lov[Em]e
 
                   1 + 2 + 3 + 4 + 1 + 2 + 3 +
-Am    G      D    D       D7      D6      D
-Love  Love  Love
+[Am]Love  [G]Love  L[D]ove [D] [D7] [D6] [D]
 
 
 [Verse]
-G                        D                Em
- There's nothing you can do that can't be done
-G                D                  Em
- Nothing you can sing that can't be sung
-Am               G                     D
- Nothing you can say but you can learn how to play the game,
+[G] There's nothing you can [D]do that can't be [Em]done
+[G] Nothing you can [D]sing that can't be [Em]sung
+[Am] Nothing you can [G]say but you can learn [D]how to play the game,
       1 + 2 + 3 + 4 + 1 + 2 + 3 +
-      D       D7      D6      D
- It's easy
+ It's [D]easy [D7] [D6] [D]
 
-G                        D                  Em
- There's nothing you can make that can't be made
-G             D               Em
- No one you can save that can't be saved.
-Am               G               D
- Nothing you can do but you can learn how to be you in time,
+[G] There's nothing you can [D]make that can't be [Em]made
+[G] No one you ca[D]n save that can'[Em]t be saved.
+[Am] Nothing you can [G]do but you can l[D]earn how to be you in time,
       1 + 2 + 3 + 4 + 1 + 2 + 3 +
-      D       D7      D6      D
- It's easy
+ It's [D]easy [D7] [D6] [D]
 
 
 [Chorus]
-G        A        D     D7
-All you need is love
-G        A        D     D7
-All you need is love
-G        B7      Em   G    C       D       G
-All you need is love love, Love is all you need.
+[G]All you n[A]eed is lo[D]ve [D7]
+[G]All you n[A]eed is lo[D]ve [D7]
+[G]All you n[B7]eed is l[Em]ove l[G]ove, [C]Love is [D]all you [G]need.
 
 
 [Instrumental Break]
@@ -60,38 +46,23 @@ D   D7  D6  D
 
 
 [Chorus]
-G        A        D     D7
-All you need is love
-G        A        D     D7
-All you need is love
-G        B7      Em   G    C       D       G
-All you need is love love, Love is all you need.
+[G]All you n[A]eed is lo[D]ve [D7]
+[G]All you n[A]eed is lo[D]ve [D7]
+[G]All you n[B7]eed is l[Em]ove l[G]ove, [C]Love is [D]all you [G]need.
 
-G                        D               Em
- There's nothing you can know that isn't known.
-G                D              Em
- Nothing you can see that isn't shown.
-Am               G              D
- Nowhere you can be that isn't where you're meant to be,
+[G] There's nothing you can [D]know that isn't [Em]known.
+[G] Nothing you can [D]see that isn't [Em]shown.
+[Am] Nowhere you can [G]be that isn't w[D]here you're meant to be,
       1 + 2 + 3 + 4 + 1 + 2 + 3 +
-      D       D7      D6      D
- It's easy
+ It's [D]easy [D7] [D6] [D]
 
-G        A        D     D7
-All you need is love,
-G        A        D     D7
-All you need is love,
-G        B7      Em   G    C       D       G
-All you need is love love, Love is all you need.
+[G]All you n[A]eed is lo[D]ve, [D7]
+[G]All you n[A]eed is lo[D]ve, [D7]
+[G]All you n[B7]eed is l[Em]ove l[G]ove, [C]Love is [D]all you [G]need.
 
-G        A         D         D7
-All you need is love (all together now)
-G        A       D           D7
-All you need is love (everybody)
-G        B7      Em   G    C       D       G
-All you need is love love, Love is all you need.
+[G]All you n[A]eed is lov[D]e (all tog[D7]ether now)
+[G]All you n[A]eed is l[D]ove (everybo[D7]dy)
+[G]All you n[B7]eed is l[Em]ove l[G]ove, [C]Love is [D]all you [G]need.
 
-G
-Love is all you need
-G
-Love is all you need (repeat till end)
+[G]Love is all you need
+[G]Love is all you need (repeat till end)
