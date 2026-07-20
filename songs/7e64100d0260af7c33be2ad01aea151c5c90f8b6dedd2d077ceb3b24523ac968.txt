@@ -28,56 +28,37 @@ E|--x--|--x--|--x--|--3--|--0--|--1--|--0--|--x--|--x--|--1--|
 
 [Verse 1]
 
-Cmaj7     A7    Dm7       G7
-Heart and soul, I fell in love with you,
-Em7       A7    Dm7       G7
-Heart and soul, the way a fool would do,
-Em7  A7  Dm7
-Mad--ly...
-             G7     Cmaj7     A7
-Because you held me tight,
-             Dm7        G7
-And stole a kiss in the night...
+[Cmaj7]Heart and [A7]soul, [Dm7]I fell in [G7]love with you,
+[Em7]Heart and [A7]soul, [Dm7]the way a [G7]fool would do,
+[Em7]Mad--[A7]ly..[Dm7].
+Because you h[G7]eld me [Cmaj7]tight, [A7]
+And stole a k[Dm7]iss in the [G7]night...
 
 
 [Verse 2]
 
-Cmaj7     A7    Dm7         G7
-Heart and soul, I begged to be adored,
-Em7  A7       Dm7         G7
-Lost control, and tumbled overboard,
-Em7  A7  Dm7
-Glad-ly...
-           G7       Cmaj7     A7
-That magic night we kissed,
-             Dm7  G7
-There in the moon mist.
+[Cmaj7]Heart and [A7]soul, [Dm7]I begged to [G7]be adored,
+[Em7]Lost [A7]control, [Dm7]and tumbled [G7]overboard,
+[Em7]Glad-[A7]ly..[Dm7].
+That magic [G7]night we [Cmaj7]kissed, [A7]
+There in the [Dm7]moon [G7]mist.
 
 
 [Bridge]
 
-F            E7        A7    D7
-Oh! but your lips were thril-ling,
-G7   C   F7    E7
-Much too thril-ling,
-F     E7          A7   D7
-Never before were mine so
-G7      C  F7  E7
-Strange-ly wil-ling.
+[F]Oh! but your [E7]lips were [A7]thril-[D7]ling,
+[G7]Much [C]too [F7]thril-[E7]ling,
+[F]Never [E7]before were [A7]mine [D7]so
+[G7]Strange-[C]ly [F7]wil-[E7]ling.
 
 
 [Verse 3]
 
-Cmaj7     A7   Dm7       G7
-But now I see, what one embrace can do,
-Em7     A7  Dm7         G7
-Look at me, it's got me loving you,
-Em7  A7  Dm7
-Mad--ly...
-             G7      Cmaj7     A7
-That little kiss you stole,
-F           G7         C
-Held all my heart and soul.
+[Cmaj7]But now I [A7]see, [Dm7]what one e[G7]mbrace can do,
+[Em7]Look at [A7]me, [Dm7]it's got me [G7]loving you,
+[Em7]Mad--[A7]ly..[Dm7].
+That little k[G7]iss you [Cmaj7]stole, [A7]
+[F]Held all my [G7]heart and s[C]oul.
 
 
 [Optional additional chords to end the song]
