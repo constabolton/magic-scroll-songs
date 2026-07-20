@@ -1,8 +1,7 @@
 ----------------------------------------------------------------------
 Song name: I Left My Heart In San Francisco  by  Tony Bennett
 ----------------------------------------------------------------------
-    Bm7           Amaj7           D      D9    Amaj7 
-The loveliness of Paris seems somehow sadly gay 
+The [Bm7]loveliness of [Amaj7]Paris seems some[D]how sad[D9]ly gay[Amaj7] 
       Bm7          F#m    Bm7/5-     Cº        E7 
 The glory that was Rome is  of  an - oth - er day 
            Fº                       Bm7/5-    Amaj7      F#m7 
@@ -16,10 +15,8 @@ I  left  my  heart             in San Francisco
 High on a hill,                it calls to me 
 E7 Bm7/5-    Amaj7   Bm7/5- Amaj7     Cº     Amaj7 
 To  be where little cable cars 
- F#m   C#m             G#7 
-Climb halfway to the stars 
-             A       B7        E7 
-The morning fog may chill the air, 
+C[F#m]limb h[C#m]alfway to the st[G#7]ars 
+The morning f[A]og may c[B7]hill the a[E7]ir, 
 Fº         E7 
 I   don't care. 
  
