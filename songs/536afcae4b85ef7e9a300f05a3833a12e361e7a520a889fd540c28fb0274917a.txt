@@ -22,88 +22,53 @@ G6        3-x-0-0-0-0
 ---------------------------------------------------------------------------
 
 [Verse 1]
-D           D/C#             D/B
- The summer air was soft and warm
-            D/A              G
-The feeling right, the Paris night
-D/F#            Em         Em/D
-Did its best to please us
-A              E/G#        Asus2/F#   E
- And strolling down the Elysee
-A         A7/G            D/F# A/E
- We had a drink in each café - e
+[D] The summer [D/C#]air was soft and [D/B]warm
+The feeling [D/A]right, the Paris [G]night
+[D/F#]Did its best to [Em]please us [Em/D]
+[A] And strolling [E/G#]down the Ely[Asus2/F#]see [E]
+[A] We had a [A7/G]drink in each ca[D/F#]fé - [A/E]e
 
 [Verse 2]
-    D
-And you
-D A/C#             D/B          D/A         
-     You talked of politics, philosophy 
-    G D/F#             G6    A
-And I smiled like Mona Lisa
-Em7         Em6
- We had our chance
-Cmaj7/E   Em              Asus4  A  Asus2  [ A ]
- It was a fine and true romance
+And [D]you
+[D]  [A/C#]   You talked of [D/B]politics, phi[D/A]losophy 
+And [G]I [D/F#]smiled like Mona [G6]Lisa [A]
+[Em7] We had our [Em6]chance
+[Cmaj7/E] It was a [Em]fine and true ro[Asus4]mance [A] [Asus2] [A]
 
 [Chorus]
-A             D    F#m     G
-I can still recall our last summer
-A              D     F#m    G
-I still see it all
-A               D      F#7             Bm
-Walks along the Seine, laughing in the rain
-A        G
-Our last summer
-A7              Dsus4
-Memories that remain
+[A]I can still re[D]call [F#m]our last[G] summer
+[A]I still see it [D]all [F#m] [G]
+[A]Walks along the [D]Seine, [F#7]laughing in the [Bm]rain
+[A]Our last [G]summer
+[A7]Memories that re[Dsus4]main
 
 [Verse 3]
-D            D/C#          D/B
- We made our way along the river
-       D/A             G
-And we sat down in the grass
-D/F#          Em      Em/D
-By the Eiffel tower
-A         E/G#         Asus2/F#   E
- I was so happy we had met
-A           A7/G        D/F#  A/E [ D ]
- It was the age of no regret, oh, yes
+[D] We made our [D/C#]way along the [D/B]river
+And we [D/A]sat down in the [G]grass
+[D/F#]By the Eiffel [Em]tower [Em/D]
+[A] I was so [E/G#]happy we had [Asus2/F#]met [E]
+[A] It was the [A7/G]age of no re[D/F#]gret, [A/E]oh, ye[D]s
 
 [Verse 4]
-D  A/C#  D/B            D/A                 G
- [link]     Those crazy years, that was the time
-D/F#          G6    A 
-Of the flower-power
-Em7       Em6  Cmaj7/E   Em
- But underneath we had a fear of flying
-Em7         Em6  Cmaj7/E    Em
- Of getting old,  a fear of slowly dying
-Em7          Em6   Cmaj7/E        Em               Asus4  A  Asus2  [ A ]
- We took the chance  like we were dancing our last dance
+[D] [l[A/C#]ink]  [D/B]   Those crazy [D/A]years, that was the [G]time
+[D/F#]Of the flower-[G6]power [A]
+[Em7] But under[Em6]neath[Cmaj7/E] we had a [Em]fear of flying
+[Em7] Of getting [Em6]old, [Cmaj7/E] a fear of [Em]slowly dying
+[Em7] We took the [Em6]chance[Cmaj7/E]  like we were [Em]dancing our last [Asus4]dance [A] [Asus2] [A]
 
 [Chorus]
-A             D    F#m     G
-I can still recall our last summer
-A              D     F#m    G
-I still see it all
-A              D    F#7             Bm
-In the tourist jam, round the Notre Dame
-A        G
-Our last summer
-A7              Dsus4 D
-Walking hand in ha -  and
+[A]I can still re[D]call [F#m]our last[G] summer
+[A]I still see it [D]all [F#m] [G]
+[A]In the tourist [D]jam, [F#7]round the Notre [Bm]Dame
+[A]Our last [G]summer
+[A7]Walking hand in [Dsus4]ha -  [D]and
 
 [Chorus]
-A           D       F#m      G 
-Paris restaurants - our last summer
-A            D     F#m    G
-Morning croissants
-A              D    F#7          Bm
-Living for the day, worries far away
-A        G
-Our last summer
-A7                Dsus4
-We could laugh and play
+[A]Paris restau[D]rants - [F#m]our last [G]summer
+[A]Morning crois[D]sants [F#m] [G]
+[A]Living for the [D]day, [F#7]worries far a[Bm]way
+[A]Our last [G]summer
+[A7]We could laugh and[Dsus4] play
 
 [Solo] 
 (half-time)
@@ -113,51 +78,31 @@ We could laugh and play
 | G | D | A7sus4 | A7 |
 
 [Verse 5]
-D               D/C#         D/B
- And now you're working in a bank
-           D/A               G
-The family man, the football fan
-D/F#             Em      Em/D
-And your name is Harry
-A/C#
- How dull it seems
-E                          A   G   F#m  [ A ]
- Yet you're the hero of my dreams
+[D] And now you're [D/C#]working in a [D/B]bank
+The family [D/A]man, the football [G]fan
+[D/F#]And your name is [Em]Harry [Em/D]
+[A/C#] How dull it seems
+[E] Yet you're the hero of my [A]drea[G]ms [F#m] [A]
 
 [Chorus]
-A             D    F#m     G
-I can still recall our last summer
-A              D     F#m    G
-I still see it all
-A               D      F#7             Bm
-Walks along the Seine, laughing in the rain
-A        G
-Our last summer
-A7              Dsus4 D
-Memories that rema  - in
+[A]I can still re[D]call [F#m]our last[G] summer
+[A]I still see it [D]all [F#m] [G]
+[A]Walks along the [D]Seine, [F#7]laughing in the [Bm]rain
+[A]Our last [G]summer
+[A7]Memories that re[Dsus4]ma  - [D]in
 
 [Chorus]
-A             D    F#m     G
-I can still recall our last summer
-A              D     F#m    G
-I still see it all
-A              D    F#7             Bm
-In the tourist jam, round the Notre Dame
-A        G
-Our last summer
-A7              Dsus4 D
-Walking hand in ha -  and
+[A]I can still re[D]call [F#m]our last[G] summer
+[A]I still see it [D]all [F#m] [G]
+[A]In the tourist [D]jam, [F#7]round the Notre [Bm]Dame
+[A]Our last [G]summer
+[A7]Walking hand in [Dsus4]ha -  [D]and
 
 [Chorus]
-A           D       F#m      G 
-Paris restaurants - our last summer
-A            D     F#m    G
-Morning croissants
-        A              D    F#7          Bm
-We were living for the day, worries far away
-A        G
-Our last summer
-A7                Dsus4
-We could laugh and play
+[A]Paris restau[D]rants - [F#m]our last [G]summer
+[A]Morning crois[D]sants [F#m] [G]
+We were [A]living for the [D]day, [F#7]worries far a[Bm]way
+[A]Our last [G]summer
+[A7]We could laugh and[Dsus4] play
 
 (fade out during last chorus)
