@@ -20,55 +20,35 @@ F#m B F#m  B  E
 
 
 [Verse 1]
-  E               E6            
-I know I stand in line until you
-E                   E6             F#m                     B  F#m  B
-think you have the time to spend an evening with me
-    F#m          B               F#m                B
-And if we go someplace to dance I know that there's a chance
-             E                E6  E  E6
-you won't be leaving with me
-    E7             E9         E7            E9
-And afterwards we drop into a quiet little place
-           A           C
-And have a drink or two
+I [E]know I stand in [E6]line until you
+[E]think you have the t[E6]ime to spend an[F#m] evening with me [B] [F#m] [B]
+And [F#m]if we go some[B]place to dance I[F#m] know that there's [B]a chance
+you won't be [E]leaving with me [E6] [E] [E6]
+And [E7]afterwards we d[E9]rop into a [E7]quiet little p[E9]lace
+And have a [A]drink or two[C]
 
 
 [Chorus]
-    F#m           B              F#m             B   
-And then I go and spoil it all by saying something stupid 
-       E        E6  E  E6
-like I love you
+And [F#m]then I go and [B]spoil it all by[F#m] saying somethin[B]g stupid 
+like I [E]love you [E6] [E] [E6]
 
 
 [Verse 2]
-      E7             E9                      E7                    E9
-I can see it in your eyes that you despise the same old lines 
-              A        
-you heard the night before
-    F#                 C#m7            F#
-And though it's just a line to you for me it's true
-                    B
-and never seemed so right before
-  E             E6              E              E6
-I practice everyday to find some clever lines to say 
-            F#m               B  F#m  B
-to make the meaning come true
-    F#m               B             F#m         B
-But then I think I'll wait until the evening gets late
-        E              E6  E  E6
-And I'm alone with you
-    E7                  E9              E                 E9
-The time is right your perfume fills my head the stars get red 
-           A             C
-and on the nights so blue
+I can [E7]see it in your [E9]eyes that you despise th[E7]e same old lines [E9]
+you heard the [A]night before
+And [F#]though it's just a [C#m7]line to you for [F#]me it's true
+and never seemed so [B]right before
+I [E]practice every[E6]day to find some[E] clever lines t[E6]o say 
+to make the [F#m]meaning come true [B] [F#m] [B]
+But [F#m]then I think I'll [B]wait until the[F#m] evening get[B]s late
+And I'm [E]alone with you [E6] [E] [E6]
+The [E7]time is right your p[E9]erfume fills my [E]head the stars get[E9] red 
+and on the [A]nights so blue[C]
 
 
 [Chorus]
-    F#m           B              F#m             B
-And then I go and spoil it all by saying something stupid
-       E        E6  E  E6
-like I love you
+And [F#m]then I go and [B]spoil it all by[F#m] saying somethin[B]g stupid
+like I [E]love you [E6] [E] [E6]
 
 
 [Strings Solo]
@@ -77,16 +57,10 @@ F#m  B  F#m  B  E  E6  E  E6
 
 
 [Outro]
-    E7                  E9              E7                 E9
-The time is right your perfume fills my head the stars get red 
-           A             C
-and on the nights so blue
+The [E7]time is right your p[E9]erfume fills my [E7]head the stars get [E9]red 
+and on the [A]nights so blue[C]
 
-    F#m           B              F#m             B
-And then I go and spoil it all by saying something stupid
-       E        C
-like I love you
-  E        C
-I love you
-  E        C
-I love you
+And [F#m]then I go and [B]spoil it all by[F#m] saying somethin[B]g stupid
+like I [E]love you [C]
+I [E]love you [C]
+I [E]love you [C]
