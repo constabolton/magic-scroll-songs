@@ -8,77 +8,51 @@ John Lennon. #1 in '75.
 | G    | Em   | A    | A7  | C    | C    | G    |
 
 [Verse 1]
-G                             A
-Whatever gets you through the night,
-     C               G
-it's all-right, it's all-right.
-G                       A           C
-It's your money or your life, it's all-right,
-     G
-it's all-right.
-G            Em                   D
-Don't need a sword to cut through flowers.
-C       G
-Oh, no. Oh, no.
+[G]Whatever gets you through the [A]night,
+it's [C]all-right, it's [G]all-right.
+[G]It's your money or your [A]life, it's a[C]ll-right,
+it's [G]all-right.
+[G]Don't need a [Em]sword to cut through [D]flowers.
+[C]Oh, no. [G]Oh, no.
 
 [Verse 2]
-G                              A
-Whatever gets you through your life,
-     C               G
-it's all-right, it's all-right.
-G                    A           C
-Do it wrong or do it right. It's all-right,
-     G
-it's all-right.
-G            Em                  D
-Don't need a watch to waste your time.
-C       G
-Oh, no, Oh, no.
+[G]Whatever gets you through your [A]life,
+it's [C]all-right, it's [G]all-right.
+[G]Do it wrong or do it [A]right. It's [C]all-right,
+it's [G]all-right.
+[G]Don't need a [Em]watch to waste your [D]time.
+[C]Oh, no, [G]Oh, no.
 
 [Sax Break] 
 | Em   | Em   | A    | A   |
 | A    | D    | A    | D   |
 
 [Chorus]
-A                         D
-Hold me darlin'..come on, listen to me,
-A                 D
-I won't do you no harm.
-A                        D
-Trust me darlin' come on listen to me,
-        C                      G
-come on listen to me. Come on..listen, listen.
+[A]Hold me darlin'..come on, [D]listen to me,
+[A]I won't do you no [D]harm.
+[A]Trust me darlin' come on [D]listen to me,
+come on [C]listen to me. Come on..[G]listen, listen.
 
 [Sax Break]
 | Em   | A    | A    | C    | C    | G    |
 
 [Verse 3]
-G                        A
-Whatever gets you to the light,
-     C               G
-it's all-right, it's all-right.
-G                      A          C
-Out the blue or out of sight it's all-right,
-     G
-it's all-right.
-G            Em               D
-Don't need a gun to blow your mind.
-C       G
-Oh, no, oh, no.
+[G]Whatever gets you to the [A]light,
+it's [C]all-right, it's [G]all-right.
+[G]Out the blue or out of [A]sight it's [C]all-right,
+it's [G]all-right.
+[G]Don't need a [Em]gun to blow your [D]mind.
+[C]Oh, no, [G]oh, no.
 
 [Sax Break] 
 | Em   | Em   | A    | A   |
 | A    | D    | A    | D   |
 
 [Chorus]
-A                         D
-Hold me darlin'..come on, listen to me,
-A                 D
-I won't do you no harm.
-A                        D
-Trust me darlin' come on listen to me,
-        C                      G
-come on listen to me. Come on..listen, listen.
+[A]Hold me darlin'..come on, [D]listen to me,
+[A]I won't do you no [D]harm.
+[A]Trust me darlin' come on [D]listen to me,
+come on [C]listen to me. Come on..[G]listen, listen.
 
 [Sax Break]
 | Em   | A    | A    | C    | C    | G    | G    | Em   |
