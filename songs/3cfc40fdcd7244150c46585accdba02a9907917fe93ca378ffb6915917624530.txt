@@ -7,22 +7,14 @@ Zimmermann / Lottman
 
 https://en.wikipedia.org/wiki/Anchors_Aweigh
 
-C            Am          C         G      C
-Stand, Navy, out to sea, fight our battle cry;
-F           C      F   G          Am  D   G
-we'll never change our course, so vicious foe steer shy-y-y-y.
-C            Am    C  G     C      F          C  F G
-Roll out the TNT , anchors aweigh. Sail on to victory,
-Am  C                   G              C
-and sink their bones to Davy Jones, hooray!
+[C]Stand, Navy, [Am]out to sea, [C]fight our [G]battle [C]cry;
+[F]we'll never [C]change [F]our [G]course, so [Am]vici[D]ous [G]foe steer shy-y-y-y.
+[C]Roll out the [Am]TNT , [C]anc[G]hors a[C]weigh. [F]Sail on to [C]vic[F]to[G]ry,
+[Am]and [C]sink their bones to [G]Davy Jones, hoo[C]ray!
 
-C        Am              C  G     C
-Anchors Aweigh, my boys, Anchors Aweigh.
-F           C  F    G          Am      D        G
-Farewell to foreign shores, We sail at break of day, of day.
-C                Am              C     G      C
-Through our last night on shore, Drink to the foam,
-F        C    F    G     Am     C             G            C
-Until we meet once more. Here's wishing you a happy voyage home!
+[C]Anchors A[Am]weigh, my boys, [C]Anc[G]hors A[C]weigh.
+[F]Farewell to [C]for[F]eign [G]shores, We [Am]sail at [D]break of [G]day, of day.
+[C]Through our last [Am]night on shore, [C]Drink [G]to the [C]foam,
+[F]Until we [C]meet [F]once [G]more. [Am]Here's [C]wishing you a [G]happy voyage [C]home!
 
 Set8
