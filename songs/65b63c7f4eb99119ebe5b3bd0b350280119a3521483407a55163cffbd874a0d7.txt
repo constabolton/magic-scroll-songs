@@ -14,66 +14,43 @@ Song name: Sail Away  by  Randy Newman
 
 Verse 1:
 
-D     F#7                Bm7         D7
- In A-merica, you'll get food to eat;
-G              A7                         G/B           D/A  D/C#  G/B
- Won't have to run through the jungle and scuff up your feet.
-D            F#7                        Bm7          D7
- You'll just sing about Jesus and drink wine all day;
-G              A7              G/B  D/A  G
- It's great to be an American.
+[D] In A-[F#7]merica, you'll get [Bm7]food to eat;[D7]
+[G] Won't have to [A7]run through the jungle and [G/B]scuff up your [D/A]feet.[D/C#] [G/B]
+[D] You'll just [F#7]sing about Jesus and drink [Bm7]wine all day;[D7]
+[G] It's great to [A7]be an American. [G/B] [D/A] [G]
 
 Verse 2:
 
-D         Bm7                       E7sus4      E7
- Ain't no lions or tigers, ain't no mamba snake,
-A7sus4    A7                       D
- Just the sweet watermelon and the buckwheat cake.
-      Bm7                   E7sus4     E7
-Every-body is as happy as a man can be,
-A7sus4   A7                        D
- Climb a-board, little wog, sail a-way with me.
+[D] Ain't no [Bm7]lions or tigers, ain't no [E7sus4]mamba snake,[E7]
+[A7sus4] Just the [A7]sweet watermelon and the [D]buckwheat cake.
+Every-[Bm7]body is as happy as a [E7sus4]man can be,[E7]
+[A7sus4] Climb a-[A7]board, little wog, sail a-[D]way with me.
 
 Chorus 1:
 
-       D   G/D  D
-Sail a-way,
-       G   C/G  G
-Sail a-way.
-F#dim7   D/A              Bm7                    E7  A7
- We will cross the mighty ocean, into Charleston Bay.
+Sail a-[D]way,[G/D] [D]
+Sail a-[G]way.[C/G] [G]
+[F#dim7] We will [D/A]cross the mighty [Bm7]ocean, into Charleston [E7]Bay.[A7]
 
-       D   G/D  D
-Sail a-way,
-       G   C/G  G
-Sail a-way.
-F#dim7   D/A       Bm7    E7          A7sus4     D   Bm7  E7sus4  A7sus4
- We will cross the mighty ocean, into Charleston Bay.
+Sail a-[D]way,[G/D] [D]
+Sail a-[G]way.[C/G] [G]
+[F#dim7] We will [D/A]cross the [Bm7]mighty [E7]ocean, into [A7sus4]Charleston [D]Bay.[Bm7] [E7sus4] [A7sus4]
 
 Verse 3:
 
-D     Bm7           E7sus4      E7
- In A-merica, every man is free,
-A7sus4   A7                       D
- To take care of his home and his family.
-D             Bm7                    E7sus4       E7
- You'll be as happy as a monkey in a monkey tree;
-A7sus4            A7             D
- You're all gonna be an American.
+[D] In A-[Bm7]merica, every [E7sus4]man is free,[E7]
+[A7sus4] To take [A7]care of his home and his [D]family.
+[D] You'll be as [Bm7]happy as a monkey in a [E7sus4]monkey tree; [E7]
+[A7sus4] You're all gonna [A7]be an American.[D]
 
 Chorus 2:
 
-       D   G/D  D
-Sail a-way,
-       G   C/G  G
-Sail a-way.
-F#dim7   D/A              Bm7                    E7  A7
- We will cross the mighty ocean, into Charleston Bay.
+Sail a-[D]way,[G/D] [D]
+Sail a-[G]way.[C/G] [G]
+[F#dim7] We will [D/A]cross the mighty [Bm7]ocean, into Charleston [E7]Bay.[A7]
 
-       D   G/D  D
-Sail a-way,
-       G   C/G  G
-Sail a-way.
+Sail a-[D]way,[G/D] [D]
+Sail a-[G]way.[C/G] [G]
 F#dim7   D/A       Bm7    E7          A7sus4    (D)
  We will cross the mighty ocean, into Charleston Bay.
 
