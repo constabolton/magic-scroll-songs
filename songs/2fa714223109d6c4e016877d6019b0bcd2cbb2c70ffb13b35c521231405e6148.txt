@@ -2,51 +2,33 @@
 Song name: I Can See Clearly Now  by  Johnny Nash
 ----------------------------------------------------------------------
 [Verse]
-D            G               D
-  I can see clearly now the rain is gone
-D            G            A
-  I can see all obstacles in my way
-D               G                D
-  Gone are the dark clouds that had me blind
+[D]  I can see c[G]learly now the r[D]ain is gone
+[D]  I can see a[G]ll obstacles [A]in my way
+[D]  Gone are the d[G]ark clouds that h[D]ad me blind
 
 [Chorus]
-                 C                 G                         D
-It's gonna be a bright, (bright) bright, (bright) sun shiny day
-                 C                 G                         D
-It's gonna be a bright, (bright) bright, (bright) sun shiny day
+It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
+It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
 
 [Verse 2]
-D                G               D
-  I think I can make it now the pain is gone,
-D            G                 A
-  All of the bad feelings have disappeared.
-D               G              D
-  Here is the rainbow I've been praying for.
-D                  C                 G                         D
-  It's gonna be a bright, (bright) bright, (bright) sun shiny day
+[D]  I think I can m[G]ake it now the p[D]ain is gone,
+[D]  All of the [G]bad feelings have [A]disappeared.
+[D]  Here is the ra[G]inbow I've been[D] praying for.
+[D]  It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
 
 [Bridge]
-F                                      C
-  Look all around, there's nothing but blue skies
-F                                           A
-  Look straight ahead, there's nothing but blue skies
+[F]  Look all around, there's nothing but [C]blue skies
+[F]  Look straight ahead, there's nothing but b[A]lue skies
 
 | C#m | G  | C#m | G  | C  | Bm  | A  | A  |
 
 [Verse 3]
-D            G               D
-  I can see clearly now the rain is gone
-D            G            A
-  I can see all obstacles in my way
-D               G                D
-  Gone are the dark clouds that had me blind
+[D]  I can see c[G]learly now the r[D]ain is gone
+[D]  I can see a[G]ll obstacles [A]in my way
+[D]  Gone are the d[G]ark clouds that h[D]ad me blind
 
 [Outro]
-                 C                 G                         D
-It's gonna be a bright, (bright) bright, (bright) sun shiny day
-                 C                 G                         D
-It's gonna be a bright, (bright) bright, (bright) sun shiny day
-                 C                 G                         D
-It's gonna be a bright, (bright) bright, (bright) sun shiny day
-                 C                 G                         D
-It's gonna be a bright, (bright) bright, (bright) sun shiny day
+It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
+It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
+It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
+It's gonna be a b[C]right, (bright) br[G]ight, (bright) sun shiny d[D]ay
