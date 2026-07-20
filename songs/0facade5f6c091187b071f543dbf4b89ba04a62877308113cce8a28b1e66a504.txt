@@ -2,41 +2,25 @@
 Song name: Chattanooga Choo Choo  by  Glenn Miller
 ----------------------------------------------------------------------
 [Verse]
-G
-Pardon me, boy. Is that the Chattanooga choo choo?
-             D7                           G
-Track twenty-nine, boy, you can give me a shine.
+[G]Pardon me, boy. Is that the Chattanooga choo choo?
+Track twenty-[D7]nine, boy, you can give me a [G]shine.
 
 "Can you afford to board the Chattanooga choo choo?"
-            D                          G    G7
-I've got my fare, and just a trifle to spare.
+I've got my [D]fare, and just a trifle to [G]spare[G7].
 
 [Verse]
-              C            G7              C          G7
-You leave the Pennsylvania station 'bout a quarter to four,
-C          G7                   C       G7
-Read a magazine and then you're in Baltimore.
-F                    C
-Dinner in the diner, nothin' could be finer
-D7                                    G7
-Than to have your ham and eggs in Carolina.
-C                 G7              C            G7
-When you hear the whistle blowing eight to the bar,
-C                     G7           C        G7
-Then you'll know that Tennessee is not very far.
-F                       C
-Shovel all the coal in. Got to keep it rollin'.
-A         D7           G7        C
-Woo, woo, Chattanooga! There you are!
+You leave the [C]Pennsylvania [G7]station 'bout a [C]quarter to [G7]four,
+[C]Read a maga[G7]zine and then you're [C]in Balti[G7]more.
+[F]Dinner in the diner, [C]nothin' could be finer
+[D7]Than to have your ham and eggs in Caro[G7]lina.
+[C]When you hear the [G7]whistle blowing [C]eight to the [G7]bar,
+[C]Then you'll know that [G7]Tennessee is [C]not very [G7]far.
+[F]Shovel all the coal in. [C]Got to keep it rollin'.
+[A]Woo, woo, [D7]Chattanooga! [G7]There you [C]are!
 
 [Verse]
-G
-There's gonna be a certain party at the station:
-          D7                         G
-Satin and lace, I used to call funny face.
-                                           C          B7
-She's gonna cry until I tell her that I'll never roam,
-   E           A7       D7                       G
-So Chattanooga choo choo, won't you choo choo me home?
-   E           A7       D7                       G
-So Chattanooga choo choo, won't you choo choo me home?
+[G]There's gonna be a certain party at the station:
+Satin and [D7]lace, I used to call funny [G]face.
+She's gonna cry until I tell her that I'll [C]never roam,[B7]
+So [E]Chattanooga [A7]choo choo[D7], won't you choo choo me [G]home?
+So [E]Chattanooga [A7]choo choo[D7], won't you choo choo me [G]home?
