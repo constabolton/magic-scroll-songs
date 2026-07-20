@@ -21,76 +21,52 @@ Asus4    x-0-2-2-3-0
 | C | C Cmaj7/G | C | C*
 
 [Verse 1]
-              C       Cmaj7/G C
-No New Year`s day, to cele -  brate,
-   Cmaj7/G   C                             Dm
-No chocolate covered candy hearts to give away.
-DmM7          Dm   DmM7             Dm7
-  No first of spri-ing,  no song to sing,
+No New Year`s [C]day, to [Cmaj7/G]cele -  [C]brate,
+No [Cmaj7/G]chocolate [C]covered candy hearts to give a[Dm]way.
+[DmM7]  No first of [Dm]spri-[DmM7]ing,  no song to [Dm7]sing,
 DmM7             Dm    Dm7    Gsus4 G    C     C*
   In fact here`s just another ordi- nary day.
 
 [Verse 2]
-         C        Cmaj7/G C
-No April rain, no flowers bloom,
-   Cmaj7/G C                            Dm
-No wedding Saturday within the month of June.
-DmM7          Dm DmM7             Dm7
-  But what it i- is, is something true,
+No April [C]rain, no [Cmaj7/G]flowers [C]bloom,
+No [Cmaj7/G]wedding [C]Saturday within the month of [Dm]June.
+[DmM7]  But what it [Dm]i- [DmM7]is, is something [Dm7]true,
 DmM7         Dm          Dm7        Gsus4  G      C     C*
   Made up of these three words that I must say to you.
 
 [Chorus]
-       Dm        G     C            C
-I just called to say I love you,
-       Dm        G              Am      Am
-I just called to say how much I care.
-       Dm        G     Am        Am
-I just called to say I love you,
+I just [Dm]called to [G]say I [C]love you, [C]
+I just [Dm]called to [G]say how much I [Am]care. [Am]
+I just [Dm]called to [G]say I [Am]love you, [Am]
       Dm7              Gsus4  G     C         C*
 And I mean it from the bottom of my heart.
 
 [Verse 3]
-            C        Cmaj7/G C
-No summer`s high, no warm  July,
-   Cmaj7/G C                               Dm
-No harvest moon to light one tender August night.
-DmM7        Dm DmM7            Dm7
-  No autumn breeze, no falling leaves,
+No summer`s [C]high, no [Cmaj7/G]warm  Ju[C]ly,
+No [Cmaj7/G]harvest [C]moon to light one tender August [Dm]night.
+[DmM7]  No autumn [Dm]bre[DmM7]eze, no falling [Dm7]leaves,
 DmM7       Dm                Gsus4  G        C     C*
   Not even time for birds to fly to southern skies.
 
 [Verse 4]
-         C       Cmaj7/G C
-No Libra Sun, no Hallo - ween,
-   Cmaj7/G C                                   Dm
-No giving  thanks to all the Christmas joy you bring.
-DmM7          Dm    DmM7               Dm7
-  But what it i-i-i-is, though old, so new.
+No Libra [C]Sun, no [Cmaj7/G]Hallo - [C]ween,
+No [Cmaj7/G]giving  [C]thanks to all the Christmas joy you [Dm]bring.
+[DmM7]  But what it [Dm]i-i-i-[DmM7]is, though old, so [Dm7]new.
 DmM7           Dm         Dm7      Gsus4       G    C     C*
   To fill your heart like no three words could ever do.
 
 [Chorus] (key change)
-       Ebm       Ab    Db         Db
-I just called to say I love you.
-       Ebm       Ab             Bbm          Bbm
-I just called to say how much I ca-a-are, I do.
-       Ebm       Ab    Bbm       Bbm
-I just called to say I love you.
-      Ebm              Absus4 Ab    Db
-And I mean it from the bottom of my heart.
+I just [Ebm]called to [Ab]say I [Db]love you. [Db]
+I just [Ebm]called to [Ab]say how much I [Bbm]ca-a-are, I d[Bbm]o.
+I just [Ebm]called to [Ab]say I [Bbm]love you. [Bbm]
+And I [Ebm]mean it from the [Absus4]bottom [Ab]of my [Db]heart.
 
 [Chorus] (another key change)
-       Em        A     D          D
-I just called to say I love you.
-       Em        A              Bm      Bm
-I just called to say how much I care.
-       Em        A     Bm       Bm
-I just called to say I love you.
-      Em               Asus4  A     D
-And I mean it from the bottom of my heart.
+I just [Em]called to [A]say I [D]love you. [D]
+I just [Em]called to [A]say how much I [Bm]care. [Bm]
+I just [Em]called to [A]say I [Bm]love you.[Bm]
+And I [Em]mean it from the [Asus4]bottom [A]of my [D]heart.
 
 [Coda]
                                  1 + 2 + 3
-Bb    C      C     | D | % | % | D   D D D
-Of my heart, of my heart.
+[Bb]Of my [C]heart, [C]of my he[D]art. [D]
