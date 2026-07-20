@@ -2,73 +2,43 @@
 Song name: After Youve Gone  by  Marion Harris
 ----------------------------------------------------------------------
 [Verse 1]
-C                           D7        G7
-Now won't you listen dearie while I say
-C                                 D7          G7
-How could you tell me that you're goin' a-way
-E7             Am E    Am   D7
-Don't say that we must part 
-               G7
-Don't break my aching heart
-C                             D7      G7
-You know I've loved you truly many years
-C7                  F   F#
-Loved you night and day
-                                C
-How can you leave me, can't you see my tears
-D9       G7     C 
-Listen while I say
+[C]Now won't you listen dearie [D7]while I sa[G7]y
+[C]How could you tell me that you're [D7]goin' a-way [G7]
+[E7]Don't say that [Am]we [E]must [Am]part [D7]
+Don't break my [G7]aching heart
+[C]You know I've loved you truly [D7]many yea[G7]rs
+[C7]Loved you night and [F]day [F#]
+How can you leave me, can't you [C]see my tears
+[D9]Listen wh[G7]ile I s[C]ay
 
 [Chorus]
-F                  D
-After you've gone, and left me crying
-C                               A7 
-After you've gone, there's no denying
-D9
-You'll feel blue
-G7
-You'll feel sad
-C                                                C7
-You'll miss the dearest pal that you've ever had
+[F]After you've gone, [D]and left me crying
+[C]After you've gone, there's no de[A7]nying
+[D9]You'll feel blue
+[G7]You'll feel sad
+[C]You'll miss the dearest pal that you've ever had [C7]
 
 [Verse 2]
-F                    D
-There'll come a time, now don't forget it
-C                   A7
-There'll come a time when you regret it
-Dm   A7  Dm               D
-Someday, when you grow lonely
-C               E7                   Am              D
-Your heart will break like mine, and you'll want me only
-C
-After you've gone 
-G7                C
-After you've gone away
+[F]There'll come a time,[D] now don't forget it
+[C]There'll come a time[A7] when you regret it
+[Dm]Somed[A7]ay, [Dm]when you grow lon[D]ely
+[C]Your heart will [E7]break like mine, and [Am]you'll want me o[D]nly
+[C]After you've gone 
+[G7]After you've gone [C]away
 
 [Chorus]
-F               D
-After I'm gone, after we break up
-C                               A7 
-After I'm gone, you're gonna wake up
-D9
-You will find
-G7
-You were blind
-C                                        C7
-To let somebody come and change your mind
+[F]After I'm gone, [D]after we break up
+[C]After I'm gone, you're gonna wak[A7]e up
+[D9]You will find
+[G7]You were blind
+[C]To let somebody come and change your mind[C7]
 
 [Verse 3]
-F                D
-After the years, we've been together
-C                   A7
-Their joy and tears, all kinds of weather
-Dm   A7  Dm               D
-Someday, blue and down hearted
-C              E7               Am                 D
-You'll long to be with me right back where you started
+[F]After the years, [D]we've been together
+[C]Their joy and tears,[A7] all kinds of weather
+[Dm]Somed[A7]ay, [Dm]blue and down hea[D]rted
+[C]You'll long to [E7]be with me right [Am]back where you star[D]ted
 
 [Outro]
-C
-After I'm gone
-G7               C
-After I'm gone away
+[C]After I'm gone
+[G7]After I'm gone aw[C]ay
