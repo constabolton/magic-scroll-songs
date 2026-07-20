@@ -12,52 +12,37 @@ Am   G6   Am   G6
 
 
 [Verse 1]
-Am             G6
-   I know it's true
-Am                  G6
-   It's all because of you
-Am          Fmaj7
-   And if I make it through
-     E     E7   E    Asus4    Am
-It's all because, of yoooohooohooh
+[Am]   I know it's [G6]true
+[Am]   It's all because [G6]of you
+[Am]   And if I [Fmaj7]make it through
+It's [E]all be[E7]cause[E], of [Asus4]yoooohooo[Am]hooh
 
 
 [Verse 2]
-Am             G6
-   And now and then
-Am            G6
-   If we must start again
-Am               Fmaj7
-   Well, we will know for sure
+[Am]   And now and [G6]then
+[Am]   If we must [G6]start again
+[Am]   Well, we will [Fmaj7]know for sure
      E     E7    E   Am/E E7*    Asus4 Am
 That I-iii-iii-ii,          will love  you
 
 
 [Chorus]
-G                      Bm
-  Now and then, I miss you
-    Em              Am             D
-Oh, now and then, I want you to be there for me
-Am          D
-Always to return to me
+[G]  Now and then, I miss [Bm]you
+Oh, [Em]now and then, I [Am]want you to be [D]there for me
+[Am]Always to re[D]turn to me
 
 
 [Verse 3]
-Am             G6
-   I know it's true
-Am                  G6
-   It's all because of you
-Am            Fmaj7
-   And if you go away
+[Am]   I know it's [G6]true
+[Am]   It's all because [G6]of you
+[Am]   And if you [Fmaj7]go away
     E         E7     E   Am/E E7* Asus4     Am
 I know you'll neeeever            stay-aaaayay
 
 
 [Chorus]
-G                      Bm
-  Now and then, I miss you
-    Em              Am             D
-Oh, now and then, I want you to be there for me
+[G]  Now and then, I miss [Bm]you
+Oh, [Em]now and then, I [Am]want you to be [D]there for me
 
 
 [Solo]
@@ -68,12 +53,9 @@ Oh, now and then, I want you to be there for me
 
 
 [Verse 4]
-Am             G6
-   I know it's true
-Am                  G6
-   It's all because of you
-Am          Fmaj7
-   And if I make it through
+[Am]   I know it's [G6]true
+[Am]   It's all because [G6]of you
+[Am]   And if I [Fmaj7]make it through
      E  E7      E   Am/E E7* Asus4    Am
 It's all because,        of  yoooohooohooh
 
