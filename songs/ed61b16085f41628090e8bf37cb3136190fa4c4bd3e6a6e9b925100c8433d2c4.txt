@@ -5,55 +5,31 @@ Note: this arrangment is intended for music therapy purposes.
 The chords are not exact to the song but work when played and sung solo.
 
 ~I Got Rhythm - George Gershwin~
-C Am Dm G7
-I got rhythm,
-C Am Dm G7
-I got music
-C Am Dm G7
-I got my man,
-         C       G7       C
-who can ask for anything more?
-C Am Dm G7
-I got daisies
-C  Am   Dm G7
-in green pastures
-C Am Dm G7
-I got my man,
-         C       G7       C
-who can ask for anything more?
+[C]I [Am]got[Dm] rh[G7]ythm,
+[C]I [Am]got[Dm] mu[G7]sic
+[C]I [Am]got[Dm] my[G7] man,
+who can a[C]sk for a[G7]nything m[C]ore?
+[C]I [Am]got[Dm] da[G7]isies
+[C]in [Am]green[Dm] pa[G7]stures
+[C]I [Am]got[Dm] my[G7] man,
+who can a[C]sk for a[G7]nything m[C]ore?
 
-E
-Old man trouble,
-A
-I don’t mind him
-D
-You won’t find him
-G
-‘Round my door
+[E]Old man trouble,
+[A]I don’t mind him
+[D]You won’t find him
+[G]‘Round my door
 
-C Am Dm G7
-I got starlight
-C Am Dm G7
-I got sweet dreams
-C Am Dm G7
-I got my man
-           C       G7       C
-Who could ask for anything more
+[C]I [Am]got[Dm] st[G7]arlight
+[C]I [Am]got[Dm] sw[G7]eet dreams
+[C]I [Am]got[Dm] my[G7] man
+Who could a[C]sk for a[G7]nything m[C]ore
 
-Am           E          Am       E
-Days can be sunny with never a sigh
-Am                G7       C
-Don't need what money can buy
-Am             E          Am             E
-Birds in the trees sing their dayful of songs
-Am            G7         C
-Why shouldn't we sing along
+[Am]Days can be s[E]unny with n[Am]ever a si[E]gh
+[Am]Don't need what mo[G7]ney can b[C]uy
+[Am]Birds in the tr[E]ees sing th[Am]eir dayful of s[E]ongs
+[Am]Why shouldn't [G7]we sing alo[C]ng
 
-C Am Dm G7
-I got rhythm,
-C Am Dm G7
-I got music
-C Am Dm G7
-I got my man,
-         C       G7       C
-who can ask for anything more?
+[C]I [Am]got[Dm] rh[G7]ythm,
+[C]I [Am]got[Dm] mu[G7]sic
+[C]I [Am]got[Dm] my[G7] man,
+who can a[C]sk for a[G7]nything m[C]ore?
