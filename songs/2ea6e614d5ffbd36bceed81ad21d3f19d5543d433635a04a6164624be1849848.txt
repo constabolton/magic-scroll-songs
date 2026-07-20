@@ -8,63 +8,39 @@ Written by Holt Marvell & Jack Strachey
 Ab/Eb Bbm7 Ab Ab/Eb Bbm7 Ab Dbmaj7 Cmaj7 Bmaj7 Bbmaj7 Amaj7
 
 [Verse 1]
-Abmaj7 Fm7           Bb7           Eb7b9
-A cigarette that bares lipstick's traces
-Abmaj7      Fm7  Bbm7           Eb9 Eb7b9
-An airline ticket to romantic places
-Ab7sus4 Ab7b13     Dbmaj7 C7b9
-Still my heart has wings
- F7            Bb7 Dm7b5          Bbm7 Eb9 Eb7b9
-These foolish things remind me of you
+[Abmaj7]A cigar[Fm7]ette that bare[Bb7]s lipstick's t[Eb7b9]races
+[Abmaj7]An airline t[Fm7]icket[Bbm7] to romantic pl[Eb9]aces[Eb7b9]
+[Ab7sus4]Still my[Ab7b13] heart has [Dbmaj7]wings [C7b9]
+T[F7]hese foolish t[Bb7]hing[Dm7b5]s remind me of [Bbm7]you [Eb9] [Eb7b9]
 
 [Verse 2]
-Abmaj7      Fm7  Bb7           Eb7b9
-A tinkling piano in the next apartment
-Abmaj7  Fm7
-Those stumblin' words
-Bbm7                   Eb9  Eb7b9
-That told you what my heart meant
-Ab7sus4     Ab7b13     Dbmaj7 C7b9
-A fair grounds painted swings
-  F7    Bb7       Eb7b9         Abmaj7 Dm7b5 G7
-These foolish things remind me of you
+[Abmaj7]A tinkling p[Fm7]iano [Bb7]in the next ap[Eb7b9]artment
+[Abmaj7]Those st[Fm7]umblin' words
+[Bbm7]That told you what my h[Eb9]eart [Eb7b9]meant
+[Ab7sus4]A fair groun[Ab7b13]ds painted [Dbmaj7]swings [C7b9]
+Th[F7]ese fo[Bb7]olish thin[Eb7b9]gs remind me o[Abmaj7]f you [Dm7b5] [G7]
 
 [Chorus 1]
-Cm6     Dm7b5 G7 Cm6
-You came you saw
-              F13 Abm7 Db9
-You conquered me
-Ebmaj7 Cm11 Bb7sus   Bb7
-When you did that to me
-Bbm7     Eb9   Bbm7    Eb9   Eb7b9
-I knew somehow this had to be
+[Cm6]You came[Dm7b5] you s[G7]aw [Cm6]
+You conquered [F13]me [Abm7] [Db9]
+[Ebmaj7]When yo[Cm11]u did[Bb7sus] that to [Bb7]me
+[Bbm7]I knew so[Eb9]mehow [Bbm7]this had[Eb9] to be[Eb7b9]
 
 [Verse 3]
-Abmaj7   Fm7                     Bb7     Eb7b9 Abmaj7
-The winds of March that made my heart a dancer
-       Fm7           Bbm7             Eb9  Eb7b9
-A telephone that rings but who's to answer?
-Ab7sus4    Ab7b13        Dbmaj7 C7b9
-Oh, how the ghost of you clings
- F7            Bb7     Eb9 Eb7b9 Abmaj7 Dm7b5 G7
-These foolish things remind me of you
+[Abmaj7]The winds[Fm7] of March that made my h[Bb7]eart a d[Eb7b9]ancer [Abmaj7]
+A telep[Fm7]hone that ring[Bbm7]s but who's to an[Eb9]swer?[Eb7b9]
+[Ab7sus4]Oh, how the[Ab7b13] ghost of you [Dbmaj7]clings [C7b9]
+T[F7]hese foolish t[Bb7]hings re[Eb9]mind[Eb7b9] me of[Abmaj7] you [Dm7b5] [G7]
 
 [Chorus 2]
-Cm6      Dm7b5    G7 Cm6
-How strange how sweet
-             F13 Abm7 Db9
-To find you still
-Ebmaj7 Cm11     Bb7sus   Bb7
-These things are dear to me
-Bbm7          Eb9      Bbm7    Eb9 Eb7b9
-They seem to bring you near to me
+[Cm6]How stran[Dm7b5]ge how sw[G7]eet[Cm6]
+To find you s[F13]till[Abm7] [Db9]
+[Ebmaj7]These t[Cm11]hings are[Bb7sus] dear to [Bb7]me
+[Bbm7]They seem to b[Eb9]ring you [Bbm7]near to [Eb9]me [Eb7b9]
 
 [Verse 4]
-Abmaj7           Fm7          Bb7            Eb7b9
-The scent of smoldering leaves the wail of steamers
-Abmaj7    Fm7          Bbm7          Eb9  Eb7b9
-Two lovers on the street who walk like dreamers
-Ab7sus4    Ab7b13       Dbmaj7 C7b9
-Oh how the ghost of you clings
+[Abmaj7]The scent of smol[Fm7]dering leaves[Bb7] the wail of st[Eb7b9]eamers
+[Abmaj7]Two lovers[Fm7] on the stree[Bbm7]t who walk lik[Eb9]e dre[Eb7b9]amers
+[Ab7sus4]Oh how the [Ab7b13]ghost of you [Dbmaj7]clings [C7b9]
 F7      Bb7     Eb7(#9)/Bb           Db9sus4 A13 A7 Abmaj7
 These foolish things remind me of you
