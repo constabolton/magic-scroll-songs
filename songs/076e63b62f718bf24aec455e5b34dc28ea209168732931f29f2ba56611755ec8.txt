@@ -9,57 +9,35 @@ ROCKY RACCOON - The Beatles
 | Am7 | % | % | % |
 
 [Verse 1]
-    Am7
-Now somewhere in the black mining hills of Dakota
-              D7sus4                  D7
-There lived a young boy named Rocky Raccoon
-G7                                   C
- And one day his woman ran off with another guy
-C/B                  [ Am7 ]
-Hit young Rocky in the eye
+Now [Am7]somewhere in the black mining hills of Dakota
+There lived a [D7sus4]young boy named Rocky Ra[D7]ccoon
+[G7] And one day his woman ran off with a[C]nother guy
+[C/B]Hit young Rocky in the [Am7]eye
 
-Am7
-   Rocky didn't like that
-             D7sus4              D7
-He said "I'm gonna get that boy"
-        G7
-So one day he walked into town
-                             C            C/B
-Booked himself a room in the local saloon
+[Am7]   Rocky didn't like that
+He said "I'm [D7sus4]gonna get that boy" [D7]
+So one d[G7]ay he walked into town
+Booked himself a room in the [C]local saloon [C/B]
 
 [Verse 2]
-Am7                   D7sus4  D7
-Rocky Raccoon checked into his room
-G7                   C      C/B
-Only to find Gideon's bible
-Am7             D7sus4         D7
-Rocky had come equipped with a gun
-   G7                        C      C/B
-To shoot off the legs of his rival
-Am7                    D7sus4     D7
-His rival it seems had broken his dreams
-   G7                       C      C/B
-By stealing the girl of his fancy
+[Am7]Rocky Raccoon checked [D7sus4]into his[D7] room
+[G7]Only to find Gideon's[C] bible [C/B]
+[Am7]Rocky had come e[D7sus4]quipped with a [D7]gun
+To [G7]shoot off the legs of his [C]rival [C/B]
+[Am7]His rival it seems had [D7sus4]broken his [D7]dreams
+By [G7]stealing the girl of his [C]fancy [C/B]
 
 [Verse 3]
-    Am7                    D7sus4         D7
-Her name was Magil and she called herself Lil
-    G7                   C      C/B
-But everyone knew her as Nancy
+Her [Am7]name was Magil and she [D7sus4]called herself [D7]Lil
+But [G7]everyone knew her as [C]Nancy [C/B]
 
-    Am7                 D7sus4         D7
-Now she and her man who called himself Dan
-     G7                      C       C/B
-Were in the next room at the hoe down
-Am7                D7sus4     D7
-Rocky burst in and grinning a grin
-         G7                    C      C/B
-He said "Danny boy this is a showdown"
+Now [Am7]she and her man who [D7sus4]called himself [D7]Dan
+Were [G7]in the next room at the [C]hoe down[C/B]
+[Am7]Rocky burst in and [D7sus4]grinning a [D7]grin
+He said "[G7]Danny boy this is a sh[C]owdown"[C/B]
 
-    Am7                D7sus4         D7
-But Daniel was hot- he drew first and shot
-    G7                     C       C/B
-And Rocky collapsed in the corner
+But [Am7]Daniel was hot- he [D7sus4]drew first and [D7]shot
+And [G7]Rocky collapsed in the [C]corner [C/B]
 
 [Interlude]
 | Am7 | % | D7sus4 | D7 |
@@ -68,26 +46,17 @@ And Rocky collapsed in the corner
 | G7  | % | C   | C/B |
 
 [Verse 4]
-        Am7            D7sus4      D7
-Now the doctor came in stinking of gin
-       G7                   C      C/B
-And proceeded to lie on the table
-         Am7
-He said "Rocky you met your match"
-          D7sus4                 D7
-And Rocky said, "Doc it's only a scratch
-            G7                                      C      C/B
-And I'll be better, I'll be better doc as soon as I am able"
+Now the [Am7]doctor came in [D7sus4]stinking of [D7]gin
+And pro[G7]ceeded to lie on the [C]table [C/B]
+He said "[Am7]Rocky you met your match"
+And Rocky [D7sus4]said, "Doc it's only a [D7]scratch
+And I'll be [G7]better, I'll be better doc as soon as I [C]am able[C/B]"
 
 [Verse 5]
-    Am7                   D7sus4      D7
-Now Rocky Raccoon he fell back in his room
-G7                    C      C/B
-Only to find Gideon's bible
-Am7                       D7sus4     D7
-Gideon checked out and he left it no doubt
-   G7                             C   C/B
-To help with good Rocky's revival
+Now [Am7]Rocky Raccoon he fell [D7sus4]back in his [D7]room
+[G7]Only to find Gideon's [C]bible [C/B]
+[Am7]Gideon checked out and he [D7sus4]left it no [D7]doubt
+To [G7]help with good Rocky's revival [C] [C/B]
 
 [Outro]
 | Am7 | % | D7sus4 | D7 |
