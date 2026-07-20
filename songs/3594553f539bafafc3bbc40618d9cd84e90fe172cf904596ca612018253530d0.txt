@@ -6,40 +6,28 @@ Song name: Good Riddance Time Of Your Life  by  Green Day
 | G       | Cadd9 D  |
 
 [Verse 1]
-G                          Cadd9             D
-  Another turning point, a fork stuck in the road
-G                                Cadd9              D
-  Time grabs you by the wrist, directs you where to go
-Em            D            C                  G
-  So make the best of this test and don't ask why
-Em           D              C                 G
-  It's not a question but a lesson learned in time
+[G]  Another turning point, a [Cadd9]fork stuck in the [D]road
+[G]  Time grabs you by the wrist, di[Cadd9]rects you where to [D]go
+[Em]  So make the [D]best of this [C]test and don't ask [G]why
+[Em]  It's not a [D]question but a [C]lesson learned in [G]time
 
 [Chorus]
-     Em             G            Em              G
-It's something unpredictable but in the end it's right
-  Em               D            G
-I hope you had the time of your life
+It's [Em]something unpre[G]dictable but [Em]in the end it's [G]right
+I [Em]hope you had the [D]time of your [G]life
 
 [Interlude]
 |(G)      | Cadd9 D  |
 | G       | Cadd9 D  |
 
 [Verse 2]
-G                             Cadd9                D
-  So take the photographs and still frames in your mind
-G                        Cadd9                D
-  Hang it on a shelf, in good health and good time
-Em           D            C            G
-  Tattoos of memories and dead skin on trial
-Em              D            C             G
-  For what it's worth it was worth all the while
+[G]  So take the photographs and [Cadd9]still frames in your [D]mind
+[G]  Hang it on a shelf, in [Cadd9]good health and good [D]time
+[Em]  Tattoos of [D]memories and [C]dead skin on [G]trial
+[Em]  For what it's [D]worth it was [C]worth all the [G]while
 
 [Chorus]
-     Em             G            Em              G
-It's something unpredictable but in the end it's right
-  Em               D            G
-I hope you had the time of your life
+It's [Em]something unpre[G]dictable but [Em]in the end it's [G]right
+I [Em]hope you had the [D]time of your [G]life
 
 [Instrumental]
 |(G)      | Cadd9 D  |
@@ -50,20 +38,16 @@ I hope you had the time of your life
 | Em  D   | C    G   |
 
 [Chorus]
-     Em             G            Em              G
-It's something unpredictable but in the end it's right
-  Em               D            G
-I hope you had the time of your life
+It's [Em]something unpre[G]dictable but [Em]in the end it's [G]right
+I [Em]hope you had the [D]time of your [G]life
 
 [Interlude]
 |(G)      | Cadd9 D  |
 | G       | Cadd9 D  |
 
 [Chorus]
-     Em             G            Em              G
-It's something unpredictable but in the end it's right
-  Em               D            G
-I hope you had the time of your life
+It's [Em]something unpre[G]dictable but [Em]in the end it's [G]right
+I [Em]hope you had the [D]time of your [G]life
 
 [Outro]
 |(G)      | Cadd9 D  |
