@@ -3,14 +3,10 @@ Song name: Lollipop  by  The Chordettes
 ----------------------------------------------------------------------
 [Intro]
 
-G         Em            Am    D
-Lollipop, Lollipop, oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G          
-LOLLIPOP!..
+[G]Lollipop, [Em]Lollipop, oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]LOLLIPOP!..
 
 
  Ba, boomp, boomp, boomp!
@@ -24,40 +20,27 @@ E|-------------------------|-------------------------|
 
 [Verse 1]
 
-G            C         G        C
-Call my baby Lollipop..tell you why.
-G           C             Am     D
-His kiss is sweeter than an apple pie.
-G           C              G       C
-And when he does his shaky rockin' dance,
-G                        D
-Man, I haven't got a chance...
+[G]Call my baby [C]Lollipop..[G]tell you [C]why.
+[G]His kiss is [C]sweeter than a[Am]n apple[D] pie.
+[G]And when he [C]does his shaky [G]rockin' [C]dance,
+[G]Man, I haven't got a chan[D]ce...
 
 
 [Chorus]
 
-  D
-I call him...
-G         Em            Am    D
-Lollipop, Lollipop, oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G          
-LOLLIPOP!.. Ba, boomp, boomp, boomp!
+I [D]call him...
+[G]Lollipop, [Em]Lollipop, oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]LOLLIPOP!.. Ba, boomp, boomp, boomp!
 
 
 [Verse 2]
 
-C                              G            C
-Sweeter than candy on a stick, Huckleberry, Cherry 
-   G
-or Lime.
-C
-If you had a choice, he'd be your pick,
-    D         
-but Lollipop is mi..i..ine.
+[C]Sweeter than candy on a stick, [G]Huckleberry, [C]Cherry 
+or [G]Lime.
+[C]If you had a choice, he'd be your pick,
+but [D]Lollipop is mi..i..ine.
 
                      ^^ this part.
                      ||
@@ -71,37 +54,24 @@ E|------------------|-------------------------|
 
 [Chorus]
 
-G         Em            Am    D
-Lollipop, Lollipop, oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G          
-LOLLIPOP!.. Ba, boomp, boomp, boomp!
+[G]Lollipop, [Em]Lollipop, oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]LOLLIPOP!.. Ba, boomp, boomp, boomp!
 
 
 [Verse 3]
 
-G            C           G        C
-Crazy way he thrills me..tell you why..
-G           C         Am      D
-Just like a lightning from the sky.
-G           C               G         C
-He loves to kiss me, till I can't see straight.
-G                   D
-Gee, my Lollipop is great. 
-  D
-I call him...
+[G]Crazy way he [C]thrills me..[G]tell you [C]why..
+[G]Just like a [C]lightning [Am]from the[D] sky.
+[G]He loves to [C]kiss me, till I [G]can't see [C]straight.
+[G]Gee, my Lollipop is [D]great. 
+I [D]call him...
 
 
 [Chorus]
 
-G         Em            Am    D
-Lollipop, Lollipop, oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G         Em            Am    D
-Lollipop, Lollipop..oh, Lolli, Lolli, Lolli..
-G          
-LOLLIPOP!.. Ba, boomp, boomp, boomp!
+[G]Lollipop, [Em]Lollipop, oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]Lollipop, [Em]Lollipop..oh, [Am]Lolli,[D] Lolli, Lolli..
+[G]LOLLIPOP!.. Ba, boomp, boomp, boomp!
