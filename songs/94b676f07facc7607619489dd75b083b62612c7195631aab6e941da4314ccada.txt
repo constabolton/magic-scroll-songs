@@ -4,82 +4,51 @@ Song name: Mambo Italiano  by  Rosemary Clooney
 Rosemary Clooney
 
 [Intro]
-  Am               Dm
-A girl went back to Napoli
-  E                   Am
-Because she missed the scenery
-    F                    Dm
-The native dances and the charming songs
-    B7            E7
-But wait a minute something's wrong ... 
+A [Am]girl went back to[Dm] Napoli
+Be[E]cause she missed the[Am] scenery
+The [F]native dances and the[Dm] charming songs
+But [B7]wait a minute [E7]something's wrong ... 
 
-| Am | Dm | Am | Dm |
-(instrumental)
+(i[Am]nstru[Dm]menta[Am]l) [Dm]
 
 [Verse 1]
-Am         Dm/F
-Hey mambo, mambo Italiano
-Am         Dm/F
-Hey mambo, mambo Italiano
-Am           Dm/F
-Go go go you mixed up Siciliano
-Am
-All you Calabrese do the mambo like-a crazy with-a
+[Am]Hey mambo, [Dm/F]mambo Italiano
+[Am]Hey mambo, [Dm/F]mambo Italiano
+[Am]Go go go you [Dm/F]mixed up Siciliano
+[Am]All you Calabrese do the mambo like-a crazy with-a
 
 [Verse 2]
-Am         Dm
-Hey mambo, don't wanna tarantella
-Am         Dm
-Hey mambo, no more mozzarella
-Am         Dm
-Hey mambo, mambo Italiano
-Am
-Try an enchilada with a fishy baccala
+[Am]Hey mambo, [Dm]don't wanna tarantella
+[Am]Hey mambo, [Dm]no more mozzarella
+[Am]Hey mambo, [Dm]mambo Italiano
+[Am]Try an enchilada with a fishy baccala
 
 [Bridge]
-C         A7                Dm
-Hey goomba I love-a how you dance the rumba
-G/B   G             Am      Am(maj7) Am7            Am6     
-  But take-a some advice paisano     learn-a how to mambo
-F
-If you're gonna be a square, you ain't-a gonna go nowhere
+[C]Hey goomba[A7] I love-a how you [Dm]dance the rumba
+[G/B]  But [G]take-a some ad[Am]vice pai[Am]sano     [Am7]learn-a how to [Am6]mambo
+[F]If you're gonna be a square, you ain't-a gonna go nowhere
 
 [Verse 3]
-Am         Dm
-Hey mambo, mambo Italiano
-Am         Dm
-Hey mambo, mambo Italiano
-Am         Dm
-Go go Joe, shake-a like a Giovanno
-Am
-E lo che se dice - get happy in the feetsa when you
-Bm   E7    Am
-Mambo Italiano ...
+[Am]Hey mambo, [Dm]mambo Italiano
+[Am]Hey mambo, [Dm]mambo Italiano
+[Am]Go go Joe, [Dm]shake-a like a Giovanno
+[Am]E lo che se dice - get happy in the feetsa when you
+[Bm]Mambo[E7] Itali[Am]ano ...
 
 [Solo]
 | Ebm | Abm | Ebm | Abm | 
-| Ebm | Abm | Ebm | % | 
-              Shake-a, shake-a, baby, cause I love-a when you take-a me ...
+  [Ebm]      [Abm]      [Ebm]Shake-a, shake-a, baby, cause I love-a when you take-a me ...
 | Ebm | Abm | Ebm | Abm | 
-| Ebm | Abm | Ebm | % | 
-                   Momma, say-a "Stop-a or I'm gonna tell-a Poppa!"
+  [Ebm]      [Abm]      [Ebm]     Momma, say-a "Stop-a or I'm gonna tell-a Poppa!"
 
 [Bridge]
-      Db            Bb7                  Ebm
-And-a hey, chadrool, you don't-a have to go to school
-Ab/C   Ab             Bbm    Bb(maj7) Bbm7        Bbm6
-  Just make it with a big bambino     it's-a like vino
-Gb
-Kid, you good-a looking but you don't know what is cooking 'til you
+And-a [Db]hey, chadrool,[Bb7] you don't-a have to [Ebm]go to school
+[Ab/C]  Just [Ab]make it with a [Bbm]big bam[Bb]bino     [Bbm7]it's-a like [Bbm6]vino
+[Gb]Kid, you good-a looking but you don't know what is cooking 'til you
 
 [Verse 4]
-Bbm        Ebm
-Hey mambo, mambo Italiano
-Bbm        Ebm
-Hey mambo, mambo Italiano
-Bbm           Ebm
-Ho ho ho, you mixed up Siciliano
-Bm
-It's-a so delisce, ev'rybody can capisce how to 
-Cm   F7    Bbm6
-Mambo Italiano ... that's nice-e ... Ooh!
+[Bbm]Hey mambo, [Ebm]mambo Italiano
+[Bbm]Hey mambo, [Ebm]mambo Italiano
+[Bbm]Ho ho ho, you [Ebm]mixed up Siciliano
+[Bm]It's-a so delisce, ev'rybody can capisce how to 
+[Cm]Mambo[F7] Itali[Bbm6]ano ... that's nice-e ... Ooh!
