@@ -2,73 +2,47 @@ Time Signature: 3/4
 
 
 [Verse]
-     G        D        G             G7
-They say that love's a gentle thing
-         C    D          G
-But it's only brought me pain
-        C    D   Em
-For the only man I ever loved
-    Am          D       G
-Has gone on the morning train
+They [G]say that [D]love's a [G]gentle thing [G7]
+But it's [C]only [D]brought me [G]pain
+For the [C]only [D]man [Em]I ever loved
+Has [Am]gone on the [D]morning [G]train
 
 
 [Chorus]
-             D
-I never will marry
-     G           C
-I'll be no man's wife
-                 G
-I expect to live single
-          D         G
-All the days of my life
+I never will [D]marry
+I'll [G]be no man's [C]wife
+I expect to live [G]single
+All the da[D]ys of my l[G]ife
 
 
 [Verse]
-         G            D
-Well the train pulled out
-    G              G7
-The whistle blew
-       C          D        G
-With a long and a lonesome moan
-     C         D
-He's gone he's gone
-         Em
-Like the morning dew
-    Am      D   G
-And left me all alone
+Well the [G]train pulled [D]out
+The [G]whistle blew [G7]
+With a [C]long and a [D]lonesome [G]moan
+He's [C]gone he's [D]gone
+Like the [Em]morning dew
+And [Am]left me [D]all [G]alone
 
 
 [Chorus]
-             D
-I never will marry
-     G           C
-I'll be no man's wife
-                 G
-I expect to live single
-          D         G
-All the days of my life
+I never will [D]marry
+I'll [G]be no man's [C]wife
+I expect to live [G]single
+All the da[D]ys of my l[G]ife
 
 
 [Verse]
-             G      D             G             G7
-Well there's many a change in the winter wind
-      C             D       G
-And a change in the cloud's design
-        C      D           Em
-There's many a change in a young man's heart
-    Am      D         G
-But never a change in mine
+Well there's [G]many a [D]change in the [G]winter wind [G7]
+And a [C]change in the [D]cloud's [G]design
+There's [C]many a [D]change in a [Em]young man's heart
+But [Am]never a [D]change in [G]mine
 
 
 [Chorus]
-             D
-I never will marry
-     G           C
-I'll be no man's wife
-                 G
-I expect to live single
-          D         G
-All the days of my life
+I never will [D]marry
+I'll [G]be no man's [C]wife
+I expect to live [G]single
+All the da[D]ys of my l[G]ife
 
 
 [Outro]
