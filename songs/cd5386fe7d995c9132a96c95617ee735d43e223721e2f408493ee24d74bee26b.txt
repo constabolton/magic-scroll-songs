@@ -2,55 +2,31 @@
 Song name: Nobody Knows You When Youre Down And Out  by  Bessie Smith
 ----------------------------------------------------------------------
 [Verse]
-F                A7        D7
-Once I lived the life of a millionaire
-Gm          D7       Gm
-Spending my money, I didn't care
-Bb           Fdim        F          D7
-I carried my friends out for a good time
-G9                     Db7           C7
-Buying bootleg liquor, champagne and wine
-F      A7       D7
-Then I began to fall so low
-Gm              D7             Gm
-I didn't have a friend, and no place to go
-     Bb          Fdim      F      Eb7 D7
-If I ever get my hand on a dollar again
-G9                                C7
-I'm gonna hold on to it till them eagle's grin
+[F]Once I lived the [A7]life of a [D7]millionaire
+[Gm]Spending my [D7]money, I [Gm]didn't care
+[Bb]I carried my [Fdim]friends out [F]for a good [D7]time
+[G9]Buying bootleg liquor, [Db7]champagne and [C7]wine
+[F]Then I [A7]began to [D7]fall so low
+[Gm]I didn't have a [D7]friend, and no [Gm]place to go
+If I [Bb]ever get my [Fdim]hand on a [F]dollar [Eb7]agai[D7]n
+[G9]I'm gonna hold on to it till them [C7]eagle's grin
 
 [Chorus]
-F A7   D7        Gm       D7       Gm
-Nobody knows you when you down and out
-Bb    Fdim   F       D7
-In my pocket not one penny
-G9             Db7       C7
-And my friends I  haven't any
-F             A7     D7
-If I ever get on my feet again
-Gm   D7      Gm
-I'll meet my long lost friend
-Bb          Fdim     F         D7
-It's mighty strange, without a doubt
-G9                                 C7
-Nobody knows you when you down and out
-G9              C9       F
-I mean when you down and out
+[F]No[A7]body [D7]knows you [Gm]when you [D7]down and [Gm]out
+[Bb]In my [Fdim]pocket [F]not one [D7]penny
+[G9]And my friends [Db7]I  haven't[C7] any
+[F]If I ever get [A7]on my f[D7]eet again
+[Gm]I'll [D7]meet my [Gm]long lost friend
+[Bb]It's mighty [Fdim]strange, [F]without a [D7]doubt
+[G9]Nobody knows you when you down and [C7]out
+[G9]I mean when you [C9]down and [F]out
 
 [Chorus]
-F A7 D7  Gm          D7       Gm
-Mmmmm,   when you're down and out
-Bb Fdim   F       D7
-Mmmmm,    not one penny
-G9             Db7       C7
-And my friends I  haven't any
-F A7     D7
-Mmmmm,   well I felt so low
-Gm     D7       Gm
-Nobody wants me round their door
-Bb Fdim   F         D7
-Mmmmm,   without a doubt
-G9                                  C7
-No man can use you wen you down and out
-G9              C9       F
-I mean when you down and out
+[F]Mm[A7]mmm[D7],   [Gm]when you're [D7]down and [Gm]out
+[Bb]Mmm[Fdim]mm,    [F]not one [D7]penny
+[G9]And my friends [Db7]I  haven't[C7] any
+[F]Mm[A7]mmm,   [D7]well I felt so low
+[Gm]Nobody [D7]wants me [Gm]round their door
+[Bb]Mmm[Fdim]mm,   w[F]ithout a d[D7]oubt
+[G9]No man can use you wen you down and [C7]out
+[G9]I mean when you [C9]down and [F]out
