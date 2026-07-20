@@ -22,138 +22,91 @@ Please take a second to scroll down to the bottom of
 the page and select a star rating for my tab, thanks
 ======================================================
 [Intro]
-  C            G/B          F/A          G
-| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
-  C            G/B          F/A          G
-| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+| [C]/  /  /  / | [G/B]/  /  /  / | [F/A]/  /  /  / | [G]/  /  /  / |
+| [C]/  /  /  / | [G/B]/  /  /  / | [F/A]/  /  /  / | [G]/  /  /  / |
 
 [Verse 1]
-  G                 C                    Em
-| /  /  /  / |  Oh, I can't take another ...heartache,
-           F                     G7sus4
-Though you say you're my friend, I'm at my wits end,
-C                        Em
-   You say your love is   ...bona fide,
-                F         Em
-But that don't  ...coin - cide...
-Dm                             F
-   ...With the things that you do,
-           Em            F         G7sus4
-And when I ask you to be nice, you say...
+| [G]/  /  /  / |  Oh, [C]I can't take another [Em]...heartache,
+Though you [F]say you're my friend, [G7sus4]I'm at my wits end,
+[C]   You say your love is  [Em] ...bona fide,
+But that don't  [F]...coin - [Em]cide...
+[Dm]   ...With the things that you [F]do,
+And when I [Em]ask you to be [F]nice, you [G7sus4]say...
 
 [Chorus]
-             F           G     Em           Am
-You gotta be cruel to be kind, in the right measure,
-F           G            Em        Am  Am
-Cruel to be kind, it's a very good sign,
+You gotta be [F]cruel to be [G]kind, [Em]in the right [Am]measure,
+[F]Cruel to be [G]kind, it's a [Em]very good [Am]sign[Am],
                                     ^    ^
-F           G     Em           Am
-Cruel to be kind, means that I love you...
-G7sus4                                          C
-Baby-----------------, you gotta be cruel to be kind
+[F]Cruel to be [G]kind, [Em]means that I [Am]love you...
+[G7sus4]Baby-----------------, you gotta be cruel to be [C]kind
    (Babe-------------!)
         (You gotta be cruel!)
 
-  G/B          F/A          G
-| /  /  /  / | /  /  /  / | /  /  /  / |
+| [G/B]/  /  /  / | [F/A]/  /  /  / | [G]/  /  /  / |
 
 [Verse 2]
-        C                  Em
-Well, I do my best to under - stand, dear,
-         F                 G7sus4
-But, you still mystify and I wanna know why,
-C                     Em
-     I pick myself up  ...off the ground,
-            F            Em
-To have you  ...knock me back down,
-Dm                 F
-     Again and a - gain,
-           Em              F          G7sus4
-And when I ask you to ex - plain, you say...
+Well, I [C]do my best to under[Em] - stand, dear,
+But, you [F]still mystify and [G7sus4]I wanna know why,
+[C]     I pick myself up [Em] ...off the ground,
+To have you [F] ...knock me [Em]back down,
+[Dm]     Again and a - [F]gain,
+And when I [Em]ask you to ex - [F]plain, you [G7sus4]say...
 
 [Chorus]
-             F           G     Em           Am
-You gotta be cruel to be kind, in the right measure,
-F           G            Em        Am  Am
-Cruel to be kind, it's a very good sign,
+You gotta be [F]cruel to be [G]kind, [Em]in the right [Am]measure,
+[F]Cruel to be [G]kind, it's a [Em]very good [Am]sign[Am],
                                    ^    ^
-F           G     Em           Am
-Cruel to be kind, means that I love you...
-G7sus4                                          C
-Baby-----------------, you gotta be cruel to be kind
+[F]Cruel to be [G]kind, [Em]means that I [Am]love you...
+[G7sus4]Baby-----------------, you gotta be cruel to be [C]kind
    (Babe-------------!)
         (You gotta be cruel!)
 
 [Bridge]  (Tablature of solo at bottom of page)
-C            A       A7     F     G      Em    Am Am
-  Oo, oo-oo! Oo- oo, oo!  | /  /  /  / | /  /  /  / |
-  F     G      Em    Am Am  F     G      Em    Am Am
-| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
-  G7sus4                              G7
-| /_/ /_/ /_/ /_/ | /_/ /_/ /_/ /_/ | /_/ /_/ /_/
+[C]  Oo, oo-oo! [A]Oo- oo, [A7]oo!  | [F]/  /  [G]/  / | [Em]/  /  [Am]/  [Am]/ |
+| [F]/  /  [G]/  / | [Em]/  /  [Am]/  [Am]/ | [F]/  /  [G]/  / | [Em]/  /  [Am]/  [Am]/ |
+| [G7sus4]/_/ /_/ /_/ /_/ | /_/ /_/ /_/ /_/ | [G7]/_/ /_/ /_/
 
 [Verse 3]
-G7      C                   Em
-Well, I do my best to under  -  stand, dear,
-          F                G7sus4
-But, you still mystify and I wanna know why,
-C                    Em
-    I pick myself up ...off the ground,
-            F           Em
-To have you ...knock me back down,
-Dm                F
-    Again and a - gain,
-           Em              F          G7sus4
-And when I ask you to ex - plain, you say...
+[G7]Well, I [C]do my best to under [Em] -  stand, dear,
+But, you s[F]till mystify and [G7sus4]I wanna know why,
+[C]    I pick myself up [Em]...off the ground,
+To have you [F]...knock me [Em]back down,
+[Dm]    Again and a - [F]gain,
+And when I [Em]ask you to ex - [F]plain, you [G7sus4]say...
 
 [Chorus]
-             F           G     Em           Am
-You gotta be cruel to be kind, in the right measure,
-F           G            Em        Am  Am
-Cruel to be kind, it's a very good sign,
+You gotta be [F]cruel to be [G]kind, [Em]in the right [Am]measure,
+[F]Cruel to be [G]kind, it's a [Em]very good [Am]sign[Am],
                                    ^    ^
-F           G     Em           Am
-Cruel to be kind, means that I love you...
-G7sus4
-Baby---------------------------!
+[F]Cruel to be [G]kind, [Em]means that I [Am]love you...
+[G7sus4]Baby---------------------------!
       (Babe--------------------!)
             (You gotta be cruel!)
 
 [Chorus]
-    G7                   F           G
-You gotta be cruel to be kind------------,
+You [G7]gotta be cruel to be [F]kind--------[G]----,
                         (Cruel to be kind!)
-    Em           Am        F           G
-Oh, in the right measure, (Cruel to be kind!)
-        Em          Am   Am   F           G
- It's a very, very, very good sign------------,
+Oh, [Em]in the right [Am]measure, ([F]Cruel to be [G]kind!)
+ It's a [Em]very, very, [Am]very [Am]good [F]sign--------[G]----,
                     ^   ^    (Cruel to be kind!)
-   Em           Am
-It means that I love you...
-G7sus4
-Baby---------------------------!
+It [Em]means that I [Am]love you...
+[G7sus4]Baby---------------------------!
       (Babe--------------------!)
             (You gotta be cruel!)
 
 [Chorus]
-    G7                   F           G
-You gotta be cruel to be kind------------,
+You [G7]gotta be cruel to be [F]kind--------[G]----,
                         (Cruel to be kind!)
-    Em           Am        F           G
-Oh, in the right measure, (Cruel to be kind!)
-        Em          Am   Am   F           G
- It's a very, very, very good sign------------,
+Oh, [Em]in the right [Am]measure, ([F]Cruel to be [G]kind!)
+ It's a [Em]very, very, [Am]very [Am]good [F]sign--------[G]----,
                     ^   ^    (Cruel to be kind!)
-   Em           Am
-It means that I love you...
-G7sus4
-Baby---------------------------!
+It [Em]means that I [Am]love you...
+[G7sus4]Baby---------------------------!
       (Babe--------------------!)
             (You gotta be cruel!)
 
 [Suggestion for coda]
-    G7                   F    Dm7/G     C
-You gotta be cruel to be kind--------------!
+You [G7]gotta be cruel to be [F]kind-[Dm7/G]----------[C]---!
 
 ====================================================
 [Bridge - Guitar break]
@@ -179,7 +132,6 @@ For the GUITAR chord box diagrams to match my
 suggested choices you need to manually select the
 following choice of options by clicking on the
 forward/backward arrows below three of the diagrams
-        G          G7sus4         G7
-    <4 of 27>    <4 of 21>     <6 of 41>
+    <4 o[G]f 27>    <4[G7sus4] of 21>     <6 [G7]of 41>
 All the other chord boxes should be the default
 first option and don't need any reselecting
