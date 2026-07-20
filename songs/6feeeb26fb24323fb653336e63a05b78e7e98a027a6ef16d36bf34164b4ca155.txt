@@ -10,94 +10,54 @@ A= x0220
 D= xx(0)232
 
 [Verse 1]
-F#m
-They made up their minds
-                 Bm
-And they started packing
-     C#                                 F#m
-They left before the sun came up that day
-   F#                        Bm
-An exit to eternal summer slacking
-    F#m                       C#
-But where were they going without ever
-            F#m
-Knowing the way?
+[F#m]They made up their minds
+And they started [Bm]packing
+They [C#]left before the sun came up that da[F#m]y
+An [F#]exit to eternal summer sla[Bm]cking
+But [F#m]where were they going with[C#]out ever
+Knowing the [F#m]way?
 
 [Verse 2]
-F#m
-They drank up the wine
- Bm
-And they got to talking
-     C#          F#m
-They now had more important things to say
-       F#        Bm
-(And) When the car broke down they started walking
- F#m   C#
-Where were they going without even
-            F#m
-Knowing the way?      E
+[F#m]They drank up the wine
+A[Bm]nd they got to talking
+They [C#]now had more[F#m] important things to say
+(And) W[F#]hen the ca[Bm]r broke down they started walking
+W[F#m]here w[C#]ere they going without even
+Knowing the [F#m]way?      E
 
 [Chorus]
-E                  A
-Anyone can see the road that they walk on
-    E
-Is paved with gold
-F#m
-It's always summer
-         C#
-They'll never get cold
-        D
-They'll never get hungry
-        A                  E
-They'll never get old and grey
-                  A                  E
-You can see their shadows wandering off somewhere
-      F#m
-They won't make it home
-           C#
-But they really don't care
-     D
-They wanted the highway
-        A               E       C#
-They're happier there today
+[E]Anyone can see the [A]road that they walk on
+Is p[E]aved with gold
+[F#m]It's always summer
+They'll n[C#]ever get cold
+They'll [D]never get hungry
+They'll [A]never get old and g[E]rey
+You can see their [A]shadows wandering o[E]ff somewhere
+They w[F#m]on't make it home
+But they re[C#]ally don't care
+They [D]wanted the highway
+They're [A]happier there to[E]day [C#]
 
 [Verse 3]
-F#m
-Their children woke up
-    Bm
-And they couldn't find them
- C#   F#m
-They'd left before the sun came up that day
-      F#         Bm
-They just drove off and left it all behind 'em
-      F#m        C#
-But where were they going without ever
-    F#m
-Knowing the way?       E
+[F#m]Their children woke up
+And [Bm]they couldn't find them
+T[C#]hey'd[F#m] left before the sun came up that day
+They j[F#]ust drove o[Bm]ff and left it all behind 'em
+But wh[F#m]ere were th[C#]ey going without ever
+Know[F#m]ing the way?       E
 
 [Chorus]
-E                  A
-Anyone can see the road that they walk on
-    E
-Is paved with gold
-F#m
-It's always summer
-         C#
-They'll never get cold
-        D
-They'll never get hungry
-        A                  E
-They'll never get old and grey
-                  A                  E
-You can see their shadows wandering off somewhere
-      F#m
-They won't make it home
-           C#
-But they really don't care
-     D
-They wanted the highway
-        A               E       C#
-They're happier there today
+[E]Anyone can see the [A]road that they walk on
+Is p[E]aved with gold
+[F#m]It's always summer
+They'll n[C#]ever get cold
+They'll [D]never get hungry
+They'll [A]never get old and g[E]rey
+You can see their [A]shadows wandering o[E]ff somewhere
+They w[F#m]on't make it home
+But they re[C#]ally don't care
+They [D]wanted the highway
+They're [A]happier there to[E]day [C#]
 
 1st solo
 
@@ -120,28 +80,17 @@ A|-------------------------------------------------------------------|
 E|-------------------------------------------------------------------|
 
 [Chorus]
-E                  A
-Anyone can see the road that they walk on
-    E
-Is paved with gold
-F#m
-It's always summer
-         C#
-They'll never get cold
-        D
-They'll never get hungry
-        A                  E
-They'll never get old and grey
-                  A                  E
-You can see their shadows wandering off somewhere
-      F#m
-They won't make it home
-           C#
-But they really don't care
-     D
-They wanted the highway
-        A               E       C#
-They're happier there today
+[E]Anyone can see the [A]road that they walk on
+Is p[E]aved with gold
+[F#m]It's always summer
+They'll n[C#]ever get cold
+They'll [D]never get hungry
+They'll [A]never get old and g[E]rey
+You can see their [A]shadows wandering o[E]ff somewhere
+They w[F#m]on't make it home
+But they re[C#]ally don't care
+They [D]wanted the highway
+They're [A]happier there to[E]day [C#]
 
 [2nd solo]
 
