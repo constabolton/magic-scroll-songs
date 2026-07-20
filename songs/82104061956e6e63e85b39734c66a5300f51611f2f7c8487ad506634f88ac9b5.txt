@@ -9,70 +9,48 @@ Gm6/D   G/D  Dsus4
 
 [Verse 1]
 
-D           Bm6     Gmaj7      Bm  D7  Gmaj7          Gm7            D/F#
-  Don't go changin'  to try please me       you never let me down before
-Am7  D7  Gmaj7        Gm7  D/F#              Bm7
-Mmmm          Don't imagine    you're too familiar
-E9sus4       E9        G/A
-And I don't see you anymore
+[D]  Don't go c[Bm6]hangin' [Gmaj7] to try ple[Bm]ase [D7]me  [Gmaj7]     you never [Gm7]let me down bef[D/F#]ore
+[Am7]Mmmm [D7]    [Gmaj7]     Don't im[Gm7]agine[D/F#]    you're too fam[Bm7]iliar
+[E9sus4]And I don't s[E9]ee you any[G/A]more
 
 
 [Refrain 1]
 
-D          Bm6        Gmaj7              Bm    D9
-I would not  leave you     in times of trouble
-Gmaj7          Gm7                 D/F#
-     we never could have come this far
-Am7  D7  Gmaj7          Gm        D/F#              Bm7
-Mmmm         I took the good times    I'll take the bad times
-Em7               G/A              Gm6/D   G/D  Dsus4  Gm6/D   G/D  Dsus4
-   I'll take you just the way you are
+[D]I would not[Bm6]  leave you[Gmaj7]     in times of tr[Bm]ouble [D9]
+[Gmaj7]     we never c[Gm7]ould have come this [D/F#]far
+[Am7]Mmmm [D7]    [Gmaj7]    I took the [Gm]good times[D/F#]    I'll take the [Bm7]bad times
+[Em7]   I'll take you j[G/A]ust the way you a[Gm6/D]re [G/D] [Dsus4] [Gm6/D] [G/D] [Dsus4]
 
 
 [Verse 2]
 
-D           Bm6  Gmaj7         Bm     D9
-  Don't go trying    some new fashion
-Gmaj7                Gm             D/F#
-    Don't change the colour of your hair
-Am7  D7  Gmaj7          Gm     D/F#         Bm7
-  Mmmm       You always have my   unspoken passion
-E9sus4        E9               G/A
-  Although I might not seem to care
+[D]  Don't go t[Bm6]rying[Gmaj7]    some new f[Bm]ashion [D9]
+[Gmaj7]    Don't change the [Gm]colour of your [D/F#]hair
+[Am7]  Mmm[D7]m   [Gmaj7]    You always [Gm]have my[D/F#]   unspoken p[Bm7]assion
+[E9sus4]  Although I m[E9]ight not seem to [G/A]care
 
 
 [Refrain 2]
 
- D             Bm6  Gmaj7      Bm   D9 Gmaj7        Gm                D/F#
-I don't want clever      conversation       I never want to work that hard
-Am7  D7  Gmaj7            Gm    D/F#           Bm7
-Mmmm         I just want someone    that I can talk to
-Em7            G/A              Gm6/D   G/D  Dsus4  Gm6/D   DM7  D7
-   I want you just the way you are
+I[D] don't want cl[Bm6]ever [Gmaj7]     conver[Bm]satio[D9]n  [Gmaj7]     I never [Gm]want to work that [D/F#]hard
+[Am7]Mmmm [D7]    [Gmaj7]    I just want s[Gm]omeone[D/F#]    that I can [Bm7]talk to
+[Em7]   I want you j[G/A]ust the way you a[Gm6/D]re [G/D] [Dsus4] [Gm6/D] [DM7] [D7]
 
 
 [Bridge]
 
-Gmaj7            A6                F#m7  B7
-     I need to know that you will always be
-Em7              A7sus           D  D/C
-   the same old someone that I knew
-Bb              C               Am7     D9
-  What will it take till you believe in me
-Gm            C/G           G/A
-  The way that I believe in you
+[Gmaj7]     I need to kn[A6]ow that you will a[F#m7]lways [B7]be
+[Em7]   the same old s[A7sus]omeone that I kn[D]ew [D/C]
+[Bb]  What will it t[C]ake till you bel[Am7]ieve in [D9]me
+[Gm]  The way that[C/G] I believe in [G/A]you
 
 
 [Refrain 3]
 
- D       Bm6      Gmaj7             Bm   D9
-I said I love you     and that's forever
-Gmaj7          Gm              D/F#
-  and this I promise from the heart
-Am7  D7  Gmaj7            Gm     D/F#     Bm7
-Mmmm          I couldn't love you     any better
-Em7            G/A              Gm6/D   G/D  Dsus4  Gm6/D   G/D  Dsus4
-   I love you just the way you are
+I[D] said I [Bm6]love you [Gmaj7]    and that's for[Bm]ever [D9]
+[Gmaj7]  and this I pr[Gm]omise from the h[D/F#]eart
+[Am7]Mmmm [D7]    [Gmaj7]     I couldn't l[Gm]ove you[D/F#]     any [Bm7]better
+[Em7]   I love you j[G/A]ust the way you a[Gm6/D]re [G/D] [Dsus4] [Gm6/D] [G/D] [Dsus4]
 
 
 [Solo]
@@ -85,12 +63,9 @@ E9sus4   E9   G/A
 
 [Refrain 4]
 
- D           Bm6   Gmaj7  Bm    D9 Gmaj7        Gm                D/F#
-I don't want clever conversation        I never want to work that hard
-Am7  D7  Gmaj7            Gm     D/F#            Bm7
-Mm            I just want someone    that I can talk to
-Em             A7sus4           Bb  C  Am7  D9  Gm  A7sus4 A7
-   I want you just the way you are
+I[D] don't want [Bm6]clever[Gmaj7] conver[Bm]sation[D9]   [Gmaj7]     I never [Gm]want to work that [D/F#]hard
+[Am7]Mm   [D7]    [Gmaj7]     I just want [Gm]someone[D/F#]    that I can t[Bm7]alk to
+[Em]   I want you j[A7sus4]ust the way you a[Bb]re [C] [Am7] [D9] [Gm] [A7sus4] [A7]
 
 
 [Outro]
@@ -114,5 +89,4 @@ Suggested ways to do certain chords:
 D9      x54530  (D7 is an easier alternative)
 E9sus4  020202  (E7sus and E7 are easier alternatives for the E9's)
 E9      020102
-Bm6     x20102
-C/G     3x5553
+[Bm6]C/G     3x5553
