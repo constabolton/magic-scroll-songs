@@ -15,8 +15,7 @@ Chord Tab:
 e 3   3    3   0  2  0
 B 3   3    3   1  3  1
 G 0   0    0   0  2  2
-D 0   2    0   2  0  2
-A 2   3    2   3  x  0
+[D]A 2   3    2   3  x  0
 E 3   x    x   x  x  x
 
 
@@ -24,40 +23,26 @@ Intro:
 G C C/B D Dsus4
 C D G (notes: B C D G)
 
-G                         Cadd9
-Far between the sundown's finish
-    G                Cadd9
-and midnights broken toll
-   G      
-we ducked inside 
-    Cadd9      D            G        (notes: B C D G)
-the doorway as thunder went crashing
+[G]Far between the sundown's [Cadd9]finish
+and [G]midnights broken [Cadd9]toll
+we [G]ducked inside 
+the [Cadd9]doorway as [D]thunder went [G]crashing [B] [C] [D]
 
 
-   G                 Cadd9
-As majestic bells of bolts
-       G              Cadd9
-struck shadows in the sounds
-G                 Cadd9     D       G
-seeming to be the chimes of freedom flashing
+As [G]majestic bells of [Cadd9]bolts
+struck [G]shadows in the [Cadd9]sounds
+[G]seeming to be the [Cadd9]chimes of [D]freedom [G]flashing
 
 (notes on low E string and open D: G F# E D)
 
 
-D
-Flashing for the warriors 
-      G           Cadd9  G
-whose strength is not to fight
-Cadd9            G/B
-flashing for the refugees
-       Am              D
-of the unarmed road of flight
-        G              Cadd9
-and for each and every underdog
-G              Cadd9
-soldier in the night
-       G              Cadd9     D       G       (notes: B C D G)
-and we gazed upon the chimes of freedom flashing
+[D]Flashing for the warriors 
+whose [G]strength is [Cadd9]not to [G]fight
+[Cadd9]flashing for the [G/B]refugees
+of the [Am]unarmed road of [D]flight
+and for [G]each and every [Cadd9]underdog
+[G]soldier in the [Cadd9]night
+and we [G]gazed upon the [Cadd9]chimes of [D]freedom [G]flashing [B] [C] [D]
 
 
 
