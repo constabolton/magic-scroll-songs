@@ -3,26 +3,18 @@ Song name: Snow White And The Seven Dwarfs - Whistle While You Work  by  Misc Ca
 ----------------------------------------------------------------------
 Whistle While You Work   (from Snow White)
 
-      C                                 C     
-Just whistle while you work (whistle: "whistle while you work")
+Just w[C]histle while you work (whistle: "w[C]histle while you work")
 
-Gdim7 Dm7     G    Dm7    G      Dm7  G       C
-And   cheerfully together we can tidy up the place
+[Gdim7]And   [Dm7]cheerful[G]ly to[Dm7]gether [G]we can [Dm7]tidy [G]up the p[C]lace
 
-    C                         C
-So hum a merry tune (hum "so hum a merry tune")
+So h[C]um a merry tune (hum "so h[C]um a merry tune")
 
-Gdim7 Dm7         G        Dm7        G      Dm7      G       C
-It    won't take long when there's a song to help you set the pace
+[Gdim7]It    [Dm7]won't take l[G]ong when [Dm7]there's a s[G]ong to [Dm7]help you [G]set the [C]pace
 
-    F
-And as you sweep the room
-   F
-Imagine that the broom is
-Fm7
-someone that you love and soon you'll
-C           Gdim7   Dm7    G
-Find you're dancing to the tune
+And [F]as you sweep the room
+Ima[F]gine that the broom is
+[Fm7]someone that you love and soon you'll
+[C]Find you're [Gdim7]dancing [Dm7]to the [G]tune
 
 Just whistle while you work
 Put on that grin and start right in to whistle loud and long
@@ -43,11 +35,9 @@ When hearts are high the time will fly so whistle while you work
 
 Chords - 1st voicings listed are recommended for this song:
 
-C     - x32010
-Gdim7 - xx5656 OR xx2323
+[C]Gdim7 - xx5656 OR xx2323
 Dm7   - 557565 OR xx0211
 G     - 355433 OR 320003 OR 320033
-F     - 133211
-Fm7   - 131111 OR 131141
+[F]Fm7   - 131111 OR 131141
 
 ------------------------------
