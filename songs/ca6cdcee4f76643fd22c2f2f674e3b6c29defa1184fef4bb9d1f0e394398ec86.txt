@@ -21,26 +21,18 @@ G G C
 C C G
 G G C
 C C G
-G G C
-C C D/G*
+[G]C [G]C [C]D/G*
 G C G
 
 
 [Verse 1]
-N.C.                       C         D
-All the snow has turned to water
-                             G    C    G
-Christmas days have come and gone
-                        C         D
-Broken toys and faded colors
-                          G    C    G
-All that's left to linger on
-N.C.                      C         D
-I hate graveyards and old pawn shops
-                      G    C    G
-For they all bring me tears
-                            C         D
-I can't forget the way they robbed me
+All the snow has turned to [C]water [D]
+Christmas days have come and [G]gone [C] [G]
+Broken toys and faded co[C]lors [D]
+All that's left to linger [G]on [C] [G]
+I hate graveyards and old [C]pawn shops[D]
+For they all bring me [G]tears[C] [G]
+I can't forget the way they [C]robbed me [D]
                      G         D*
 Of my childhood souvenirs
 
@@ -48,12 +40,9 @@ Of my childhood souvenirs
 [Chorus]
 D                       G         D*
 Memories, they can't be boughten
-D                             G
-Can't be won at carnivals for free
-         C                G
-Well, it took me years to get these souvenirs
-      C                                     D
-And I don't know how they slipped away from me
+[D]Can't be won at carnivals for [G]free
+Well, it [C]took me years to [G]get these souvenirs
+And I [C]don't know how they slipped away from [D]me
 
 
 [Solo]
@@ -64,23 +53,16 @@ G    C    G
 
 
 [Verse 2]
-N.C.                     C         D
-Broken hearts and dirty windows
-                       G    C    G
-Make life difficult to see
-                                C         D
-That's why last night and this morning
-                        G    C    G
-Always look the same to me
+Broken hearts and dirty w[C]indows [D]
+Make life difficult to [G]see [C] [G]
+That's why last night and this m[C]orning [D]
+Always look the same to [G]me [C] [G]
 
 
 [Verse 3]
-N.C.                          C         D
-I hate reading old love letters
-                         G    C    G
-For they always bring me tears
-                            C               D
-Can't forgive the way they robbed me, yeah
+I hate reading old love letter[C]s [D]
+For they always bring me [G]tears[C] [G]
+Can't forgive the way they r[C]obbed me, yeah [D]
                      G         D*
 Of my childhood souvenirs
 
@@ -88,16 +70,12 @@ Of my childhood souvenirs
 [Chorus]
 D                       G         D*
 Memories, they can't be boughten
-D                             G
-Can't be won at carnivals for free
-         C                G
-Well, it took me years to get these souvenirs
-      C                                     D
-And I don't know how they slipped away from me
+[D]Can't be won at carnivals for [G]free
+Well, it [C]took me years to [G]get these souvenirs
+And I [C]don't know how they slipped away from [D]me
 
 
 [Outro]
 C         D
 G    C    G
-C         D
-G    C    G  D/G*
+[C]G    C    [D]G  D/G*
