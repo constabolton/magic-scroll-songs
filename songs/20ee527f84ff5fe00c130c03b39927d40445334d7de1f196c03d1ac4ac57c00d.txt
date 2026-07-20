@@ -10,8 +10,7 @@ JERSEY GIRL   (Tom Waits)
 
 Chords used in this song:
 
-   D        A7sus4       G       G/D
-xx====      x=====     ======   xx====
+xx=[D]===      [A7sus4]x=====     ==[G]====   x[G/D]x====
 ||||||      ||||||     ||||||   ||||||
 |||*|*      ||*|||     |*||||   ||||||
 ||||*|      ||||*|     *||||*   |||||*
@@ -19,39 +18,25 @@ xx====      x=====     ======   xx====
 
 [Verse 1]
 
-D                   G
-Got no time for the cornerboys
-                          D
-Down on the street makin' all that noise
-                        A7sus4
-Don't want no whores on eight avenue
-                         D      
-'cause tonight I'm gonna be with you
+[D]Got no time for the [G]cornerboys
+Down on the street makin' [D]all that noise
+Don't want no whores on [A7sus4]eight avenue
+'cause tonight I'm gonna [D]be with you
 
-                  G
-tonight I'm gonna take that ride
-                        D
-across the river to the Jersey side
-                    A7sus4
-Take my baby to the carnival
-                     D   G/D D
-and I'll take her on all the rides
-                     G
-Down the shore everythings allright
-                        D
-You with your baby on a saturday night
-                      A7sus4
-Don't you know all my dreams come true
-                          D       D/G  D
-When I'm walkin' down the streets with you
+tonight I'm gonna [G]take that ride
+across the river to the [D]Jersey side
+Take my baby to the [A7sus4]carnival
+and I'll take her on [D]all [G/D]the [D]rides
+Down the shore everyt[G]hings allright
+You with your baby on a [D]saturday night
+Don't you know all my [A7sus4]dreams come true
+When I'm walkin' down the [D]streets [D/G]with [D]you
 
 
 [Chorus]
 
-     D7           G                D        A7sus4     D
-4*:  sing sha la lala la sha lala la la la (and so on)
-            D
-1*:  I'm in love with a Jersey Girl
+4*:  [D7]sing sha la l[G]ala la sha lala l[D]a la la ([A7sus4]and so on) [D]
+1*:  I'm in [D]love with a Jersey Girl
 
 4*:  Sing sha la la la la la sha la la la la la (a.s.o)
 
@@ -71,18 +56,13 @@ when you're in love with a jersey girl
 
 [Chorus]
 
-     D7           G                D        A7sus4     D
-4*:  sing sha la lala la sha lala la la la (and so on)
-            D
-1*:  I'm in love with a Jersey Girl
+4*:  [D7]sing sha la l[G]ala la sha lala l[D]a la la ([A7sus4]and so on) [D]
+1*:  I'm in [D]love with a Jersey Girl
 
 4*:  Sing sha la la la la la sha la la la la la (a.s.o)
 
 
 [Outro]
-      D    A7sus4 D
-and I call your name
-              A  D
-I can't sleep at night
-D7
-shalala
+and I [D]call [A7sus4]your na[D]me
+I can't sleep [A]at [D]night
+[D7]shalala
