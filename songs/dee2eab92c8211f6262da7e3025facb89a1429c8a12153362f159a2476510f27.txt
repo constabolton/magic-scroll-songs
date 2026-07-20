@@ -2,58 +2,35 @@
 Song name: Am I Blue  by  Ethel Waters
 ----------------------------------------------------------------------
 [Verse]
-F
-   I'm just a woman,
-F7
-   a lonely woman
-Bb             Db7 C7 F    Gm7 C7
-Waiting on the weary shore
-F
-   I'm just a woman
-F7
-   who's only human
-Am                  E7    Am  Gbdim
-One you should feel sorry for
+[F]   I'm just a woman,
+[F7]   a lonely woman
+[Bb]Waiting on the [Db7]wear[C7]y s[F]hore [Gm7] [C7]
+[F]   I'm just a woman
+[F7]   who's only human
+[Am]One you should feel [E7]sorry [Am]for [Gbdim]
 
-Gm                   Bbm              C7
-   It was a morning, long before dawn
-F      F+    Dm        G7                C7
-   Without a warning I found he was gone
-F
-   How could he do it,
-F7
-   why should he do it
-Bb          G7        C7
-   He never done it before
+[Gm]   It was a morning, [Bbm]long before dawn [C7]
+[F]   With[F+]out a [Dm]warning I [G7]found he was gone [C7]
+[F]   How could he do it,
+[F7]   why should he do it
+[Bb]   He never [G7]done it be[C7]fore
 
 [Chorus]
-     F          C7
-Am I blue, am I blue
-            F     Eb7 D7   G7
-Ain't these tears in these eyes
-Db7 C7  F   Ab7 Gm C7
-telling you
+Am I [F]blue, am I [C7]blue
+Ain't these [F]tears [Eb7]in t[D7]hese [G7]eyes
+[Db7]tell[C7]ing [F]you [Ab7] [Gm] [C7]
 
 [Chorus]
-     F              C7
-Am I blue, you'd be too
-        F     Eb7 D7   G7
-If each plan with your man
-Db7  C7   F
-Done fell through
+Am I [F]blue, you'd be [C7]too
+If each [F]plan w[Eb7]ith [D7]your [G7]man
+[Db7]Done [C7]fell [F]through
 
 [Bridge]
-      Am
-Was a time
-               E7
-When I was his only one
-    E7                  Am     Cdim  C7
-But now I'm the sad and lonely one...lordy
+Was a [Am]time
+When I was his [E7]only one
+But [E7]now I'm the sad and [Am]lonely [Cdim]one...[C7]lordy
 
 [Chorus]
-      F         C7
-Was I gay, 'til today
-         F     Eb7 D7    G7
-Now he's gone, and we're through
-Db7 C7 F    Bb Bbm F
-Am  I  blue
+Was I [F]gay, 'til [C7]today
+Now he's [F]gone, [Eb7]and [D7]we're [G7]through
+[Db7]Am  [C7]I  [F]blue [Bb] [Bbm] [F]
