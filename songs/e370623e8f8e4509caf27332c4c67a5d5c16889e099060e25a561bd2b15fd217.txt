@@ -5,93 +5,55 @@
 | A | % | F#m | % | 
 
 [Chorus]
-     D         E        A
-No I would not give you false hope
-        D           E        A
-On this strange and mournful day
-        D          E       A F#m
-But the mother and child reunion
-   Bm     A       E
-Is only a motion away
+No I [D]would not [E]give you [A]false hope
+On this [D]strange and [E]mournful [A]day
+But the [D]mother and [E]child re[A]un[F#m]ion
+Is [Bm]only a [A]motion a[E]way
 
 [Verse 1]
-              F#m
-Oh oh, little darling of mine
-                E
-I can't for the life of me
-           F#m
-Remember a sadder day
-                E
-I know they say let it be
-                       F#m
-But it just don't work out that way
-                    D
-And the course of a lifetime runs
-         E            E7
-Over and over again
+Oh oh, little [F#m]darling of mine
+I can't for the [E]life of me
+Remember a [F#m]sadder day
+I know they say [E]let it be
+But it just don't work [F#m]out that way
+And the course of a [D]lifetime runs
+Over and [E]over again [E7]
 
 [Chorus]
-     D         E        A
-No I would not give you false hope
-        D           E        A
-On this strange and mournful day
-        D          E       A F#m
-But the mother and child reunion
-   Bm     A       E
-Is only a motion away
+No I [D]would not [E]give you [A]false hope
+On this [D]strange and [E]mournful [A]day
+But the [D]mother and [E]child re[A]un[F#m]ion
+Is [Bm]only a [A]motion a[E]way
 
 [Verse 2]
-            F#m
-Oh oh, little darling of mine
-               E
-I just can't believe it’s so
-                F#m
-Though it seems strange to say
-               E
-I never been laid so low
-             F#m
-In such a mysterious way
-                    D
-And the course of a lifetime runs
-         E              E7
-Over and over again
+Oh oh, littl[F#m]e darling of mine
+I just can't be[E]lieve it’s so
+Though it seems [F#m]strange to say
+I never been la[E]id so low
+In such a mys[F#m]terious way
+And the course of a [D]lifetime runs
+Over and [E]over again [E7]
 
 [Chorus]
-      D         E        A
-But I would not give you false hope
-        D           E        A
-On this strange and mournful day
-         D          E       A F#m
-When the mother and child reunion
-   Bm     A       E
-Is only a motion away
+But I [D]would not [E]give you [A]false hope
+On this [D]strange and [E]mournful [A]day
+When the [D]mother and [E]child re[A]un[F#m]ion
+Is [Bm]only a [A]motion a[E]way
 
 [Outro]
-       D          E       A
-Oh the mother and child reunion
-   D      E      A 
-Is only a motion away
-       D          E       A F#m
-Oh the mother and child reunion
-   Bm     A       E
-Is only a moment away, hey, hey, hey
+Oh the [D]mother and [E]child re[A]union
+Is [D]only a [E]motion [A]away
+Oh the [D]mother and [E]child re[A]un[F#m]ion
+Is [Bm]only a [A]moment a[E]way, hey, hey, hey
 
-       D          E       A
-Oh the mother and child reunion
-   D      E      A 
-Is only a motion away
-       D          E       A F#m
-Oh the mother and child reunion
-   Bm     A       E
-Is only a moment away, oh oh
+Oh the [D]mother and [E]child re[A]union
+Is [D]only a [E]motion [A]away
+Oh the [D]mother and [E]child re[A]un[F#m]ion
+Is [Bm]only a [A]moment a[E]way, oh oh
 
-       D          E       A
-Oh the mother and child reunion
-   D      E      A 
-Is only a motion away
-       D          E       A F#m
-Oh the mother and child reunion
-   Bm     A       E
-Is only a moment away, away, away, away
+Oh the [D]mother and [E]child re[A]union
+Is [D]only a [E]motion [A]away
+Oh the [D]mother and [E]child re[A]un[F#m]ion
+Is [Bm]only a [A]moment a[E]way, away, away, away
 
 (repeat and fade)
