@@ -1,0 +1,15 @@
+X: 1
+T: The Wizard's Walk
+C: Jay Ungar
+Z: magnus
+S: https://thesession.org/tunes/885#setting40205
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+"Em"e2 dc BAGF|"D"GAFG E2 B2|"Em"e2 ef gfef|"D"gafg e4|
+"Am"a2 gf edcB|"Em"cdBc A2E2|"Am"A2 AB cBAB|"Em"cdBc A4||
+"Bm"BB[Bf]B B[Bf]BB|"C"[cg]cc[cg] cc[cg]c|"Bm"BB[Bf]B B[Bf]BB|"C"[cg]cc[cg] cc[cg]c|
+"Bm"[Bf]BBB "C"[cg]ccc|"Bm"[Bf]BBB "C"[cg]ccc|"Bm"[Bf]B^cc "B"^ddee|"D"ffgg aabb|
+|:"Em"egbe bgeg|"B"^dfbf bfdf|"D"=dfab afdB|"A"^ceae aecA|
+"C"=cege cege|"Em"Bege Bege|"Edim"_Bege Bege|"Em"=Bege fe^de:|
