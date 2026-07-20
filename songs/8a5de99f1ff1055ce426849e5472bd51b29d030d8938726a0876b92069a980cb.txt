@@ -13,46 +13,30 @@ E|---6----|
 D Dmaj7 G D  Bm G A7  D Dmaj7 G D  Bm A7 D
 
 [Verse]
-D          Dmaj7            G        D
-We've been through some things together,
-     Bm        G         A7
-With trunks of memories, still to come.
-D        Dmaj7             G      D
-We found things to do, in stormy weather;
-Bm   A7       D
-long may you run.
+[D]We've been [Dmaj7]through some thin[G]gs togeth[D]er,
+With [Bm]trunks of [G]memories, [A7]still to come.
+[D]We found [Dmaj7]things to do, in s[G]tormy w[D]eather;
+[Bm]long [A7]may you r[D]un.
 
 [Chorus]
-D            Dmaj7   G        D
-Long may you run, long may you run;
-Bm             G            A7
-although these changes have come.
-D                      Dmaj7
-With your chrome heart shining,
-G      D    Bm   A7      D   G
-in the sun; long may you run.
+[D]Long may you [Dmaj7]run, lon[G]g may you[D] run;
+[Bm]although these [G]changes have [A7]come.
+[D]With your chrome heart [Dmaj7]shining,
+[G]in the [D]sun; [Bm]long [A7]may you [D]run.[G]
 
 Bbadd#11 D Dsus4 D
 
 [Verse]
-D                         Dmaj7       G        D
-Well it was back in Blind River, in nineteen sixty two;
-Bm          G       A7
-When I last saw you alive.
-D                  Dmaj7    G      D
-But we missed that shift on the long decline;
-Bm   A7       D
-long may you run.
+[D]Well it was back in Blind [Dmaj7]River, in ni[G]neteen si[D]xty two;
+[Bm]When I last [G]saw you [A7]alive.
+[D]But we missed that [Dmaj7]shift on [G]the lon[D]g decline;
+[Bm]long [A7]may you r[D]un.
 
 [Chorus]
-D            Dmaj7 G        D
-Long may you run, long may you run;
-Bm             G            A7
-Although these changes have come.
-D                      Dmaj7
-With your chrome heart shining,
-G      D    Bm   A7       D   G
-in the sun; long may you run.
+[D]Long may you [Dmaj7]run, l[G]ong may y[D]ou run;
+[Bm]Although these [G]changes have [A7]come.
+[D]With your chrome heart [Dmaj7]shining,
+[G]in the [D]sun; [Bm]long [A7]may you r[D]un. [G]
 
 Bbadd#11 D Dsus4 D
 
@@ -61,24 +45,16 @@ D Dmaj7 G D  Bm  G   A7
 D Dmaj7 G D  Bm  A7  D
 
 [Verse]
-D         Dmaj7             G       D
-Maybe the Beach Boys have got you now;
-Bm         G             A7
-with those waves singing Caroline.
-D       Dmaj7       G     D
-Rollin' down that empty ocean road,
-Bm           A7       D
-Get into the surf on time.
+[D]Maybe the [Dmaj7]Beach Boys have go[G]t you no[D]w;
+[Bm]with those [G]waves singing [A7]Caroline.
+[D]Rollin' [Dmaj7]down that em[G]pty oc[D]ean road,
+[Bm]Get into the [A7]surf on t[D]ime.
 
 [Chorus]
-D            Dmaj7  G        D
-Long may you run, long may you run;
-Bm             G            A7
-although these changes have come.
-D                      Dmaj7
-With your chrome heart shining,
-G      D    Bm   A7       D   G
-in the sun; long may you run.
+[D]Long may you [Dmaj7]run, lo[G]ng may yo[D]u run;
+[Bm]although these [G]changes have [A7]come.
+[D]With your chrome heart [Dmaj7]shining,
+[G]in the [D]sun; [Bm]long [A7]may you r[D]un. [G]
 
 Bbadd#11 D Dsus4 D
 
@@ -87,14 +63,10 @@ D Dmaj7 G D  Bm  G   A7
 D Dmaj7 G D  Bm  A7  D
 
 [Chorus]
-D            Dmaj7  G        D
-Long may you run, long may you run;
-Bm             G            A7
-although these changes have come.
-D                      Dmaj7
-With your chrome heart shining,
-G      D    Bm   A7       D   G
-in the sun; long may you run.
+[D]Long may you [Dmaj7]run, lo[G]ng may yo[D]u run;
+[Bm]although these [G]changes have [A7]come.
+[D]With your chrome heart [Dmaj7]shining,
+[G]in the [D]sun; [Bm]long [A7]may you r[D]un. [G]
 
 [Outro]
 Bbadd#11 D Dsus4 D
