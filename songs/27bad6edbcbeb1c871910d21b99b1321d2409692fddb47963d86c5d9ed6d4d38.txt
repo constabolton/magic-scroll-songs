@@ -8,75 +8,50 @@ The Ronettes
 
 [Intro]
 (2 bar drum beat)
-E (Hold for 2 bars)
-/  /  /  /   /  /  /  /
+[E]/  /  /  /   /  /  /  /
 
 
 [Verse 1]
-E
-  The night we met I knew I...
-F#m7       B
-  Needed you so
-E
-  And if I had the chance I'd... 
-F#m7          B
-  Never let you go
-G#7
-  So won't you say you love me...
-C#7
-  I'll make you so proud of me...
-F#7
-  We'll make them turn their heads...
-B
-  Every place we go
+[E]  The night we met I knew I...
+[F#m7]  Needed yo[B]u so
+[E]  And if I had the chance I'd... 
+[F#m7]  Never let yo[B]u go
+[G#7]  So won't you say you love me...
+[C#7]  I'll make you so proud of me...
+[F#7]  We'll make them turn their heads...
+[B]  Every place we go
 
 
 [Chorus] (The lyrics in parenthesis are the background vocals)
-               E
-So won't you please
+So won't you pl[E]ease
 (be my...be my baby)
-              C#m
-Be my little baby
+Be my little b[C#m]aby
 (my one...       baby)
-                A
-Say you'll be my darling
+Say you'll be my[A] darling
 (be my...     baby)
-              B
-Be my baby now       wo-wo-wo-wo
+Be my baby now[B]       wo-wo-wo-wo
      (my one...       baby)
 
 
 [Verse 2] (Same chords as first)
-E
-I'll make you happy baby
-F#m7        B
-Just wait and see
-E
-For every kiss you give me
-F#m7         B
-I'll give you three
-G#7
-Oh, since the day I saw you
-C#7
-I have been waiting for you
-F#7
-You know I will adore you
-B
-Until eternity
+[E]I'll make you happy baby
+[F#m7]Just wait an[B]d see
+[E]For every kiss you give me
+[F#m7]I'll give you[B] three
+[G#7]Oh, since the day I saw you
+[C#7]I have been waiting for you
+[F#7]You know I will adore you
+[B]Until eternity
 
 
 [Chorus] 
-               E
-So won't you please
+So won't you pl[E]ease
 (be my...be my baby)
-              C#m
-Be my little baby
+Be my little b[C#m]aby
 (my one...       baby)
-                A
-Say you'll be my darling
+Say you'll be my[A] darling
 (be my...     baby)
-              B
-Be my baby now       wo-wo-wo-wo
+Be my baby now[B]       wo-wo-wo-wo
      (my one...       baby)
 
 
@@ -85,17 +60,13 @@ E F#m7 B
 
 
 [Chorus] 
-               E
-So won't you please
+So won't you pl[E]ease
 (be my...be my baby)
-              C#m
-Be my little baby
+Be my little b[C#m]aby
 (my one...       baby)
-                A
-Say you'll be my darling
+Say you'll be my[A] darling
 (be my...     baby)
-              B
-Be my baby now       wo-wo-wo-wo
+Be my baby now[B]       wo-wo-wo-wo
      (my one...       baby)
 
         
@@ -103,15 +74,11 @@ Be my baby now       wo-wo-wo-wo
 
 
 [Chorus] (Repeat chorus and fade)
-               E
-So won't you please
+So won't you pl[E]ease
 (be my...be my baby)
-              C#m
-Be my little baby
+Be my little b[C#m]aby
 (my one...       baby)
-                A
-Say you'll be my darling
+Say you'll be my[A] darling
 (be my...     baby)
-              B
-Be my baby now       wo-wo-wo-wo
+Be my baby now[B]       wo-wo-wo-wo
      (my one...       baby)
