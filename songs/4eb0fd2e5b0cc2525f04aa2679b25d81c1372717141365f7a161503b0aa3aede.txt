@@ -5,8 +5,7 @@ Song name: Respect  by  Aretha Franklin
 (Otis Redding)
 
 [Intro]
-  C7                F7
-  v   v   v   v     v   v   v   v
+  [C7]v   v   v   v     [F7]v   v   v   v
 e|-----------------|-----------------|
 B|-----8-8-10b11---|-----------------|
 G|-----------------|---------7b8-----| x2
@@ -16,107 +15,74 @@ E|-----------------|-----------------|
       ^^^^^             ^^^  slow bends
 
 [Verse 1]
-G7               F7
-   What you want    baby, I got it
-G7               F7
-   What you need    you know I got it
-G7                F7
-   All I'm askin'    is for a little
+[G7]   What you want [F7]   baby, I got it
+[G7]   What you need [F7]   you know I got it
+[G7]   All I'm askin' [F7]   is for a little
 
 [Chorus]
-    C7                                     F7
-Respect when you come home           hey, baby
+Resp[C7]ect when you come home           hey, b[F7]aby
                  (just a little bit)           (just a little bit)
-               C7                        F7
-When you come home                    Mister
+When you come h[C7]ome                    Mis[F7]ter
                  (just a little bit)           (just a little bit)
 
 [Verse 2]
-G7                            F7
-   I ain't gonna do you wrong    while you're gone
-G7                            F7
-   I ain't gonna do you wrong    'cause I don't wanna
-G7                   F7                 
-   All I'm askin' is    for a little respect
+[G7]   I ain't gonna do you wrong [F7]   while you're gone
+[G7]   I ain't gonna do you wrong [F7]   'cause I don't wanna
+[G7]   All I'm askin' is [F7]   for a little respect
 
 [Chorus]
-    C7                                F7
-Respect when you come home           baby
+Resp[C7]ect when you come home           b[F7]aby
                  (just a little bit)       (just a little bit)
-               C7                     F7
-When you come home                   Yeah
+When you come h[C7]ome                   Y[F7]eah
                  (just a little bit)       (just a little bit)
 
 [Verse 3]
-G7                       F7
-   I'm about to give you   all my money
-G7                   F7
-   But all I'm askin'   in return, honey
-G7               F7
-   Is to give me   my propers
+[G7]   I'm about to give you [F7]  all my money
+[G7]   But all I'm askin'[F7]   in return, honey
+[G7]   Is to give me [F7]  my propers
 
 [Chorus]
-    C7                                         F7
-When you get home                       yeah, baby
+When[C7] you get home                       yeah, b[F7]aby
             (just-a just-a just-a just-a just-a just-a just-a just-a)
-              C7                            F7
-When you get home                     yeah
+When you get h[C7]ome                     yeah [F7]
                  (just a little bit)           (just a little bit)
 
 [Sax Solo]
-F#m                 B
- / / / /  / / / /   / / / /  / / / /
-F#m                 G7
- / / / /  / / / /   / / / /  / / / /
+[F#m] / / / /  / / / /   [B]/ / / /  / / / /
+[F#m] / / / /  / / / /   [G7]/ / / /  / / / /
 
 [Verse 4]
-G7                   F7
-   Ooh, your kiss is   sweeter than honey
-G7               F7
-   And guess what   so is my money
-G7                   F7
-   All I want you to do for me is give it to me
+[G7]   Ooh, your kiss is [F7]  sweeter than honey
+[G7]   And guess what[F7]   so is my money
+[G7]   All I want you to [F7]do for me is give it to me
 
 [Chorus]
-    C7                                  F7
-When you get home                yeah, baby, whip it to me
+When[C7] you get home                yeah, b[F7]aby, whip it to me
            (re- re- re- re- re- re- re- re- respect)
-    C7                      F7
-          When you get home
+    [C7]      When you get home [F7]
 (respect, just a little bit)    (just a little bit)
 
 [Coda]
-C7  N.C.
-R-E-S-P-E-C-T
-C7 F7 N.C.
-      Found out what it means to me
-F7 C7 N.C.
-      R-E-S-P-E-C-T
-C7 F7 N.C.
-      Take care, T.C.B.
+[C7]R-E-S-P-E-C-T
+[C7]   [F7]   Found out what it means to me
+[F7]   [C7]   R-E-S-P-E-C-T
+[C7]   [F7]   Take care, T.C.B.
 
 [Chorus]
-  C7
-  Oh...                                            a little
+  [C7]Oh...                                            a little
 (sock it to me, sock it to me, sock it to me, sock it to me)
-   F7
-Respect
+Res[F7]pect
 (sock it to me, sock it to me, sock it to me, sock it to me)
 
- C7                                        F7
-Whoa, baby                     a little respect
+W[C7]hoa, baby                     a little res[F7]pect
            (just a little bit)                  (just a little bit)
- C7                                             F7 
-I get tired                     but I keep on trying
+I[C7] get tired                     but I keep on tr[F7]ying
             (just a little bit)                 (just a little bit)
-        C7                                           F7
-You're running out of fools              and I ain't lying
+You're r[C7]unning out of fools              and I ain't [F7]lying
                       (just a little bit)       (just a little bit)
-C7                          F7 
-     Respect when you come home
+[C7]     Respect when you come h[F7]ome
 (re- re- re- re- re- re- re- re- respect)
-     C7                             F7
-You might walk in and find out I'm gone
+You m[C7]ight walk in and find out I'm g[F7]one
        (just a little bit)              (just a little bit)
 
 
