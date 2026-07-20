@@ -5,55 +5,37 @@ For easier chord shapes (less barre): transpose -5 and then use a capo
 
 [Intro]
 | Bb F | C | F Bb | F |
-| Bb F | C | F Bb | F |
-                 (break)
+  [Bb]   [F]    [C]    [F]  [Bb]  (br[F]eak)
 
 
 [Verse]
-                Bb F
-Tiki torches at twilight
-C                  F  Bb | F |
- Hula girls at the bar
-                      Bb F
-All the guys from the of-fice
-C                        F    Bb | F |
- Are pulling up in their cars
+Tiki torches at [Bb]twi[F]light
+[C] Hula girls at the [F]bar[Bb] [F]
+All the guys from the [Bb]of-[F]fice
+[C] Are pulling up in their [F]cars [Bb] [F]
 
 
 [Verse]
-                 Bb    F
-Get to cooking a roast pig
-C                      F    Bb | F |
- Like it's done in the book
-                  Bb  F
-Say hello to your sweetie
-C              F    Bb | F F7 |
- With a casual look
+Get to cooking a [Bb]roast [F]pig
+[C] Like it's done in the [F]book [Bb] [F]
+Say hello to your [Bb]swee[F]tie
+[C] With a casual [F]look [Bb] [F] [F7]
 
 
 [Middle 8]
-Bb                 Gm     C
-Swinging deals and eating meals
-C7 F  C           F
-Is all within the norm
-Bb
-Put away the axes
-    G7
-And pay those taxes
-     |  C  |               |  %  |  %  |
-Let's all get normal at the luau
+[Bb]Swinging deals and [Gm]eating [C]meals
+[C7]Is [F]all[C] within the [F]norm
+[Bb]Put away the axes
+And [G7]pay those taxes
+Let's al[C]l get normal at the luau
     (break)
 
 
 [Verse]
-                Bb F
-Tiki torches at twilight
-C                  F  Bb | F |
- Hula girls at the bar
-                      Bb F
-All the guys from the of-fice
-C                         F    Bb | F |
- Are throwing up in their cars
+Tiki torches at [Bb]twi[F]light
+[C] Hula girls at the [F]bar[Bb] [F]
+All the guys from the [Bb]of-[F]fice
+[C] Are throwing up in their [F]cars [Bb] [F]
 
 
 [Solo]
@@ -62,61 +44,40 @@ C                         F    Bb | F |
 
 
 [Verse]
-                       Bb  F
-Hold the drinks in the coaster
-C                      F     Bb | F |
- Standing round in our shorts
-                Bb  F
-Stand and talk to a boaster
-C                   F       Bb | F |
- About professional sports
+Hold the drinks in the [Bb]coas[F]ter
+[C] Standing round in our [F]shorts[Bb] [F]
+Stand and talk t[Bb]o a [F]boaster
+[C] About professional [F]sports [Bb] [F]
 
 
 [Verse]
-                  Bb  F
-Hanging round at poolside
-C                      F    Bb | F |
- Talking shop with the boss
-                  Bb F
-If you are a pool talker
-C                         F     Bb | F F7 |
- You'll get your message across
+Hanging round at p[Bb]ools[F]ide
+[C] Talking shop with the [F]boss [Bb] [F]
+If you are a pool [Bb]tal[F]ker
+[C] You'll get your message a[F]cross [Bb] [F] [F7]
 
 
 [Middle 8]
-Bb                 Gm     C
-Swinging deals and eating meals
-C7 F  C           F
-Is all within the norm
-Bb
-Put away the axes
-    G7
-And pay those taxes                      2/4
-      C                    |  %  |  %  |  %  | 
-Let's all get normal at the luau
+[Bb]Swinging deals and [Gm]eating [C]meals
+[C7]Is [F]all[C] within the [F]norm
+[Bb]Put away the axes
+And [G7]pay those taxes                      2/4
+Let's [C]all get normal at the luau
     (break)
 
 
 [Verse]
-                Bb F
-Tiki torches at twilight
-C                  F  Bb | F |
- Hula girls at the bar
-                      Bb F
-All the guys from the of-fice
-C                         F    Bb | F |
- Are throwing up in their cars
+Tiki torches at [Bb]twi[F]light
+[C] Hula girls at the [F]bar[Bb] [F]
+All the guys from the [Bb]of-[F]fice
+[C] Are throwing up in their [F]cars [Bb] [F]
 
 
 [Verse]
-                 Bb    F
-Get to cooking a roast pig
-C                      F    Bb | F |
- Like it's done in the book
-                  Bb  F
-Say hello to your sweetie
-C              F    Bb | F |
- With a casual look
+Get to cooking a [Bb]roast [F]pig
+[C] Like it's done in the [F]book [Bb] [F]
+Say hello to your [Bb]swee[F]tie
+[C] With a casual [F]look [Bb] [F]
 
 
 [Outro]
