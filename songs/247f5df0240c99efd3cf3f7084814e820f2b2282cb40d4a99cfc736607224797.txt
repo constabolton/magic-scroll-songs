@@ -8,59 +8,43 @@ Lennon/McCartney
 Fm  Eaug  Ab/Eb  Dm7b5  Dbmaj7  C
 
 [Verse]
-F         Bb7#9       Eb6                  Ddim  Bdim7  C     Bdim7  C
-Michelle,   ma belle, these are words that go  together well, my Michelle
-F         Bb7#9      Eb6               Ddim      Bdim7  C       Bdim7       C
-Michelle,   ma belle sont des mots qui vont tres bien ensemble, tres bien ensemble
+[F]Michelle, [Bb7#9]  ma belle, [Eb6]these are words that [Ddim]go  to[Bdim7]gether [C]well, [Bdim7]my Mich[C]elle
+[F]Michelle, [Bb7#9]  ma belle [Eb6]sont des mots qui [Ddim]vont tres [Bdim7]bien en[C]semble, [Bdim7]tres bien en[C]semble
 
 [Pre-Chorus]
-  Fm                               Ab7                   Db
-I love you, I love you, I love you, that's all I want to say
-C7               Fm
-  until I find a way
+I [Fm]love you, I love you, I love you,[Ab7] that's all I want to [Db]say
+[C7]  until I find a [Fm]way
 
 [Chorus]
-       Fm      Eaug Ab/Eb   Dm7b5     Dbmaj7      C
-I will say the only words I know that you'll understand
+I will [Fm]say the [Eaug]only [Ab/Eb]words I [Dm7b5]know that [Dbmaj7]you'll under[C]stand
 
 [Verse]
-F         Bb7#9      Eb6               Ddim      Bdim7  C       Bdim7       C
-Michelle,   ma belle sont des mots qui vont tres bien ensemble, tres bien ensemble
+[F]Michelle, [Bb7#9]  ma belle [Eb6]sont des mots qui [Ddim]vont tres [Bdim7]bien en[C]semble, [Bdim7]tres bien en[C]semble
 
 [Pre-Chorus]
-  Fm                            Ab7                  Db
-I need to, I need to, I need to,  I need to make you see
-C7                    Fm
-  oh what you mean to me
+I [Fm]need to, I need to, I need to,[Ab7]  I need to make you [Db]see
+[C7]  oh what you mean to [Fm]me
 
 [Chorus]
-  Fm    Eaug   Ab/Eb  Dm7b5    Dbmaj7      C
-until I do I'm hoping you will know what I mean
+un[Fm]til I [Eaug]do I'm [Ab/Eb]hoping [Dm7b5]you will [Dbmaj7]know what I [C]mean
 
 [Bridge]
-  F
-I love you
+I [F]love you
 
 Bb7#9  Eb6  Ddim  Bdim7  C  Bdim7  C
 
 [Pre-Chorus] 
-  Fm                               Ab7                  Db
-I want you, I want you, I want you, I think you know by now
-C7                    Fm
-  I'll get to you somehow
+I [Fm]want you, I want you, I want you,[Ab7] I think you know by [Db]now
+[C7]  I'll get to you some[Fm]how
 
 [Chorus]
-  Fm    Eaug   Ab/Eb   Dm7b5  Dbmaj7         C
-until I do I'm telling you so    you'll understand
+un[Fm]til I [Eaug]do I'm [Ab/Eb]telling [Dm7b5]you so [Dbmaj7]   you'll under[C]stand
 
 [Verse]
-F         Bb7#9      Eb6               Ddim      Bdim7  C       Bdim7       C
-Michelle,   ma belle sont des mots qui vont tres bien ensemble, tres bien ensemble
+[F]Michelle, [Bb7#9]  ma belle [Eb6]sont des mots qui [Ddim]vont tres [Bdim7]bien en[C]semble, [Bdim7]tres bien en[C]semble
     
 [Outro]
-           Fm      Eaug  Ab/Eb   Dm7b5    Dbmaj7        C
-And I will say the only  words I know that  you'll understand,
-     F
-my Michelle
+And I will [Fm]say the [Eaug]only  [Ab/Eb]words I [Dm7b5]know that[Dbmaj7]  you'll under[C]stand,
+my Mi[F]chelle
 
 F Bb7#9  Eb6  Ddim  Bdim7  C  Bdim7  C (repeat, fade out)
