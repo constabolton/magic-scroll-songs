@@ -2,73 +2,44 @@
 Song name: How High The Moon  by  Ella Fitzgerald
 ----------------------------------------------------------------------
 [Verse 1]
-                  Fmaj7
-Somewhere there's music
-                 F7    Bb7
-How faint the tune
-                    Ebmaj7
-Somewhere there's heaven
-                 Eb7     Ab7
-How high the moon
-              Dbmaj7
-There is no moon above
-   G7b5   C7b9         F7
-When love is far away too
-  G7b5   C7b9   A7
-'Til it comes true
-   D7         G7    C7
-That you love me as I love you
+Somewhere there's [Fmaj7]music
+How faint the tun[F7]e [Bb7]
+Somewhere there's he[Ebmaj7]aven
+How high the moon[Eb7] [Ab7]
+There is no mo[Dbmaj7]on above
+Whe[G7b5]n love [C7b9]is far away t[F7]oo
+'T[G7b5]il it c[C7b9]omes tr[A7]ue
+Tha[D7]t you love [G7]me as [C7]I love you
 
 [Verse 2]
-                  Fmaj7
-Somewhere there's music
-                F7     Bb7
-It's where you are
-                      Ebmaj7
-Somewhere there's heaven
-                Eb7     Ab7
-How near, how far
-              Dbmaj7
-The darkest night would shine
-  G7b5   C7b9             F7
-If you would come to me soon
-G7b5   C7b9   A7   D7         G7   C7
-Until you will, how still my heart
-                F6
-How high the moon
+Somewhere there's [Fmaj7]music
+It's where you a[F7]re [Bb7]
+Somewhere there's heav[Ebmaj7]en
+How near, how fa[Eb7]r [Ab7]
+The darkest ni[Dbmaj7]ght would shine
+If[G7b5] you wo[C7b9]uld come to me so[F7]on
+[G7b5]Until y[C7b9]ou will[A7], how[D7] still my h[G7]eart [C7]
+How high the moo[F6]n
 
 [drum roll]
 
 [Verse 3]
 
-   Fmaj7
-How high the moon
-          F7    Bb7
-Is the name of the song
-      Ebmaj7
-How high the moon
-        Eb7       Ab7
-Though the words may be wrong
-         Dbmaj7   G7b5    C7b9         F7
-We're singing it because, you asked for it
- G7b5   C7b9     A7       D7   G7   C7
-So we're swinging it just for you
+How[Fmaj7] high the moon
+Is the nam[F7]e of t[Bb7]he song
+How hi[Ebmaj7]gh the moon
+Though t[Eb7]he words m[Ab7]ay be wrong
+We're sin[Dbmaj7]ging it b[G7b5]ecause, [C7b9]you asked for[F7] it
+S[G7b5]o we're[C7b9] swinging[A7] it just [D7]for y[G7]ou [C7]
 
 [Verse 4]
-Fmaj7
-How high the moon
-         F7   Bb7
-Does it touch the stars
-     Ebmaj7
-How high the moon
-     Eb7               Ab7
-Does it reach up to Mars
- Dbmaj7     G7b5    C7b9         Fmaj7    G7b5    C7b9
-Though the words may be wrong to this song
-         A7   D7      G7    C7
-We're asking how high, high, high, high
- F6
-High is the moon?
+[Fmaj7]How high the moon
+Does it t[F7]ouch [Bb7]the stars
+How h[Ebmaj7]igh the moon
+Does [Eb7]it reach up to Mar[Ab7]s
+T[Dbmaj7]hough the w[G7b5]ords may[C7b9] be wrong to [Fmaj7]this song[G7b5] [C7b9]
+We're ask[A7]ing h[D7]ow high,[G7] high,[C7] high, high
+H[F6]igh is the moon?
 
 
 [scat solo]
@@ -84,9 +55,6 @@ A7 D7  |  G7  C7  |F6    |G7     C7  |
 
 
 
-           Dbmaj7     G7b5  C7b9    F7
-Though the words may be wrong to this song
-G7b5  C7b9      A7  D7  G7 C7
-We hope to walk high, high, high, high
-F6
-High as the moon
+Though the [Dbmaj7]words may b[G7b5]e wron[C7b9]g to thi[F7]s song
+[G7b5]We hop[C7b9]e to walk [A7]high[D7], hi[G7]gh,[C7] high, high
+[F6]High as the moon
