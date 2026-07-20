@@ -6,48 +6,30 @@ Song name: Pencil Thin Mustache  by  Jimmy Buffett
 
 
 [Verse 1]
-D                 F#7       B7
-Now they make new movies in old black and white
-E                          A
- With happy endings, where nobody fights
-   D               F#7          B7
-So if you find yourself in that nostalgic rage
-       E7                A7
-Honey, jump right up and show your age
+[D]Now they make new [F#7]movies in [B7]old black and white
+[E] With happy endings, where [A]nobody fights
+So [D]if you find your[F#7]self in that [B7]nostalgic rage
+Honey, [E7]jump right up and [A7]show your age
 
 
 [Chorus]
-  D            F#7         B7
-I wish I had a pencil thin moustache
-E           A       D
- The Boston Blackie kind
-  D         F#7     B7
-A two toned Ricky Ricardo jacket
-       E7                     A7
-And an autographed picture of Andy Devine
-D                     D7
-I remember bein' buck-toothed and skinny
-G                      A#7
-Writin' fan letters to Sky's niece Penny
-     D            F#7         B7
-Oh I wish I had a pencil thin moustache
-       E7               A7        D
-Then I could solve some mysteries too
+I [D]wish I had a [F#7]pencil thin [B7]moustache
+[E] The Boston [A]Blackie [D]kind
+A [D]two toned [F#7]Ricky Ri[B7]cardo jacket
+And an [E7]autographed picture of [A7]Andy Devine
+[D]I remember bein' buck-[D7]toothed and skinny
+[G]Writin' fan letters to [A#7]Sky's niece Penny
+Oh I [D]wish I had a [F#7]pencil thin [B7]moustache
+Then I [E7]could solve some [A7]mysteries [D]too
 
 
 [Bridge 1]
-          Em         B7          Em         B7
-Then it's Bandstand, Disneyland, growin' up fast
-Em            B7     Em
-Drinkin' on a fake I.D
-          F#m          C#7        F#m          C#7
-Yeah, and Ramar of the jungle was everyone's Bawana
-    E7                       A7
-But only jazz musicians were smokin' marijuana
-        D            F#7         B7
-Yeah, I wish I had a pencil thin moustache
-     E7                 A7        D
-Then I could solve some mysteries too
+Then it's [Em]Bandstand, [B7]Disneyland, [Em]growin' up [B7]fast
+[Em]Drinkin' on a [B7]fake I.[Em]D
+Yeah, and [F#m]Ramar of the [C#7]jungle was [F#m]everyone's Ba[C#7]wana
+But [E7]only jazz musicians were [A7]smokin' marijuana
+Yeah, I [D]wish I had a [F#7]pencil thin [B7]moustache
+Then [E7]I could solve some [A7]mysteries [D]too
 
 
 [Interlude]
@@ -56,48 +38,30 @@ Then I could solve some mysteries too
 
 
 [Bridge 2]
-          Em        B7         Em        B7
-Then it's flat top, dirty bop, coppin' a feel
-Em              B7          Em
-Grubbin' on the livin' room floor (so sore)
-           F#m             C#7             F#m           C#7
-Yeah, they send you off to college, try to gain a little knowledge
-            E7            A7
-But all you want to do is learn how to score
+Then it's [Em]flat top, [B7]dirty bop, [Em]coppin' a [B7]feel
+[Em]Grubbin' on the [B7]livin' room [Em]floor (so sore)
+Yeah, they [F#m]send you off to [C#7]college, try to [F#m]gain a little [C#7]knowledge
+But all you [E7]want to do is [A7]learn how to score
 
 
 [Verse 2]
-          D               F#7        B7
-Yeah, but now I'm gettin' old, don't wear underwear
-  E7                       A7
-I don't go to church and I don't cut my hair
-    D           F#7        B7
-But I can go to movies and see it all there
-         E7          A7      D
-Just the way that it used to be
+Yeah, but [D]now I'm gettin' [F#7]old, don't [B7]wear underwear
+I [E7]don't go to church and I [A7]don't cut my hair
+But [D]I can go to [F#7]movies and [B7]see it all there
+Just the [E7]way that it [A7]used to [D]be
 
 
 [Chorus]
-  D            F#7         B7
-I wish I had a pencil thin moustache
-E7          A7       D
- The Boston Blackie kind
-  D         F#7     B7
-A two toned Ricky Ricardo jacket
-       E7                     A7
-And an autographed picture of Andy Devine
-    D                 D7
-Oh, I could be anyone I wanted to be
-       G                       A#7
-Maybe suave Errol Flynn or the Sheik of Araby
-     D          F#7        B7
-If I only had a pencil thin moustache
-     E7              A7        D
-Then I could do some cruisin' too
+I [D]wish I had a [F#7]pencil thin [B7]moustache
+[E7] The Boston [A7]Blackie k[D]ind
+A [D]two toned [F#7]Ricky Ri[B7]cardo jacket
+And an [E7]autographed picture of [A7]Andy Devine
+Oh, [D]I could be anyone [D7]I wanted to be
+Maybe s[G]uave Errol Flynn or the [A#7]Sheik of Araby
+If I [D]only had a [F#7]pencil thin[B7] moustache
+Then [E7]I could do some [A7]cruisin' t[D]oo
 
 
 [Tag]
-      D
-Yeah, Bryl-cream, a little dab'll do yah
-    E7              A7       D A7 D
-Oh, I could do some cruisin' too
+Yeah, [D]Bryl-cream, a little dab'll do yah
+Oh, [E7]I could do some [A7]cruisin' [D]to[A7]o [D]
