@@ -5,40 +5,28 @@ Song name: Basin Street Blues  by  Spencer Williams
 
 D7 G7 Cmaj7 Ab7 G7 
 
-G7         C6   G7    D#dim7 Cmaj7  C Dm7 D#dim7 C/E
-Won’t ‘cha come along with   me,
-C6     C7    Gaug  C6 Ebdim7 Dm7 G7 
-To the Mississippi?
-C6                 C7      F6             Bb7
-We’ll take the boat to the land of dreams,
-Cmaj7                Abaug    G7    Cmaj7
-Steam down the river down to New Orleans.
+[G7]Won’t ‘cha [C6]come [G7]along [D#dim7]with   [Cmaj7]me, [C] [Dm7] [D#dim7] [C/E]
+[C6]To the [C7]Missis[Gaug]sippi?[C6] [Ebdim7] [Dm7] [G7]
+[C6]We’ll take the boat[C7] to the [F6]land of dreams,[Bb7]
+[Cmaj7]Steam down the river [Abaug]down to N[G7]ew Orl[Cmaj7]eans.
 
 
 [Verse]
 
 
-     Cmaj7 G7/B     D#dim7 C/E C6 Dm7 D#dim7 C/E 
-The band’s there to meet   us,
-C6  C7         Gaug    C Ebdim7 Dm7 G7 
-Old friends to greet us,
-C6            C7        Ab7        G7  Gaug C/E Dm7 C D7/A
-Where all the light and dark folks meet,
-        Ab7 G7 Cmaj7
-This is Basin Street.
+The b[Cmaj7]and’s [G7/B]there to [D#dim7]meet   [C/E]us, [C6] [Dm7] [D#dim7] [C/E]
+[C6]Old [C7]friends to [Gaug]greet us[C], [Ebdim7] [Dm7] [G7]
+[C6]Where all the [C7]light and [Ab7]dark folks [G7]meet[Gaug], [C/E] [Dm7] [C] [D7/A]
+This is [Ab7]Basi[G7]n S[Cmaj7]treet.
 
 
 [Chorus]
 
 
-Cmaj7         E7/B           A7                               D7
-Basin Street, is the street, where the elite, always meet, in New Orleans.
-G7              Gaug   C/E            Ebdim7           Dm7      G7      Dm7/A  G7/B
-Land of dreams, you’ll never know how nice it seems or just how much it really means,
-Cmaj7       E7                  A7              Bb7     A7        D7         Dm7
-Glad to be; yes, sir—ree, where welcome’s free, dear to me, where I can lose.
-   G7
-My Basin Street Blues
+[Cmaj7]Basin Street, [E7/B]is the street, [A7]where the elite, always meet, in [D7]New Orleans.
+[G7]Land of dreams, [Gaug]you’ll [C/E]never know how [Ebdim7]nice it seems or [Dm7]just how [G7]much it [Dm7/A]really [G7/B]means,
+[Cmaj7]Glad to be; [E7]yes, sir—ree, where [A7]welcome’s free, [Bb7]dear to [A7]me, where [D7]I can lose.[Dm7]
+My [G7]Basin Street Blues
 
 Cmaj7 Em7 Ebdim7 Dm7 G7 D7 G7 
 
@@ -46,13 +34,9 @@ Cmaj7 Em7 Ebdim7 Dm7 G7 D7 G7
 [Chorus]
 
 
-Cmaj7         E7/B           A7                               D7
-Basin Street, is the street, where the elite, always meet, in New Orleans.
-G7              Gaug  C/E            Ebdim7           Dm7      G7      Dm7/A  G7/B
-Land of dreams, you’ll never know how nice it seems or just how much it really means,
-Cmaj7       E7                  A7              Bb7     A7        D7         Dm7
-Glad to be; yes, sir—ree, where welcome’s free, dear to me, where I can lose.
-   G7
-My Basin Street Blues
+[Cmaj7]Basin Street, [E7/B]is the street, [A7]where the elite, always meet, in [D7]New Orleans.
+[G7]Land of dreams, [Gaug]you’ll[C/E] never know how[Ebdim7] nice it seems or[Dm7] just how[G7] much it[Dm7/A] really[G7/B] means,
+[Cmaj7]Glad to be; [E7]yes, sir—ree, where [A7]welcome’s free, [Bb7]dear to [A7]me, where [D7]I can lose.[Dm7]
+My [G7]Basin Street Blues
 
 Cmaj7 F7 Fm7 C6
