@@ -1,22 +1,14 @@
 ----------------------------------------------------------------------
 Song name: The Star-Spangled Banner  by  Misc Traditional
 ----------------------------------------------------------------------
-G7   C       G  Am7  E7      Am       D7     G
-Oh, say can you see  by the dawn's early light
-        C          G      F      C           G       C
-What so proudly we hailed at the twilight's last gleaming?
+[G7]Oh, s[C]ay can y[G]ou [Am7]see  [E7]by the d[Am]awn's ear[D7]ly ligh[G]t
+What so [C]proudly we [G]hailed [F]at the [C]twilight's l[G]ast glea[C]ming?
 
-G7          C            G      Am    E7          Am  D7   G
-Whose broad stripes and bright stars through the perilous fight,
-         C            G       F      C       G      C
-O'er the ramparts we watched were so gallantly streaming?
+[G7]Whose broad [C]stripes and b[G]right s[Am]tars t[E7]hrough the p[Am]eril[D7]ous f[G]ight,
+O'er the [C]ramparts we w[G]atched w[F]ere so [C]gallantl[G]y strea[C]ming?
 
-        C  G7     C                   G7
-And the rocket's red glare, the bombs bursting in air,
-       C               G              C    Am  D7    G
-Gave proof through the night that our flag was still there.
+And the [C]roc[G7]ket's r[C]ed glare, the bombs [G7]bursting in air,
+Gave pr[C]oof through the [G]night that our [C]flag [Am]was [D7]still [G]there.
 
-    C    Dm7  C   F     A7      Dm         Gsus4 G
-Oh, say does that star-spangled banner yet wa -  ave
-         C           C/E  Am      C/G  G7     C
-O'er the land of the free and the home of the brave?
+Oh, [C]say d[Dm7]oes t[C]hat [F]star-s[A7]pangled [Dm]banner yet [Gsus4]wa -  [G]ave
+O'er the [C]land of the [C/E]free [Am]and the [C/G]home [G7]of the [C]brave?
