@@ -14,65 +14,40 @@ D7sus2/C  X-3-2-2-3-X(suggested closing chord)
 C Am Cmaj7 Am (x2)
 
 [Verse 1]
-C            Am          Cmaj7        Am
-Gee ain't it great after staying out late
-C          Am        Bb7  A7
-Walking my baby back home    
-Dm     A7        Dm        G7
-Arm in arm over meadow and farm
-Dm         G7        C   G
-Walking my baby back home
+[C]Gee ain't it [Am]great after [Cmaj7]staying out l[Am]ate
+[C]Walking my [Am]baby back [Bb7]home [A7]   
+[Dm]Arm in [A7]arm over m[Dm]eadow and [G7]farm
+[Dm]Walking my [G7]baby back [C]home[G]
 
 [Verse 2]
-C         Am    Cmaj7         Am
-We stroll along harmonizing a song
-C         Am        Bb7  A7
-Or she?s reciting a poem
-Dm      A7          Dm          G7        
-Owls go by and they give me the eye
-Dm         G7        C  B7
-Walking my baby back home
+[C]We stroll [Am]along [Cmaj7]harmonizing a [Am]song
+[C]Or she?s r[Am]eciting a [Bb7]poem [A7]
+[Dm]Owls go [A7]by and they [Dm]give me the [G7]eye
+[Dm]Walking my [G7]baby back [C]hom[B7]e
 
 [Chorus 1]
-    Em7                  A7                             
-We stop for a while, she gives me a smile
-    Am7                     B7
-And snuggles her head to my chest 
-    Em7              A7                               
-We start to pet and that's when I get
-Am7            D7      G7      
-Her powder all over my vest
+We s[Em7]top for a while, she [A7]gives me a smile
+And [Am7]snuggles her head to my [B7]chest 
+We s[Em7]tart to pet and t[A7]hat's when I get
+[Am7]Her powder all [D7]over my [G7]vest
 
 [Verse 3]
-C       Am               Cmaj7         Am
-After a while I sort of straighten my tie
-C          Am        Bb7  A7
-She asks to borrow my comb
-Dm       A7          Dm       G7     
-One kiss then it's a pleasure again
- Dm          G7       C  B7
-Walking my baby back home
+[C]After a [Am]while I sort of s[Cmaj7]traighten my t[Am]ie
+[C]She asks to[Am] borrow my[Bb7] comb[A7]
+[Dm]One kiss [A7]then it's a [Dm]pleasure [G7]again
+W[Dm]alking my ba[G7]by back h[C]ome[B7]
 
 [Chorus 2]
-      Em7                    A7
-She's afraid of the dark, so I have to park
-Am7                           B7
-Outside of her door 'til it's light
-     Em7              A7
-She says if I try, to kiss her she'll cry
-Am7             D7              G7
-I dry her tears all through the night
+She's [Em7]afraid of the dark, so [A7]I have to park
+[Am7]Outside of her door 'til it's [B7]light
+She s[Em7]ays if I try, to [A7]kiss her she'll cry
+[Am7]I dry her tears [D7]all through the [G7]night
 
 [Verse 4]
-C        Am        Cmaj7    Am
-Hand in hand, to a barbeque stand
-C              Am         Bb7  A7
-Right from her doorway we roam
-Dm      A7           Dm       G7
-Eat and then, it's a pleasure again
-Dm         G7    Em7        A7
-Walking my baby, talking my baby
-Dm         G7     Em7        A7
-Lonin' my baby, I don't mean maybe
+[C]Hand in h[Am]and, to a [Cmaj7]barbeque [Am]stand
+[C]Right from her [Am]doorway we [Bb7]roam [A7]
+[Dm]Eat and [A7]then, it's a [Dm]pleasure [G7]again
+[Dm]Walking my [G7]baby, [Em7]talking my [A7]baby
+[Dm]Lonin' my b[G7]aby, I [Em7]don't mean [A7]maybe
 Dm         G7     C        Am  Cmaj7 Am  C  Am  C (mute) D7sus2/C (X-3-2-2-3-X)(hold)
 Walking my baby - back home
