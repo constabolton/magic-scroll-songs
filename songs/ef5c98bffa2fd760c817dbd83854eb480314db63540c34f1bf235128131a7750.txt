@@ -6,42 +6,30 @@ G7 C7 F
 G7 C7 F C7
 
 [Verse]
-F    F7  Bb               F
-Puamana, ku'u home i Lahaina
-C7
-Me nā pua 'ala onaona,
-G7        C7       F
-Ku'u home i aloha 'ia
+[F]Puama[F7]na, [Bb]ku'u home i Lahai[F]na
+[C7]Me nā pua 'ala onaona,
+[G7]Ku'u home [C7]i aloha '[F]ia
 
 G7 C7 F
 
 [Verse]
-F      F7 Bb              F
-Ku'u home i ka ulu o ka niu
-C7
-'O ka niu kūkilakila
-G7       C7  F
-Napenape mālie
+[F]Ku'u ho[F7]me [Bb]i ka ulu o ka ni[F]u
+[C7]'O ka niu kūkilakila
+[G7]Napenape [C7]māli[F]e
 
 G7 C7 F
 
 [Verse]
-F    F7    Bb            F
-Home nani, home i ka 'ae kai
-C7
-Ke kōnane a ka mahina
-G7       C7      F
-I ke kai hāwanawana
+[F]Home [F7]nani, [Bb]home i ka 'ae [F]kai
+[C7]Ke kōnane a ka mahina
+[G7]I ke kai [C7]hāwanawa[F]na
 
 G7 C7 F
 
 [Verse]
-F   F7  Bb           F
-Ha'ina 'ia mai ka puana
-C7
-Ku'u home i Lahaina
-G7        C7      F
-I piha me ka hau'oli
+[F]Ha'i[F7]na '[Bb]ia mai ka pua[F]na
+[C7]Ku'u home i Lahaina
+[G7]I piha me [C7]ka hau'o[F]li
 
 [Outro]
 G7 C7 F
