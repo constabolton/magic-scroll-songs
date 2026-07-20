@@ -2,62 +2,37 @@
 Song name: You Dont Know Me  by  Ray Charles
 ----------------------------------------------------------------------
 [Verse 1]
-               C         Cmaj7
-You give your hand to me
-        C6        C
-And you say hello
-            F         Fmaj7
-And I can hardly speak
-             F6        F#dim7
-My heart is beating so
-       C           A7
-And anyone can tell
-Dm7
-You think you know me well
-G7                     E7#9  A7#5 Dm9 G7#5#9
-But you don't know me
+You give your h[C]and to me [Cmaj7]
+And you [C6]say hello [C]
+And I can ha[F]rdly speak[Fmaj7]
+My heart is b[F6]eating so [F#dim7]
+And any[C]one can tell[A7]
+[Dm7]You think you know me well
+[G7]But you don't know me [E7#9] [A7#5] [Dm9] [G7#5#9]
 
 
 [Verse 2]
-              C            Cmaj7
-No, you don't know the one
-               C6        C
-who dreams of you at night
-              F             Fmaj7
-And longs to kiss your lips
-              F6          D#dim7
-And longs to hold you tight
-   C              A7
-To you I'm just a friend
-Dm7
-It's all I've ever been
-G7             C     F/C   C     C7
-Well you don't know me
+No, you don't [C]know the one [Cmaj7]
+who dreams of y[C6]ou at nigh[C]t
+And longs to k[F]iss your lips [Fmaj7]
+And longs to h[F6]old you tigh[D#dim7]t
+To [C]you I'm just a [A7]friend
+[Dm7]It's all I've ever been
+[G7]Well you don't [C]know m[F/C]e [C] [C7]
 
 
 [Chorus]
-F        F#dim7    C           A7
-I never knew the art of making love
-Dm7              G7                 C    C7
-Though my heart aches with love for you
-Am                Em               A7
-Afraid and shy, I let my chance go by
-D7                              G7
-The chance that you might love me too
+[F]I never k[F#dim7]new the ar[C]t of making [A7]love
+[Dm7]Though my heart a[G7]ches with love for [C]you [C7]
+[Am]Afraid and shy, I [Em]let my chance go [A7]by
+[D7]The chance that you might love m[G7]e too
 
 
 [Verse 3]
-              C         Cmaj7
-You give your hand to me
-         C6        C
-Then you say goodbye
-             F       Fmaj7
-I watch you walk away
-           F6          D#dim7
-Beside that lucky guy
-C                           A7
-No, you'll never, never know
-Dm7                      G7
-The one who loves you so
-                C
-Well, you don't know me
+You give your [C]hand to me[Cmaj7]
+Then you [C6]say goodby[C]e
+I watch you w[F]alk away[Fmaj7]
+Beside that[F6] lucky guy [D#dim7]
+[C]No, you'll never, never know[A7]
+[Dm7]The one who loves you so [G7]
+Well, you don't [C]know me
