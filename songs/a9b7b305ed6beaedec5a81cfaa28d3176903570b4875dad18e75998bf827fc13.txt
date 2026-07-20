@@ -5,28 +5,19 @@ Autumn Leaves
 
 
 [Verse]
-                Gm7 C7b9            FM7
-The falling leaves      drift by my window 
-BbM7            Em7b5  A7           Dm7  
-     The autumn leaves   of red and gold
+The falling leav[Gm7]es  [C7b9]    drift by my [FM7]window 
+[BbM7]     The autumn [Em7b5]leaves [A7]  of red and [Dm7]gold
 
-           Gm7  C7b9            FM7
-I see your lips,     the summer kisses 
-BbM7              Em7b5 A7           Dm7 
-     The sunburnt hands    I used to hold 
+I see your [Gm7]lips,[C7b9]     the summer [FM7]kisses 
+[BbM7]     The sunburnt [Em7b5]hands [A7]   I used to [Dm7]hold 
 
 
 [Chorus]
-          Em7b5     A7                  Dm7
-Since you went away     the days   grow long
-              C7                     FM7   BbM7
-And soon I'll hear      old winter's song 
-      Em7b5               C#dim7
-But I miss  you   most of all
-   Dm      
-my darling, 
-            Em7b5    A7b9           Dm        
-When Autumn leaves         start to fall 
+Since you [Em7b5]went away [A7]    the days   grow [Dm7]long
+And soon I'll [C7]hear      old winter's [FM7]song [BbM7]
+But I [Em7b5]miss  you   most of [C#dim7]all
+my [Dm]darling, 
+When Autumn [Em7b5]leaves   [A7b9]      start to [Dm]fall 
 
 
 [Solo over Verse chords]
@@ -34,16 +25,11 @@ Gm7 C7b9 FM7 BbM7 Em7b5 A7 Dm7   x2
 
 
 [Chorus]
-          Em7b5     A7                  Dm7
-Since you went away     the days   grow long
-              C7                     FM7   BbM7
-And soon I'll hear      old winter's song 
-      Em7b5               C#dim7
-But I miss  you   most of all
-   Dm      
-my darling, 
-            Em7b5    A7b9           Dm        
-When Autumn leaves         start to fall 
+Since you [Em7b5]went away [A7]    the days   grow [Dm7]long
+And soon I'll [C7]hear      old winter's [FM7]song [BbM7]
+But I [Em7b5]miss  you   most of [C#dim7]all
+my [Dm]darling, 
+When Autumn [Em7b5]leaves   [A7b9]      start to [Dm]fall 
 
 (Note: Ultimate Guitar doesn't let me show you the chord voicings that I would use in some instances. 
 So, please write me if you are having a problem and I will try to help.)
