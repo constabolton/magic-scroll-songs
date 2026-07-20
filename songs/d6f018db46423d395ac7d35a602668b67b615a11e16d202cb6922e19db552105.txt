@@ -38,42 +38,26 @@ E|---------------------------|
 
 [Verse]
 
-Am              G
-You with the sad eyes
-C              F9
-Don't be discouraged
-Dm Dm7   C
-Oh I realize
-        G
-It's hard to take courage
-C           Dm
-In a world full of people
-    C          F
-You can lose sight of it all
-        Am             G
-And the darkness inside you
-        F             C
-Can make you feel so small
+[Am]You with the sad[G] eyes
+[C]Don't be discou[F9]raged
+[Dm]Oh [Dm7]I real[C]ize
+It's har[G]d to take courage
+[C]In a world f[Dm]ull of people
+You [C]can lose si[F]ght of it all
+And the [Am]darkness inside[G] you
+Can make[F] you feel so s[C]mall
 
 
 [Chorus]
 
-                  F     C
-But I see your true colors
-    G
-Shining through
-            F   C
-I see your true colors
-       F          G
-And that's why I love you
-Am            Em      G         F
-So don't be afraid to let them show
-      C    F
-Your true colors
-  C    F          G
-True colors are beautiful,
-         Am
-Like a rainbow
+But I see your tru[F]e colo[C]rs
+Shin[G]ing through
+I see your t[F]rue [C]colors
+And tha[F]t's why I l[G]ove you
+[Am]So don't be af[Em]raid to [G]let them s[F]how
+Your t[C]rue c[F]olors
+Tr[C]ue co[F]lors are be[G]autiful,
+Like a ra[Am]inbow
 
 
 [Instrumental]
@@ -84,37 +68,22 @@ Am G C F
 
 [Verse]
 
-           Am   G
-Show me a smile then,
- C          F9     Dm    Dm7
-Don't be unhappy, can't remember
- C         G
-When I last saw you laughing
-C              Dm
-If this world makes you crazy
-     C                   F
-And you've taken all you can bear
-     Am     G
-You call me up
-             F            C
-Because you know I'll be there
+Show me a s[Am]mile [G]then,
+D[C]on't be unh[F9]appy, c[Dm]an't r[Dm7]emember
+W[C]hen I last[G] saw you laughing
+[C]If this world m[Dm]akes you crazy
+And y[C]ou've taken all you [F]can bear
+You c[Am]all me [G]up
+Because you k[F]now I'll be t[C]here
 
 
 [Chorus]
 
-                  F     C
-And I'll see your true colors
-    G
-Shining through
-            F   C
-I see your true colors
-       F          G
-And that's why I love you
-Am            Em      G         F
-So don't be afraid to let them show
-      C    F
-Your true colors
-  C    F          G
-True colors are beautiful,
-       Am      G C F
-Like a rainbow
+And I'll see your [F]true c[C]olors
+Shin[G]ing through
+I see your t[F]rue [C]colors
+And tha[F]t's why I l[G]ove you
+[Am]So don't be af[Em]raid to [G]let them s[F]how
+Your t[C]rue c[F]olors
+Tr[C]ue co[F]lors are be[G]autiful,
+Like a [Am]rainbow [G] [C] [F]
