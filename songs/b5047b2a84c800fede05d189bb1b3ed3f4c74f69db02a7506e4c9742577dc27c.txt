@@ -5,8 +5,7 @@ Chords:
    B7 (x21202)
    Em (022000)
    G7 (320001)
-   C  (x32010)
-   D7 (xx0212)
+   [C]D7 (xx0212)
    E7 (020100)
    A7 (x02020)
 
@@ -14,35 +13,21 @@ Chords:
    D7   C#7 D7
 
 [Verse 1]
-        G                    B7
-   Only you    can make this world seem right
-        Em                  G7
-   Only you    can make the darkness bright
-        C            D7        G         B7       Em  E7
-   Only you and you alone, can thrill me like you do
-       A7                               D7
-   and fill my heart with love for only you
+   Only [G]you    can make this [B7]world seem right
+   Only [Em]you    can make the [G7]darkness bright
+   Only [C]you and you a[D7]lone, can [G]thrill me [B7]like you [Em]do [E7]
+   and [A7]fill my heart with love for only [D7]you
 
 [Verse 2]
-        G                    B7
-   Only you    can make this change in me
-            Em                  G7
-   For it's true     you are my destiny
-            C               Cm             G     B7       E7
-   When you hold my hand, I understand the magic that you do
-             A7
-   You're my dream come true
-      D7           G  Cm  G
-   My one and only you
+   Only [G]you    can make this [B7]change in me
+   For it's [Em]true     you are my [G7]destiny
+   When you [C]hold my hand, I [Cm]understand the [G]magic [B7]that you [E7]do
+   You're my [A7]dream come true
+   My [D7]one and only [G]you[Cm] [G]
 
 [Verse 2 repeat]
-        G                    B7
-   Only you    can make this change in me
-            Em                  G7
-   For it's true     you are my destiny
-            C               Cm             G     B7       E7
-   When you hold my hand, I understand the magic that you do
-             A7
-   You're my dream come true
-      D7            G  Cm  G
-   My one and only you
+   Only [G]you    can make this [B7]change in me
+   For it's [Em]true     you are my [G7]destiny
+   When you [C]hold my hand, I [Cm]understand the [G]magic [B7]that you [E7]do
+   You're my [A7]dream come true
+   My [D7]one and only y[G]ou [Cm] [G]
