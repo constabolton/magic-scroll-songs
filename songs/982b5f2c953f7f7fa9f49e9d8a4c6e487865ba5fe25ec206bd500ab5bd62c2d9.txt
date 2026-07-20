@@ -5,26 +5,18 @@ English lyrics by Johnny Mercer
 Music By Joseph Kosma
 
 [Verse 1]
-          | Am7   | D7           | GM7
-The falling leaves    drift by the window,
-| CM7         | F#m7b5 | B7         | Em    | Em
-     the Autumn Leaves,    of red and gold.
+The falling [Am7]leaves  [D7]  drift by the [GM7]window,
+  [CM7]   the Autumn [F#m7b5]Leaves,  [B7]  of red and [Em]gold. [Em]
 
 [Verse 2]
-         | Am7  | D7         | GM7
-I see your lips,    the summer kisses,
-| CM7            | F#m7b5 | B7        | Em Am | Em
-     the sunburned hands      I used to hold.
+I see your [Am7]lips,  [D7]  the summer [GM7]kisses,
+  [CM7]   the sunburned [F#m7b5]hands    [B7]  I used to [Em]hol[Am]d. [Em]
 
 [Chorus]
-        | F#m7b5   | B7            | Em
-Since you went away    the days grow long,
-| Em            | Am7 | D7           | GM7
-    and soon I’ll hear    old winter’s song.
-| E7b9    | F#m7b5         | B7b9     | Em    Em/D
-      But I miss you most of all     my dar – ling,
-| C#m7b5 CM7 | F#m7b5 | B7b9          | Em Am | Em
-         when  Autumn   Leaves start to fall.
+Since you [F#m7b5]went away  [B7]  the days grow [Em]long,
+  [Em]  and soon I’ll [Am7]hear  [D7]  old winter’s [GM7]song.
+  [E7b9]    But I [F#m7b5]miss you most of [B7b9]all     my [Em]dar – [Em/D]ling,
+  [C#m7b5]       [CM7]when  [F#m7b5]Autumn   [B7b9]Leaves start to [Em]fal[Am]l. [Em]
 
 ----------------------------------------------------
 
