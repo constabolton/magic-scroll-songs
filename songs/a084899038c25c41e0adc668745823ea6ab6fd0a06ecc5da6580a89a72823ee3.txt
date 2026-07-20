@@ -6,82 +6,59 @@ Bb7   G7  D7
 
 
 [Verse 1]
-C          Bb                C          Bb
-   My love must be a kind of blind love
-C          Bb             C   Bb
-   I can't see anyone but you
+[C]   My love [Bb]must be a kind of [C]blind love [Bb]
+[C]   I can't [Bb]see anyone but [C]you [Bb]
 
 
 [Chorus]
-C              Bb
-Doo-bop-sh-bop
-C              Bb
-Doo-bop-sh-bop
-C              Bb
-Doo-bop-sh-bop
-C              Bb
-Doo-bop-sh-bop
+[C]Doo-bop-sh-bop [Bb]
+[C]Doo-bop-sh-bop [Bb]
+[C]Doo-bop-sh-bop [Bb]
+[C]Doo-bop-sh-bop [Bb]
 
 
 [Verse 2]
-C            Bb        C     Bb
-   Are the stars out tonight
-C          Bb                     C      C7
-   I don't know if it's cloudy or bright
+[C]   Are the st[Bb]ars out to[C]night [Bb]
+[C]   I don't [Bb]know if it's cloudy or [C]bright [C7]
 
 
 [Hook 1]
-  Fmaj7              Am7  Abm7   Ab7
-I only have eyes for you, dear
+I [Fmaj7]only have eyes for [Am7]you, [Abm7]dear [Ab7]
 
 
 [Verse 3]
-C       Bb     C       Bb
-   The moon may be high
-C              Bb         C         C7
-   But I can't see a thing in the sky
+[C]   The m[Bb]oon may[C] be high[Bb]
+[C]   But I can't [Bb]see a thing[C] in the sk[C7]y
 
 
 [Hook 2]
-  Fmaj7              D7
-I only have eyes for you
+I [Fmaj7]only have eyes for [D7]you
 
 
 [Bridge]
-Gm7              C7            Fmaj7  F7
-    I don't know if we're in a garden
-Bb         Bbm      Fmaj7 Db9
-   Or on a crowded avenue
+[Gm7]    I don't know [C7]if we're in a [Fmaj7]garden [F7]
+[Bb]   Or on a [Bbm]crowded a[Fmaj7]venue [Db9]
 
 
 [Verse 4]
-C           Bb      C       Bb
-   You are here, and so am I
-C           Bb             C      C7
-   Maybe millions of people go by
+[C]   You are h[Bb]ere, and[C] so am I[Bb]
+[C]   Maybe mil[Bb]lions of people[C] go by [C7]
 
 
 [Hook 3]
-         Fmaj7              D7
-But they all disappear from view
+But they [Fmaj7]all disappear from [D7]view
 
 
 [Coda]
-      Gm7        C7  N.C.
-And I only have eyes
-    C         Bb
-For you--------
+And I [Gm7]only have e[C7]yes
+For [C]you-------[Bb]-
    (Doo-bop-sh-bop)
 
 
 [Chorus]
-C              Bb
-Doo-bop-sh-bop
-C              Bb
-Doo-bop-sh-bop
-C              Bb
-Doo-bop-sh-bop
-C              Bb
-Doo-bop-sh-bop
+[C]Doo-bop-sh-bop [Bb]
+[C]Doo-bop-sh-bop [Bb]
+[C]Doo-bop-sh-bop [Bb]
+[C]Doo-bop-sh-bop [Bb]
 
 (fade out)
