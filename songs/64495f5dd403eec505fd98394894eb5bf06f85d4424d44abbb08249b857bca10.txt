@@ -2,35 +2,25 @@
 Song name: Christmas Island  by  Jimmy Buffett
 ----------------------------------------------------------------------
 [Intro]
-F                    A7           Dm                  G7
-Let's get away from sleigh bells, let's get away from snow
-Gm7                     C7               G7                  C7
-Let's make a break some Christmas, dear, I know the place to go
+[F]Let's get away from s[A7]leigh bells, [Dm]let's get away from [G7]snow
+[Gm7]Let's make a break some [C7]Christmas, dear, [G7]I know the place to [C7]go
 
 
 [Verse 1]
-                       Bbsus2/F F      F#dim     G7
-How'd ya like to spend Christ - mas on Christmas Island?
-         C7                C7/G     C7    D7sus2 C/E F  F#dim  G7
-How'd ya like to spend the holiday away across   the sea?
-         C7      C/E   Bbsus2/F F      F#dim     G7
-How'd ya like to spend Christ - mas on Christmas Island?
-         C7              C7/G         C7        D7sus2 C/E F
-How'd ya like to hang a stocking on a great big coco - nut tree?
+How'd ya like to spend [Bbsus2/F]Christ - [F]mas on [F#dim]Christmas [G7]Island?
+How'd ya [C7]like to spend the [C7/G]holiday a[C7]way ac[D7sus2]ross   [C/E]the [F]sea[F#dim]? [G7]
+How'd ya [C7]like to [C/E]spend [Bbsus2/F]Christ - [F]mas on [F#dim]Christmas [G7]Island?
+How'd ya [C7]like to hang a s[C7/G]tocking on a [C7]great big [D7sus2]coco - [C/E]nut [F]tree?
 
 
 [Bridge]
-         Gsus4   Fmaj7/A Bb    Bbm                   F   Eb7  D7
-How'd ya like to stay    up late, like the islanders do?
-                  G7                                C7  Db7  C7
-Wait for Santa to sail in with your presents in a canoe
+How'd ya [Gsus4]like to [Fmaj7/A]stay    [Bb]up lat[Bbm]e, like the islanders [F]do? [Eb7] [D7]
+Wait for Santa to [G7]sail in with your presents in a ca[C7]noe [Db7] [C7]
 
 
 [Verse 2]
-                  Bbsus2/F F      F#dim     G7
-If you ever spend Christ - mas on Christmas Island
-         C7              C7/G           C7        D7sus2 C/E  F  F#dim  G7
-You will never stray for every day your Christmas dreams come true
+If you ever spend [Bbsus2/F]Christ - [F]mas on [F#dim]Christmas [G7]Island
+You will [C7]never stray for [C7/G]every day your [C7]Christmas [D7sus2]dreams [C/E]come [F]tru[F#dim]e [G7]
 
 
 [Solo]
@@ -38,25 +28,19 @@ You will never stray for every day your Christmas dreams come true
 
 | C7  C7/G  | C7  D7sus2 C/E | F  F#dim | G7  C7  |
 
-| Bbsus2/F  F  | F  F#dim | G7   | G7   |
-  Christmas
+  [Bbsus2/F]Christmas [F] [F#dim] [G7]
 | C7  C7/G  | C7  D7sus2 C/E | F   | F
 
 
 [Bridge]
-         Gsus4   Fmaj7/A Bb    Bbm                   F  Eb7  D7
-How'd ya like to stay    up late, like the islanders do?
-                  G7                                C7  Db7  C7
-Wait for Santa to sail in with your presents in a canoe
+How'd ya [Gsus4]like to [Fmaj7/A]stay    [Bb]up lat[Bbm]e, like the islanders [F]do?[Eb7] [D7]
+Wait for Santa to [G7]sail in with your presents in a ca[C7]noe [Db7] [C7]
 
 
 [Verse 3]
-                  Bbsus2/F F      F#dim     G7
-If you ever spend Christ - mas on Christmas Island
-         C7              C7/G           C7        D7sus2 C/E  F  Eb7  D7
-You will never stray for every day your Christmas dreams come true
+If you ever spend [Bbsus2/F]Christ - [F]mas on [F#dim]Christmas [G7]Island
+You will [C7]never stray for [C7/G]every day your [C7]Christmas [D7sus2]dreams [C/E]come [F]tru[Eb7]e [D7]
 
 
 [Ending]
-             G7    C7                F    C7  F
-On Christmas Island your dreams come true
+On Christmas [G7]Island[C7] your dreams come [F]true [C7] [F]
