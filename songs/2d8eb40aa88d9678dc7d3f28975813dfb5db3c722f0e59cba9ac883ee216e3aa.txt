@@ -5,14 +5,10 @@ Song name: Its Only A Paper Moon  by  Nat King Cole
 
 Verse 
 
-Gmaj7   G#dim   Am7    D9
-Say it's only a paper moon
-Am7      D9    Gmaj7       
-hanging over a cardboard sea
-G7                   C6   
-but it wouldn't be make-believe
-   D9              Gmaj7 G#o Am7 D7  
-if you believed in me
+[Gmaj7]Say it's[G#dim] only a [Am7]paper m[D9]oon
+[Am7]hanging o[D9]ver a [Gmaj7]cardboard sea
+[G7]but it wouldn't be ma[C6]ke-believe
+if [D9]you believed in [Gmaj7]me [G#o] [Am7] [D7]
 
 
 Yes, its only a canvas sky
@@ -22,14 +18,10 @@ if you believed in me
 
 Chorus 
 
-C6     C#dim   G
-Without your love
-       Am7   D7      Gmaj7
-it's a honky-tonk parade
-C6      C#dim  G  
-without your love
-       Bm7   E7              Am7   D7
-it's a melody played in the penny arcade
+[C6]Without[C#dim] your lo[G]ve
+it's a [Am7]honky-[D7]tonk par[Gmaj7]ade
+[C6]without [C#dim]your lo[G]ve
+it's a [Bm7]melody[E7] played in the p[Am7]enny a[D7]rcade
 
 Verse 
 
