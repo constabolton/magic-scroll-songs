@@ -11,20 +11,14 @@ Song name: Old Cowhand  by  Sons of the Pioneers
 
 Intro: Bm F#m (3x)
 
-    D        G     D      D        G     D
-1.  Yipee-yi-O-kie-yay,   Yipee-yi-O-kie-yay
-                  G  A              D
-    I'm an old cowhand from the Rio Grande
-                   G    A              D
-    And I sing the songs in the cowboy band
+1.  [D]Yipee-yi-[G]O-kie-[D]yay,   [D]Yipee-yi-[G]O-kie-[D]yay
+    I'm an old cow[G]han[A]d from the Rio [D]Grande
+    And I sing the [G]songs[A] in the cowboy [D]band
 
 Chorus:
-           Bm                     F#m
-    I know all the songs that the cowboys know
-              Bm                   F#m
-    About the big corral where the dogies go
-           Bm                     F#m
-    'Cuz I learned 'em all on the radio
+    I know [Bm]all the songs that the [F#m]cowboys know
+    About the [Bm]big corral where the [F#m]dogies go
+    'Cuz I [Bm]learned 'em all on the [F#m]radio
 
 
 2.  Yipee-yi-O-kie-yay,   Yipee-yi-O-kie-yay
