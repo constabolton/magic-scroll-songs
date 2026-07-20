@@ -2,28 +2,18 @@
 Song name: The Fox  by  Nickel Creek
 ----------------------------------------------------------------------
 [Verse]
-G
-The fox went out on a chilly night
-                          D
-He prayed for the moon to give him light
-G                       C
-For he'd many a mile to go that night
-G         D           G       D       G
-Before he reached the town-o, town-o, town-o
-C                   G              D                     G
-He'd many a mile to go that night, before he reached the town-o
+[G]The fox went out on a chilly night
+He prayed for the moon to [D]give him light
+[G]For he'd many a mile to [C]go that night
+[G]Before he [D]reached the [G]town-o, [D]town-o, [G]town-o
+[C]He'd many a mile to [G]go that night, [D]before he reached the [G]town-o
 
 [Verse]
-G
-He ran 'til he came to the farmer's pen
-                             D
-The ducks and the geese were kept therein
-G                                  C
-He said, a couple of you are gonna grease my chin,
-G        D          G       D       G
-Before I leave this town-o, town-o, town-o
-C                              G              D                    G
-Said a couple of you are gonna grease my chin, before I leave this town-o
+[G]He ran 'til he came to the farmer's pen
+The ducks and the geese were [D]kept therein
+[G]He said, a couple of you are gonna [C]grease my chin,
+[G]Before I [D]leave this [G]town-o, [D]town-o, [G]town-o
+[C]Said a couple of you are gonna [G]grease my chin,[D] before I leave this [G]town-o
 
 [Solo]
 G D G C
@@ -31,28 +21,18 @@ G D G D G
 C G D G
 
 [Verse]
-G
-He grabbed the great goose by the neck
-                    D
-And he threw a duck across his back
-G                      C
-And he didn't mind the quack, quack
-G                D        G       D       G
-And the legs all dangling down-o, down-o, down-o
-C                     G                    D                 G
-He didn't mind the quack, quack and the legs all dangling down-o
+[G]He grabbed the great goose by the neck
+And he threw a duck [D]across his back
+[G]And he didn't mind the [C]quack, quack
+[G]And the legs all [D]dangling [G]down-o, [D]down-o, [G]down-o
+[C]He didn't mind the qua[G]ck, quack and the leg[D]s all dangling dow[G]n-o
 
 [Verse]
-G
-The old grey woman jumped out of bed
-                      D
-Out of the window she popped her head,
-G                            C
-Crying John, John, the great goose is gone
-G              D      G       D       G
-And the fox is on the town-o, town-o, town-o
-C                     G                     D             G
-John, John, the great goose is gone and the fox is on the town-o
+[G]The old grey woman jumped out of bed
+Out of the window she [D]popped her head,
+[G]Crying John, John, the great [C]goose is gone
+[G]And the fox is [D]on the [G]town-o, [D]town-o, [G]town-o
+[C]John, John, the great [G]goose is gone and the [D]fox is on the [G]town-o
 
 [Solo]
 G D G C
@@ -60,30 +40,19 @@ G D G D G
 C G D G
 
 [Verse]
-G
-He ran 'til he came to his nice warm den
-                                D
-And there were the little ones, eight, nine, ten
-G                          C
-Sayin Daddy, Daddy, better go back again
-G                D          G       D       G
-For it must be a might fine town-o, town-o, town-o
-C             G                    D                   G
-Daddy, Daddy, go back again for it must be mighty fine town-o
+[G]He ran 'til he came to his nice warm den
+And there were the little ones, [D]eight, nine, ten
+[G]Sayin Daddy, Daddy, better [C]go back again
+[G]For it must be a [D]might fine [G]town-o, [D]town-o, [G]town-o
+[C]Daddy, Daddy, [G]go back again for it [D]must be mighty fine [G]town-o
 
 [Verse]
-G
-The fox and his wife, without any strife
-                        D
-Cut up the goose with a fork and a knife
-G                     C
-They never had such a supper in their life
-G                   D             G        D        G
-And the little ones chewed on the bones-o, bones-o, bones-o
-C                     G
-They never had such a supper in their life
-        D                         G
-And the little ones chewed on the bones
+[G]The fox and his wife, without any strife
+Cut up the goose with a [D]fork and a knife
+[G]They never had such a [C]supper in their life
+[G]And the little ones [D]chewed on the [G]bones-o, [D]bones-o, [G]bones-o
+[C]They never had such a [G]supper in their life
+And the [D]little ones chewed on the [G]bones
 
 [Outro]
 G D G C
