@@ -1,0 +1,22 @@
+X:1
+T: When My Sugar Walks Down The Street
+C: Gene Austin, Jimmy McHugh, Irving Mills
+M: 4/4
+L: 1/16
+K: C
+"G"d4d4d2e2d4|
+"A7"^c4A4A6B2|
+"D7"c2B2c2B2c2^c2d4|
+"G"B4G2G2-G8-|
+"G"G4e2d2e2d2e2d2|
+"D7"e2e2d2A2-A8-|
+"D7"A4e2d2e2d2e2d2|
+"G"e2e2d2B2-B3Bc2^c2|
+"G"d4d4d2e2d4|
+"A7"^c4A4A6B2|
+"D7"c2B2c2B2c2^c2d4|
+"G"B4G2G2-G8-|
+"E7"G4e2d2e2d2B2G2|
+"Am7"A4B2c2-c3Bc2^c2|
+"D7"d2e2d4B4A4|
+"G"G4B4c4^c4|]
