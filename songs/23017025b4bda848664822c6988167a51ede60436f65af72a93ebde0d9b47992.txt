@@ -7,8 +7,7 @@ The studio version sounds different from the Woodstock version, but this is how 
 at Woodstock.
 
 [Chords]
-      E   A   F#   B
-   e -0---0---2----2--|
+   e -[E]0---[A]0---[F#]2----[B]2--|
    b -0---2---2----4--|
    G -1---2---3----4--|
    D -2---2---4----4--|
@@ -16,132 +15,76 @@ at Woodstock.
    E -0-------2-------|
 
 [Verse 1]
-         E
-   Well, come on all of you, big strong men,
-   A
-   Uncle Sam needs your help again.
-        E
-   He's got himself in a terrible jam
-   A
-   Way down yonder in Vietnam
-          F#                  B
-   So put down your books and pick up a gun,
-         E                        A
-   We're gonna have a whole lotta fun.
+   Well, [E]come on all of you, big strong men,
+   [A]Uncle Sam needs your help again.
+   He's [E]got himself in a terrible jam
+   [A]Way down yonder in Vietnam
+   So put [F#]down your books and [B]pick up a gun,
+   We're [E]gonna have a whole lotta [A]fun.
 
 [Chorus]
-            F#   B    E
-   And it's one, two, three,
-               A
-   What are we fighting for ?
-                   E
-   Don't ask me, I don't give a damn,
-                A
-   Next stop is Vietnam;
-            F#    B    E
-   And it's five, six, seven,
-               A
-   Open up the pearly gates,
-              F#               B
-   Well there ain't no time to wonder why,
-       E                    A
-   Whoopee! we're all gonna die.
+   And it's [F#]one, [B]two, [E]three,
+   What are we [A]fighting for ?
+   Don't ask me, I [E]don't give a damn,
+   Next stop is [A]Vietnam;
+   And it's [F#]five, [B]six, [E]seven,
+   Open up the [A]pearly gates,
+   Well there [F#]ain't no time to [B]wonder why,
+   Whoo[E]pee! we're all gonna [A]die.
 
 [Verse 2]
-   E
-   Come on Wall Street, don't be slow,
-       A
-   Why man, this is war a-go-go
-           E
-   There's plenty good money to be made
-      A
-   By supplying the Army with the tools of its trade,
-            F#                         B
-   But just hope and pray that if they drop the bomb,
-        E                   A
-   They drop it on the Viet Cong.
+   [E]Come on Wall Street, don't be slow,
+   Why [A]man, this is war a-go-go
+   There's [E]plenty good money to be made
+   By [A]supplying the Army with the tools of its trade,
+   But just [F#]hope and pray that if they [B]drop the bomb,
+   They [E]drop it on the Viet [A]Cong.
 
 [Chorus]
-            F#   B    E
-   And it's one, two, three,
-               A
-   What are we fighting for ?
-                   E
-   Don't ask me, I don't give a damn,
-                A
-   Next stop is Vietnam.
-            F#    B    E
-   And it's five, six, seven,
-               A
-   Open up the pearly gates,
-              F#               B
-   Well there ain't no time to wonder why
-       E                    A
-   Whoopee! we're all gonna die.
+   And it's [F#]one, [B]two, [E]three,
+   What are we [A]fighting for ?
+   Don't ask me, I [E]don't give a damn,
+   Next stop is [A]Vietnam.
+   And it's [F#]five, [B]six, [E]seven,
+   Open up the [A]pearly gates,
+   Well there [F#]ain't no time to [B]wonder why
+   Whoo[E]pee! we're all gonna [A]die.
 
 [Verse 3]
-        E
-   Now, come on generals, let's move fast;
-   A
-   Your big chance is here at last.
-   E
-   Now you can go out and get those reds
-              A
-   'Cause the only good commie is the one that's dead
-           F#                  B
-   And you know that peace can only be won
-              E                A
-   When we've blown 'em all to kingdom come.
+   Now, [E]come on generals, let's move fast;
+   [A]Your big chance is here at last.
+   [E]Now you can go out and get those reds
+   'Cause the [A]only good commie is the one that's dead
+   And you [F#]know that peace can [B]only be won
+   When we've [E]blown 'em all to [A]kingdom come.
 
 [Chorus]
-            F#   B    E
-   And it's one, two, three,
-               A
-   What are we fighting for ?
-                   E
-   Don't ask me, I don't give a damn,
-                A
-   Next stop is Vietnam;
-            F#    B    E
-   And it's five, six, seven,
-               A
-   Open up the pearly gates,
-              F#               B
-   Well there ain't no time to wonder why
-       E                    A
-   Whoopee! we're all gonna die.
+   And it's [F#]one, [B]two, [E]three,
+   What are we [A]fighting for ?
+   Don't ask me, I [E]don't give a damn,
+   Next stop is [A]Vietnam;
+   And it's [F#]five, [B]six, [E]seven,
+   Open up the [A]pearly gates,
+   Well there [F#]ain't no time to [B]wonder why
+   Whoo[E]pee! we're all gonna [A]die.
 
 [Verse 4]
-   E
-   Come on mothers throughout the land,
-   A
-   Pack your boys off to Vietnam.
-   E
-   Come on fathers, and don't hesitate
-      A
-   To send your sons off before it's too late.
-               F#                B
-   And you can be the first ones in your block
-                E                  A
-   To have your boy come home in a box.
+   [E]Come on mothers throughout the land,
+   [A]Pack your boys off to Vietnam.
+   [E]Come on fathers, and don't hesitate
+   To [A]send your sons off before it's too late.
+   And you can [F#]be the first ones [B]in your block
+   To have your [E]boy come home in a [A]box.
 
 [Chorus]
-            F#   B    E
-   And it's one, two, three
-               A
-   What are we fighting for ?
-                   E
-   Don't ask me, I don't give a damn,
-                A
-   Next stop is Vietnam.
-            F#    B    E
-   And it's five, six, seven,
-               A
-   Open up the pearly gates,
-              F#               B
-   Well there ain't no time to wonder why,
-       E                    A
-   Whoopee! we're all gonna die.
+   And it's [F#]one, [B]two, [E]three
+   What are we [A]fighting for ?
+   Don't ask me, I [E]don't give a damn,
+   Next stop is [A]Vietnam.
+   And it's [F#]five, [B]six, [E]seven,
+   Open up the [A]pearly gates,
+   Well there [F#]ain't no time to [B]wonder why,
+   Whoo[E]pee! we're all gonna [A]die.
 
 
 I'm not 100% sure about the key. I've heard several different versions and they all sound
