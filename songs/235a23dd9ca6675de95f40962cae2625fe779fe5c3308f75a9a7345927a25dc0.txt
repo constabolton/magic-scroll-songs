@@ -2,109 +2,71 @@
 Song name: Cabaret - Cabaret  by  Misc Soundtrack
 ----------------------------------------------------------------------
 [Verse 1]
-D             A7      D             A7
-"What good is sitting alone In your room?
-D             Dm7   D7
-Come hear the music play.
+[D]"What good is [A7]sitting [D]alone In your [A7]room?
+[D]Come hear the [Dm7]music [D7]play.
 
 
 [Chorus]
-G         Abdim7    F#m      B7
-Life is a Cab - a - ret, old chum,
-Em7         A7        D
-Come to the Cab - a - ret.
+[G]Life is a [Abdim7]Cab - a - [F#m]ret, old [B7]chum,
+[Em7]Come to the [A7]Cab - a - [D]ret.
 
 
 [Verse 2]
-D            A7            D            A7
-Put down the knitting, The book and the broom.
-D               Dm7   D7
-It's time for a hol-i-day.
+[D]Put down the [A7]knitting, The [D]book and the [A7]broom.
+[D]It's time for a [Dm7]hol-i-[D7]day.
 
 
 [Chorus]
-G         Abdim7    F#m      B7
-Life is a Cab - a - ret, old chum
-Em7         A7        D
-Come to the Cab - a - ret.
+[G]Life is a [Abdim7]Cab - a - [F#m]ret, old [B7]chum
+[Em7]Come to the [A7]Cab - a - [D]ret.
 
 
 [Bridge]
-               Gm
-Come taste the wine,
-              D
-Come hear the band.
-            Bm          Bm7
-Come blow a horn, Start celebrating;
-A7
-Right this way, Your table's waiting.
+Come taste the [Gm]wine,
+Come hear the [D]band.
+Come blow a [Bm]horn, Start [Bm7]celebrating;
+[A7]Right this way, Your table's waiting.
 
 
 [Verse 3]
-D              A7           D          A7
-What good's permitting Some prophet of doom
-D             Dm7   D7
-To wipe every smile away.
+[D]What good's per[A7]mitting Some [D]prophet of [A7]doom
+[D]To wipe every [Dm7]smile [D7]away.
 
 
 [Chorus]
-G         Abdim7    F#m      B7
-Life is a Cab - a - ret, old chum
-Em7         A7        D
-Come to the Cab - a - ret.
+[G]Life is a [Abdim7]Cab - a - [F#m]ret, old [B7]chum
+[Em7]Come to the [A7]Cab - a - [D]ret.
 
 
 [Bridge 2]
-  D              A+                  D
-I used to have a girlfriend known as Elsie,
-     D                  A+              D
-With whom I shared four sordid rooms in Chelsea
-    A7                                Bm
-She wasn't what you'd call a blushing flower.
-     E                                A
-As a matter of fact she rented by the hour.
-    D                A+                D
-The day she died the neighbors came to snicker:
-       D                      A+                 D
-"Well, that's what comes from too much pills and liquor."
-    A7                             Bm
-But when I saw her laid out like a Queen,
-            G        A               D
-She was the happiest corpse I'd ever seen.
-  C#7            F#7          E
-I think of Elsie to this very day.
-  E                  A              D
-I remember how she'd turn to me and say:
+I [D]used to have a [A+]girlfriend known as [D]Elsie,
+With [D]whom I shared four [A+]sordid rooms in [D]Chelsea
+She [A7]wasn't what you'd call a blushing [Bm]flower.
+As a [E]matter of fact she rented by the [A]hour.
+The [D]day she died the [A+]neighbors came to [D]snicker:
+"Well, [D]that's what comes from [A+]too much pills and [D]liquor."
+But [A7]when I saw her laid out like a [Bm]Queen,
+She was the [G]happiest [A]corpse I'd ever [D]seen.
+I [C#7]think of Elsie [F#7]to this very [E]day.
+I [E]remember how she'd [A]turn to me and [D]say:
 
 
 [Verse 4]
-D             A7      D             A7
-"What good is sitting alone In your room?
-D             Dm7   D7
-Come hear the music play.
+[D]"What good is [A7]sitting [D]alone In your [A7]room?
+[D]Come hear the [Dm7]music [D7]play.
 
 [Chorus]
-G         Abdim7    F#m      B7
-Life is a Cab - a - ret, old chum,
-Em7         A7        D
-Come to the Cab - a - ret.
+[G]Life is a [Abdim7]Cab - a - [F#m]ret, old [B7]chum,
+[Em7]Come to the [A7]Cab - a - [D]ret.
 
 [Verse 5]
-           Gm         D
-And as for me, as for me,
-          Bm      Bm7
-I made my mind up back in Chelsea,
-A7
-When I go, I'm going like Elsie.
-D          A7           D         A7
-Start by admitting from Cradle to Tomb
-D          Dm7    D7
-Isn't that long a stay
+And as for [Gm]me, as for [D]me,
+I made my [Bm]mind up [Bm7]back in Chelsea,
+[A7]When I go, I'm going like Elsie.
+[D]Start by ad[A7]mitting from [D]Cradle to [A7]Tomb
+[D]Isn't that [Dm7]long a [D7]stay
 
 [Chorus]
-G         Abdim7    F#m      B7
-Life is a Cab - a - ret, old chum
-G      Abdim7    F#m      B7
-Only a Cab - a - ret, old chum
-             Em7   A7  D
-And I love a Cab - a - ret.
+[G]Life is a [Abdim7]Cab - a - [F#m]ret, old [B7]chum
+[G]Only a [Abdim7]Cab - a - [F#m]ret, old [B7]chum
+And I love a [Em7]Cab - [A7]a - [D]ret.
