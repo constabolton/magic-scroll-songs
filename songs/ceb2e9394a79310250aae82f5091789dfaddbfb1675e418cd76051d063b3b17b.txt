@@ -2,67 +2,41 @@
 Song name: All The Way  by  Frank Sinatra
 ----------------------------------------------------------------------
 [Verse 1]
-Ebmaj7
-When somebody loves you
-        G7
-Its no good unless he loves you...
-Cm9       F9  
-All the way
- Bb
-Happy to be near you
-          Bb7
-When you need someone to cheer you
-Ebmaj7  Eb7
-All the way
+[Ebmaj7]When somebody loves you
+Its no g[G7]ood unless he loves you...
+[Cm9]All the wa[F9]y
+H[Bb]appy to be near you
+When you n[Bb7]eed someone to cheer you
+[Ebmaj7]All the [Eb7]way
 
 [Chorus 1]
-Abmaj7          Bb       Bb7
-Taller than the tallest tree is
-G             G7      Cm    Cm7
-Thats how its got to feel
-Abmaj7          Bb        Bb7
-Deeper than the deep blue sea is
-Cm                Cm7         Abm     Bb7
-Thats how deep it goes if its real
+[Abmaj7]Taller than the [Bb]tallest t[Bb7]ree is
+[G]Thats how its [G7]got to f[Cm]eel [Cm7]
+[Abmaj7]Deeper than the [Bb]deep blue [Bb7]sea is
+[Cm]Thats how deep it [Cm7]goes if its [Abm]real [Bb7]
 
 [Verse 2]
-Ebmaj7
-When somebody needs you
-        G7
-Its no good unless she needs you
-Cm9       F9  
-All the way
-Bb
-Through the good or lean years
-        Bb7
-And for all those in between years
-Ebmaj7    Eb7
-Come what may
+[Ebmaj7]When somebody needs you
+Its no g[G7]ood unless she needs you
+[Cm9]All the wa[F9]y
+[Bb]Through the good or lean years
+And for [Bb7]all those in between years
+[Ebmaj7]Come what [Eb7]may
 
 [Chorus 2]
-Abmaj7               Bb        Bb7
-Who knows where the road will lead us
-G       G7         Cm      Cm7
-Only a fool would say
-   Ebmaj7
-But if you let me love you
-         C                C7
-Its for sure I'm gonna love you
-Abmaj7   Bbm   C7
-All the way
-Abmaj7 Bb Ebmaj7
-All the way...
+[Abmaj7]Who knows where the r[Bb]oad will l[Bb7]ead us
+[G]Only a f[G7]ool would s[Cm]ay [Cm7]
+But[Ebmaj7] if you let me love you
+Its for s[C]ure I'm gonna lov[C7]e you
+[Abmaj7]All the w[Bbm]ay [C7]
+[Abmaj7]All the[Bb] wa[Ebmaj7]y...
 
 [Instrumental]
 Abmaj7    Bb Bb7   G G7    Cm Cm7
 Abmaj7    Bb Bb7   Cm Cm7  Abm Bb7 B7
 
 [Outro]
-  Emaj7
-So if you let me love you
-         Db               Db7
-Its for sure I'm gonna love you
-Amaj7    Bm   Db7
-All the way
-Gbm7   B7      Emaj7
-All.. The ... Way...
+So[Emaj7] if you let me love you
+Its for s[Db]ure I'm gonna lov[Db7]e you
+[Amaj7]All the w[Bm]ay [Db7]
+[Gbm7]All.. T[B7]he ... W[Emaj7]ay...
