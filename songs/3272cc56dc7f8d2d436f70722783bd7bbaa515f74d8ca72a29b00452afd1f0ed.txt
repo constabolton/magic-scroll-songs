@@ -23,14 +23,10 @@ A|-0---0-2---2-----3---3-3-2-0---0-2---2-------3---3-3-3-3-0-----------------|
 E|------------3---3----------------------3---3-------------------------------|
 
 
-Am         G
-Half empty, half full
-G           C
-Cup runneth over
-Am              G
-Horns of plenty, coffers full
-G              C
-We're starting over
+[Am]Half empty,[G] half full
+[G]Cup runneth [C]over
+[Am]Horns of plenty,[G] coffers full
+[G]We're starting [C]over
 
 (strumming)
 
@@ -39,14 +35,10 @@ Am G G C
 Am G G C
 
 
-Am         G
-Half empty, half full
-G           C
-Cup runneth over
-Am              G
-Horns of plenty, coffers full
-G              C
-We're starting over
+[Am]Half empty,[G] half full
+[G]Cup runneth [C]over
+[Am]Horns of plenty,[G] coffers full
+[G]We're starting [C]over
 
 
 [Bridge]
@@ -61,32 +53,23 @@ A|-0----------------3-----0--------------------------------------------------|
 E|------2----3-----------------2----3------0---------------------------------|
 
 
-Am            Am/F#
-I write you a story
-G                C
-But it loses its thread
-Am            Am/F#
-And all of my witnesses
-G                            E
-Keep turning up, turning up dead
+[Am]I write you a [Am/F#]story
+[G]But it loses its [C]thread
+[Am]And all of my [Am/F#]witnesses
+[G]Keep turning up, turning up d[E]ead
 
 
 (strumming)
 
-Am            Am/F#
-I paint you a picture
-G             C
-Of Pulaski at night
-Am              Am/F#
-Come back to Chicago
-         G       E
-City of, city of light
+[Am]I paint you a [Am/F#]picture
+[G]Of Pulaski at [C]night
+[Am]Come back to Chi[Am/F#]cago
+City of, [G]city of [E]light
 
 
 (single strum)
 
-Am              D
-Come back to Chicago
+[Am]Come back to Chi[D]cago
 
 
 (strumming)
@@ -95,11 +78,9 @@ Am G G C
 
 Am G G C
 
-Am             G             G                C
-Oooooooooooooooooooooooooooooooooooh starting over
+[Am]Ooooooooooooooo[G]oooooooooooooo[G]ooooooh starting [C]over
 
-Am             G             G                C
-Oooooooooooooooooooooooooooooooooooh starting over
+[Am]Ooooooooooooooo[G]oooooooooooooo[G]ooooooh starting [C]over
 
 
 [Bridge] 
@@ -115,32 +96,21 @@ E|------2----3-----------------2----3------0---------------------------------|
 
 (strumming)
 
-Am            Am/F#
-I paint you a picture
-G                  C
-But it never looks right
-Am                  Am/F#
-Cause I fill in the shadows
-                   G               E
-And block out the, I block out the light
-Am           Am/F#
-I send you a postcard
-G                    C
-It says, "Pulaski at night"
-Am                Am/F#
-Greetings from Chicago
-        G        E
-City of, city of light
-Am              Am/F#
-Come back to Chicago
-        G        E
-City of, city of light
+[Am]I paint you a [Am/F#]picture
+[G]But it never looks [C]right
+[Am]Cause I fill in the [Am/F#]shadows
+And block out the, [G]I block out the [E]light
+[Am]I send you a [Am/F#]postcard
+[G]It says, "Pulaski at [C]night"
+[Am]Greetings from Chi[Am/F#]cago
+City of,[G] city of [E]light
+[Am]Come back to Chi[Am/F#]cago
+City of,[G] city of [E]light
 
 
 (single strum)
 
-Am           D
-Come back to Chicago
+[Am]Come back to [D]Chicago
 
 
 (strumming)
@@ -149,13 +119,10 @@ Am G G C
 
 Am G G C
 
-Am             G             G                C
-Oooooooooooooooooooooooooooooooooooh starting over
+[Am]Ooooooooooooooo[G]oooooooooooooo[G]ooooooh starting [C]over
 
-Am             G             G                C
-Oooooooooooooooooooooooooooooooooooh starting over
+[Am]Ooooooooooooooo[G]oooooooooooooo[G]ooooooh starting [C]over
 
 (single strum)
 
-Am             G             G                C
-Oooooooooooooooooooooooooooooooooooh starting over
+[Am]Ooooooooooooooo[G]oooooooooooooo[G]ooooooh starting [C]over
