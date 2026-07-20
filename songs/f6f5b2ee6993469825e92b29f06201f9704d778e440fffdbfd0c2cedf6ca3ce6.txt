@@ -29,20 +29,13 @@ He's a real nowhere man
 
 Sitting in his nowhere land
 
-Em             Gm                D
-Making all his nowhere plans for nobody
-D              A 
-Doesn't have a point of view
-G                    D
-Knows not where he's going to
-Em           Gm             D
-Isn't he a bit like you and me
-        F#m        G
-Nowhere man please listen 
-            F#m            G
-You don't know what you're missing
-        F#m     Em7                     A7
-Nowhere man the world is at your command
+[Em]Making all his [Gm]nowhere plans for [D]nobody
+[D]Doesn't have a [A]point of view
+[G]Knows not where he's [D]going to
+[Em]Isn't he a bi[Gm]t like you and [D]me
+Nowhere [F#m]man please [G]listen 
+You don't kn[F#m]ow what you're [G]missing
+Nowhere [F#m]man the [Em7]world is at your command[A7]
 
 
 Solo:
@@ -84,8 +77,7 @@ Nowhere Man - John Lennon/Paul McCartney.
 
 He's a real nowhere man
 Sitting in his nowhere land
-F#m            Am                E
-Making all his nowhere plans for nobody
+[F#m]Making all his [Am]nowhere plans for [E]nobody
 
 Fill:
         {-----------------}
@@ -95,19 +87,13 @@ Fill:
         {------------2----}
         {-----------------}
 
-E              B
-Doesn't have a point of view
-A                    E
-Knows not where he's going to
-F#m        Am               E
-Isn't he a bit like you and me
+[E]Doesn't have a [B]point of view
+[A]Knows not where he's [E]going to
+[F#m]Isn't he a [Am]bit like you and [E]me
 
-        G#m         A
-Nowhere man, please listen
-          G#m              A
-You don't know what you're missing
-        G#m      F#m      A              B
-Nowhere man, the world is at your command
+Nowhere [G#m]man, please [A]listen
+You don't [G#m]know what you're [A]missing
+Nowhere [G#m]man, the [F#m]world is [A]at your command[B]
 
 
 [Solo:]
