@@ -16,63 +16,41 @@ D F G F   D F G F
 
 [Verse]
 
-D                             F G F D
-Wake up little Susie, wake up
-D                             F G F D
-Wake up little Susie, wake up
-   G         D      G           G         D         G
-We both been sound asleep, wake up little Susie and weep
-    G       D          G      D         G        D       G
-The movie's over, it's four o'clock and we're in trouble deep
-               A     G               A
-Wake up little Susie, wake up little Susie
+[D]Wake up little Susie, wake up [F] [G] [F] [D]
+[D]Wake up little Susie, wake up [F] [G] [F] [D]
+We [G]both been [D]sound a[G]sleep, wake [G]up little [D]Susie and [G]weep
+The [G]movie's [D]over, it's [G]four o'[D]clock and [G]we're in [D]trouble [G]deep
+Wake up little [A]Susie,[G] wake up little [A]Susie
 
 
 [Chorus]
 
-      A                E          A
-Well, what're we gonna tell your mamma?
-A                E         A
-What're we gonna tell your pa?
-A                E         A                  N.C.
-What're we gonna tell our friends when they say "ooh la la"?
-               D     A7              D
-Wake up little Susie, wake up little Susie
+Well, [A]what're we gonna [E]tell your m[A]amma?
+[A]What're we gonna [E]tell your [A]pa?
+[A]What're we gonna [E]tell our f[A]riends when they say "ooh la la"?
+Wake up little [D]Susie,[A7] wake up little [D]Susie
 
 
 [Middle 8]
 
-       D                                         D7
-Well I told your momma that you'd be in by ten
-         G
-Well now Susie baby looks like we goofed again
-               A     G               A   (N.C.)         D   F G F D  F G F 
-Wake up little Susie, wake up little Susie, we gotta go home
+Well I [D]told your momma that you'd be in by ten [D7]
+Well now [G]Susie baby looks like we goofed again
+Wake up little [A]Susie,[G] wake up little [A]Susie, we gotta go [D]home[F] [G] [F] [D] [F] [G] [F]
 
 
 [Verse]
 
-D                             F G F D
-Wake up little Susie, wake up
-D                             F G F D
-Wake up little Susie, wake up
-    G     D         G       G           D         G
-The movie wasn't so hot, it didn't have much of a plot
-   G     D          G        D           G   D         G
-We fell asleep, our goose is cooked, our reputation is shot
-               A     G               A
-Wake up little Susie, wake up little Susie...
+[D]Wake up little Susie, wake up [F] [G] [F] [D]
+[D]Wake up little Susie, wake up [F] [G] [F] [D]
+The [G]movie [D]wasn't so [G]hot, it [G]didn't have [D]much of a [G]plot
+We [G]fell a[D]sleep, our [G]goose is [D]cooked, our [G]repu[D]tation is [G]shot
+Wake up little [A]Susie,[G] wake up little [A]Susie...
 
 
 [Chorus/Outro]
 
-      A                E          A
-Well, what're we gonna tell your mamma?
-A                E         A
-What're we gonna tell your pa?
-A                E         A                  N.C.
-What're we gonna tell our friends when they say "ooh la la"?
-               D     A7              D
-Wake up little Susie, wake up little Susie
-A7              D        D  F G   D  F G   D  F G   D  F G        
- Wake up little Susie                         (fade)
+Well, [A]what're we gonna [E]tell your m[A]amma?
+[A]What're we gonna [E]tell your [A]pa?
+[A]What're we gonna [E]tell our f[A]riends when they say "ooh la la"?
+Wake up little [D]Susie,[A7] wake up little [D]Susie
+[A7] Wake up little [D]Susie    [D]   [F]  [G]    [D]   [F]  [G]    [D]   [F](f[G]ade)[D] [F] [G]
