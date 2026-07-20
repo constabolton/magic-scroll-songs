@@ -15,52 +15,34 @@ A|-----------------|-----------------|-----------------|-----------------|
 E|-2-3-3-2-3-3-2-3-|-2-3-3-2-3-3-2-3-|-2-3-3-2-3-3-2-3-|-----------------|
 
 [Verse 1]
-G                              D
-You just have to look into my eyes
-                        Am
-You don't need a secret code
-                         D
-No need to play at being spies
-     G                            D
-And though I may speak to you in tongues
-                       Am
-We don't need Rosetta Stone
-                          D
-To know how this song is sung
-                     C   G
-And that what I say is true
-        C   G
-Yeah, it's true
-B7  C    D
-True, oh, yeah
+[G]You just have to look into my e[D]yes
+You don't need a secret [Am]code
+No need to play at being [D]spies
+And t[G]hough I may speak to you in t[D]ongues
+We don't need Rosetta S[Am]tone
+To know how this song is s[D]ung
+And that what I say i[C]s tr[G]ue
+Yeah, it[C]'s t[G]rue
+[B7]True[C], oh,[D] yeah
 
 [Solo]
 G  D  Am  D  x2
 
 [Verse 2]
-      G                                D
-And I know that what I say just sounds absurd
-                           Am
-But you can read between the lines
-                        D
-And you can savor every word
-         G                                        D
-There'll be times when you are stammering through tears
-                          Am
-So long they're not from crocodiles
-                       D
-It will be music to my ears, to your ears, to my ears
-                       C   G
-Because what you say is true
-        C   G
-Yeah, it's true
+And I [G]know that what I say just sounds [D]absurd
+But you can read between th[Am]e lines
+And you can savor every [D]word
+There'll [G]be times when you are stammering through [D]tears
+So long they're not from c[Am]rocodiles
+It will be music to my [D]ears, to your ears, to my ears
+Because what you say is[C] tru[G]e
+Yeah, it[C]'s t[G]rue
 
 [Outro]
 B7  C  D
 D#dim  Em  G7
 C  A7  D
-                     G    C
-'Cause what I say is
+'Cause what I say is [G] [C]
 
 [Outro]
 
