@@ -1,0 +1,10 @@
+%%abc-charset utf-8
+
+X:1
+T: Foxhunter's Jig, The
+C: Traditional, Ireland
+R: Slip Jig
+M: 9/8
+L: 1/8
+K: D
+D|"D"F2F FED "G"G2E|"D"F2F FED "A"E2D|"D"F2F FED "G"G2B|"D"AFD DEF "A"E2:||:D|"Em"B3 BAG FGA|"Em"B2E E2F G2B|"D"ABc dcB ABc|"D"d2D DEF "A"E2:||:d|"D"f3 fed "G"g2e|"D"f3 fed "A"e2d|"D"f3 fed "G"g2b| "D"afd def "A"e2:||:d|"G"gfe d=cB AGA|"Em"B2E E2F G2B|"D"ABc dcB ABc|"D"d2D DEF "A"E2:|

@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Tri bali 41vet
+T: Rond de Saint-Vincent
+C: Ampouailh, Brittany
+R: Hornpipe
+L: 1/8
+M: 4/4
+K: A dorian
+"Am"CDE2 G2ED|"Am"CDEG AGED|"D"CDE2 G2GF|"D"EFD2 D4|
+"Am"CDE2 G2ED|"Am"CDEG AGED|"D"CDE2 G2GF|"D"EFD2 D4:|
+"Am"E2E2 c2>B2|"Am"AGEB AGED|"D"F2D2 DAGF|"D"E2F2 D4|
+"Am"E2E2 c2>B2|"Am"AGEB AGED|"D"F2D2 DAGF|"D"E2F2 D4:|

@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Tobias the Grinder
+T: The Grinders
+C: From The Winders of Wyresdale
+R: Slip Jig
+M: 9/8
+L: 1/8
+K: G
+"G"gfg edc BAG|"G"gfg efg "D"afd|"G"gfg edc BAG|"Am"AAA A2B "D"d2B:||:"Am"AAA A2B "Em"G2E|"Am"AAA A2B "D"d2B|
+"Am"AAA A2B "Em"G2E|1"Em"dBG "C"ABc "D"d2B:|2"Em"dBG "C"ABc "D"def|]

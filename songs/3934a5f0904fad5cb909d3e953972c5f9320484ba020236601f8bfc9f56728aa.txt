@@ -1,0 +1,10 @@
+%%abc-charset utf-8
+
+X:1
+T: Blaydon Races
+R: Jig
+C: Traditional, England
+M: 6/8
+L: 1/8
+K: G
+D|"G"G2G G2G|"G"G2G G2G|"D"A2A A2A|"G"B3 G2B|"C"c2c c2c|"G"B2B B2B|"A"A2B A2G|"D"F2E D2F|"G"G2G G2G|"G"G2G G2G|"D"A2A A2A|"G"B3 G2B|"C"c2c c2c|"G"B2c d2d|"D"d2c B2A|"G"G2||A B2c|"G"d3 d2B|"G"G3 G2G|"D"A2A A2A|"G"B3 G2B|"C"c2c c2c|"G"B2B B2B|"A"A2B A2G|"D"F2E D2F|"G"G2G G2G|"G"G2G G2G|"D"A2A A2A|"G"B3 G2B|"C"c2c c2c|"G"B2c d2d|"D"d2c B2A|"G"G3 G2|]

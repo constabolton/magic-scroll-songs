@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Clap Hands
+C: John Waterworth
+R: Polka
+L: 1/16
+M: 2/4
+K: Bm
+BG|"Em"E2E2 GFGA|"G"BABc d2cd|"Bm"B2B2 "F#m"dcBA|"Bm"BAF2 F2|
+BG|"Em"E2E2 GFGA|"G"BABc d2cd|"Bm"B2B2 "F#m"dcBA|"Bm"FAB2 B2||
+fd|"Bm"B2B2B2 cd|"A"c2c2c2 de|"D"d2d2 f2ed|"F#m"c4c2|
+fd|"G"B2B2B2 cd|"Bm"c2c2c2 de|"Bm"d2d2 "F#m"f2ec|"Bm"B4B2|]

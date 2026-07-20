@@ -1,0 +1,16 @@
+%%abc-charset utf-8
+
+X:1
+T: Traveller's Joy
+C: Janet May
+R: Polka
+L: 1/8
+M: 2/4
+K: D
+P: Tune
+"A"c>d ed/c/|"D"dD F/G/A|"G"BB/B/ "D"Ad|F/E/D/F/ "A"E2|"A"c>d ed/c/|
+"D"dD F/G/A|"G"BB/B/ "D"Ad|"A"e/d/c "D"d2:||:"A"EA, A,G|"D"FD/E/ F/G/A|"G"BB/B/ "D"Ad|F/E/D/F/ "A"E2|"A"EA, A,G|"D"FD/E/ F/G/A|"G"BB/B/ "D"Ad|"A"e/d/c "D"d2:|
+P: Harmony
+a2 ag|f2 fe/f/|gg fa|a/g/f e2|a2 ag|
+f2 fe/f/|gg fa|g/f/e d2:||:A>A AB/c/|d2 D/E/F|GG FA|
+d/c/B A2|A>A AB/c/|d2 f/e/d|GG FA|c/B/A d2:|

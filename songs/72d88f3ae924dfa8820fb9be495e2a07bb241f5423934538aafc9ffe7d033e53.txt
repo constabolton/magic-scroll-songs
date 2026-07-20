@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Brighton Camp
+T: The Girl I Left Behind Me
+R: Polka
+C: Traditional, England
+M: 4/4
+L: 1/8
+K: G
+gf|"G"e2dc B2A2|"C"B2G2 E2D2|"G"G2G2 GABc|"D7"d4 B2|
+gf|"G"e2dc B2A2|"C"B2G2 E2>G2|"D7"FGA2 D2EF|"G"G4 G2:|
+dc|"G"B2d2 "D7"e2f2|"G"g2dc "D7"BAG2|"G"Bc d2 "Em"e2f2|"C"g4 "D7"f2|
+gf|"G"e2dc B2A2|"C"B2G2 E2>G2|"D7"FGA2 D2EF|"G"G4 G2:|

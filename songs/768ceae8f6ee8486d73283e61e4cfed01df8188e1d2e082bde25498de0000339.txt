@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T: Timmy Clifford's
+T: Micho Russell's
+T: Munster Lass, The
+C: Traditional, Ireland
+L: 1/8
+M: 6/8
+R: Jig
+K: G
+"G"G,B,D E2D|"G"G,B,D G3|"G"G,B,D C2B|"C"AGF GDB,|
+"G"G,B,D E2D|"G"G,B,D GAB|"C"d3 B3|1"D"AGF "G"GDB,:|2 "D"AGF "G"GBd||
+|:"C"e3 "G/B"d2B|"G"BAG GBd|"C"ege "G/B"d2g|"G"BAG "D"ABd|
+"C"e3 "G/B"d2B|"G"BAG GAB|"C"cBA "G"BAG|1"D"AGF "G"GBd:|2"D"AFD "G"CB,A,|]

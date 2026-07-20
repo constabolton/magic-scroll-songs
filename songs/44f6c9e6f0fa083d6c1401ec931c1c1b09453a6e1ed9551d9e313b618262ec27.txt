@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Jingle Bells
+R: March
+C: James Lord Pierpont, Arranged for dance by John Waterworth
+M: 2/4
+L: 1/16
+K: G
+D2|"G"D2B2 A2G2|D4- D2D2|D2B2 A2G2|"C"E4- E2E2|"Am"E2c2 B2A2|
+|1"D7"F4- F2F2|d2d2 c2A2|"G"B4- B2:|2"G"d2d2 d4|"D7"e2d2 c2A2|"G"G4||
+|:"D7"d4|"G"B2B2 B4|B2B2 B4|B2d2 G2A2|B4-B4|"C"c2c2 c4|
+"G"c2B2 B4|1"A7"B2A2 A2>B2|"D7"A4:|2"D7"e2d2 c2A2|"G"G4-G2|]

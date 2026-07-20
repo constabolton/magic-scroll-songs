@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Morpeth Rant
+C: William Shields
+R: Reel
+M: 4/4
+L: 1/8
+K: D
+A2|"D"d2AG FDFA|"G"BGBd "A"cAce|"D"f2fd "G"gfed|"A"c2e2 e2|
+A2|"D"d2AG FDFA|"G"BGBd "A"cAce|"D"f2fd "G"gfed|"A"A2d2 "D"d2:|
+A2|"D"dfaf dfaf|"G"gfef g2ef|"A"gfed cdeg|"D"fefg f2|
+A2|"D"dfaf dfaf|"G"gfef g2ef|"A"gfed caag|"D"f2d2 d2:|

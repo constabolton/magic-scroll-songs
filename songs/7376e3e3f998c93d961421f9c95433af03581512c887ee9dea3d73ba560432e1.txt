@@ -1,0 +1,16 @@
+X: 1
+T: Weary Wayfarer
+C: Corwin Zekley
+M: 3/4
+R: Waltz
+L: 1/8
+K: D
+dc | "G"B3dBA | "D"F2A3D | "A"E3FED
+"Bm"B,3A,DC | B,3A,B,C | "A"D3CDE | "G"FGA2GF
+"A"E3Adc | "G"B3dBA | "D"F2A3D | "A"E3FED
+"Em"B,3EFA | "Bm"B3ABc | "D"d2DFAd | f2FAdf
+"A"a4a2 | "Bm"b3afa | "A"e2c4 | "F#m"a3gfd
+"Bm"B4B2 | "Em"g3fed | "D"f3edA | FAdfad'
+"A"c'4a2 | "Bm"b3afa | "A"e2c4 | "F#m"a3gfd
+"Bm"B3EFA | "G"B3dBA | "D"F2A3D | "A"E3DC2
+"D"D6 |]

@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Seven Joys of Mary, The
+R: Jig
+C: Traditional, England
+M: 6/8
+L: 1/8
+K: G
+D|"G"G2G G2A|"(Bm7)"B2A "G"G2G|"Am"A2A "D"FEF|"G"G3 G2:|
+A|"D"A2A A2A|A2B "Am"cBA|"G"B2A B2A|B2c "D"d2|
+c|"G"B2A "C"G2c|"G"B2A G2G|"D"A2A FEF|"G"G3 G2|]

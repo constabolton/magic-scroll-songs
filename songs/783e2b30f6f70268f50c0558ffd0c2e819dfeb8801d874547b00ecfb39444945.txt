@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Lemmie (Lementina) Brazil's #2
+R: Hornpipe
+O: England
+C: Traditional, England
+M: 4/4
+L: 1/8
+K: D
+AG|"D"F2A2 "G"B2A2|"D"defd "A"B2AG|"D"FAdA "G"Bcdf|"Em"e2e2 "A"e2|
+AG|"D"F2A2 "G"(3BcB A2|"D"defd "A"B2AG|"D"FAdA "G"Bcdf|"Em"e2"A"c2"D"d2:|
+fg|"D"afdf afdA|defd "G"(3BcB AG|"D"FAdA "G"Bcdf|"Em"e2e2 "A"e2|
+fg|"D"afdf afdA|defd "G"B2AG|"D"FAdA "G"Bcdf|"Em"e2"A"c2"D"d2:|

@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Lilli Burlero
+C: Traditional or Henry Purcell, with satirical lyrics by Thomas (Lord) Wharton
+R: Jig
+M: 6/8
+L: 1/8
+K: D
+"D"DED F2F|"Em"EFE "G"G3|"G/F#"FAD "G"G2F|"A"EDC "D"D3|
+"D"DED F2F|EFE "G"G3|"G/F#"FAD "G"G2F|"Em"EDC "D"D3:|
+"D"d2c d2A|"D"AB=c "G"B2"D"A|"D"ABc dAB|"D"AGF "A"E2A|
+"G"BAG "D"FGA|"G"BAG "D"FGA|"G"BdD "G"G2F|"A"EDC "D"D3:|

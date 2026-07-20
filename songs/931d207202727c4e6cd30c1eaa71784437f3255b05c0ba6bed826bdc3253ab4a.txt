@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Scullion Peasant, The
+C: Traditional, England, William Litten Fiddle Tunes 1800-1802
+R: Jig
+L: 1/8
+M: 6/8
+K: D
+"D"f2f efg|"D"afd cBA|"D/F#"FAd "G"GBd|"A"efg e3|
+"D"f2f efg|"D"afd c2A|"D/F#"FAd "G"Bgf|"A"edc "D"d3:|
+"D"afd "A"ecA|"D"afd "A"ecA|"D"afd "Em"Bgf|"A"efd cBA|
+"Bm"afd "A"ecA|"Bm"afd "A"ecA|"Bm"afd "G"Bgf|"A"edc "D"d3:|

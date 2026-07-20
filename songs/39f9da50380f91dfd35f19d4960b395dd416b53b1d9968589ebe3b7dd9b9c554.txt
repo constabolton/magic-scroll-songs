@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T: Hexham Races
+T: Kenmores Up and Awa'
+T: I Will if I Can
+C: Traditional, Northumbria, Scotland, Ireland
+R: Jig
+M: 6/8
+L: 1/8
+K: G
+dB|"G"GBd gdB|ded d2B|"G"GBd gdB|"D"ABA A|
+dB|"G"GBd gdB|"Em"def gfe|"C"dcB "D"cBA|"G"GAG G:|
+ef|"G"g2d edB|ded def|"G"g2d edB|"D" ABA A|
+ef|"G"gdd edB|"Em"def gfe|"C"dcB "D"cBA|"G"GAG G:|

@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: In and Out the Windows
+C: Traditional, England
+R: March
+M: 2/4
+L: 1/8
+K: G
+"G"Bd GA|B"Am"A A2|"D"Ac FA|A"G"G GG/A/|"Em"Bd GA|B"Am"A A2|
+"D"Ac FA|A"G"G G2:||:"G"BB AG|F2<"D"A2|"D7"cc BA|"G"G2<B2|
+"G"dd gd|"C"fe e2|"D"dB "D7"cA|"G"G2 G2:|

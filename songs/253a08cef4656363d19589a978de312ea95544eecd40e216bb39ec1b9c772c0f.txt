@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T: Margaret's Waltz
+C: Pat Shaw
+R: Waltz
+M: 3/4
+L: 1/8
+K: G
+B2|"G"D2-D>E G>A|"Em"B4G>B|"C"A>GE2 G2|"D7"A4|
+B>G|"G"D2-D>E G>A|"Em"B>cd2 G>A|"D7"B2B2 A2|"G"G4:|
+B>c|"G"d2-d>e f2|"Em"g2-g>f g2|"C"e>dc2 e2|"D7"d2-d>c|
+B>A|"Em"G2-G>A B>c|"Bm"d2B2 d2|"C"e>dc2 B2|"D7"A4|
+B>c|"G"d2-d>e f2|"Em"g2-g>f e2|"Am"d2c2 B2|"D7"A4|
+B>E|"G"D2-D>E G>A|"Em"B>cd2 G>A|"D7"B2B2 A2|"G"G4|]

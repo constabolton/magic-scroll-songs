@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Glamorganshire Hornpipe, The
+T: Pibddawns Morgannwg
+C: Traditional, Wales
+R: Hornpipe
+M: 4/4
+L: 1/8
+K: D
+AG|"D"FDFA d2AG|"D"FDFA "G"B2AG|"D"FDFA defg|"A"a2af ec|
+AG|"D"(3FED FA "Bm"d2cd|"G"BGED "A"CDEF|"D"Adcd "G"BG"A"EC|"D"D2F2 D2:|
+ed|"A"cdef g2fe|"D"defg a2fa|"Em"g2eg "D"f2df|"A"edcB AGFE|
+"D"(3FED FA "Bm"d2cd|"G"BGED "A"CDEF|"D"Adcd "G"BG"A"EC|"D"D2F2 D2:|

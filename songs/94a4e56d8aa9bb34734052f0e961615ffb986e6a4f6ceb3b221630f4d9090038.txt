@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Sussex Carol
+R: Jig
+C: Traditional, England, Arranged for dance by John Waterworth
+M: 6/8
+L: 1/8
+K: G
+d|"G"d2B "C"c2d|"G"BAG "D"A2F|"G"G2G "Am"ABc|"D"B2A "G"G2:|
+z|"D"A3 "Am"A2G|ABc "G"dcB|"D"A3-A3|"Em"B3 "F#m"c3|
+"G"d3 "C"e3|"D"d3 "C"c2B|"Dsus"AGA "G"G3|"G"G2G G2|]
