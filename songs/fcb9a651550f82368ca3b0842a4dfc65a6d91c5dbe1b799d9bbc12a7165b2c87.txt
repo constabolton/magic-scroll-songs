@@ -9,55 +9,38 @@ Have a play and see what you think.
 C Dm Am F  F/G G  C 
 
 [Verses]
-C        A7        Dm Dm7
-When you wish up-on a star,
-G7                  Cdim    C  
-Makes no difference who you are,
-C             Dm      Am F 
-Anything your heart desires
-     F/G  G       C     Esus4/F G7
-Will come to-oooo you.
+[C]When you [A7]wish up-on[Dm] a [Dm7]star,
+[G7]Makes no difference [Cdim]who you [C]are,
+[C]Anything your [Dm]heart de[Am]sir[F]es
+Will [F/G]come [G]to-oooo [C]you. [Esus4/F] [G7]
 
-C        A7      Dm      Dm7
-If your heart is in your dream,
-G7            Cdim   C  
-No request is too extreme,
-C               Dm   Am  F 
-When you wish upon a star
-   F/G   G   C 
-As dream-ers do.
+[C]If your h[A7]eart is [Dm]in your [Dm7]dream,
+[G7]No request is [Cdim]too ext[C]reme,
+[C]When you wish up[Dm]on a [Am]star[F]
+As [F/G]dream-[G]ers [C]do.
 
 
-F         C   G             C
-Fate is kind, she brings to those who love
-Am            D                       Dm   G
-The sweet fulfillment of their secret long-ing.
+[F]Fate is ki[C]nd, [G]she brings to [C]those who love
+[Am]The sweet fulf[D]illment of their secret [Dm]long-[G]ing.
 
 
-C      A7       Dm     Dm7
-Like a bolt out of the blue,
-G7                Cdim C   
-Fate steps in and sees you through;
-C               Dm    Am F
-When you wish upon a star,
-     F       G     C
-Your dre-ams co-me tru-e.
+[C]Like a [A7]bolt out [Dm]of the [Dm7]blue,
+[G7]Fate steps in and [Cdim]sees [C]you through;
+[C]When you wish up[Dm]on a s[Am]tar[F],
+Your [F]dre-ams [G]co-me [C]tru-e.
 
 
 Some chords are quite hard to play, so here is a diagram to give you a bit of support.
 
 Chord diagram
 
-            E  A  D  G  B  E
-C           x  3  2  0  1  0
+C           [E]x  [A]3  [D]2  [G]0  [B]1  [E]0
 A7          x  0  2  0  2  0
 Dm          x  x  0  2  3  1
 Dm7         x  x  0  2  1  1
-G7          3  2  0  0  0  1
-Cdim        x  x  1  2  1  2
+[G7]Cdim        x  x  1  2  1  2
 Am          x  0  2  2  1  0
 F           x  x  3  2  1  1
 F/G         3  x  3  2  1  1
-G           3  2  0  0  0  3
-Esus4/F     x  x  3  4  5  5
+[G]Esus4/F     x  x  3  4  5  5
 D           x  x  0  2  3  2
