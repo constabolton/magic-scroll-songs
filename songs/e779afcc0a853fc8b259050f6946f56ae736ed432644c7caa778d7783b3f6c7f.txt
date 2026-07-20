@@ -8,46 +8,32 @@ F
 
 [Verse 1]
 
-F                                     C  Bb
-Loving you, isn't the right thing to do?
-Bb                                   F
-How can I, ever change things that I feel?
-F                                 C    Bb
-If I could, maybe I'd give you my world
-Bb                                     F
-How can I, when you won't take it from me?
+[F]Loving you, isn't the right thing to d[C]o? [Bb]
+[Bb]How can I, ever change things that I [F]feel?
+[F]If I could, maybe I'd give you my [C]world[Bb]
+[Bb]How can I, when you won't take it from [F]me?
 
 
 [Chorus]
 
-Dm         Bb           C
-   You can go your own way, go your own way
-Dm         Bb        C
-   You can call it another lonely day
-Dm         Bb           C
-   You can go your own way, go your own way
+[Dm]   You can [Bb]go your own w[C]ay, go your own way
+[Dm]   You can [Bb]call it an[C]other lonely day
+[Dm]   You can [Bb]go your own w[C]ay, go your own way
 
 
 [Verse 2]
 
-F                               C     Bb
-Tell me why, everything turned around?
-Bb                                       F
-Packing up, shacking up is all you wanna do
-F                                 C    Bb
-If I could, baby, I'd give you my world
-Bb                                F
-Open up, everything's waiting for you
+[F]Tell me why, everything turned a[C]round?[Bb]
+[Bb]Packing up, shacking up is all you wanna [F]do
+[F]If I could, baby, I'd give you my [C]world[Bb]
+[Bb]Open up, everything's waiting for [F]you
 
 
 [Chorus]
 
-Dm         Bb           C
-   You can go your own way, go your own way
-Dm         Bb        C
-   You can call it another lonely day
-Dm         Bb           C
-   You can go your own way, go your own way
+[Dm]   You can [Bb]go your own w[C]ay, go your own way
+[Dm]   You can [Bb]call it an[C]other lonely day
+[Dm]   You can [Bb]go your own w[C]ay, go your own way
 
 
 [Break 1]
@@ -57,14 +43,10 @@ F   F   F   C   Bb   Bb   Bb   F   x2
 
 [Chorus]
 
-Dm         Bb           C
-   You can go your own way, go your own way
-Dm         Bb        C
-   You can call it another lonely day
-Dm         Bb           C
-   You can go your own way, go your own way
-Dm         Bb        C
-   You can call it another lonely day
+[Dm]   You can [Bb]go your own w[C]ay, go your own way
+[Dm]   You can [Bb]call it an[C]other lonely day
+[Dm]   You can [Bb]go your own w[C]ay, go your own way
+[Dm]   You can [Bb]call it an[C]other lonely day
 
 
 [Solo]
@@ -74,11 +56,8 @@ Dm   Bb   C   C   x5
 
 [Chorus]
 
-Dm         Bb           C
-   You can go your own way
-Dm         Bb        C
-   You can call it another lonely day
-Dm         Bb           C
-   You can go your own way
+[Dm]   You can [Bb]go your own w[C]ay
+[Dm]   You can [Bb]call it an[C]other lonely day
+[Dm]   You can [Bb]go your own w[C]ay
 
 (Fade out)
