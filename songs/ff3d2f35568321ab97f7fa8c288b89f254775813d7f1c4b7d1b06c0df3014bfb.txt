@@ -2,74 +2,48 @@
 Song name: More Today Than Yesterday  by  Spiral Starecase
 ----------------------------------------------------------------------
 [Intro]
-G              Am7       D7
-/ / / / / / / / / / / / / / / /  x2
+[G]/ / / / / / / /[Am7] / / / / /[D7] / / /  x2
 
 
 [Verse]
-G  Gmaj7              Am7          D7
-I don't remember what day it was
-G  Gmaj7              Am7          D7
-I didn't notice what time it was
-G      Gmaj7          Am7                D7
-All I know is that I fell in love with you
-       Bm                Cmaj7
-And if all my dreams come true
-        Am                  D7
-I'll be spending time with you
+[G]I d[Gmaj7]on't remember what [Am7]day it was [D7]
+[G]I d[Gmaj7]idn't notice what t[Am7]ime it was [D7]
+[G]All I k[Gmaj7]now is that I f[Am7]ell in love with yo[D7]u
+And if [Bm]all my dreams come[Cmaj7] true
+I'll be [Am]spending time with y[D7]ou
 
 
-G              Gmaj7     Am7          D7
-Every day's a new day in love with you
-G                     Gmaj7      Am7          D7
-With each day comes a new way of loving you
-G            Gmaj7             Am7              D7
-Every time I kiss your lips my mind starts to wander
-       Bm                  Cmaj7
-And if all my dreams come true
-        Am7                D7
-I'll be spending time with you
+[G]Every day's a n[Gmaj7]ew day in [Am7]love with you[D7]
+[G]With each day comes a [Gmaj7]new way of [Am7]loving you [D7]
+[G]Every time I [Gmaj7]kiss your lips my [Am7]mind starts to wa[D7]nder
+And if [Bm]all my dreams come t[Cmaj7]rue
+I'll be [Am7]spending time with [D7]you
 
 
 [Chorus]
-Cmaj7                          B7sus4    B7 
-Oh, I love you more today than yesterday
-Cmaj7      Am        B7sus4    B7
-But not as much as tomorrow
-Cmaj7                        B7sus4     B7
-I love you more today than yesterday
-     Em7                A         Am7   D7
-But, darling, not as much as tomorrow
+[Cmaj7]Oh, I love you more today than [B7sus4]yesterday [B7]
+[Cmaj7]But not as [Am]much as to[B7sus4]morrow [B7]
+[Cmaj7]I love you more today than ye[B7sus4]sterday [B7]
+But, [Em7]darling, not as muc[A]h as tomor[Am7]row [D7]
 
 
 [Verse]
-G                     Gmaj7               Am7        D7
-Tomorrow's date means springtime's just a day away
-G               Gmaj7           Am7          D7
-Cupid, we don't need ya now, be on your way
-G                    Gmaj7                Am7        D7
-I thank the lord for love like ours that grows ever stronger
-       Bm             Am7              Cmaj7                 D7
-And I always will be true, I know you feel the same way too
+[G]Tomorrow's date means [Gmaj7]springtime's just a [Am7]day away [D7]
+[G]Cupid, we don't [Gmaj7]need ya now, be [Am7]on your way [D7]
+[G]I thank the lord for [Gmaj7]love like ours that g[Am7]rows ever s[D7]tronger
+And I a[Bm]lways will be t[Am7]rue, I know you f[Cmaj7]eel the same way too [D7]
 
 
 [Chorus]
-Cmaj7                            B7sus4    B7 
-Oh, I love you more today than yesterday
-Cmaj7         Am        B7sus4    B7
-But not as much as tomorrow
-Cmaj7                      B7sus4     B7
-I love you more today than yesterday
-     Em7                A         Am7   D7
-But, darling, not as much as tomorrow
+[Cmaj7]Oh, I love you more today than ye[B7sus4]sterday [B7]
+[Cmaj7]But not as muc[Am]h as tomor[B7sus4]row [B7]
+[Cmaj7]I love you more today than [B7sus4]yesterday [B7]
+But, [Em7]darling, not as muc[A]h as tomor[Am7]row [D7]
 
 
-G                      Am7          D7
-Every day's a new day, every time I love ya
-G                      Am7          D7
-Every way's a new way, every time I love ya
-G                      Am7       D7
-Every day's a new day, oh, how I love ya
+[G]Every day's a new day, [Am7]every time I [D7]love ya
+[G]Every way's a new way, [Am7]every time I [D7]love ya
+[G]Every day's a new day, [Am7]oh, how I [D7]love ya
 
 
 http://en.wikipedia.org/wiki/Spiral_Starecase
