@@ -19,57 +19,41 @@ D
 
 [Verse 1]
 
-    D          Daug         D6          D7
-For once in my life, I have someone who needs me;
-Em            Eaug      Em7  Em6
- Someone I've needed so long.
+For [D]once in my [Daug]life, I have [D6]someone who [D7]needs me;
+[Em] Someone I've [Eaug]needed so [Em7]long.[Em6]
 
-    Em       Eaug         Em7           Em6
-For once, unafraid, I can go where life leads me;
-    D         A7           D
-And somehow I know I'll be strong.
+For [Em]once, una[Eaug]fraid, I can [Em7]go where life [Em6]leads me;
+And [D]somehow I [A7]know I'll be [D]strong.
 
 
 [Chorus 1]
 
-    D           D6            Daug
-For once, I can touch what my heart used to dream of,
-G              Em   A7
- Long before I knew;
-Dmaj7    F#m       Bm         Em7                 A7
- Someone warm like you, would make my dreams come true.
+For [D]once, I can [D6]touch what my [Daug]heart used to dream of,
+[G] Long before I [Em]knew;[A7]
+[Dmaj7] Someone [F#m]warm like [Bm]you, would [Em7]make my dreams come [A7]true.
 
 
 [Verse 2]
 
-    D          Daug          D6         D7
-For once in my life, I won't let sorrow hurt me;
-Em           Eaug      Em7  Em6
- Not like it hurt me before.
+For [D]once in my [Daug]life, I won't [D6]let sorrow [D7]hurt me;
+[Em] Not like it [Eaug]hurt me be[Em7]fore.[Em6]
 
-    Em          Eaug         Em7          Em6
-For once I have something, I know won't desert me;
-D         A7      D
- I'm not alone anymore.
+For [Em]once I have [Eaug]something, I [Em7]know won't de[Em6]sert me;
+[D] I'm not a[A7]lone any[D]more.
 
 
 [Chorus 2]
 
-    D           D6           Daug
-For once, I can say; this is mine you can't take it;
-   G                     E7
-As long as I know I have love; I can make it.
-    D          Daug         G       Em7 A7    D
-For once in my life, I have someone who needs me.
+For [D]once, I can [D6]say; this is [Daug]mine you can't take it;
+As [G]long as I know I have [E7]love; I can make it.
+For [D]once in my [Daug]life, I have [G]someone [Em7]who [A7]needs [D]me.
 
 
 [Break]
 
-D         F         Bb
- Someone, who needs me.
+[D] Someone, [F]who needs [Bb]me.
 
-Eb        Ab        Bb  Bb7
- Someone, who needs me.
+[Eb] Someone, [Ab]who needs [Bb]me. [Bb7]
 
 
 *KEY CHANGE*
@@ -86,33 +70,25 @@ Eb   Eb6    Ebaug  Ab  F7
 
 [Verse 3]
 
-    Eb          Ebaug          Eb6         Eb7
-For once in my life, I won't let sorrow hurt me;
-Fm             Faug      Fm7  Fm6
- Not like it's hurt me before.
+For [Eb]once in my l[Ebaug]ife, I won't le[Eb6]t sorrow hur[Eb7]t me;
+[Fm] Not like it's [Faug]hurt me be[Fm7]fore.[Fm6]
 
-    Fm          Faug         Fm7          Fm6
-For once I have something, I know won't desert me;
-Eb         Bb7      Eb
- I'm not alone anymore.
+For [Fm]once I have [Faug]something, I [Fm7]know won't de[Fm6]sert me;
+[Eb] I'm not al[Bb7]one anymo[Eb]re.
 
 
 [Chorus 3]
 
-    Eb          Eb6          Ebaug
-For once, I can say; this is mine you can't take it;
-   Ab                    F7
-As long as I know I have love; I can make it.
+For [Eb]once, I can [Eb6]say; this is [Ebaug]mine you can't take it;
+As [Ab]long as I know I have [F7]love; I can make it.
     Eb         Ebaug        Ab      Fm7 Bb7  (Eb)
 For once in my life, I have someone who needs me.
 
 
 [Coda]
 
-Eb        Ab        Bb  Bb7
- Someone, who needs me,
-Eb        Ab        Bb  Bb7
- Someone, who needs me.
+[Eb] Someone, [Ab]who needs [Bb]me, [Bb7]
+[Eb] Someone, [Ab]who needs [Bb]me. [Bb7]
 
 (Repeat to Fade)
 
