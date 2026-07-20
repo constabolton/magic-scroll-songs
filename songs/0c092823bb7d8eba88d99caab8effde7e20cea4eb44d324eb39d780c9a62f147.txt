@@ -11,72 +11,47 @@ Fmaj7/C - Gm7* - Fmaj7 - Bbmaj7
 
 [Verse 1]
 
-       Gm7             Gm7                           
-By the    time I get to    Phoenix
-          Fmaj7/C       Fmaj7/C                              
-she'll be         risin 
-Gm7                            Gm7                   
-    She'll find the note I left   hangin
-       Fmaj7/C     Fmaj7/C                                   
-on her       door 
-       Bbmaj7                        C9                 
-She'll      laugh when she reads the    part
-             Am7       Dm                           
-that say I'm    leaving 
-           Gm7                                 Eb     C7  
-Cause I've    left that girl so many times be-   fore 
+By the [Gm7]   time I get to[Gm7]    Phoenix
+she'll be [Fmaj7/C]        risin [Fmaj7/C]
+[Gm7]    She'll find the note I left[Gm7]   hangin
+on her [Fmaj7/C]      door [Fmaj7/C]
+She'll [Bbmaj7]     laugh when she reads the [C9]   part
+that say I'm [Am7]   leaving[Dm] 
+Cause I've [Gm7]   left that girl so many times be- [Eb]  fore [C7]
 
 
 [Verse 2]
 
-       Gm7                  Gm7                        
-By the    time I make Albu-    querque
-          Fmaj7/C      Fmaj7/C                              
-she'll be        workin 
-       Gm7                Gm7                        
-She'll    probably stop at   lunch
-    Fmaj7/C               Fmaj7/C                              
-and         give me a call 
-Bbmaj7                         C9                       
-     But she'll just hear that    phone
-        Am7       Dm                                
-keep on    ringin 
-Gm7             Gm7                                   
-   Off the wall 
-Eb             C7                                   
-   that's all 
+By the [Gm7]   time I make Albu- [Gm7]   querque
+she'll be [Fmaj7/C]       workin[Fmaj7/C] 
+She'll [Gm7]   probably stop at[Gm7]   lunch
+and [Fmaj7/C]        give me a call[Fmaj7/C] 
+[Bbmaj7]     But she'll just hear that [C9]   phone
+keep on [Am7]   ringin [Dm]
+[Gm7]   Off the wall [Gm7]
+[Eb]   that's all [C7]
 
 
 [Verse 3]
 
-       Gm7                 Gm7                       
-By the    time I make Okla-   homa
-          Fmaj7/C       Fmaj7/C                               
-she'll be        sleepin 
-       Gm7            Gm7                            
-She'll    turn softly 
-    Fmaj7/C               Fmaj7/C                            
-and       call my name out       low
-    Bbmaj7                   C9                         
-And       she'll cry just to    think
-           Am7         Dm                           
-I'd really    leave her 
-    Gm7                   C7                         
-But    time and time I've   tried 
+By the [Gm7]   time I make Okla-[Gm7]   homa
+she'll be [Fmaj7/C]       sleepin[Fmaj7/C] 
+She'll [Gm7]   turn softly [Gm7]
+and [Fmaj7/C]      call my name out[Fmaj7/C]       low
+And [Bbmaj7]      she'll cry just to [C9]   think
+I'd really [Am7]   leave her[Dm] 
+But [Gm7]   time and time I've [C7]  tried 
             Fmaj7/C*    Bbmaj7                               
 to tell her         so  
-                Gm7      A7                         
-She just didn't    know  
-               D     D6 - D                           
-I would really    go  
+She just didn't [Gm7]   know  [A7]
+I would really [D]   go [D6] [D]
 
 
 [Outro]
 
 D7sus2 - D13sus2 - D7sus2 - D - D6 - D  repeat + fade
 
-Fmaj7/C x33210
-Gm7*    35333x
+[Fmaj7/C]Gm7*    35333x
 Bbmaj7  x13231
 Gm7     353333
 C9      x32333
