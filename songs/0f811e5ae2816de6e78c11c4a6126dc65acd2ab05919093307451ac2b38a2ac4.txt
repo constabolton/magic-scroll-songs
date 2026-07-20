@@ -3,84 +3,55 @@ Song name: Loch Lomond  by  Runrig
 ----------------------------------------------------------------------
 [Verse]
 
-G             Em         Am            D
-By yon bonnie banks, and by yon bonnie braes
-G                    Em             C  D 
-Where the sun shines bright on Loch Lo-mond
-C               Em              C          D
-There me and my true love spent many happy days
-G                     C             D  G
-On the bonnie, bonnie banks o' Loch Lo-mond.
+[G]By yon bonnie [Em]banks, and [Am]by yon bonnie [D]braes
+[G]Where the sun shines [Em]bright on Loch [C]Lo-[D]mond
+[C]There me and my [Em]true love spent [C]many happy [D]days
+[G]On the bonnie, bonnie [C]banks o' Loch [D]Lo-[G]mond.
 
 
 [Verse]
 
-G             Em       Am               D
-'Twas there that we parted in yon shady glen,
-      G             Em         C  D
-On the steep, steep side o' Ben Lomond,
-C             Em         C               D
-Where in purple hue the Hieland hills we view,
-G                   C             D  G
-An' the moon glints out in the gloamin'.
+[G]'Twas there th[Em]at we par[Am]ted in yon shady [D]glen,
+On the[G] steep, steep [Em]side o' Ben[C] Lo[D]mond,
+[C]Where in purpl[Em]e hue the H[C]ieland hills we [D]view,
+[G]An' the moon glints [C]out in the glo[D]ami[G]n'.
 
 
 [Chorus]
 
-G              Em                 C             D
-Oh, ye'll tak' the high road, and I'll tak' the low road
-G              Em       C      D
-And I'll be in Scotland before ye
-C             Em             C          D
-But me and my true love will never meet again
-G                     C             D  G
-On the bonnie, bonnie banks o' Loch Lo-mond.
+[G]Oh, ye'll tak' [Em]the high road, and [C]I'll tak' the [D]low road
+[G]And I'll be in [Em]Scotland [C]before [D]ye
+[C]But me and my [Em]true love will [C]never meet [D]again
+[G]On the bonnie, bonnie [C]banks o' Loch [D]Lo-[G]mond.
 
 
 [Verse]
 
-      G            Em             Am          D
-Where wild flowers spring and the wee birdies sing,
-       G            Em          C  D
-On the steep, steep side of Ben Lomond;
-        C      Em       C               D
-But the broken heart it kens nae second spring,
-         G             C              D   G
-Though resigned we may be while we're greetin'
+Where [G]wild flowers [Em]spring and the [Am]wee birdies [D]sing,
+On the [G]steep, steep [Em]side of Ben [C]Lom[D]ond;
+But the [C]broken [Em]heart it [C]kens nae second [D]spring,
+Though re[G]signed we may [C]be while we're [D]gree[G]tin'
 
 
 [Chorus]
 
-G              Em                 C             D
-Oh, ye'll tak' the high road, and I'll tak' the low road
-G              Em       C      D
-And I'll be in Scotland before ye
-C             Em             C          D
-But me and my true love will never meet again
-G                     C             D  G
-On the bonnie, bonnie banks o' Loch Lo-mond.
+[G]Oh, ye'll tak' [Em]the high road, and [C]I'll tak' the [D]low road
+[G]And I'll be in [Em]Scotland [C]before [D]ye
+[C]But me and my [Em]true love will [C]never meet [D]again
+[G]On the bonnie, bonnie [C]banks o' Loch [D]Lo-[G]mond.
 
-G              Em                 C             D
-Oh, ye'll tak' the high road, and I'll tak' the low road
-G              Em       C      D
-And I'll be in Scotland before ye
-C             Em             C          D
-But me and my true love will never meet again
-G                     C             D  G
-On the bonnie, bonnie banks o' Loch Lo-mond.
+[G]Oh, ye'll tak' [Em]the high road, and [C]I'll tak' the [D]low road
+[G]And I'll be in [Em]Scotland [C]before [D]ye
+[C]But me and my [Em]true love will [C]never meet [D]again
+[G]On the bonnie, bonnie [C]banks o' Loch [D]Lo-[G]mond.
 
 
 [Outro] (repeat and fade to end)
 
 G  Em  G  Em
 
-       G              Em
-On the bonnie, bonnie banks
-       G              Em
-On the bonnie, bonnie banks
-       G              Em
-On the bonnie, bonnie banks
-       G              Em
-On the bonnie, bonnie banks
-       G              Em
-On the bonnie, bonnie banks
+On the [G]bonnie, bonnie [Em]banks
+On the [G]bonnie, bonnie [Em]banks
+On the [G]bonnie, bonnie [Em]banks
+On the [G]bonnie, bonnie [Em]banks
+On the [G]bonnie, bonnie [Em]banks
