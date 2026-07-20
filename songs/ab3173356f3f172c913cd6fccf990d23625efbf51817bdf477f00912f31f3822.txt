@@ -2,67 +2,40 @@
 Song name: Molly Malone  by  Misc Traditional
 ----------------------------------------------------------------------
 [Verse 1]
-   C             Am
-In Dublin's fair city,
-          Dm           G
-where the girls are so pretty,
-  C            Em            Dm      G
-I first set my eyes on sweet Molly Malone,
-       C                 Am
-As she wheeled her wheel-barrow,
-        Dm                G
-Through streets broad and narrow,
-         C           Em        C       G     C
-Crying, "Cockles and mussels, alive, alive, oh!"
+In [C]Dublin's fair [Am]city,
+where the [Dm]girls are so [G]pretty,
+I [C]first set my [Em]eyes on sweet [Dm]Molly Ma[G]lone,
+As she [C]wheeled her wheel-[Am]barrow,
+Through [Dm]streets broad and [G]narrow,
+Crying, "[C]Cockles and [Em]mussels, a[C]live, al[G]ive, o[C]h!"
 
 [Chorus]
-  C            Am
-"Alive, alive, oh,
- Dm           G
-Alive, alive, oh",
-        C           Em        C       G     C
-Crying "Cockles and mussels, alive, alive, oh".
+"A[C]live, alive, [Am]oh,
+A[Dm]live, alive, [G]oh",
+Crying "[C]Cockles and [Em]mussels, a[C]live, al[G]ive, o[C]h".
 
 [Verse 2]
-    C         Am
-She was a fishmonger,
-    Dm            G
-And sure 'twas no wonder,
-    C           Em         Dm       G
-For so were her father and mother before,
-         C                  Am
-And they each wheeled their barrow,
-        Dm                G
-Through streets broad and narrow,
-         C           Em        C       G     C
-Crying, "Cockles and mussels, alive, alive, oh!"
+She [C]was a fish[Am]monger,
+And [Dm]sure 'twas no [G]wonder,
+For [C]so were her [Em]father and [Dm]mother be[G]fore,
+And they [C]each wheeled their [Am]barrow,
+Through [Dm]streets broad and [G]narrow,
+Crying, "[C]Cockles and [Em]mussels, a[C]live, al[G]ive, o[C]h!"
 
 [Chorus]
-  C            Am
-"Alive, alive, oh,
- Dm           G
-Alive, alive, oh",
-        C           Em        C       G     C
-Crying "Cockles and mussels, alive, alive, oh".
+"A[C]live, alive, [Am]oh,
+A[Dm]live, alive, [G]oh",
+Crying "[C]Cockles and [Em]mussels, a[C]live, al[G]ive, o[C]h".
 
 [Verse 3]
-    C         Am
-She died of a fever,
-    Dm           G 
-And no one could save her,
-    C            Em           Dm      G
-And that was the end of sweet Molly Malone.
-        C                Am
-Now her ghost wheels her barrow,
-         Dm               G
-Through streets broad and narrow,
-         C           Em        C       G     C
-Crying, "Cockles and mussels, alive, alive, oh!"
+She [C]died of a [Am]fever,
+And [Dm]no one could [G]save her,
+And [C]that was the [Em]end of sweet [Dm]Molly Ma[G]lone.
+Now her [C]ghost wheels her [Am]barrow,
+Through s[Dm]treets broad and [G]narrow,
+Crying, "[C]Cockles and [Em]mussels, a[C]live, al[G]ive, o[C]h!"
 
 [Chorus]
-  C            Am
-"Alive, alive, oh,
- Dm           G
-Alive, alive, oh",
-        C           Em        C       G     C
-Crying "Cockles and mussels, alive, alive, oh".
+"A[C]live, alive, [Am]oh,
+A[Dm]live, alive, [G]oh",
+Crying "[C]Cockles and [Em]mussels, a[C]live, al[G]ive, o[C]h".
