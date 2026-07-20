@@ -9,8 +9,7 @@ Tabbed by Mark Jones, Liverpool, England
 
 Chords:
 A       x02220
-C       x32010
-D       xx0232
+[C]D       xx0232
 D7      xx0212
 Dmaj7   xx0222
 E7      020100
@@ -28,86 +27,61 @@ Dsus2  D  x6
 
 [Verse]
 
-        D             Dmaj7         Em7      A
-Give me love, give me love, give me peace on earth
-        Gm              A             C         G
-Give me light, give me life, keep me, free from birth
-        D             Dmaj7           Em7   A
-Give me hope, help me cope, with this heavy load
-       Gm           A              C         G
-Trying to touch and reach you with heart and soul
+Give me [D]love, give me [Dmaj7]love, give me [Em7]peace on [A]earth
+Give me [Gm]light, give me l[A]ife, keep me, [C]free from [G]birth
+Give me [D]hope, help me [Dmaj7]cope, with this [Em7]heavy [A]load
+Trying [Gm]to touch and [A]reach you with [C]heart and [G]soul
 
 
 [Chorus]
 
-D Dmaj7  D7 G
-O-----h, my lord
-D Dmaj7  D7                   G
-Please        take hold of my hand
-E7                 Esus4     A     A   A       A  A
-That I might understand you, won't you please, oh won't you...
+[D]O-[Dmaj7]----h, [D7]my [G]lord
+[D]Pl[Dmaj7]ease   [D7]     take hold of my [G]hand
+[E7]That I might unders[Esus4]tand you, [A]won't [A]you [A]please, [A]oh [A]won't you...
 
 
 [Verse]
 
-        D             Dmaj7         Em7      A
-Give me love, give me love, give me peace on earth
-        Gm              A             C         G
-Give me light, give me life, keep me, free from birth
-        D             Dadd9           Em7   A
-Give me hope, help me cope, with this heavy load
-       Gm           A              C         G
-Trying to touch and reach you with heart and soul
+Give me [D]love, give me [Dmaj7]love, give me [Em7]peace on [A]earth
+Give me [Gm]light, give me l[A]ife, keep me, [C]free from [G]birth
+Give me [D]hope, help me [Dadd9]cope, with this [Em7]heavy [A]load
+Trying [Gm]to touch and [A]reach you with [C]heart and [G]soul
 
 
 [Chorus]
 
-D Dmaj7 D7  G
-O-----h, my lord
-D  Dmaj7 D7                   G
-Please        take hold of my hand
-E7                Esus4      A     A   A       A  A
-That I might understand you, won't you please, oh won't you...
+[D]O-[Dmaj7]----h,[D7] my [G]lord
+[D]Ple[Dmaj7]ase   [D7]     take hold of my [G]hand
+[E7]That I might under[Esus4]stand you, [A]won't [A]you [A]please, [A]oh [A]won't you...
 
 
 [Verse]
 
-        D             Dmaj7         Em7      A
-Give me love, give me love, give me peace on earth
-        Gm              A             C         G
-Give me light, give me life, keep me, free from birth
-        D             Dmaj7           Em7   A
-Give me hope, help me cope, with this heavy load
-       Gm           A              C         G
-Trying to touch and reach you with heart and soul
+Give me [D]love, give me [Dmaj7]love, give me [Em7]peace on [A]earth
+Give me [Gm]light, give me l[A]ife, keep me, [C]free from [G]birth
+Give me [D]hope, help me [Dmaj7]cope, with this [Em7]heavy [A]load
+Trying [Gm]to touch and [A]reach you with [C]heart and [G]soul
 
 
 [Interlude]
 
-D Dmaj7 D7  G
-O-----h, my lord
+[D]O-[Dmaj7]----h,[D7] my [G]lord
 
 D  Dmaj7  D7  D  Dadd9  Em7  A  Gm  A  C  G
 
-E7                Esus4      A     A   A       A  A
-That I might understand you, won't you please, oh won't you...
+[E7]That I might under[Esus4]stand you, [A]won't [A]you [A]please, [A]oh [A]won't you...
 
 
 [Verse]
 
-        D             Dmaj7         Em7      A
-Give me love, give me love, give me peace on earth
-        Gm              A                     C         G
-Give me light, give me life, keep me, keep me free from birth
-        D                Dmaj7           Em7   A
-Give me hope and help me cope, with this heavy load
-       Gm           A              C         G
-Trying to touch and reach you with heart and soul
+Give me [D]love, give me [Dmaj7]love, give me [Em7]peace on [A]earth
+Give me [Gm]light, give me l[A]ife, keep me, keep me [C]free from [G]birth
+Give me [D]hope and help me [Dmaj7]cope, with this [Em7]heavy [A]load
+Trying [Gm]to touch and [A]reach you with [C]heart and [G]soul
 
 
 [Outro]
 
 D  D7  D  Dmaj7  Em7  A  Gm  A  C  G
 
-G7
-(strum to fade out)
+[G7](strum to fade out)
