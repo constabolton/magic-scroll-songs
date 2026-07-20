@@ -24,82 +24,50 @@ E7      7x675x
 Em7     7x575x
 
 [Verse 1]
-Bm7          Bdim  Fdim Gdim D6
-Gotta get my old   tux   edo pressed,
-Bm7          Bdim Fdim Gdim  D6
-Gotta sew a  but  ton  on my vest,
-D9       G6          Fdim  Bdim Bm7     B7
-'Cause tonight I've  got   ta   look my best  
-Bm7  E9    Em7  A13 D6
-Lu   lu's  back in  town.
+[Bm7]Gotta get my [Bdim]old   [Fdim]tux  [Gdim] edo [D6]pressed,
+[Bm7]Gotta sew a  [Bdim]but  [Fdim]ton  [Gdim]on my [D6]vest,
+[D9]'Cause to[G6]night I've  [Fdim]got   [Bdim]ta   [Bm7]look my [B7]best  
+[Bm7]Lu   [E9]lu's  [Em7]back [A13]in  [D6]town.
 
 [Verse 2]
-Bm7         Bdim Fdim  Gdim      D6
-Gotta get a half a     buck  somewhere,
-Bm7             Bdim  Fdim Gdim     D6
-Gotta shine my  shoes and  slick my hair,
-D9  G6     Fdim Bdim    Bm7    B7
-Got ta get my   self  a bouton niere   
-Bm7  E9    Em7   A13  D6
-Lu   lu's back   in   town.
+[Bm7]Gotta get a [Bdim]half [Fdim]a     [Gdim]buck  some[D6]where,
+[Bm7]Gotta shine my  [Bdim]shoes [Fdim]and  [Gdim]slick my [D6]hair,
+[D9]Got [G6]ta get [Fdim]my   [Bdim]self  a [Bm7]bouton [B7]niere   
+[Bm7]Lu   [E9]lu's b[Em7]ack   [A13]in   [D6]town.
 
 [Bridge]
-D6  D7  G6   Abdim    D6
-You can tell all   my pets,
-D6  D7 G6     Abdim    D6
-All my blonds and brunettes,
-D6  D7   G6 Abdim D6 B7
-Mis ter  O  tis   re grets
-B7   E7b9      E7 Em7  A7 
-That he  won't be a    round.
+[D6]You [D7]can [G6]tell [Abdim]all   my [D6]pets,
+[D6]All [D7]my [G6]blonds [Abdim]and brune[D6]ttes,
+[D6]Mis [D7]ter  [G6]O  [Abdim]tis   [D6]re [B7]grets
+[B7]That [E7b9]he  won't [E7]be [Em7]a    [A7]round.
 
 [Verse 3]
-Bm7               Bdim  Fdim  Gdim   D6
-You can tell the  mail  man   not to call;
-Bm7             Bdim    Fdim Gdim      D6
- ‘cause I ain't comin'  home until the fall,
-D9    G6        Fdim Bdim Bm7     B7
-And I might not get  back home at all   
-Bm7 E9   Em7   A13  D6
-Lu  lu's back  in   town,    
+[Bm7]You can tell the  [Bdim]mail  [Fdim]man   [Gdim]not to [D6]call;
+[Bm7] ‘cause I ain't [Bdim]comin'  [Fdim]home [Gdim]until the [D6]fall,
+[D9]And I [G6]might not [Fdim]get  [Bdim]back [Bm7]home at [B7]all   
+[Bm7]Lu  [E9]lu's [Em7]back  [A13]in   [D6]town,    
 
 
 [Verse 4]
-Bm7 Bdim Gdim    D6
-Got to   look my best
-Bm7       Bdim Fdim  Gdim    D6
-Wipe that egg  plant off my vest
-D9 G6 Fdim  Bdim Bm7  B7
-Gotta look  my   very best
-Bm7 E9   Em7  A13 D6
-Lu  lu's back in  town.
+[Bm7]Got [Bdim]to   [Gdim]look my [D6]best
+[Bm7]Wipe that [Bdim]egg  [Fdim]plant [Gdim]off my v[D6]est
+[D9]Got[G6]ta [Fdim]look  [Bdim]my   [Bm7]very [B7]best
+[Bm7]Lu  [E9]lu's [Em7]back [A13]in  [D6]town.
 
 [Verse 5]
-Bm7         Bdim Fdim Gdim      D6
-Gotta get a half a    buck some where,
-Bm7            Bdim   Fdim Gdim     D6
-Gotta shine my shoes  and  slick my hair,
-D9     G6     Fdim Bdim    Bm7    B7
-Gotta get my  self a  blue bouton niere   
-Bm7    E9    Em7  A13 D6
-That chick's back in  town.
+[Bm7]Gotta get a [Bdim]half [Fdim]a    [Gdim]buck some [D6]where,
+[Bm7]Gotta shine my [Bdim]shoes  [Fdim]and  [Gdim]slick my [D6]hair,
+[D9]Gotta g[G6]et my  [Fdim]self [Bdim]a  blue [Bm7]bouton [B7]niere   
+[Bm7]That ch[E9]ick's [Em7]back [A13]in  [D6]town.
 
 [Bridge]
-D6  D7  G6   Abdim    D6
-You can tell all   my pets,
-D6  D7 G6     Abdim    D6
-All my blonds and  brunettes,
-D6  D7  G6 Abdim D6 B7
-Mis ter O  tis   re grets
-B7   E7b9      E7 Em7 A7 
-That he  won't be a   round.
+[D6]You [D7]can [G6]tell [Abdim]all   my [D6]pets,
+[D6]All [D7]my [G6]blonds [Abdim]and  brun[D6]ettes,
+[D6]Mis [D7]ter [G6]O  [Abdim]tis   [D6]re [B7]grets
+[B7]That [E7b9]he  won't [E7]be [Em7]a   [A7]round.
 
 [Outro]
-Bm7               Bdim Fdim Gdim   D6
-You can tell the  mail man  not to call;
-Bm7             Bdim   Fdim Gdim      D6
- ‘cause I ain't comin' home until the fall,
-D9    G6        Fdim Bdim Bm7  B7
-And I might not make it   back at all   
-Bm7 E9    Em7  A13 D6     D6add9
-Lu  lu is back in  town,
+[Bm7]You can tell the  [Bdim]mail [Fdim]man  [Gdim]not to [D6]call;
+[Bm7] ‘cause I ain't [Bdim]comin' [Fdim]home [Gdim]until the [D6]fall,
+[D9]And I [G6]might not [Fdim]make [Bdim]it   [Bm7]back [B7]at all   
+[Bm7]Lu  [E9]lu is [Em7]back [A13]in  [D6]town, [D6add9]
