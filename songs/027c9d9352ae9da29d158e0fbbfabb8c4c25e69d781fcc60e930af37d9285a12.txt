@@ -2,33 +2,21 @@
 Song name: Strike Up The Band - While Strolling Through The Park One Day  by  Misc Soundtrack
 ----------------------------------------------------------------------
 [Verse 1]
-      G                              C
-While strolling through the park one day,
-       A7                   D7
-In the merry merry month of May,
-       G
-He was taken by surprise,
-     C               A7
-By a pair of roguish eyes,
-     D7                               G
-In a moment his poor heart was stole away.
+While [G]strolling through the park one [C]day,
+In the [A7]merry merry month of [D7]May,
+He was [G]taken by surprise,
+By a [C]pair of roguish [A7]eyes,
+In a [D7]moment his poor heart was stole a[G]way.
 
 [Chorus]
+A [B]smile was all she [Em]gave to him,
   B                 Em
-A smile was all she gave to him,
-  B                 Em
-   A                 D7
-Of course she was as happy as can be,
+Of [A]course she was as [D7]happy as can be,
    A                 D7
 
 [Verse 2]
-     G                    C
-He immediately raised his hat,
-    A7            D7
-And finally she remarked,
-   G             G7
-He never will forget,
-     C           A7
-That lovely afternoon,
-   D7                             G
-He met her at the fountain in the park.
+He im[G]mediately raised his [C]hat,
+And [A7]finally she re[D7]marked,
+He [G]never will for[G7]get,
+That [C]lovely after[A7]noon,
+He [D7]met her at the fountain in the [G]park.
