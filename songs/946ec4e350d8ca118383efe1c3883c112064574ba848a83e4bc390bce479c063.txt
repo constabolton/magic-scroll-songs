@@ -1,66 +1,39 @@
 ----------------------------------------------------------------------
 Song name: Speed Of The Sound Of Loneliness  by  John Prine
 ----------------------------------------------------------------------
-G   G   C   C   D   D   G   G
-[intro]
+[G][int[G]ro] [C] [D] [G]
 
-G                                       C     
-  You come home late and you come home early
-D                                      G     G
-  You come on big when you're feeling small
-G                                           C     
-  You come home straight and you come home curly
-D                D7                G
-  Sometimes you don't come home at all.
+[G]  You come home late and you come home e[C]arly
+[D]  You come on big when you're feeling s[G]mall [G]
+[G]  You come home straight and you come home c[C]urly
+[D]  Sometimes you d[D7]on't come home at [G]all.
 
-G                 G           C          
-  So what in the world's come over you
-D                                    G
-  And what in heaven's name have you done.
-G                     G                    C           
-  You've broken the speed of the sound of loneliness
-D                  D7                         G     
-  You're out there running just to be on the run.
+[G]  So what in the w[G]orld's come [C]over you
+[D]  And what in heaven's name have you [G]done.
+[G]  You've broken the sp[G]eed of the sound of l[C]oneliness
+[D]  You're out there [D7]running just to be on the r[G]un.
 
 
-G                                    C  
-Well I got a heart that burns with a fever,
-D                                  G
-And I got a worried and a jealous mind.
-G                               C   
-How can a love that'll last forever,
-D   D7              G  
-Get left so far behind.
+[G]Well I got a heart that burns with a [C]fever,
+[D]And I got a worried and a jealous m[G]ind.
+[G]How can a love that'll last fore[C]ver,
+[D]Get [D7]left so far behi[G]nd.
 
-G                 G           C          
-  So what in the world's come over you
-D                                    G
-  And what in heaven's name have you done.
-G                     G                    C           
-  You've broken the speed of the sound of loneliness
-D                  D7                         G     
-  You're out there running just to be on the run.
+[G]  So what in the w[G]orld's come [C]over you
+[D]  And what in heaven's name have you [G]done.
+[G]  You've broken the sp[G]eed of the sound of l[C]oneliness
+[D]  You're out there [D7]running just to be on the r[G]un.
 
 [Instrumental, same chords as one verse]
 
-G                G                       C  
-It's a mighty mean and a dreadful sorrow,
-D                             G
-It's crossed the evil line today.
-G                        C   
-How can you ask about tomorrow,
-D        D7              G  
-We ain't got one word to say.
+[G]It's a mighty mea[G]n and a dreadful sorrow,[C]
+[D]It's crossed the evil line tod[G]ay.
+[G]How can you ask about tom[C]orrow,
+[D]We ain't [D7]got one word to [G]say.
 
-G                 G           C          
-  So what in the world's come over you
-D                                    G
-  And what in heaven's name have you done.
-G                     G                    C           
-  You've broken the speed of the sound of loneliness
-D                  D7                         G     
-  You're out there running just to be on the run.
-D                  D7                         G     
-  You're out there running just to be on the run.
-D                  D                          G
-  You're out there running just to be on the run
+[G]  So what in the w[G]orld's come [C]over you
+[D]  And what in heaven's name have you [G]done.
+[G]  You've broken the sp[G]eed of the sound of l[C]oneliness
+[D]  You're out there [D7]running just to be on the r[G]un.
+[D]  You're out there [D7]running just to be on the r[G]un.
+[D]  You're out there [D]running just to be on the r[G]un
