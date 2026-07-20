@@ -9,105 +9,67 @@ E           A/E   B/E
 
 [Verse]
 
-E                             A/E        B/E
-When you're alone and life is making you lonely
-        E
-You can always go
-A       B
-   Down town
+[E]When you're alone and life is [A/E]making you [B/E]lonely
+You can [E]always go
+[A]   Down [B]town
 
-E                                A/E           B/E
-When you've got worries, all the noise and the hurry
-         E
-Seems to help, I know
-A       B
-   Down town
+[E]When you've got worries, all the [A/E]noise and the [B/E]hurry
+Seems to [E]help, I know
+[A]   Down [B]town
 
-     E                          C#m
-Just listen to the music of the traffic in the city
-E                                C#m
-Linger on the sidewalk where the neon signs are pretty
-G#m
-How can you lose
+Just [E]listen to the music of the [C#m]traffic in the city
+[E]Linger on the sidewalk where the [C#m]neon signs are pretty
+[G#m]How can you lose
 
-A     B/A    A   B/A  A    B/A  A
-  The lights are much brighter  there
-B/A  A  B/A   F#7
-You can for - get all your troubles, forget all your cares, and go
+[A]  The [B/A]lights [A]are [B/A]much [A]brigh[B/A]ter  [A]there
+[B/A]You c[A]an [B/A]for - [F#7]get all your troubles, forget all your cares, and go
 
 
 [Chorus]
 
-E/B  Emaj7/B
-Down town
-A/B          B
-Things'll be great when you're
-E/B  Emaj7/B
-Down town
-A/B           B
-You'll find a place for sure
-E/B  Emaj7/B
-Down town
-A/B          B
-Everything's waiting for you
+[E/B]Down [Emaj7/B]town
+[A/B]Things'll be [B]great when you're
+[E/B]Down [Emaj7/B]town
+[A/B]You'll find a [B]place for sure
+[E/B]Down [Emaj7/B]town
+[A/B]Everything's [B]waiting for you
 
- E    A/B  Emaj7  A/B
-(Down town)
- E    A/B   Emaj7  A/B
-(Down town)
+([E]Down [A/B]town)[Emaj7] [A/B]
+([E]Down [A/B]town) [Emaj7] [A/B]
 
 
 [Verse]
 
-E          Emaj7               A/E         B/E
-Don't hang around and let your problems surround you
-          E     Emaj7
-There are movie shows
-A    B
-Down town
+[E]Don't hang [Emaj7]around and let your [A/E]problems sur[B/E]round you
+There are [E]movie [Emaj7]shows
+[A]Down [B]town
 
-E         Emaj7            A/E          B/E
-Maybe you know some little places to go to
-           E     E6
-Where they never close
-A    B
-Down town
+[E]Maybe you [Emaj7]know some little [A/E]places to go [B/E]to
+Where they [E]never [E6]close
+[A]Down [B]town
 
-     E                           C#m
-Just listen to the rhythm of the gentle Bossa Nova
-E                                C#m
-You'll be dancing with 'em too before the night is over
-G#m
-Happy again
+Just [E]listen to the rhythm of the [C#m]gentle Bossa Nova
+[E]You'll be dancing with 'em too be[C#m]fore the night is over
+[G#m]Happy again
 
- A   B/A    A   B/A  A    B/A  A
-The  lights are much brighter  there
-B/A  A  B/A   F#7
-You can for - get all your troubles, forget all your cares, and go
+T[A]he  [B/A]lights [A]are [B/A]much [A]brigh[B/A]ter  [A]there
+[B/A]You c[A]an [B/A]for - [F#7]get all your troubles, forget all your cares, and go
 
 
 [Chorus]
 
-E    Emaj7/B
-Down town
-A/B           B
-Where all the lights are bright
-E    Emaj7/B
-Down town
-A/B         B
-Waiting for you tonight
-E    Emaj7/B
-Down town
-A/B          B
-You're gonna be all right now
+[E]Down [Emaj7/B]town
+[A/B]Where all the [B]lights are bright
+[E]Down [Emaj7/B]town
+[A/B]Waiting for [B]you tonight
+[E]Down [Emaj7/B]town
+[A/B]You're gonna [B]be all right now
 
-  E   A/B  Emaj7  A/B
-(Down town)
+(D[E]own [A/B]town)[Emaj7] [A/B]
 
 (Key changes to F)
 
-  F   Bb/C  Fmaj7  Bb/C
-(Down town)
+(D[F]own [Bb/C]town) [Fmaj7] [Bb/C]
 
 
 [Instrumental]
@@ -121,46 +83,30 @@ F   F/A     Bb    C
 
 [Verse] (partial)
 
-    F                             Dm
-And you may find somebody kind to help and understand you
-F                                Dm
-Someone who is just like you and needs a gentle hand to
-Am
-Guide them along
-Bb   C/Bb  Bb  C/Bb  Bb  C/Bb  Bb
-  So may - be  I'll  see you   there
- C/Bb Bb   C/Bb  G7
- We   can  for - get all our troubles, forget all our cares, let's go
+And [F]you may find somebody kind to [Dm]help and understand you
+[F]Someone who is just like you and [Dm]needs a gentle hand to
+[Am]Guide them along
+[Bb]  So [C/Bb]may - [Bb]be  [C/Bb]I'll  [Bb]see [C/Bb]you   [Bb]there
+ [C/Bb]We   [Bb]can  [C/Bb]for - [G7]get all our troubles, forget all our cares, let's go
 
 
 [Chorus]
 
-F/C  Fmaj7/C
-Down town
-Bb/C         C
-Things'll be great when you're
-F/C  Fmaj7/C
-Down town
-Bb/C         C
-Don't wait a minute more
-F/C  Fmaj7/C
-Down town
-Bb/C         C
-Everything's waiting for you
+[F/C]Down [Fmaj7/C]town
+[Bb/C]Things'll be [C]great when you're
+[F/C]Down [Fmaj7/C]town
+[Bb/C]Don't wait a [C]minute more
+[F/C]Down [Fmaj7/C]town
+[Bb/C]Everything's [C]waiting for you
 
- F    Bb/C  Fmaj7  Bb/C
-(Down town)
- F    Bb/C  Fmaj7  Bb/C
-(Down town)
+([F]Down [Bb/C]town) [Fmaj7] [Bb/C]
+([F]Down [Bb/C]town) [Fmaj7] [Bb/C]
 
 
 [Outro]
 
- F    Bb/C  Fmaj7  Bb/C
-(Down town)
+([F]Down [Bb/C]town) [Fmaj7] [Bb/C]
 
- F    Bb/C  Fmaj7  Bb/C
-(Down town)
+([F]Down [Bb/C]town) [Fmaj7] [Bb/C]
 
- F    Bb/C  Fmaj7  Bb/C
-(Down town)
+([F]Down [Bb/C]town) [Fmaj7] [Bb/C]
