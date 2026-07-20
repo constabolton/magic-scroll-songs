@@ -3,60 +3,38 @@ Song name: Only The Lonely Know The Way I Feel  by  Roy Orbison
 ----------------------------------------------------------------------
 [Intro]
 
-                      F
-        (Dum-dum-dum-dumby-doo-wah
-                    Gm
-        Ooh-yay-yay-yay-yeah
-                 Bb      C7
-        Oh-oh-oh-oh-wah
-                  F      C7
-        Only the lonely
-                  F       N.C.
-        Only the lonely)
+        (Dum-dum-dum-d[F]umby-doo-wah
+        Ooh-yay-yay-[Gm]yay-yeah
+        Oh-oh-oh-[Bb]oh-wah [C7]
+        Only the l[F]onely [C7]
+        Only the l[F]onely)
 
 
 [Verse 1]
 
-                  F
-        Only the lonely (dum-dum-dum-dumby-doo-wah)
-                                Gm
-        Know the way I feel tonight (ooh-yay-yay-yay-yeah)
-        C7
-        Only the lonely (dum-dum-dum-dumby-doo-wah)
-                   Bb             F
-        Know this feelin' ain't right (dum-dum-dum-dumby-doo-wah)
+        Only the l[F]onely (dum-dum-dum-dumby-doo-wah)
+        Know the way I feel toni[Gm]ght (ooh-yay-yay-yay-yeah)
+        [C7]Only the lonely (dum-dum-dum-dumby-doo-wah)
+        Know this f[Bb]eelin' ain't ri[F]ght (dum-dum-dum-dumby-doo-wah)
 
-                       F
-        There goes my baby
-                       F7
-        There goes my heart
-                        Bb
-        They're gone forever
-                 G7   C7
-        So far apart
+        There goes my b[F]aby
+        There goes my h[F7]eart
+        They're gone for[Bb]ever
+        So far ap[G7]art [C7]
 
-                      F
-        But only the lonely
-              Bb
-        Know why
-        C7
-           I cry
-                  F
-        Only the lonely
+        But only the l[F]onely
+        Know w[Bb]hy
+        [C7]   I cry
+        Only the l[F]onely
 
 
 [Repeat Intro]
 
-                      F
-        (Dum-dum-dum-dumby-doo-wah
-                    Gm
-        Ooh-yay-yay-yay-yeah
-                 Bb      C7
-        Oh-oh-oh-oh-wah
-                  F      C7
-        Only the lonely
-                  F       N.C.
-        Only the lonely)
+        (Dum-dum-dum-d[F]umby-doo-wah
+        Ooh-yay-yay-[Gm]yay-yeah
+        Oh-oh-oh-[Bb]oh-wah [C7]
+        Only the l[F]onely [C7]
+        Only the l[F]onely)
 
 
 [Verse 2]
@@ -75,13 +53,10 @@ Song name: Only The Lonely Know The Way I Feel  by  Roy Orbison
 
         N.C.
         You gotta take
-                 Bb            C7
-        Is your lonely heart breaks
-                   F
-        Only the lonely
+        Is your l[Bb]onely heart br[C7]eaks
+        Only the lo[F]nely
 
 
 [Outro]
 
-         F
-        Dum-dum-dum-dumby-doo-wah
+        D[F]um-dum-dum-dumby-doo-wah
