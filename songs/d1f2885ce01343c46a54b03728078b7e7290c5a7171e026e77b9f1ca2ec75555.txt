@@ -8,39 +8,24 @@ and alternating and walking bass lines.
 
 [Verse]
 
- F     A7    D7
-Once I was a millionaire
-Gm           D7        Gm
-Spent all my money, I just didn't care
-Bb            Bdim7        F7   Eb7   D7
-I took all my friends out, for a good time
-G7                      C7
-Bought bootleg whiskey, champagne, and wine
-F      A7       D7
-Then I began to fall so low
-Gm        D7            Gm
-Lost all my good friends, had nowhere to go
-Bb       Bdim7      F7    Eb7 D7
-I get my hands on a dollar a-gain
-G7                     C7
-I'm gonna squeeze it 'til that eagle grins, because
+O[F]nce I [A7]was a [D7]millionaire
+[Gm]Spent all my [D7]money, I j[Gm]ust didn't care
+[Bb]I took all my [Bdim7]friends out, [F7]for a[Eb7] good [D7]time
+[G7]Bought bootleg whiskey, [C7]champagne, and wine
+[F]Then I [A7]began to [D7]fall so low
+[Gm]Lost all m[D7]y good friends[Gm], had nowhere to go
+[Bb]I get my [Bdim7]hands on a [F7]dollar[Eb7] a-g[D7]ain
+[G7]I'm gonna squeeze it 't[C7]il that eagle grins, because
 
 
 [Chorus]
 
-F A7   D7        Gm          D7       Gm
-Nobody knows you when you're down and out
-Bb      Bdim7   F7  Eb7 D7
-In your pocket, not one penny
-G7               C7
-And your friends you know you haven't any
-F              A7          D7
-As soon as you get on your feet again
-Gm   C7           Gm   C7   Gm
-Everybody is your long lost friend
-Bb          Bdim7    F7     Eb7 D7
-It's mighty strange, without a doubt
-G7                           C7
-Nobody knows you when you're down and out
+[F]No[A7]body [D7]knows you [Gm]when you're [D7]down and [Gm]out
+[Bb]In your [Bdim7]pocket, [F7]not [Eb7]one [D7]penny
+[G7]And your friends [C7]you know you haven't any
+[F]As soon as you [A7]get on your [D7]feet again
+[Gm]Every[C7]body is your [Gm]long [C7]lost [Gm]friend
+[Bb]It's mighty [Bdim7]strange, [F7]without[Eb7] a d[D7]oubt
+[G7]Nobody knows you when you're [C7]down and out
 G7                           Db7  C7  F7  Break Repeat End on an F6 or 13
 Nobody wants you when you're down and out
