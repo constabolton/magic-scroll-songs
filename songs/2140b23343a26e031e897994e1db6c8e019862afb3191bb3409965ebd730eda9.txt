@@ -68,5 +68,4 @@ And [G]that's just what they'll [E]do,
 |(E)   | E    | E    | E    |
 [E]  Are you ready boots? ... Start walkin'
 
-| E    | E    | E    | E    | x2
-(f[E]ade out[E])
+(f[E][E]ade [E]out[E])[E]
