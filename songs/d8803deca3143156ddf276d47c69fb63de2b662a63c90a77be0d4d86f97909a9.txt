@@ -7,41 +7,23 @@ Original key should be D.
 
 
 [Verses]
-C                E7
-Pardon me if I’m sentimental
-F               C
-When we say goodbye
-                    A7            D7
-Don't be angry with me should I cry
-G7            C             E7
-  When you're gone yet I'll dream 
-         F                 C
-A little dream as years go by
-                       G7           C
-Now and then there's a fool such as I 
+[C]Pardon me if I’m [E7]sentimental
+[F]When we say good[C]bye
+Don't be angry with [A7]me should I cr[D7]y
+[G7]  When you're [C]gone yet I'll [E7]dream 
+A little [F]dream as years go [C]by
+Now and then there's a [G7]fool such as [C]I 
 
-        F                           C
-Now and then there's a fool such as I am over you
-    G7               D7
-You taught me how to love and now
-G                   G7
-You say that we are through
-      C          E7
-I'm a fool but I love you dear
-F               C
-Until the day I die
-                       G7           C
-Now and then there's a fool such as I 
+Now and [F]then there's a fool such as [C]I am over you
+You [G7]taught me how to [D7]love and now
+[G]You say that we are [G7]through
+I'm a [C]fool but I [E7]love you dear
+[F]Until the day I [C]die
+Now and then there's a [G7]fool such as [C]I 
 
-         F                           C
-Now and then there's a fool such as I am over you
-    G7               D7
-You taught me how to love
-        G                   G7
-And now you say that we are through
-      C          E7
-I'm a fool but I love you dear
-F               C
-Until the day I die
-                       G7           C
-Now and then there's a fool such as I
+Now and t[F]hen there's a fool such as I[C] am over you
+You [G7]taught me how to [D7]love
+And now [G]you say that we are [G7]through
+I'm a [C]fool but I [E7]love you dear
+[F]Until the day I [C]die
+Now and then there's a [G7]fool such as [C]I
