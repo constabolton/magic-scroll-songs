@@ -4,21 +4,17 @@ Song name: Magical Mystery Tour  by  The Beatles
 Magical Mystery Tour
 The Beatles
 
-G/B    x20003
-Gm/Bb  6x533x
+[G/B]Gm/Bb  6x533x
 F#m    xx4222
 
 [Intro]
 |D     |A     |
 
 [Verse 1]
-E
-Roll up, roll up for the mystery tour
+[E]Roll up, roll up for the mystery tour
 
-E
-  Roll up
-G                    A
-  Roll up for the mystery tour    2X
+[E]  Roll up
+[G]  Roll up for the mys[A]tery tour    2X
 
 Roll up - and that's an invitation
 Roll up for the mystery tour
@@ -26,10 +22,8 @@ Roll up - to make a reservation
 Roll up for the mystery tour
 
 [Chorus]
-D                D/C          G/B                  Gm/Bb
-  The magical mystery tour is waiting to take you away
-D/A                  A
-waiting to take you away
+[D]  The magical mys[D/C]tery tour is [G/B]waiting to take you a[Gm/Bb]way
+[D/A]waiting to take you a[A]way
 
 [Verse 2]
 Roll up, we've got everything you need
@@ -39,27 +33,20 @@ Roll up for the mystery tour
 
 
 [Chorus]
-D                D/C          G/B                  Gm/Bb
-  The magical mystery tour is waiting to take you away
-D/A                  A
-waiting to take you away
+[D]  The magical mys[D/C]tery tour is [G/B]waiting to take you a[Gm/Bb]way
+[D/A]waiting to take you a[A]way
 
 [Bridge]
 (Slower)  
-B    F#m7    B            F#m7    G#m7 A  B
-              The mystery trip
-E              G             A
-Aaaaaaah         The Magical Mystery Tour
+[B]     [F#m7]        [B] The mystery [F#m7]trip [G#m7] [A] [B]
+[E]Aaaaaaah       [G]  The Magical [A]Mystery Tour
 
 
 [Verse 1]
-E
-Roll up, roll up for the mystery tour
+[E]Roll up, roll up for the mystery tour
 
-E
-  Roll up
-G                    A
-  Roll up for the mystery tour    2X
+[E]  Roll up
+[G]  Roll up for the mys[A]tery tour    2X
 
 Roll up - and that's an invitation
 Roll up for the mystery tour
@@ -67,14 +54,9 @@ Roll up - to make a reservation
 Roll up for the mystery tour
 
 [Chorus]
-D                D/C          G/B                  Gm/Bb
-  The magical mystery tour is waiting to take you away
-D/A                  A
-waiting to take you away
+[D]  The magical mys[D/C]tery tour is [G/B]waiting to take you a[Gm/Bb]way
+[D/A]waiting to take you a[A]way
 
-D                D/C          G/B                  Gm/Bb
-  The magical mystery tour is waiting to take you away
-D/A                  A
-waiting to take you away
-           D
-Take you today
+[D]  The magical mys[D/C]tery tour is [G/B]waiting to take you a[Gm/Bb]way
+[D/A]waiting to take you a[A]way
+Take you to[D]day
