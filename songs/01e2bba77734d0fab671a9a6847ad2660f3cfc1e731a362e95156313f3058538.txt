@@ -29,12 +29,9 @@ G Am7 G/B G*
 
 G         Am7            G/B     G*
 Blackbird singing in the dead of night
-C          C#dim   D        D#(b5)   Em   Ebaug
-Take these broken wings and learn to fly
-D    Dbdim  C    Cm
-All your   life
-G/B            A7              C/D        G
-You were only waiting for this moment to arise
+[C]Take these [C#dim]broken w[D]ings and [D#]learn to [Em]fly [Ebaug]
+[D]All y[Dbdim]our   l[C]ife [Cm]
+[G/B]You were only w[A7]aiting for this [C/D]moment to a[G]rise
 
 
 [Instrumental]
@@ -46,22 +43,16 @@ C G/B A7   C/D   G
 
 G         Am7            G/B     G*
 Blackbird singing in the dead of night
-C          C#dim   D       D#(b5)   Em   Ebaug
-Take these sunken eyes and learn to see
-D    Dbdim  C    Cm
-All your   life
-G/B            A7              C/D          G
-You were only waiting for this moment to be free
+[C]Take these [C#dim]sunken e[D]yes and [D#]learn to [Em]see [Ebaug]
+[D]All y[Dbdim]our   l[C]ife [Cm]
+[G/B]You were only w[A7]aiting for this [C/D]moment to be [G]free
 
 
 [Chorus]
 
-F  Em  Dm  C  Gm/Bb  C
-Black-bird,  fly
-F  Em  Dm  C  Gm/Bb  A7
-Black-bird,  fly
-         C/D                    G Am7 G/B
-Into the light of the dark black night
+[F]Bla[Em]ck-b[Dm]ird,[C]  f[Gm/Bb]ly [C]
+[F]Bla[Em]ck-b[Dm]ird,[C]  f[Gm/Bb]ly [A7]
+Into the [C/D]light of the dark black[G] n[Am7]ight[G/B]
 
 
 [Instrumental]
@@ -72,12 +63,9 @@ D Dbdim C   Cm   G/B   A7   C/D   G
 
 [Chorus]
 
-F  Em  Dm  C  Gm/Bb   C
-Black-bird,  fly
-F  Em  Dm  C  Gm/Bb   A7
-Black-bird,  fly
-         C/D                    G Am7 G/B
-Into the light of the dark black night
+[F]Bla[Em]ck-b[Dm]ird,[C]  f[Gm/Bb]ly [C]
+[F]Bla[Em]ck-b[Dm]ird,[C]  f[Gm/Bb]ly [A7]
+Into the [C/D]light of the dark black[G] n[Am7]ight[G/B]
 
 
 [Instrumental]
@@ -90,13 +78,8 @@ G Am7 G/B C G/B A7 C/D
 
 G         Am7            G/B     G*
 Blackbird singing in the dead of night
-C          C#dim   D        D#(b5)   Em   Ebaug
-Take these broken wings and learn to fly
-D    Dbdim  C   Cm
-All your  life
-G/B            A7              C/D        G
-You were only waiting for this moment to arise
-C        G/B  A7               C/D        G
-You were only waiting for this moment to arise
-C         G/B    A7            C/D        G
-You were only waiting for this moment to arise
+[C]Take these [C#dim]broken w[D]ings and [D#]learn to [Em]fly [Ebaug]
+[D]All y[Dbdim]our  li[C]fe [Cm]
+[G/B]You were only w[A7]aiting for this [C/D]moment to a[G]rise
+[C]You were [G/B]only [A7]waiting for this [C/D]moment to a[G]rise
+[C]You were o[G/B]nly wai[A7]ting for this [C/D]moment to a[G]rise
