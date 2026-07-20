@@ -7,63 +7,39 @@ Tame Impala - Let It Happen
 A  F#m G#sus4    x4
 
 [Verse 1] [0:27]
-A             F#m                G#sus4     
- It's always around me, all this noise but
-A              F#m         G#sus4
- Not nearly as loud as the voice singing
-A              F#m          G#sus4
- Let it happen, let it happen (It's gonna feel so good)
-A                   F#m          G#sus4     
- Just let it happen, let it happen
+[A] It's always a[F#m]round me, all this [G#sus4]noise but
+[A] Not nearly as [F#m]loud as the [G#sus4]voice singing
+[A] Let it happen,[F#m] let it happe[G#sus4]n (It's gonna feel so good)
+[A] Just let it happen,[F#m] let it happe[G#sus4]n
 
 [Chorus] [0:56]
-D#m       B 
- All this running around
-C#         F#
- Trying to cover my shadow
-D#m       B
- A notion growing inside
-C#           F#
- Now all the others seem shallow
-D#m       B
- All this running around
-C#       F#
- Bearing down on my shoulders
-D#m    B
- I can hear an alarm
-C#         C#sus4
- Must be a morning
+[D#m] All this [B]running around
+[C#] Trying to [F#]cover my shadow
+[D#m] A notion [B]growing inside
+[C#] Now all the [F#]others seem shallow
+[D#m] All this [B]running around
+[C#] Bearing [F#]down on my shoulders
+[D#m] I can [B]hear an alarm
+[C#] Must be a [C#sus4]morning
 
 [Post-Chorus] [1:27]
 A  F#m G#sus4    x4
 
 [Verse 2] [1:44]
-A                     F#m                 G#sus4
- I heard about a whirlwind that's coming 'round
-A                     F#m            G#sus4
- It's gonna carry off all that isn't bound, and
-A                F#m             G#sus4
- When it happens, when it happens (I'll be holding on)
-A                 F#m          
- So let it happen, let it happen
+[A] I heard about a whirl[F#m]wind that's coming '[G#sus4]round
+[A] It's gonna carry off [F#m]all that isn't [G#sus4]bound, and
+[A] When it happens,[F#m] when it happens[G#sus4] (I'll be holding on)
+[A] So let it happen,[F#m] let it happen
 
 [Chorus] [2:09]
-D#m       B
- All this running around
-C#       F#
- I can't fight it much longer
-D#m          B
- Something's trying to get out
-C#        F#
- And it's never been closer
-D#m    B
- If my take-off fails
-C#       F#
- Make up some other story
-D#m   B
- If I never come back
-C#       F#
- Tell my mother I'm sorry
+[D#m] All this [B]running around
+[C#] I can't [F#]fight it much longer
+[D#m] Something's [B]trying to get out
+[C#] And it's [F#]never been closer
+[D#m] If my [B]take-off fails
+[C#] Make up [F#]some other story
+[D#m] If I [B]never come back
+[C#] Tell my [F#]mother I'm sorry
 
 [Solo] (this continues until around [4:04], where the synth comes in)
    A                    F#m         G#sus4        A                    F#m         G#sus4
@@ -108,53 +84,33 @@ A|-7-6-7--7-6-7--|
 E|---------------|
 
 [Verse 3] [5:29]
-A                     F#m
- I cannot vanish, you will not scare me
- G#sus4
-Try to get through it
+[A] I cannot vanish, you [F#m]will not scare me
+T[G#sus4]ry to get through it
 
- A
-Try to push through it
-    F#m                      G#sus4
-You were not thinking that I will not do it
+T[A]ry to push through it
+You [F#m]were not thinking that I [G#sus4]will not do it
 
-A
-They be lovin' someone
-        F#m
-And I'm another story
- G#sus4
-Take the next ticket
+[A]They be lovin' someone
+And I'm [F#m]another story
+T[G#sus4]ake the next ticket
 
- A
-Get the next train
- F#m
-Why would I do it?
- G#sus4
-Anyone'd think that 
+G[A]et the next train
+W[F#m]hy would I do it?
+A[G#sus4]nyone'd think that 
 
-A                     F#m
- I cannot vanish, you will not scare me
- G#sus4
-Try to get through it
+[A] I cannot vanish, you [F#m]will not scare me
+T[G#sus4]ry to get through it
 
-A
-Try to push through it
-    F#m                     G#sus4
-You were not thinking that I will not do it
+[A]Try to push through it
+You [F#m]were not thinking that I[G#sus4] will not do it
 
-A
-They be lovin' someone
-     F#m
-And I'm another story
- G#sus4
-Take the next ticket
+[A]They be lovin' someone
+And I[F#m]'m another story
+T[G#sus4]ake the next ticket
 
- A
-Get the next train
- F#m
-Why would I do it?
- G#sus4
-Anyone'd think that 
+G[A]et the next train
+W[F#m]hy would I do it?
+A[G#sus4]nyone'd think that 
 
 [Guitar Solo] [6:15]
 
@@ -173,45 +129,27 @@ A|-------------------4--4\2-----------------------------------------------------
 E|-5-5-7--7\5--5\2-2---------4--4-5--5\4--4/5--5-7--7\5--5\2-2-4--4\2--2/4--4-5--4--------|
 
 [Outro] [6:38] (around [7:13], the guitar solo kicks in again)
-A               F#m
- I cannot vanish, you will not scare me
- G#sus4
-Try to get through it
+[A] I cannot vanish[F#m], you will not scare me
+T[G#sus4]ry to get through it
 
- A
-Try to push through it
-    F#m                     G#sus4
-You were not thinking that I will not do it
+T[A]ry to push through it
+You [F#m]were not thinking that I[G#sus4] will not do it
 
-A
-They be lovin' someone
-     F#m
-And I'm another story
- G#sus4
-Take the next ticket
+[A]They be lovin' someone
+And I[F#m]'m another story
+T[G#sus4]ake the next ticket
 
- A
-Get the next train
- F#m
-Why would I do it?
- G#sus4
-Anyone'd think that 
+G[A]et the next train
+W[F#m]hy would I do it?
+A[G#sus4]nyone'd think that 
 
 
 [Fade-out] (Repeat through fade-out)
-A              F#m  
-Baby, now I'm ready 
-G#sus4      
-Moving on              
-        A            F#m  
-Oh, but maybe, I was ready
-     G#sus4              
-All along                             
-        A             F#m
-Oh, I'm ready for the moment   
-        G#sus4                 
-and the sound               
-A                    F#m       
-Oh, but maybe, I was ready     
-     G#sus4                    
-All along
+[A]Baby, now I'm r[F#m]eady 
+[G#sus4]Moving on              
+Oh, but [A]maybe, I was [F#m]ready
+All a[G#sus4]long                             
+Oh, I'm [A]ready for the [F#m]moment   
+and the [G#sus4]sound               
+[A]Oh, but maybe, I was [F#m]ready     
+All a[G#sus4]long
