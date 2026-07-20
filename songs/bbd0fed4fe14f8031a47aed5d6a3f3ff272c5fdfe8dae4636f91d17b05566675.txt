@@ -1,0 +1,22 @@
+X:1
+T: Waitin for Katy
+C: Gus Kahn and Ted Shapiro
+M: 4/4
+L: 1/16
+K: G
+"G"d2dBzd2B"F#+"d2d_Bzd2B|
+"Dm/F"d2dBzd^d2"E7"e4B4|
+"A7"_B=BzG-G4"D7"e2edz_B=B2|
+"G"G4z4(3"D+"[F_Bd]2[^Gce]2[^Adf]2zd2=B|
+"G"d2dBzd2B"F#+"d2d_Bzd2B|
+"Dm/F"d2d2Bd^d2"E7"e3B-B4|
+"A7"_B=BzG-G4"D7"e2edz_B=B2|
+"G"G4z4z4zeee|
+"G7"e2d2g2=f2e2d2z4|
+eezdg2e2d4zccc|
+"E7"c2B2e2B2c2B2z4|
+"Am7"B_B=BeB2GE"D7"GEGEFd3|
+"G"d2dBzd2B"F#+"d2d_Bzd2B|
+"Dm/F"d2d2Bd^d2"E7"e3B-B4|
+"A7"_B=BzG-G4"D7"e2edz_B=B2|
+"G"G4z4z8|]
