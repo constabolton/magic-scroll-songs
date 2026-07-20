@@ -5,79 +5,50 @@ D D D
 
 [Verse 1]
 
-G    D             A        D
-Everybody wants to know the truth
-    G     D          A
-But nobody wants to hear it
-G    D           A        D
-Everybody has to face the end
-     G     D            A
-But nobody wants to get near it
+[G]Every[D]body wants to [A]know the [D]truth
+But [G]nobody[D] wants to h[A]ear it
+[G]Every[D]body has to [A]face the [D]end
+But n[G]obody [D]wants to get [A]near it
 
 [Chorus 1]
 
-Em   B7         Em
-Everybody wants peace
-    B7                 Em
-But nobody wants to surrender
-Am       C            Em
-Everyone lives in the past
-    B7              Em
-But nobody seems to remember
+[Em]Every[B7]body wants [Em]peace
+But [B7]nobody wants to sur[Em]render
+[Am]Everyone [C]lives in the [Em]past
+But [B7]nobody seems to [Em]remember
 
 [Bridge 1]
 
-G        D          A      D
-There is nothing as long as never
-   G          D              A
-As everything burns it grows cold
-   G      D     A      D
-Everybody want to live forever
-    G       C            D
-But nobody wants to get old
+[G]There is [D]nothing as [A]long as[D] never
+As [G]everything [D]burns it grows [A]cold
+Eve[G]rybody [D]want t[A]o live [D]forever
+But [G]nobody w[C]ants to get o[D]ld
 
 [Verse 2]
 
-G    D             A     D
-Everybody wants to be forgiven
-    G      D           A
-But nobody wants to confess
-G   D             A            D
-Everyone longs to hold on to a moment
-     G          D       A
-That no one can ever possess
+[G]Every[D]body wants to [A]be for[D]given
+But [G]nobody [D]wants to con[A]fess
+[G]Ever[D]yone longs to [A]hold on to a [D]moment
+That [G]no one can [D]ever pos[A]sess
 
 [Chorus 2]
 
-Em       B7          Em
-Everyone wants to be free
-    B7                 Em
-But no one can pay the price
-Am       C           Em
-Everyone wants to be heard
-     B7                   Em
-When no one has asked for advice
+[Em]Everyone [B7]wants to be [Em]free
+But [B7]no one can pay the [Em]price
+[Am]Everyone [C]wants to be [Em]heard
+When [B7]no one has asked for [Em]advice
 
 [Bridge 2]
 
-G        D          A      D
-There is nothing as long as never
-   G          D              A
-As everything burns it grows cold
-   G      D     A      D
-Everybody want to live forever
-    G       C            D
-But nobody wants to get old
+[G]There is [D]nothing as [A]long as[D] never
+As [G]everything [D]burns it grows [A]cold
+Eve[G]rybody [D]want t[A]o live [D]forever
+But [G]nobody w[C]ants to get o[D]ld
 
 [Verse 3]
 
-G      D         A          D
-Nobody knows the end of the story
-        G        D        A
-We must wait for it to unfold
-G        D            A       D
-Everyone lives facing memento mori
-    G      C            D
-But no one wants to get old
-G      C            D
-Nobody wants to get old
+[G]Nobody [D]knows the [A]end of the [D]story
+We must [G]wait for [D]it to unf[A]old
+[G]Everyone [D]lives facing [A]memento [D]mori
+But [G]no one [C]wants to get [D]old
+[G]Nobody [C]wants to get [D]old
