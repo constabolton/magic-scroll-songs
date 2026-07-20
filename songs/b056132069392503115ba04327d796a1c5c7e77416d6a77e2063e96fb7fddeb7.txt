@@ -1,0 +1,143 @@
+----------------------------------------------------------------------
+Song name: Old Man  by  Neil Young
+----------------------------------------------------------------------
+[Intro]
+
+First chord is played as follows...
+
+Hammer on and off G at 5th fret x3 then slide same chord structure down to 2nd fret doing strum
+down, up, down while doing hammer ons and pull offs on the high e string at frets 3 then 2.
+e|-0-|---|
+B|---|-6-|
+G|-5-|---|
+D|-0-|---|
+A|-0-|---|
+E|-x-|-x-| Mute with thumb
+
+
+FM7       D Dsus4 D
+FM7       D Dsus4 D
+
+
+[Chorus]
+
+FM7                                         D
+   Old man, look at my life, I'm a lot like you were
+FM7                                         D
+   Old man, look at my life, I'm a lot like you were
+
+
+[Instrumental]
+
+D F C G
+D F C F
+
+
+[Verse 1]
+
+D          F
+  Old man, look at my life
+C                         G
+  Twenty four and there's so much more
+D                 F
+  Live alone in a paradise
+     C                  F
+That makes me think of two
+
+
+[Verse 2]
+
+D            F
+  Love lost, such a cost
+C                     G
+  Give me things that don't get lost
+D                  C
+  Like a coin that won't get tossed
+F                 G
+Rollin' home to you
+
+
+[Link]
+
+D   Am7 Em7 G D/F#
+
+(Between D and Am7, try Dsus4->D->Dsus2->D, pulling off the high E from the
+3rd fret to 2nd fret to open E, then a quick punch on the 2nd fret again)
+
+
+[Chorus]
+
+D                                       Am7      Em7  G
+  Old man, take a look at my life I'm a lot like you
+D                               Am7       Em7      G
+  I need someone to love me the whole day through
+D                                     Am7         Em7
+  Oh, one look in my eyes and you can tell that's true
+
+
+[Instrumental]
+
+D F C G
+D F C F
+
+
+[Verse 3]
+
+D            F
+  Lullabies, look in your eyes
+C                G
+  Run around the same old town
+D                   F
+  Doesn't mean that much to me
+   C                   F
+To mean that much to you
+
+
+[Verse 4]
+
+D           F
+  I've been first and last
+C                 G
+  Look at how the time goes past
+D              C
+  But I'm all alone at last
+F                 G
+Rolling home to you
+
+
+[Link]
+
+D   Am7 Em7 G D/F#
+
+
+[Chorus]
+
+D                                       Am7      Em7  G
+  Old man, take a look at my life I'm a lot like you
+D                               Am7       Em7      G
+  I need someone to love me the whole day through
+D                                     Am7         Em7
+  Oh, one look in my eyes and you can tell that's true
+
+
+[Outro]
+
+FM7                                         D    Dsus4  D
+   Old man, look at my life, I'm a lot like you were
+FM7                                         D
+   Old man, look at my life, I'm a lot like you were
+
+D F C G
+D
+
+
+
+FM7   : x00560
+Dsus4 : x00233
+Dsus2 : x00230
+Am7   : x02010
+Em7   : 022030
+
+FM7 is x00560, and you repeatedly hammer-on the third (G) string (0h5).
+The mention of Dsus4 is to indicate that you should fiddle around with the
+high E string, between D, Dsus4 and Dsus2.
