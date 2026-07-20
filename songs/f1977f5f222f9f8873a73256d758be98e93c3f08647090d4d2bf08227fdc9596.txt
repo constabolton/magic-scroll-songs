@@ -3,29 +3,17 @@ Song name: Crazy  by  Patsy Cline
 ----------------------------------------------------------------------
 C   C   F   F   Fmaj7   Em7   Dm7   G7
 
-C      Bb  A7        A7         Dm     Ebm7   Dm7   Dm7
-Crazy, I'm crazy for feeling so lonely
-    G7    G7   G7        G7     C        Dbdim7   Dm7   G7
-I'm crazy,     crazy for feeling so blue
-C     Bb     A7         A7          Dm     Ebm7   Dm7   Dm7
-I knew you'd love me as long as you wanted
-         G7     G7       G7           G7       C   F   C   C7
-And then someday   you'd leave me for somebody new
+[C]Crazy, [Bb]I'm [A7]crazy for [A7]feeling so [Dm]lonely [Ebm7] [Dm7]
+I'm [G7]crazy,[G7]     [G7]crazy for [G7]feeling[C] so blue [Dbdim7] [Dm7] [G7]
+[C]I knew[Bb] you'd [A7]love me as [A7]long as you [Dm]wanted [Ebm7] [Dm7]
+And then [G7]someday[G7]   you'd [G7]leave me for [G7]somebody [C]new [F] [C] [C7]
 
-F     F   F        F          C      C   C7   C7
-Worry,    why do I let myself worry?
-D7       D7   D7          D7        G7    Dm7   G7   G7
-Wond'ring     what in the world did I do?
-C    Bb   A7            A7            Dm       Ebm7   Dm7   Dm7
-Crazy for thinking that my love could hold you
-    Fmaj7     Em7        Dm7       Dbdim7
-I'm crazy for trying and crazy for crying
+[F]Worry,[F]    [F]why do I [F]let myself [C]worry? [C] [C7]
+[D7]Wond'ring[D7]     [D7]what in the [D7]world did [G7]I do? [Dm7] [G7]
+[C]Crazy[Bb] for [A7]thinking that [A7]my love could [Dm]hold you [Ebm7] [Dm7]
+I'm [Fmaj7]crazy for [Em7]trying and [Dm7]crazy for [Dbdim7]crying
 
-       Dm7       G7        C   Ab
-And I'm crazy for loving you
-Db   Cb   Bb7           Bb7           Ebm      Ebm7   Ebm7   Ebm7
-Crazy for thinking that my love could hold you
-    Gbmaj7    Fm7        Ebm7      Ddim7
-I'm crazy for trying and crazy for crying
-        Ebm7      Ab7       Db   Db   Gb   Gb   Db
-And I'm crazy for loving you
+And I'm[Dm7] crazy for[G7] loving yo[C]u [Ab]
+[Db]Crazy[Cb] for [Bb7]thinking that [Bb7]my love could [Ebm]hold you [Ebm7]
+I'm [Gbmaj7]crazy for [Fm7]trying and [Ebm7]crazy for [Ddim7]crying
+And I'm [Ebm7]crazy for [Ab7]loving you[Db] [Gb] [Db]
