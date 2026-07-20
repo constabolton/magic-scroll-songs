@@ -21,37 +21,27 @@ E|--x-----x------x----x---x----x---x----x----x---x--|
 
 
 [Intro]
-C#m  C#m  D#m7b5  G#7/D#  A  C#m  A7  A13  D  Ddim7
-                                             Ah_______
+[C#m]     [C#m]     [D#m7b5]        [G#7/D#]        [A]   [C#m]     [A7]    [A13]     [D]  A[Ddim7]h_______
 
 [Verse 1]
-  C#m                C#m                D#m7b5  G#7/D#
-Because the world is round, it turns me on_________
-  A         C#m      A9   A13  D  Ddim7
-Because the world is round___  ah_____
+Be[C#m]cause the world is [C#m]round, it turns me [D#m7b5]on______[G#7/D#]___
+Be[A]cause the [C#m]world is [A9]round[A13]___  [D]ah_[Ddim7]____
 
 
 [Verse 2]
-  C#m               C#m               D#m7b5  G#7/D#
-Because the wind is high, it blows my mind_______
-  A         C#m     A9   A13  D
-Because the wind is high____  ah
+Be[C#m]cause the wind is [C#m]high, it blows my [D#m7b5]mind____[G#7/D#]___
+Be[A]cause the [C#m]wind is [A9]high_[A13]___  [D]ah
 
 
 [Bridge]
-Ddim7 N.C.                 F#/C#
-      Love is old, love is new
-F#                   G#7  G#7
-Love is all, love is you
+[Ddim7]      Love is old, love is [F#/C#]new
+[F#]Love is all, love is [G#7]you [G#7]
 
 
 [Verse 3]
-  C#m              C#m               D#m7b5  G#7/D#
-Because the sky is blue, it makes me cry________
-  A         C#m    A9   A13  D  Ddim7  C#m  C#m
-Because the sky is blue____  ah________________
+Be[C#m]cause the sky is [C#m]blue, it makes me [D#m7b5]cry_____[G#7/D#]___
+Be[A]cause the [C#m]sky is [A9]blue_[A13]___  [D]ah_[Ddim7]_______[C#m]_____[C#m]___
 
 
 [Outro]
-D#m7b5  G#7/D#  A  C#m   A9  A13  D  Ddim7
-Ah_________________  ooh_____  ah_____
+[D#m7b5]Ah______[G#7/D#]________[A]___[C#m]  ooh_[A9]____[A13]  ah_[D]___[Ddim7]_
