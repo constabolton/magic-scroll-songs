@@ -6,62 +6,44 @@ The Duprees- You Belong To Me
 
 [Intro]
 
-C      Am            Fm  G (X2)
-Ahhahh ahhahhahh ahh ahh ahh
+[C]Ahhahh [Am]ahhahhahh ahh [Fm]ahh [G]ahh
 
 
 [Verse 1]
 
-C                  Em       G
-See the pyramids along the Nile.
-F         Dm           C      A7
-Watch the sunrise on a tropic isle.
-F      Fm               Em      Am
-Just remember, darling, all the while..
-Dm    Dm7     G
-you belong to me.
+[C]See the pyramids al[Em]ong the N[G]ile.
+[F]Watch the [Dm]sunrise on a [C]tropic [A7]isle.
+[F]Just re[Fm]member, darling, [Em]all the [Am]while..
+[Dm]you be[Dm7]long to [G]me.
 
 
 [Verse 2]
 
-C       Am            Em    G
-See the marketplace in old Algiers.
-F       Dm              C       A7
-Send me photographs and souven..irs.
-F     Fm            Em    Am
-But remember when a dream appears..
-Dm7    G       C
-you belong to me.
+[C]See the [Am]marketplace in[Em] old A[G]lgiers.
+[F]Send me [Dm]photographs and [C]souven..[A7]irs.
+[F]But re[Fm]member when a [Em]dream [Am]appears..
+[Dm7]you bel[G]ong to m[C]e.
 
 
 [Chorus]
 
-C          C7         F
-I'll be so alone, without you.
-Dm              Dm7       G         G#
-Maybe you'll be lonesome, too...and blue.
+[C]I'll be so [C7]alone, with[F]out you.
+[Dm]Maybe you'll be [Dm7]lonesome, [G]too...and [G#]blue.
 
 
 [Verse 3]
 
-C#       A#m        Fm    G#
-Fly the ocean in a silver plane.
-F#         D#m            C#        A#7
-Watch the jungle when it's wet with rain.
-F#      F#m                 Fm    A#m
-Just remember till you're home again..
-D#m      G#           C#
-you...belong...to...me. 
+[C#]Fly the o[A#m]cean in a s[Fm]ilver [G#]plane.
+[F#]Watch the j[D#m]ungle when it's[C#] wet with [A#7]rain.
+[F#]Just rem[F#m]ember till you're ho[Fm]me aga[A#m]in..
+[D#m]you...bel[G#]ong...to...me[C#]. 
 
 
 [Outro]
 
-C#     A#m           F#m G#
-Ahhahh ahhahhahh ahh ahh ahh
-C#     A#m           F#m G#
-Ahhahh ahhahhahh ahh ahh ahh
-C#  A#m    G#   
-Ahhhhahhh ahhh 
+[C#]Ahhahh [A#m]ahhahhahh ahh [F#m]ahh [G#]ahh
+[C#]Ahhahh [A#m]ahhahhahh ahh [F#m]ahh [G#]ahh
+[C#]Ahhh[A#m]hahhh a[G#]hhh 
 
 
 (You can slide capo up to 2nd fret after the chorus and play the same chords as verse 1 and 2)
