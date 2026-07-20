@@ -33,8 +33,7 @@ Intro [bass doubled with guitar; 2X]
 
 Verse 1 [first two lines over intro riff, doubled with organ]:
 
-	                 G       C           D          G    G  C  D  G
-	Now when you're feelin' low and the fish won't bite
+	Now when you're f[G]eelin' l[C]ow and the f[D]ish won't b[G]ite [G] [C] [D] [G]
 	You need a little bit o' soul to put you right
 	You gotta make like you wanna kneel and pray
 	And then a little bit of soul will come your way
@@ -50,10 +49,8 @@ Verse 2:
 
 Bridge:
 
-	               D      G                 A       D       D  G  A  D
-	And when your party falls 'cause ain't nobody groovin'
-	   D             G           A             D      D/A
-	A little bit of soul and it really starts movin', yeah
+	And when your p[D]arty fa[G]lls 'cause ain't n[A]obody gr[D]oovin' [D] [G] [A] [D]
+	A l[D]ittle bit of s[G]oul and it r[A]eally starts m[D]ovin', [D/A]yeah
 
 [repeat intro]
 
@@ -66,8 +63,7 @@ Verse 3:
 
 Coda [repeat over intro riff to fade]
 
-	   G             C             D             G
-	A little bit o' soul, yeah (a little bit o' soul)
+	A l[G]ittle bit o' s[C]oul, yeah (a l[D]ittle bit o' s[G]oul)
 
 
 -- another ace 60's tab from Andrew Rogers
