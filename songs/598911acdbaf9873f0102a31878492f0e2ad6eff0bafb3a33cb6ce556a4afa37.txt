@@ -1,8 +1,7 @@
 CHORDS USED:
 Fmaj7  1x2210
 F      133211
-G      320003
-G6     32000x
+[G]G6     32000x
 
 
 [Intro]
@@ -12,40 +11,25 @@ F    G    F    G
 
 [Verse 1]
 
-F            G
-Now here you go again
-       F                G
-You say you want your freedom
-F            G                 F    G
-Well, who am I to keep you down?
-F             G                 F                 G
-It's only right that you should play the way you feel it
-     F            G           F
-But listen carefully to the sound
-         G                  F                     G
-Of your loneliness, like a heartbeat, drives you mad
-         F            G                    F    G
-In the stillness of remembering what you had
-              F    G
-And what you lost
-              F    G
-And what you had
-              F    G
-And what you lost
+[F]Now here you [G]go again
+You say[F] you want your fr[G]eedom
+[F]Well, who am [G]I to keep you down[F]? [G]
+[F]It's only righ[G]t that you should [F]play the way you f[G]eel it
+But l[F]isten careful[G]ly to the so[F]und
+Of your l[G]oneliness, like a h[F]eartbeat, drives you m[G]ad
+In the st[F]illness of re[G]membering what you ha[F]d [G]
+And what you l[F]ost [G]
+And what you h[F]ad [G]
+And what you l[F]ost [G]
 
 
 [Chorus]
 
-    Fmaj7         G6                Fmaj7    G
-Oh, thunder only happens when it's raining
-Fmaj7         G6                    Fmaj7    G
-Players only love you when they're playing
-     Fmaj7             G6                Fmaj7    G
-Say, women, they will come and they will go
-Fmaj7             G6                   Fmaj7    G
-When the rain washes you clean, you'll know
-       Fmaj7
-You'll know
+Oh, [Fmaj7]thunder only h[G6]appens when it's r[Fmaj7]aining [G]
+[Fmaj7]Players only l[G6]ove you when they're p[Fmaj7]laying [G]
+Say, [Fmaj7]women, they will c[G6]ome and they will [Fmaj7]go [G]
+[Fmaj7]When the rain wash[G6]es you clean, you'll [Fmaj7]know [G]
+You'll [Fmaj7]know
 
 
 [Instrumental Break]
@@ -57,50 +41,29 @@ You'll know
 
 [Verse 2]
 
-F          G
-Now here I go again
-     F              G
-I see your crystal visions
-F          G            F    G
-I keep my visions to myself
-F           G               F                  G
-It's only me who wants to wrap around your dreams and
-F             G                    F
-Have you any dreams you'd like to sell
-           G                F                     G
-Dreams of loneliness like a heartbeat drives you mad
-         F            G                    F    G
-In the stillness of remembering what you had
-              F    G
-And what you lost
-              F    G
-And what you had
-                   F    G
-Ooh, and what you lost
+[F]Now here I [G]go again
+I see[F] your crystal v[G]isions
+[F]I keep my v[G]isions to mys[F]elf [G]
+[F]It's only me[G] who wants to wr[F]ap around your drea[G]ms and
+[F]Have you any d[G]reams you'd like to s[F]ell
+Dreams of l[G]oneliness like a [F]heartbeat drives you m[G]ad
+In the st[F]illness of re[G]membering what you ha[F]d [G]
+And what you l[F]ost [G]
+And what you h[F]ad [G]
+Ooh, and what you l[F]ost [G]
 
 
 [Chorus]
 
-Fmaj7         G6                Fmaj7    G
-Thunder only happens when it's raining
-Fmaj7         G6                    Fmaj7    G
-Players only love you when they're playing
-Fmaj7             G6                Fmaj7    G
-Women, they will come and they will go
-Fmaj7             G6                   Fmaj7    G
-When the rain washes you clean, you'll know
+[Fmaj7]Thunder only h[G6]appens when it's r[Fmaj7]aining [G]
+[Fmaj7]Players only l[G6]ove you when they're p[Fmaj7]laying [G]
+[Fmaj7]Women, they will c[G6]ome and they will [Fmaj7]go [G]
+[Fmaj7]When the rain wash[G6]es you clean, you'll [Fmaj7]know [G]
 
-    Fmaj7         G6                Fmaj7    G
-Oh, thunder only happens when it's raining
-Fmaj7         G6                    Fmaj7    G
-Players only love you when they're playing
-     Fmaj7             G6                Fmaj7    G
-Say, women, they will come and they will go
-Fmaj7             G6                   Fmaj7    G
-When the rain washes you clean, you'll know
-       Fmaj7    G
-You'll know
-         Fmaj7
-You will know
-G           Fmaj7
-Ahh, you'll know
+Oh, [Fmaj7]thunder only h[G6]appens when it's r[Fmaj7]aining [G]
+[Fmaj7]Players only l[G6]ove you when they're p[Fmaj7]laying [G]
+Say, [Fmaj7]women, they will c[G6]ome and they will [Fmaj7]go [G]
+[Fmaj7]When the rain wash[G6]es you clean, you'll [Fmaj7]know [G]
+You'll [Fmaj7]know [G]
+You will [Fmaj7]know
+[G]Ahh, you'll [Fmaj7]know
