@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T: Schottishe Kerlou
+C: Calum Stewart
+R: Schottishe
+M: 4/4
+L: 1/8
+K: G
+"G"g4 "Gmaj7"f4|"C/G"ABc2 "G"B2G2|"C"c2cc Bd"D"A2|z2AG ABGF|
+"C"E2zE EDDE|GD"D"GA "Em"B2GB|"C"cBAG "D"A2- AG|"G"G4 GABd|
+"G"g4 "Gmaj7"f2ed|"C/G"ABc2 "G"B2G2|"C"c2cc Bd"D"A2|z2AG ABGF|
+"C"E2zE EDDE|GD"D"GA "Em"B2GB|"C"cBAG "D"A2- AG|"G"G4-G4||
+"C"e4 edcB|AG"D"GA "Em"B2G2|cBAG "G/B"d2>B2|"D"A4 ABGF|
+"C"E2zE EDDE|GD"D"GA "Em"B2GB|"C"cBAG "D"A2-AG|"G"G4 GABd|
+"C"e2ed efgf|e2"D"d2 "Em"B2>B2|cBAG "G/B"d2>B2|"D"A4 ABGF|
+"C"E2zE EDDE|GD"D"GA "Em"B2GB|"C"cBAG "D"A2-AG|"G"G4-G4|]
