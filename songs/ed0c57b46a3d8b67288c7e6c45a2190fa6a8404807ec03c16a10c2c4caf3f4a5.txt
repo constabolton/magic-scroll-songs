@@ -8,90 +8,57 @@ Writer-Robbie Robertson
 Tabbed by S. McNally
 
 [Intro]
-G       G/B                C
-Standing by your window in pain, 
-G  G/B           C
-a pistol in your hand
-G    G/B            C   
-and i beg you, dear molly, girl,
-D
-Try and understand your man the best you can.
+[G]Standing[G/B] by your window in [C]pain, 
+[G]a p[G/B]istol in your [C]hand
+[G]and i[G/B] beg you, dear [C]molly, girl,
+[D]Try and understand your man the best you can.
 
 [Chorus]
-G                A7
-Across the great divide
-     C                  Em        G/D G/B
-just grab your hat, and take that ride
-G              A7
-Get yourself a bride
-    C                   Em           G/D G/B
-and bring your children down to the river side.
+[G]Across the great [A7]divide
+just [C]grab your hat, and [Em]take that [G/D]ride[G/B]
+[G]Get yourself a [A7]bride
+and [C]bring your children [Em]down to the r[G/D]iver[G/B] side.
 
 [Verse 1]
-G                  C
-I had a goal in my younger days,
-G                 C
-I nearly wrote my will
-G                C
-But I changed my mind for the better, 
-D
-I'm at the still, had my fill and I'm fit to kill
+[G]I had a goal in my [C]younger days,
+[G]I nearly wrote my [C]will
+[G]But I changed my [C]mind for the better, 
+[D]I'm at the still, had my fill and I'm fit to kill
 
 [Chorus]
-G                A7
-Across the great divide,
-     C                  Em        G/D G/B
-just grab your hat, and take that ride
-G              A7
-Get yourself a bride, 
-     C                  Em           G/D G/B
-and bring your children down to the river side.
+[G]Across the great [A7]divide,
+just [C]grab your hat, and [Em]take that [G/D]ride[G/B]
+[G]Get yourself a [A7]bride, 
+and b[C]ring your children [Em]down to the r[G/D]iver[G/B] side.
 
 [Verse 2]
-G                C
-Pinball machine, and a queen, 
-G               C
-I nearly took a bust
-G                C
-Tried to keep my hands to myself, 
-D
-ya say it's a must, but who can ya trust?
+[G]Pinball machine, [C]and a queen, 
+[G]I nearly took a [C]bust
+[G]Tried to keep my [C]hands to myself, 
+[D]ya say it's a must, but who can ya trust?
 
 [Verse 3]
-G                    C
-Harvest moon shining down from the sky, 
-G                C
-a weary sign for all
-G                    C
-I'm gonna leave this one horse town, 
-D
-had to stall till the fall, now I'm gonna crawl
+[G]Harvest moon shining [C]down from the sky, 
+[G]a weary sign for [C]all
+[G]I'm gonna leave this [C]one horse town, 
+[D]had to stall till the fall, now I'm gonna crawl
 
 [Instrumental]
-G                A7       C     Em     G/D G/B
-Across the great divide
+[G]Across the great [A7]divide [C] [Em] [G/D] [G/B]
 
 G                A7       C     Em     G/D G/B
 
 [Verse 4]
-G                        C
-Now molly dear, don't ya shed a tear
-G                     C
-Your time will surely come, 
-G                    C
-you'll feed your man chicken every Sunday 
-D
-Now tell me, hon, whatcha done with the gun?
+[G]Now molly dear, don't ya [C]shed a tear
+[G]Your time will surely [C]come, 
+[G]you'll feed your man [C]chicken every Sunday 
+[D]Now tell me, hon, whatcha done with the gun?
 
 [Chorus]
-G                A7
-Across the great divide, 
-     C                  Em        G/D G/B
-just grab your hat, and take that ride
-G              A7
-Get yourself a bride, 
-    C                   Em                G/D G/B
-and bring your children down to the river side.
+[G]Across the great [A7]divide, 
+just [C]grab your hat, and [Em]take that [G/D]ride[G/B]
+[G]Get yourself a [A7]bride, 
+and [C]bring your children [Em]down to the river [G/D]side[G/B].
 
 [Outro]
 G A7 C Em G/D G/B
