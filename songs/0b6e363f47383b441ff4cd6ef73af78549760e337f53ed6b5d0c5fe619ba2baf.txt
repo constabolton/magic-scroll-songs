@@ -9,74 +9,52 @@ Lady Madonna:The Beatles.
 
 [Verse 1]
 
-A    D        A                D
-Lady Madonna, children at your feet..
-A              D      A  F    G    A
-wonder how you manage to make ends meet?
-A             D     A                D
-Who finds the money when you pay the rent?
-A                  D     A   F    G   A
-Did you think that money was Hea..ven sent?
+[A]Lady [D]Madonna, [A]children at your [D]feet..
+[A]wonder how you [D]manage [A]to [F]make [G]ends [A]meet?
+[A]Who finds the [D]money [A]when you pay the [D]rent?
+[A]Did you think that [D]money [A]was [F]Hea..[G]ven [A]sent?
 
 
 [Chorus]
 
-Dm                             G
-Friday night arrives without a suitcase.
-C                              Am
-Sunday morning creeping like a nun.
-Dm                                    G7
-Monday's child has learned to tie his bootlace..
-C   Bm  Dsus2 E
-see how they  run.
+[Dm]Friday night arrives without a [G]suitcase.
+[C]Sunday morning creeping like a [Am]nun.
+[Dm]Monday's child has learned to tie his [G7]bootlace..
+[C]see [Bm]how [Dsus2]they  [E]run.
 
 
 [Verse 2]
 
-A    D        A            D
-Lady Madonna, baby at your breast..
-A              D      A  F    G   A
-wonder how you manage to feed the rest?
+[A]Lady [D]Madonna, [A]baby at your [D]breast..
+[A]wonder how you [D]manage [A]to [F]feed [G]the [A]rest?
 
 A D  A D  A D F G A
 
-Dm                                  G7   
-Pa, pa, pa, pa, pa, pa, pa, pa, pa, pa...
-C                           Am
-pa, pa, pa, pa, pa, pa, pa, pa, pa, pa, pa..
-Dm                              G
-pa, pa, pa, pa, pa, pa, pa, pa, pa, pa, pa..
-C   Bm  Dsus2 E
-See how they  run.
+[Dm]Pa, pa, pa, pa, pa, pa, pa, pa, pa, [G7]pa...
+[C]pa, pa, pa, pa, pa, pa, pa, [Am]pa, pa, pa, pa..
+[Dm]pa, pa, pa, pa, pa, pa, pa, pa, [G]pa, pa, pa..
+[C]See [Bm]how [Dsus2]they  [E]run.
 
 
 [Verse 3]
 
-A    D       A            D
-Lady Madonna lying on the bed..
-A             D     A       F  G    A
-listen to the music playing in your head.
+[A]Lady [D]Madonna [A]lying on the [D]bed..
+[A]listen to the [D]music [A]playing [F]in [G]your [A]head.
 
 A D  A D  A D F G A
 
 [Chorus]
 
-Dm                          G
-Tuesday afternoon is never ending..
-C                               Am
-Wednesday morning papers didn't come.
-Dm                                 G7
-Thursday night you stocking needed mending..
-C   Bm  Dsus2 E
-see how they  run.
+[Dm]Tuesday afternoon is never e[G]nding..
+[C]Wednesday morning papers didn't [Am]come.
+[Dm]Thursday night you stocking needed [G7]mending..
+[C]see [Bm]how [Dsus2]they  [E]run.
 
 
 [Verse 4]
 
-A    D        A                D
-Lady Madonna, children at your feet..
-A              D      A  F    G    A
-wonder how you manage to make ends meet?
+[A]Lady [D]Madonna, [A]children at your [D]feet..
+[A]wonder how you [D]manage [A]to [F]make [G]ends [A]meet?
 
 A Bm7 Cm6 Bm7 A
 A Bm7 Cm6 Bm7 A
