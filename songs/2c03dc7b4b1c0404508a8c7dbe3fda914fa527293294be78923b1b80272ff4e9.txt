@@ -5,38 +5,25 @@ Song name: Raindrops Keep Fallin On My Head  by  B.J. Thomas
 F  C  Bb  C
 
 [Verse 1]
-F                            Fmaj7
-Raindrops keep falling on my head
-    F7                               Bb              Am
-And just like the guy whose feet are too big for his bed,
-D7               Am   D7    Gm7                                              Bb   C
-Nothing seems to fit, those raindrops are fallin' on my head, they keep fallin'
+[F]Raindrops keep falling on my [Fmaj7]head
+And [F7]just like the guy whose feet are [Bb]too big for his [Am]bed,
+[D7]Nothing seems to [Am]fit, [D7]those [Gm7]raindrops are fallin' on my head, they keep falli[Bb]n' [C]
 
 [Verse 2]
-          F                          Fmaj7
-So I just did me some talkin' to the sun,
-    F7                        Bb                 Am
-And I said I didn't like the way he got things done
-  D7             Am   D7   Gm7                                              Bb
-Sleepin' on the job, those raindrops are fallin' on my head, they keep fallin'
+So I just [F]did me some talkin' to the [Fmaj7]sun,
+And [F7]I said I didn't like the w[Bb]ay he got things do[Am]ne
+Sl[D7]eepin' on the j[Am]ob, t[D7]hose [Gm7]raindrops are fallin' on my head, they keep falli[Bb]n'
 
 [Bridge]
-            C   F       Fmaj7
-But there's one thing I know,
-    Bb                 C              Am7
-The blues they send to meet me, won't defeat me
-                      D7              Gm7            Bb/C C Bb/C C
-It won't be long till happiness steps up to greet me
+But there's [C]one [F]thing I [Fmaj7]know,
+The [Bb]blues they send to [C]meet me, won't [Am7]defeat me
+It won't be long till [D7]happiness steps [Gm7]up to greet me [Bb/C] [C] [Bb/C] [C]
 
 [Verse 3]
-F                            Fmaj7
-Raindrops keep fallin' on my head,
-    F7                             Bb              Am
-But that doesn't mean my eyes will soon be turnin' red,
-D7              Am  D7    Gm7                                         Bb
-Cryin's not for me, cause I'm never gonna stop the rain by complainin'
-  C          F     Gm7               F
-Because I'm free, nothing's worryin' me
+[F]Raindrops keep fallin' on my [Fmaj7]head,
+But [F7]that doesn't mean my eyes will [Bb]soon be turnin' [Am]red,
+[D7]Cryin's not for [Am]me, [D7]cause [Gm7]I'm never gonna stop the rain by complainin'[Bb]
+Be[C]cause I'm f[F]ree, n[Gm7]othing's worryin' [F]me
 
 [Solo]
 F   C   Bb   C   Am
@@ -48,19 +35,13 @@ D|--------------------------------|----------------------------|
 A|--------------------------------|----------------------------|
 E|--------------------------------|----------------------------|
 
-    Am                D7              Gm7            Bb C Bb C
-It won't be long till happiness steps up to greet me
+It w[Am]on't be long till [D7]happiness steps [Gm7]up to greet me [Bb] [C] [Bb] [C]
 
 [Verse 4]
-F                            Fmaj7
-Raindrops keep fallin' on my head,
-    F7                             Bb              Am
-But that doesn't mean my eyes will soon be turnin' red,
-D7              Am  D7    Gm7                                         C7
-Cryin's not for me, cause I'm never gonna stop the rain by complainin'
-            F     Gm7                F
-Because I'm free, nothing's worryin' me
+[F]Raindrops keep fallin' on my [Fmaj7]head,
+But [F7]that doesn't mean my eyes will [Bb]soon be turnin' [Am]red,
+[D7]Cryin's not for [Am]me, [D7]cause [Gm7]I'm never gonna stop the rain by complainin'[C7]
+Because I'm [F]free, [Gm7]nothing's worryin' [F]me
 
 [Outro]
-F  Eb  F  Eb
-(fade)
+[F](fa[Eb]de) [F] [Eb]
