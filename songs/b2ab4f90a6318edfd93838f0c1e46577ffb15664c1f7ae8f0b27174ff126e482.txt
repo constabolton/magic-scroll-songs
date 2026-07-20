@@ -2,60 +2,37 @@
 Song name: Im Confessin That I Love You  by  Dean Martin
 ----------------------------------------------------------------------
 [Verse 1]
-G              Daug          Gmaj7
-I'm confessin' that I love you
-G          Daug           Bm7  E7
-Tell me do you love me too
-A7                    Am7
-I'm confessin' that I need you
-D7       G Em7 Am7          D7
-Honest I do  need you every moment
+[G]I'm confessin' [Daug]that I love yo[Gmaj7]u
+[G]Tell me do [Daug]you love me too[Bm7] [E7]
+[A7]I'm confessin' that I [Am7]need you
+[D7]Honest I [G]do[Em7]  ne[Am7]ed you every [D7]moment
 
 [Verse 2]
-G              Daug      Gmaj7
-In your eyes I read such strange things
-G             Daug         Bm7  E7
-But your lips deny they're true
-A7                      Am7
-Will your answer really change things
-D7        G   Cm7  G
-Making me blue
+[G]In your eyes I [Daug]read such [Gmaj7]strange things
+[G]But your lips [Daug]deny they're [Bm7]true [E7]
+[A7]Will your answer really [Am7]change things
+[D7]Making me [G]blue[Cm7] [G]
 
 [Chorus]
-G7                           Dm7   G7
-I'm afraid some day you'll leave me
-C               Cmaj7     C6     C7  B7  Bb7
-Saying can't we still be friends
-A7
-If you do you know you'll grieve me
-Am                 D7    D7+5
-All in life on you depends
+[G7]I'm afraid some day you'll le[Dm7]ave me[G7]
+[C]Saying can't we [Cmaj7]still be f[C6]riends [C7] [B7] [Bb7]
+[A7]If you do you know you'll grieve me
+[Am]All in life on you [D7]depend[D7+5]s
 
 [Verse 3]
-G             Daug            Gmaj7
-Am I guessing that you really love me
-G             Daug         Bm7  E7
-Dreaming dreams of you in vain
-Am                    D7             G    Cm   G
-I'm confessing that I love you over again
+[G]Am I guessing [Daug]that you really [Gmaj7]love me
+[G]Dreaming dream[Daug]s of you in v[Bm7]ain [E7]
+[Am]I'm confessing that I [D7]love you over a[G]gain [Cm] [G]
 
 [Chorus]
-G7                           Dm7   G7
-I'm afraid some day you'll leave me
-C               Cmaj7     C6     C7  B7  Bb7
-Saying can't we still be friends
-A7
-If you do you know you'll grieve me
-Am                 D7    D7+5
-All in life on you depends
+[G7]I'm afraid some day you'll le[Dm7]ave me[G7]
+[C]Saying can't we [Cmaj7]still be f[C6]riends [C7] [B7] [Bb7]
+[A7]If you do you know you'll grieve me
+[Am]All in life on you [D7]depend[D7+5]s
 
 [Verse 3]
-G             Daug            Gmaj7
-Am I guessing that you really love me
-G             Daug         Bm7  E7
-Dreaming dreams of you in vain
-A7                    Am7      D7   G     E7
-I'm confessing that I love you over again
+[G]Am I guessing [Daug]that you really [Gmaj7]love me
+[G]Dreaming dream[Daug]s of you in v[Bm7]ain [E7]
+[A7]I'm confessing that I [Am7]love you [D7]over [G]again [E7]
 
-A7                    Am7      D7   G    Cm6  G
-I'm confessing that I love you over again
+[A7]I'm confessing that I [Am7]love you [D7]over [G]again[Cm6] [G]
