@@ -11,24 +11,16 @@ Waltz pluck: ||: p - ima - ima :||
 
 In G:
 
-G                           Gdim7/E  C    E7   A7
-Let me call you Sweetheart, I'm in   love with you.
-D7                      Am7      G    G#dim7/E# D7
-Let me hear you whisper that you love   me      too.
-G                           Gdim7/E   C    E7 A7
-Keep the love-light glowing in your   eyes so true.
-C      C#dim7/E    G           Eaug   A7   D7   G
-Let me call you    Sweetheart, I'm in love with you.
+[G]Let me call you Sweetheart, [Gdim7/E]I'm in   [C]love [E7]with [A7]you.
+[D7]Let me hear you whisper [Am7]that you [G]love [G#dim7/E#]  me      [D7]too.
+[G]Keep the love-light glowing [Gdim7/E]in your   [C]eyes [E7]so [A7]true.
+[C]Let me [C#dim7/E]call you    [G]Sweetheart, [Eaug]I'm in [A7]love [D7]with [G]you.
 
 
 
 In C:
 
-C                           Cdim7/D#   F    A7   D7
-Let me call you Sweetheart, I'm     in love with you.
-G7                      Dm7      C    C#dim7/E  G7
-Let me hear you whisper that you love   me      too.
-C                           Cdim7/D#  F    A7 D7
-Keep the love-light glowing in your   eyes so true.
-F      F#dim7/D#     C           Aaug   D7   G7   C
-Let me call     you Sweetheart, I'm in love with you.
+[C]Let me call you Sweetheart, [Cdim7/D#]I'm     in [F]love [A7]with [D7]you.
+[G7]Let me hear you whisper [Dm7]that you [C]love [C#dim7/E]  me      [G7]too.
+[C]Keep the love-light glowing [Cdim7/D#]in your   [F]eyes [A7]so [D7]true.
+[F]Let me [F#dim7/D#]call     you S[C]weetheart, I[Aaug]'m in l[D7]ove w[G7]ith y[C]ou.
