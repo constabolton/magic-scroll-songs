@@ -5,25 +5,17 @@ Song name: Little Bird Little Bird  by  Elizabeth Mitchell
 A
 
 [Verse 1] (counted 4/4 + 5/4, first three lines)
-A
-Little bird, little bird, fly through my window
-E7
-Little bird, little bird, fly through my window
-A
-Little bird, little bird, fly through my window
-E7            A
-Find molasses candy
+[A]Little bird, little bird, fly through my window
+[E7]Little bird, little bird, fly through my window
+[A]Little bird, little bird, fly through my window
+[E7]Find molasses [A]candy
 
 [Chorus] (counted 4/4)
-D          A       E
-Through my window, my sugar lump
-A              E       A
-Fly through my window, my sugar lump
-E7            A
-Find molasses candy
+[D]Through my [A]window, [E]my sugar lump
+[A]Fly through my [E]window, [A]my sugar lump
+[E7]Find molasses [A]candy
 
-A
-Who knows a bird?
+[A]Who knows a bird?
 
 Me! Chickadee!
 
@@ -32,25 +24,17 @@ What's a chickadee say?
 Chchchchchch
 
 [Verse 2]
-A
-Chickadee, chickadee, fly through my window
-E7
-Chickadee, chickadee, fly through my window
-A
-Chickadee, chickadee, fly through my window
-E7            A
-Find molasses candy
+[A]Chickadee, chickadee, fly through my window
+[E7]Chickadee, chickadee, fly through my window
+[A]Chickadee, chickadee, fly through my window
+[E7]Find molasses [A]candy
 
 [Chorus]
-D          A       E
-Through my window, my sugar lump
-A              E       A
-Fly through my window, my sugar lump
-E7            A
-Find molasses candy
+[D]Through my [A]window, [E]my sugar lump
+[A]Fly through my [E]window, [A]my sugar lump
+[E7]Find molasses [A]candy
 
-A
-Who knows another bird?
+[A]Who knows another bird?
 
 Me! Jaybird!
 
@@ -59,47 +43,32 @@ What does a jaybird say?
 Jayjayjayjayjayjay
 
 [Verse 3]
-A
-Jaybird, jaybird, fly through my window
-E7
-Jaybird, jaybird, fly through my window
-A
-Jaybird, jaybird, fly through my window
-E7            A
-Find molasses candy
+[A]Jaybird, jaybird, fly through my window
+[E7]Jaybird, jaybird, fly through my window
+[A]Jaybird, jaybird, fly through my window
+[E7]Find molasses [A]candy
 
 [Chorus]
-D          A       E
-Through my window, my sugar lump
-A              E       A
-Fly through my window, my sugar lump
-E7            A
-Find molasses candy
+[D]Through my [A]window, [E]my sugar lump
+[A]Fly through my [E]window, [A]my sugar lump
+[E7]Find molasses [A]candy
 
-A
-Who knows one more bird?
+[A]Who knows one more bird?
 
 I do! A whip-poor-will
 
 What does a whip-poor-will say?
 
 [Verse 4]
-A
-Whip-poor-will, whip-poor-will, fly through my window
-E7
-Whip-poor-will, whip-poor-will, fly through my window
-A
-Whip-poor-will, whip-poor-will, fly through my window
-E7            A
-Find molasses candy
+[A]Whip-poor-will, whip-poor-will, fly through my window
+[E7]Whip-poor-will, whip-poor-will, fly through my window
+[A]Whip-poor-will, whip-poor-will, fly through my window
+[E7]Find molasses [A]candy
 
 [Chorus]
-D          A       E
-Through my window, my sugar lump
-A              E       A
-Fly through my window, my sugar lump
-E7            A
-Find molasses candy
+[D]Through my [A]window, [E]my sugar lump
+[A]Fly through my [E]window, [A]my sugar lump
+[E7]Find molasses [A]candy
 
 [Outro]
 A
