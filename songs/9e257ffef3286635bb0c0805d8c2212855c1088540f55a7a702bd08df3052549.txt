@@ -21,85 +21,53 @@ Bb/D    x,x,0,3,3,1
 
 [verse 1]
 
-A7      Dm
-See her light, how it reigns
-Dm              Am/C
-So hard on your high plains
-Am/C   Bbmaj7    Gm
-So you take such pains
-Gm             Dm        A
-That she won't notice you
+[A7]See her [Dm]light, how it reigns
+[Dm]So hard on your [Am/C]high plains
+[Am/C]So you [Bbmaj7]take such [Gm]pains
+[Gm]That she won't [Dm]notice you[A]
 
 [verse 2]
 
-A        Dm
-And your x-rays
-Dm              Am/C
-Of your paleo-male gaze
-Am/C     Bbmaj7    Gm
-How they rest, and play
-Gm     Dm
-Slowly corrupting you
+[A]And your [Dm]x-rays
+[Dm]Of your paleo-ma[Am/C]le gaze
+[Am/C]How they [Bbmaj7]rest, and [Gm]play
+[Gm]Slowly [Dm]corrupting you
 
 [bridge]
 
-  C                                     F
-I wonder what the chance is you want it to
-E7                       Am
-A thousand vacant stares won't make it true
-        A7
-Make it true
+I [C]wonder what the chance is you want it [F]to
+[E7]A thousand vacant stares [Am]won't make it true
+Make it [A7]true
 
 [pre chorus]
 
-Gm             C7                      F      D7/F#
-You need a witness just to know you're there
-Gm                    C7                       F     D7/F#
-From the tips of your fingers, every strand of hair
-Gm                 C7                     F               D7/F#
-And know someone's watching you, Watching me, watching you
-D7/F#                    Gm
-And all that we look upon
-Gm          C                      A7
-You may not know me but you feel my stare
+[Gm]You need a witn[C7]ess just to know you're [F]there [D7/F#]
+[Gm]From the tips of your [C7]fingers, every strand of [F]hair [D7/F#]
+[Gm]And know someone's [C7]watching you, Watching [F]me, watching you[D7/F#]
+[D7/F#]And all that we look upon[Gm]
+[Gm]You may not [C]know me but you feel my[A7] stare
 
 [chorus]
 
-           Dm
-And if she sees you, it changes you
-Dm               Am/C
-Rearranges your molecules
-Am/C       Bbmaj7
-And if you see her, it changes her
-Gm                 Dm          A7
-She's a danger now after school
-A7         Dm
-And if she sees you, it changes you
-Dm               Am/C
-Rearranges your molecules
-Am/C       Bbmaj7
-And if you see her, it changes her
-Gm                   Dm
-She'll be seeing you after school
-C                      F
-Here's where gentlemen avert their eyes
-E7                      Am
-Maybe she's a gentleman in disguise
-   A7
-In disguise
+And if she [Dm]sees you, it changes you
+[Dm]Rearranges your m[Am/C]olecules
+[Am/C]And if you [Bbmaj7]see her, it changes her
+[Gm]She's a danger now [Dm]after school[A7]
+[A7]And if she [Dm]sees you, it changes you
+[Dm]Rearranges your m[Am/C]olecules
+[Am/C]And if you [Bbmaj7]see her, it changes her
+[Gm]She'll be seeing you [Dm]after school
+[C]Here's where gentlemen [F]avert their eyes
+[E7]Maybe she's a gentleman [Am]in disguise
+In [A7]disguise
 
 [pre chorus]
 
-Gm             C7                      F      D7/F#
-You need a witness just to know you're there
-Gm                    C7                       F     D7/F#
-From the tips of your fingers, every strand of hair
-Gm                 C7                     F               D7/F#
-And know someone's watching you, Watching me, watching you
-D7/F#                    Gm
-And all that we look upon
-Gm          C                      A7
-You may not know me but you feel my stare
+[Gm]You need a witn[C7]ess just to know you're [F]there [D7/F#]
+[Gm]From the tips of your [C7]fingers, every strand of [F]hair [D7/F#]
+[Gm]And know someone's [C7]watching you, Watching [F]me, watching you[D7/F#]
+[D7/F#]And all that we look upon[Gm]
+[Gm]You may not [C]know me but you feel my[A7] stare
 
 [instrumental]
 
@@ -107,16 +75,11 @@ You may not know me but you feel my stare
 
 [chorus]
 
-        Dm               Am/C
-And if I see you, how it changes me
-Am/C       Bbmaj7   Gm         Dm           A
-And if you see ....me, how it changes you, Changes you
-A        Dm              Am/C
-And if I see you, how it changes me
-Am/C       Bbmaj7  Gm        Dm
-And if you see....me, how it changes you
-A
-Changes you
+And if I[Dm] see you, how it [Am/C]changes me
+[Am/C]And if you [Bbmaj7]see ....m[Gm]e, how it c[Dm]hanges you, C[A]hanges you
+[A]And if I [Dm]see you, how it [Am/C]changes me
+[Am/C]And if you [Bbmaj7]see....m[Gm]e, how it [Dm]changes you
+[A]Changes you
 
 [outro]
 
