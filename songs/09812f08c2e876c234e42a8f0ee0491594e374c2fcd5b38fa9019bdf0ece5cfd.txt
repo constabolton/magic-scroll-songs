@@ -13,47 +13,30 @@ A|---2-------------|---2-------------|-3-------3-------|
 E|-3---------------|-3---------------|-1---------------|
 
 [Verse 1]
-     G           Em          C          D
-Love hurts, love scars, love wounds and mars
-Cadd9 G          Em       C       D
-Any   heart, not tough or strong enough
-   Cadd9         G     B             Em
-To take a lot of pain, take a lot of pain
-B              C                        D
-Love is like a cloud, it holds a lot of rain
+Love [G]hurts, love [Em]scars, love [C]wounds and [D]mars
+[Cadd9]Any   [G]heart, not [Em]tough or [C]strong e[D]nough
+To [Cadd9]take a lot of [G]pain, [B]take a lot of [Em]pain
+[B]Love is like a [C]cloud, it holds a lot of [D]rain
 
-Cadd9     G      F   C        G
-     Love hurts, ooh hoo love hurts
+[Cadd9]     Love [G]hurts, [F]ooh [C]hoo love [G]hurts
 
 [Verse 2]
-    G        Em        C    D
-I'm young, I know, but even so
-Cadd9    G        Em     C            D
-I know a thing or two, I learned from you
-  Cadd9            G    B                Em 
-I really learned a lot, really learned a lot
-B              C                             D
-Love is like a flame, it burns you when it's hot
+I'm [G]young, I [Em]know, but [C]even [D]so
+[Cadd9]I know a [G]thing or [Em]two, I [C]learned from [D]you
+I [Cadd9]really learned a [G]lot, [B]really learned a [Em]lot
+[B]Love is like a [C]flame, it burns you when it's [D]hot
 
-Cadd9     G      F   C        G
-     Love hurts, ooh hoo love hurts
+[Cadd9]     Love [G]hurts, [F]ooh [C]hoo love [G]hurts
 
 [Bridge]
-Em                  B    Em    B       Em      B     Em
-Some fools think of happiness, blissfulness, togetherness
-A
-Some fools fool themselves, I guess
-Am                   D
-They're not foolin' me
-  Cadd9          G      B              Em
-I know it isn't true, I know it isn't true
-B              C                    D
-Love is just a lie made to make you blue
+[Em]Some fools think of [B]happi[Em]ness, [B]blissful[Em]ness, to[B]gether[Em]ness
+[A]Some fools fool themselves, I guess
+[Am]They're not foolin' m[D]e
+I [Cadd9]know it isn't t[G]rue, I [B]know it isn't t[Em]rue
+[B]Love is just a [C]lie made to make you [D]blue
 
-Cadd9     G      F   C        G
-     Love hurts, ooh hoo love hurts
-F   C        G
-Ooh hoo love hurts
+[Cadd9]     Love [G]hurts, [F]ooh [C]hoo love [G]hurts
+[F]Ooh [C]hoo love [G]hurts
 
 [Solo]
 (Play end over outro)
@@ -69,12 +52,8 @@ E|------------------------------|------------------------------|
 | G     | Em     | C     | D
 
 [Outro]
-  Cadd9          G      B              Em
-I know it isn't true, I know it isn't true
-B              C                    D
-Love is just a lie made to make you blue
+I [Cadd9]know it isn't t[G]rue, I [B]know it isn't t[Em]rue
+[B]Love is just a [C]lie made to make you [D]blue
 
-Cadd9     G      F   C        G
-     Love hurts, ooh hoo love hurts
-F   C        G      F   C
-Ooh ooh love hurts, ooh ooh
+[Cadd9]     Love [G]hurts, [F]ooh [C]hoo love [G]hurts
+[F]Ooh [C]ooh love [G]hurts, [F]ooh [C]ooh
