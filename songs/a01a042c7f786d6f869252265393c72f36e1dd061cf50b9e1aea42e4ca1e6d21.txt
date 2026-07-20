@@ -14,32 +14,22 @@ E|--------------------------------------|
 
 Chorus (0:12)
 
-Bm     Bm/A#   Bm/A   Bm/G#
-Blue Skies,   smiling at me 
-            D          A        D     F#
-Nothing but blue skies     do I see
-Bm     Bm/A#   Bm/A   Bm/G#
-Blue birds    singin’ a song
-            D         A            D
-Nothing but blue skies    from now on
+[Bm]Blue Sk[Bm/A#]ies,   s[Bm/A]miling [Bm/G#]at me 
+Nothing but [D]blue skies [A]    do I [D]see [F#]
+[Bm]Blue bi[Bm/A#]rds    s[Bm/A]ingin’ [Bm/G#]a song
+Nothing but [D]blue skies[A]    from now [D]on
 
 Verse (0:35)
 
-D          D         Gm        D
-I never saw the sun shinin so bright
-Gm        D      A       D
-Never saw things goin so right
-D         D        Gm      D
-Noticing the days hurryin by
-Gm           D     A           D
-When your in love, my how they fly by
+[D]I never saw[D] the sun s[Gm]hinin so b[D]right
+[Gm]Never saw [D]things [A]goin so [D]right
+[D]Noticing t[D]he days h[Gm]urryin b[D]y
+[Gm]When your in [D]love, [A]my how they [D]fly by
 
 Chorus (0:47)
 
-Bm     Bm/A#   Bm/A   Bm/G#
-Blue days,   all of them gone
-            D          A           D
-Nothing but blue skies     from now on
+[Bm]Blue da[Bm/A#]ys,   al[Bm/A]l of th[Bm/G#]em gone
+Nothing but [D]blue skies [A]    from now[D] on
 
 Solo (0:56)
 
@@ -82,14 +72,10 @@ E|------------------------------------------|
 
 Chorus (1:43)
 
-Bm     Bm/A#   Bm/A   Bm/G#
-Blue Skies,   smiling at me
-            D          A        D     F#
-Nothing but blue skies     do I see
-Bm     Bm/A#   Bm/A   Bm/G#
-Blue birds    singin’ a song
-            D         A            D
-Nothing but blue skies    from now on
+[Bm]Blue Sk[Bm/A#]ies,   s[Bm/A]miling [Bm/G#]at me
+Nothing but [D]blue skies [A]    do I [D]see [F#]
+[Bm]Blue bi[Bm/A#]rds    s[Bm/A]ingin’ [Bm/G#]a song
+Nothing but [D]blue skies[A]    from now [D]on
 
 Chorus (2:06)
 
@@ -101,22 +87,14 @@ D|--10--------9--------8--------7--------|
 A|---------------------------------------|
 E|---------------------------------------|
 
-Cm        Cm/B          Cm/Bb    Cm/A
-Blue skies    smiling at me
-            Eb        Bb     Eb    G
-Nothing but blue skies do I see
-Cm        Cm/B          Cm/Bb    Cm/A
-Blue days,    all of them gone
-            Eb        Bb         Eb    G
-Nothing but blue skies from now on
+[Cm]Blue skies[Cm/B]    smiling at[Cm/Bb] me [Cm/A]
+Nothing but [Eb]blue skies[Bb] do I s[Eb]ee [G]
+[Cm]Blue days,[Cm/B]    all of the[Cm/Bb]m gone [Cm/A]
+Nothing but [Eb]blue skies[Bb] from now o[Eb]n [G]
 
 Outro chorus (2:29)
 
-Cm        Cm/B          Cm/Bb    Cm/A
-Blue skies    smiling at me
-            Eb        Bb     Eb    G
-Nothing but blue skies do I see
-Cm        Cm/B          Cm/Bb    Cm/A
-Blue days,    all of them gone
-            Eb        Bb         Eb
-Nothing but blue skies from now on
+[Cm]Blue skies[Cm/B]    smiling at[Cm/Bb] me [Cm/A]
+Nothing but [Eb]blue skies[Bb] do I s[Eb]ee [G]
+[Cm]Blue days,[Cm/B]    all of the[Cm/Bb]m gone [Cm/A]
+Nothing but [Eb]blue skies[Bb] from now o[Eb]n
