@@ -1,49 +1,27 @@
 ----------------------------------------------------------------------
 Song name: Bye Bye Blackbird  by  Misc Traditional
 ----------------------------------------------------------------------
-  C                A7
-        Pack up all my cares and        woe,
-        Dm7            G7     C
-        here I  go      singing low,
-        C       C       Dm7     G7
-        Bye     Bye     Black   bird.
-        Dm                    Dm7
-        Where somebody  waits for ]me
-        Dm7                  G7
-        sugar's sweet,  so is she.
-        Dm7     G7      C7      C
-        Bye     Bye     Black   bird.
-        C7                                   A7
-        No one here can love and under  stand   me,
-        Dm                          Dm7                 G7
-        o, what hard luck stories they all      hand    me.
-        C
-        make my bed and light the light,
-        A#7             A7
-        I'll arrive     late tonight,
-        Dm7     G7      C       Am7     Dm7     G7
-        Blackbird,      bye     bye.
+  [C]      Pack up all[A7] my cares and        woe,
+        [Dm7]here I  go     [G7] singin[C]g low,
+        [C]Bye     [C]Bye     [Dm7]Black   [G7]bird.
+        [Dm]Where somebody  waits [Dm7]for ]me
+        [Dm7]sugar's sweet,  so is[G7] she.
+        [Dm7]Bye     [G7]Bye     [C7]Black   [C]bird.
+        [C7]No one here can love and under  stand[A7]   me,
+        [Dm]o, what hard luck stories th[Dm7]ey all      hand    [G7]me.
+        [C]make my bed and light the light,
+        [A#7]I'll arrive     [A7]late tonight,
+        [Dm7]Blackbir[G7]d,      [C]bye     [Am7]bye. [Dm7] [G7]
 
 
-        D                B7
-        Pack up all my cares and        woe,
-        Em7            A7     D
-        here I  go      singing low,
-        D       D       Em7     A7
-        Bye     Bye     Black   bird.
-        Em                    Em7
-        Where somebody  waits for ]me
-        Em7                  A7
-        sugar's sweet,  so is she.
-        Em7     A7      D7      D
-        Bye     Bye     Black   bird.
-        D7                                   B7
-        No one here can love and under  stand   me,
-        Em                          Em7                 A7
-        o, what hard luck stories they all      hand    me.
-        D
-        make my bed and light the light,
-        C7             B7
-        I'll arrive     late tonight,
-        Em7     A7      D       Bm7     Em7     A7    D
-        Blackbird,      bye     bye.
+        [D]Pack up all my ca[B7]res and        woe,
+        [Em7]here I  go     [A7] singin[D]g low,
+        [D]Bye     [D]Bye     [Em7]Black   [A7]bird.
+        [Em]Where somebody  waits [Em7]for ]me
+        [Em7]sugar's sweet,  so is[A7] she.
+        [Em7]Bye     [A7]Bye     [D7]Black   [D]bird.
+        [D7]No one here can love and under  stand[B7]   me,
+        [Em]o, what hard luck stories th[Em7]ey all      hand    [A7]me.
+        [D]make my bed and light the light,
+        [C7]I'll arrive    [B7] late tonight,
+        [Em7]Blackbir[A7]d,      [D]bye     [Bm7]bye. [Em7] [A7] [D]
