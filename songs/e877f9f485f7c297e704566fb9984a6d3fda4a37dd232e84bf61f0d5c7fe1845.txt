@@ -2,63 +2,39 @@
 Song name: Cheek To Cheek  by  Fred Astaire
 ----------------------------------------------------------------------
 [Verse 1]
-Cmaj7 C#dim7| Dm7 G7    | Cmaj7 C#dim7| Dm7 G7    |
-Heaven,          I'm in heaven
-       Cmaj7   Dm7 |   Ebdim7  Em7 |  Bb7 |  A7 D9
-And my heart beats so that I can hardly speak
-        G7    Dm7 |        Em7  F7 | Bb75+ | A7
-    And I seem to find the happiness I seek
-           Dm7    |      G7    |           | Em7 A7 | Dm7 G7 |
-When we're out together dancing cheek to cheek
+[Cmaj7]Heaven,       [Dm7]   I[G7]'m in he[Cmaj7]aven [Dm7] [G7]
+And my [Cmaj7]heart be[Dm7]ats so t[Ebdim7]hat I ca[Em7]n hardl[Bb7]y speak[A7] [D9]
+    And [G7]I seem[Dm7] to find the [Em7]happi[F7]ness [Bb75+]I seek [A7]
+When we're [Dm7]out together d[G7]ancing cheek to chee[Em7]k [A7] [Dm7] [G7]
 
 [Verse 2]
-Cmaj7 C#dim7| Dm7 G7    | Cmaj7 C#dim7| Dm7 G7    |
-Heaven,          I'm in heaven
-        Cmaj7   Dm7 |   Ebdim7  Em7 |  Bb7 |  A7 D9
-And the cares that hung around me through the week
-        G7    Dm7 |        Em7  F7 | Bb75+ | A7
-    Seem to vanish like a gambler's lucky streak
-           Dm7          G7               | C6 | % |
-When we're out together dancing cheek to cheek
+[Cmaj7]Heaven,       [Dm7]   I[G7]'m in he[Cmaj7]aven [Dm7] [G7]
+And the [Cmaj7]cares th[Dm7]at hung [Ebdim7]around m[Em7]e throu[Bb7]gh the [A7]wee[D9]k
+    Seem[G7] to va[Dm7]nish like a g[Em7]amble[F7]r's l[Bb75+]ucky str[A7]eak
+When we're [Dm7]out together [G7]dancing cheek to ch[C6]eek
 
 [Bridge]
-      Dm7     G7  |    C6   A7
-Oh, I love to climb a mountain
-    Dm7       G7   |   C6   A7
-And reach the highest peak
-       Dm7     G7   |     C6       A7
-But it doesn't thrill me half as much
-   Dm7     G7    |   C6
-As dancing cheek to cheek
+Oh, I [Dm7]love to [G7]climb a m[C6]ounta[A7]in
+And [Dm7]reach the [G7]highest p[C6]eak [A7]
+But it [Dm7]doesn't [G7]thrill me h[C6]alf as mu[A7]ch
+As [Dm7]dancing [G7]cheek to c[C6]heek
 
-        Dm7     G7  |   C6  A7
-Oh, I’d love to go out fishing
-     Dm7   G7 |  C6  A7
-In a river or a creek
-      Dm7     G7   |  C6      A7
-But I don't enjoy it half as much
-   Dm7     G7    |   C6
-As dancing cheek to cheek
+Oh, I’d [Dm7]love to [G7]go out f[C6]ishi[A7]ng
+In a [Dm7]river [G7]or a c[C6]reek[A7]
+But I [Dm7]don't en[G7]joy it h[C6]alf as m[A7]uch
+As [Dm7]dancing [G7]cheek to c[C6]heek
 
 [Special]
-   Cm7       |    %    |
-Dance with me
-           Ebm7       Ab7
-  I want my arm(s) about you
-     Dm7b5      |     G7 G#dim7
-That charm(s) about you
-   Am7    |   Dm7   G9
-Will carry me through to ...
+Dan[Cm7]ce with me
+  I want my[Ebm7] arm(s) abo[Ab7]ut you
+That [Dm7b5]charm(s) about yo[G7]u [G#dim7]
+Wil[Am7]l carry me [Dm7]throug[G9]h to ...
 
 [Verse 3]
-Cmaj7 C#dim7| Dm7 G7    | Cmaj7 C#dim7| Dm7 G7    |
-Heaven,          I'm in heaven
-       Cmaj7   Dm7 |   Ebdim7  Em7 |  Bb7 |  A7 D9
-And my heart beats so that I can hardly speak
-        G7    Dm7 |        Em7  F7 | Bb75+ | A7
-    And I seem to find the happiness I seek
-           Dm7    |      G7    |           | Em7 A7 | Dm7 G7 |
-When we're out together dancing cheek to cheek
+[Cmaj7]Heaven,       [Dm7]   I[G7]'m in he[Cmaj7]aven [Dm7] [G7]
+And my [Cmaj7]heart be[Dm7]ats so t[Ebdim7]hat I ca[Em7]n hardl[Bb7]y speak[A7] [D9]
+    And [G7]I seem[Dm7] to find the [Em7]happi[F7]ness [Bb75+]I seek [A7]
+When we're [Dm7]out together d[G7]ancing cheek to chee[Em7]k [A7] [Dm7] [G7]
 
 Now repeat instrumentally chords of:
 [Verse 2]
