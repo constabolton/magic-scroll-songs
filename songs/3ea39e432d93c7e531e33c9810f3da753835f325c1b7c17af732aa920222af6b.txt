@@ -10,32 +10,21 @@ From the album  "The Ukulele Album"
 C Am X4
 
 [Verse 1]
-          C               Am
-Tickle me once, tickle me twice
-          C                  Am
-Tickle me naughty, tickle me nice
-              Dm    G7                     C    Am   C  Am
-But tickle my heart, come on and tickle my heart
-          C                 Cdim7
-Tickle my fancy, tickle my toes
-          C                     A7
-Tickle my tummy, right up to my nose
-              Dm    G7               C     F G C
-But tickle my heart,  just tickle my heart
+Tickle me [C]once, tickle me [Am]twice
+Tickle me [C]naughty, tickle me [Am]nice
+But tickle my [Dm]heart,[G7] come on and tickle my [C]heart[Am] [C] [Am]
+Tickle my [C]fancy, tickle my t[Cdim7]oes
+Tickle my [C]tummy, right up to my [A7]nose
+But tickle my [Dm]heart,[G7]  just tickle my [C]heart [F] [G] [C]
 
 [Chorus]
-E7                        Am        E7          Am     
-Tickle me in the morning, tickle me through the night
-D7                         G7     D7   G7    Gaug
-Tickle me without warning, that’d be alright
+[E7]Tickle me in the morning, [Am]tickle me [E7]through the [Am]night
+[D7]Tickle me without warning, [G7]that’d [D7]be al[G7]right [Gaug]
 
 [Verse 2]
-          C                 Cdim7
-Tickle me gently, tickle me rough
-          C                     A7
-I’ll let you know when I’ve had enough
-               Dm               G7          C      Am  Dm   G7
-But tickle my  heart,   any time  tickle my heart  
+Tickle me [C]gently, tickle me [Cdim7]rough
+I’ll let y[C]ou know when I’ve had [A7]enough
+But tickle my  [Dm]heart,   any time[G7]  tickle my [C]heart  [Am] [Dm] [G7]
 
            
 
@@ -44,31 +33,22 @@ But tickle my  heart,   any time  tickle my heart
 C Cdim7
 
 C  Am7
-          Dm    G7          C       Am  Dm   G7
-Tickle my heart,   tickle my heart
+Tickle my [Dm]heart,[G7]   tickle my[C] heart [Am] [Dm] [G7]
 
 C Cdim7
 
 C  Am
-          Dm    G7         C     F G C
-Tickle my heart, tickle my heart 
+Tickle my [Dm]heart,[G7] tickle my [C]heart [F] [G] [C]
 
 
 [Chorus]
-E7                        Am        E7          Am     
-Tickle me in the morning, tickle me through the night
-D7                        G7   D7           G7             Gaug
-Tickle me without warning, you know that'll be alright,  alright.
+[E7]Tickle me in the morning, [Am]tickle me [E7]through the [Am]night
+[D7]Tickle me without warning,[G7] you [D7]know that'll [G7]be alright,  al[Gaug]right.
 
 [Outro Verse ]
 
-          C                 Cdim7
-Tickle me gently, tickle me rough
-             C                   A7
-I’ll let you know when I’ve had enough
-               Dm             G7         C      Am  Dm   G7
-But tickle my  heart, any time tickle my heart                      
-          C        Am  Dm   G7
-Tickle my heart
-                 C        Am  Dm  G7    C  F G7 C
-Please tickle my heart
+Tickle me [C]gently, tickle me [Cdim7]rough
+I’ll let you [C]know when I’ve had e[A7]nough
+But tickle my  [Dm]heart, any time[G7] tickle my [C]heart  [Am]    [Dm]     [G7]           
+Tickle my [C]heart [Am] [Dm] [G7]
+Please tickle my [C]heart [Am] [Dm] [G7] [C] [F] [G7] [C]
