@@ -9,41 +9,25 @@ Don’t forget to squeak, scream and roar when you see the
 Mouse, Crocodile or Tiger!
 
 [Verse 1]
-G    Em   G        G
-Row, row, row your boat
-G      Em       D
-Gently down the stream
-G        D        G        Em      
-Merrily, merrily, merrily, merrily
-D7            G       G
-Life is but a dream
+[G]Row, [Em]row, [G]row your [G]boat
+[G]Gently [Em]down the [D]stream
+[G]Merrily, [D]merrily, [G]merrily, [Em]merrily
+[D7]Life is but a [G]dream [G]
 
 [Verse 2]
-G    Em   G        G
-Row, row, row your boat
-G      Em     D       
-Gently up the creek,  
-G      D     G      Em
-If you see a little mouse
-D7              G        G
-Don't forget to squeak!
+[G]Row, [Em]row, [G]row your [G]boat
+[G]Gently [Em]up the [D]creek,  
+[G]If you [D]see a [G]little [Em]mouse
+[D7]Don't forget to [G]squeak! [G]
 
 [Verse 3]
-G    Em   G        G
-Row, row, row your boat
-G      Em       D        
-Gently down the stream,  
-G      D     G    Em
-If you see a crocodile
-D7              G       G
-Don't forget to scream!
+[G]Row, [Em]row, [G]row your [G]boat
+[G]Gently [Em]down the [D]stream,  
+[G]If you [D]see a [G]croco[Em]dile
+[D7]Don't forget to [G]scream! [G]
 
 [Verse 4]
-G    Em   G        G
-Row, row, row your boat
-G      Em     D 
-Gently to the shore
-G      D     G     Em
-If you see a Tiger there
-D7              G     G
-Don’t forget to roar!
+[G]Row, [Em]row, [G]row your [G]boat
+[G]Gently [Em]to the [D]shore
+[G]If you [D]see a [G]Tiger [Em]there
+[D7]Don’t forget to [G]roar! [G]
