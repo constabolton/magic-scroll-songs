@@ -15,37 +15,26 @@ C/G*       3 x 2 0 1 3  hammer on 2nd and 4th string x2
 Am7  C  G  Gsus4  G  D  Dsus2  D  Dsus2
  
 [Verse 1]
-Am7               Csus2/B C    C/G  C          G C/G G C/G     D  Dsus2 D Dsus2
-Helplessly hoping her     harlequin hovers nearby,  awaiting a word
-Am7                 Csus2/B   C  C/G C              G   C/G G      C/G       D  Dsus2 D Dsus2
-Gasping at glimpses of        gentle true spirit he runs    wishing he could fly
-        Am7         Csus2        G   D Dsus2 D Dsus2
-only to trip at the sound of goodbye
+[Am7]Helplessly hoping [Csus2/B]her     [C]harle[C/G]quin [C]hovers near[G]by[C/G],  a[G]wa[C/G]iting a [D]wor[Dsus2]d [D] [Dsus2]
+[Am7]Gasping at glimpses [Csus2/B]of        [C]gen[C/G]tle [C]true spirit he [G]runs[C/G]    [G]wishing[C/G] he could [D]fly[Dsus2] [D] [Dsus2]
+only to [Am7]trip at the [Csus2]sound of good[G]bye [D] [Dsus2] [D] [Dsus2]
  
 [Verse 2]
-Am7                 Csus2/B   C     C/G    C          G      C/G G   C/G         D   Dsus2 D Dsus2
-Wordlessly watching he        waits by the window and wonders at the empty place inside
-Am7                 Csus2/B C    C/G    C             G       C/G G  C/G        D Dsus2 D Dsus2
-Heartlessly helping him  -  self to her bad dreams he worries did he hear a goodbye
-Am7  Csus2  G   Gsus4
-or  even hello?
+[Am7]Wordlessly watching [Csus2/B]he        [C]waits [C/G]by the [C]window and [G]wonders[C/G] at [G]the [C/G]empty place [D]insi[Dsus2]de [D] [Dsus2]
+[Am7]Heartlessly helping [Csus2/B]him  -  [C]self [C/G]to her [C]bad dreams he [G]worries [C/G]did [G]he [C/G]hear a good[D]by[Dsus2]e [D] [Dsus2]
+[Am7]or  e[Csus2]ven hel[G]lo? [Gsus4]
  
 [Chorus]
-         G   Gsus4            G   Gsus4           G     Gsus4
-They are one person, they are two alone, they are three together,
+They are [G]one [Gsus4]person, they are [G]two [Gsus4]alone, they are [G]three [Gsus4]together,
          G   G7/F      C     G   C/G*  G
 they are for     each other
  
 [Verse 3]
-Am7                   Csus2/B C   C/G  C               G    C/G G        C/G      D Dsus2 D Dsus2
-Stand by the stairway you'll  see something certain to tell you confusion has its cost
-Am7             Csus2/B C    C/G  C        G      C/G G      C/G    D Dsus2 D Dsus2
-Love isn't lying it's  loose in a lady who lingers,   saying she is lost
-    Am7    Csus2  G   Gsus4
-and choking on hello
+[Am7]Stand by the stairway [Csus2/B]you'll  [C]see [C/G]somet[C]hing certain to [G]tell [C/G]you [G]confusion[C/G] has its [D]co[Dsus2]st [D] [Dsus2]
+[Am7]Love isn't lying[Csus2/B] it's  l[C]oose [C/G]in a [C]lady who [G]lingers[C/G],   [G]saying [C/G]she is [D]lo[Dsus2]st [D] [Dsus2]
+and [Am7]choking[Csus2] on hel[G]lo [Gsus4]
  
 [Chorus]
-         G   Gsus4            G   Gsus4           G     Gsus4
-They are one person, they are two alone, they are three together,
+They are [G]one [Gsus4]person, they are [G]two [Gsus4]alone, they are [G]three [Gsus4]together,
          G   G7/F      C     G   C/G*  G
 they are for     each other
