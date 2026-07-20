@@ -10,87 +10,54 @@ Capo 1st fret
 C Am7 Dm7 G
 
 [Chorus]
-C          Am7    Dm7       G
-Twenty-six miles across the sea,
-C         Am7       Dm7         G
-Santa Catalina is a-waitin' for me.
-C         Am7       Dm7    G    C
-Santa Catalina, the island of romance,
-  Am7      Dm7      G
-romance, romance, romance.
+[C]Twenty-six [Am7]miles a[Dm7]cross the [G]sea,
+[C]Santa Cata[Am7]lina is a-[Dm7]waitin' for [G]me.
+[C]Santa Cata[Am7]lina, the [Dm7]island [G]of ro[C]mance,
+ro[Am7]mance, ro[Dm7]mance, ro[G]mance.
 
 [Verse 1]
-C          Am7      Dm7  G
-Water all around it everywhere,
-C        Am7           Dm7   G
-Tropical trees and the salty air.
-        C      Am7            Dm7     G        C    Dm7 C C7
-But for me the thing that's a-waitin' there..romance.
+[C]Water all a[Am7]round it [Dm7]every[G]where,
+[C]Tropical [Am7]trees and the [Dm7]salty [G]air.
+But for [C]me the [Am7]thing that's a-[Dm7]waitin' [G]there..ro[C]mance[Dm7]. [C] [C7]
 
 [Bridge 1]
-   Dm7      G        C          Am     C
-It seems so distant, twenty-six miles away.
-F              G         C
-Restin' in the water, serene.
-    Dm7      G       C        Am7
-I'd work for anyone, even the Navy,
-          D              Dm7    G
-Who would float me to my island dream.
+It [Dm7]seems so [G]distant, [C]twenty-six [Am]miles a[C]way.
+[F]Restin' in the [G]water, ser[C]ene.
+I'd [Dm7]work for [G]anyone, [C]even the [Am7]Navy,
+Who would [D]float me to my [Dm7]island [G]dream.
 
 [Verse 2]
-C          Am7       Dm7       G
-Twenty-six miles, so near, yet far.
-    C                   Am7             Dm7   G
-I'd swim with just some water-wings and my guitar.
-        C         Am7            Dm7         G
-I could leave the wings but I'll need the guitar
-      C        Am7      Dm7      G
-for romance, romance, romance, romance.
+[C]Twenty-six [Am7]miles, so [Dm7]near, yet [G]far.
+I'd [C]swim with just some [Am7]water-wings and [Dm7]my gui[G]tar.
+I could [C]leave the [Am7]wings but I'll [Dm7]need the gui[G]tar
+for ro[C]mance, ro[Am7]mance, ro[Dm7]mance, ro[G]mance.
 
 [Chorus]
-C          Am7    Dm7       G
-Twenty-six miles across the sea,
-C         Am7       Dm7         G
-Santa Catalina is a-waitin' for me.
-C         Am7       Dm7    G    C    Dm7 C C7
-Santa Catalina, the island of romance.
+[C]Twenty-six [Am7]miles a[Dm7]cross the [G]sea,
+[C]Santa Cata[Am7]lina is a-[Dm7]waitin' for [G]me.
+[C]Santa Cata[Am7]lina, the [Dm7]island [G]of ro[C]mance[Dm7]. [C] [C7]
 
 [Bridge 2]
-  Dm7      G      C          Am
-A tropical heaven out in the ocean.
-F            G         C
-Covered with trees and girls.
-     Dm7     G          C        Am7
-If I have to swim, I'll do it forever,
-         D               Dm7    G
-Till I'm gazin' on those island pearls.
+A [Dm7]tropical [G]heaven [C]out in the [Am]ocean.
+[F]Covered with [G]trees and [C]girls.
+If I [Dm7]have to [G]swim, I'll [C]do it for[Am7]ever,
+Till I'm [D]gazin' on those [Dm7]island [G]pearls.
 
 [Verse 3]
-C         Am7         Dm7       G
-Forty kilometers in a leaky old boat.
-C       Am7           Dm7   G
-Any old thing that'll stay afloat.
-     C    Am7        Dm7    G
-When we arrive we'll all promote
-  C        Am7      Dm7      G
-romance, romance, romance, romance.
+[C]Forty kilo[Am7]meters in a [Dm7]leaky old [G]boat.
+[C]Any old [Am7]thing that'll [Dm7]stay a[G]float.
+When [C]we ar[Am7]rive we'll [Dm7]all pro[G]mote
+ro[C]mance, ro[Am7]mance, ro[Dm7]mance, ro[G]mance.
 
 [Chorus]
-C          Am7    Dm7       G
-Twenty-six miles across the sea,
-C         Am7       Dm7         G
-Santa Catalina is a-waitin' for me.
-C         Am7       Dm7    G    C
-Santa Catalina, the island of romance,
-  Am7      Dm7      G
-romance, romance, romance.
+[C]Twenty-six [Am7]miles a[Dm7]cross the [G]sea,
+[C]Santa Cata[Am7]lina is a-[Dm7]waitin' for [G]me.
+[C]Santa Cata[Am7]lina, the [Dm7]island [G]of ro[C]mance,
+ro[Am7]mance, ro[Dm7]mance, ro[G]mance.
 
-C          Am7    Dm7       G
-Twenty-six miles across the sea.
-C         Am7       Dm7         G
-Santa Catalina is a-waitin' for me.
-C         Am7
-Santa Catalina
+[C]Twenty-six [Am7]miles a[Dm7]cross the [G]sea.
+[C]Santa Cata[Am7]lina is a-[Dm7]waitin' for [G]me.
+[C]Santa Cata[Am7]lina
 
 (fade out)
 
