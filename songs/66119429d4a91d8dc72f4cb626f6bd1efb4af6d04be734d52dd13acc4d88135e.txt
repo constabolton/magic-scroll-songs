@@ -25,57 +25,39 @@ E|-------------------------------|-------------------------------|
 
 
 [Verse 1]
- D
-There's a place up ahead and I'm goin'
- A                        D
-just as fast as my feet can fly.
- D
-Come away, come away if you're goin',
- A                 A7    D
-leave the sinkin' ship behind.
+T[D]here's a place up ahead and I'm goin'
+j[A]ust as fast as my feet ca[D]n fly.
+C[D]ome away, come away if you're goin',
+l[A]eave the sinkin' s[A7]hip be[D]hind.
 
 
 [Chorus]
- G        D      A7
-C'mon the risin' wind,
-       G        D         A      A7
-we're goin' up around the bend. Whoooh.
+C[G]'mon the [D]risin' [A7]wind,
+we're g[G]oin' up a[D]round the [A]bend. W[A7]hoooh.
 
 
 [Verse 2]
- D
-Bring a song and a smile for the banjo,
- A                            D
-better get while the gettin's good.
- D
-Hitch a ride to the end of the highway
- A               A7      D
-where the neons turn to wood.
+B[D]ring a song and a smile for the banjo,
+b[A]etter get while the gettin's [D]good.
+H[D]itch a ride to the end of the highway
+w[A]here the neons t[A7]urn to w[D]ood.
 
 
 [Chorus]
- G         D     A7
-C'mon the risin' wind,
-      G        D          A
-we're goin' up around the bend.
+C[G]'mon the r[D]isin' [A7]wind,
+we're [G]goin' up [D]around the [A]bend.
 
 
 [Verse 3]
- D
-You can ponder perpetual motion,
- A                          D
-fix your mind for a crystal day.
- D
-Always time for a good conversation,
- A                 A7       D
-there's an ear for what you say.
+Y[D]ou can ponder perpetual motion,
+f[A]ix your mind for a crystal [D]day.
+A[D]lways time for a good conversation,
+t[A]here's an ear for [A7]what you [D]say.
 
 
 [Chorus]
- G         D     A7
-C'mon the risin' wind,
-      G        D          A
-we're goin' up around the bend.
+C[G]'mon the r[D]isin' [A7]wind,
+we're [G]goin' up [D]around the [A]bend.
 
 
 [Instrumental]
@@ -87,21 +69,15 @@ we're goin' up around the bend.
 
 
 [Verse 4]
-D
-Catch a ride to the end of the highway
-A                             D
-and we'll meet by the big red tree.
- D
-There's a place up ahead and I'm goin',
- A                A7        D
-come along, come along with me.
+[D]Catch a ride to the end of the highway
+[A]and we'll meet by the big red [D]tree.
+T[D]here's a place up ahead and I'm goin',
+c[A]ome along, come a[A7]long with [D]me.
 
 
 [Chorus]
- G         D     A7
-C'mon the risin' wind,
-      G        D          A
-we're goin' up around the bend.
+C[G]'mon the r[D]isin' [A7]wind,
+we're [G]goin' up [D]around the [A]bend.
 
 
 [Outro]
