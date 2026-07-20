@@ -6,42 +6,30 @@ Em Dsus2 Em7   x2
 
 
 [Verse 1]
-Em                Dsus2         Em   Em7
-This one goes out to the one I love
-Em                Dsus2      Em        Em7
-This one goes out to the one I’ve left behind
-G        D        Am        C
-A simple prop to occupy my time
-Em                Dsus2         Em   Em7
-This one goes out to the one I love
+[Em]This one goes out [Dsus2]to the one I l[Em]ove [Em7]
+[Em]This one goes out [Dsus2]to the one [Em]I’ve left [Em7]behind
+[G]A simple [D]prop to o[Am]ccupy my t[C]ime
+[Em]This one goes out [Dsus2]to the one I l[Em]ove [Em7]
 
 
 [Chorus]
 (play 2 downstokes Em, one down of Dsus2, one down of Em,
  and then down up down for Em7, before repeating for the second "Fire")
 
-Em  Dsus2 Em Em7
-Fire
-Em  Dsus2 Em Em7
-Fire
+[Em]Fire[Dsus2] [Em] [Em7]
+[Em]Fire[Dsus2] [Em] [Em7]
 
 
 [Verse 2]
-Em                Dsus2         Em   Em7
-This one goes out to the one I love
-Em                Dsus2      Em        Em7
-This one goes out to the one I’ve left behind
-G        D        Am        C
-A simple prop to occupy my time
-Em                Dsus2         Em   Em7
-This one goes out to the one I love
+[Em]This one goes out [Dsus2]to the one I l[Em]ove [Em7]
+[Em]This one goes out [Dsus2]to the one [Em]I’ve left [Em7]behind
+[G]A simple [D]prop to o[Am]ccupy my t[C]ime
+[Em]This one goes out [Dsus2]to the one I l[Em]ove [Em7]
 
 
 [Chorus]
-Em  Dsus2 Em Em7
-Fire (she’s comin’ down on her own, now)
-Em  Dsus2 Em Em7
-Fire (she’s comin’ down on her own, now)
+[Em]Fire[Dsus2] (she’[Em]s c[Em7]omin’ down on her own, now)
+[Em]Fire[Dsus2] (she’[Em]s c[Em7]omin’ down on her own, now)
 
 
 [Solo]
@@ -49,25 +37,17 @@ G  Dsus4  G  C  Em  D  Em
 
 
 [Verse 3]
-Em                Dsus2         Em   Em7
-This one goes out to the one I love
-Em                Dsus2      Em        Em7
-This one goes out to the one I’ve left behind
-G        D        Am       C
-Another  prop has occupied my time
-Em                Dsus2         Em   Em7
-This one goes out to the one I love
+[Em]This one goes out [Dsus2]to the one I l[Em]ove [Em7]
+[Em]This one goes out [Dsus2]to the one [Em]I’ve left [Em7]behind
+[G]Another  [D]prop has [Am]occupied [C]my time
+[Em]This one goes out [Dsus2]to the one I l[Em]ove [Em7]
 
 
 [Chorus]
-Em  Dsus2 Em Em7
-Fire (she’s comin’ down on her own, now)
-Em  Dsus2 Em Em7
-Fire (she’s comin’ down on her own, now)
-Em  Dsus2 Em Em7
-Fire (she’s comin’ down on her own, now)
-Em  Dsus2 Em Em7
-Fire (she’s comin’ down on her own, now)
+[Em]Fire[Dsus2] (she’[Em]s c[Em7]omin’ down on her own, now)
+[Em]Fire[Dsus2] (she’[Em]s c[Em7]omin’ down on her own, now)
+[Em]Fire[Dsus2] (she’[Em]s c[Em7]omin’ down on her own, now)
+[Em]Fire[Dsus2] (she’[Em]s c[Em7]omin’ down on her own, now)
 
 [Outro]
 Em  Dsus2 D#+ Em
