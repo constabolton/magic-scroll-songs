@@ -2,75 +2,49 @@
 Song name: Wait  by  The Beatles
 ----------------------------------------------------------------------
 [Verse 1]
-           F#m    B    Bm  F#m7 C#7        F#m
-It's been a long time, now I'm coming back home
-           F#m B   Bm F#m7 C#7       F#m
-I've been away now, oh how I've been alone
+It's been a[F#m] long t[B]ime, [Bm]now [F#m7]I'm c[C#7]oming back [F#m]home
+I've been a[F#m]way [B]now,[Bm] oh[F#m7] how [C#7]I've been [F#m]alone
 
 [Chorus]
-A Dmaj7       A         Dmaj7   A  Dmaj7
-Wait   till I come back to your side
-         A       C#7      F#m
-We'll forget the tears we cried
+[A]Wa[Dmaj7]it   till I [A]come back [Dmaj7]to your [A]sid[Dmaj7]e
+We'll for[A]get the [C#7]tears we [F#m]cried
 
 [Verse 2]
-            F#m   B       Bm    F#m7  C#7      F#m
-But if your heart breaks, don't wait, turn me away
-            F#m     B       Bm  F#m7  C#7       F#m
-And if your heart's strong, hold on, I won't delay
+But if your [F#m]heart [B]breaks, [Bm]don't [F#m7]wait, [C#7]turn me a[F#m]way
+And if your [F#m]heart's [B]strong, [Bm]hold[F#m7] on, I[C#7] won't del[F#m]ay
 
 [Chorus]
-A Dmaj7      A         Dmaj7   A  Dmaj7
-Wait  till I come back to your side
-         A       C#7      F#m
-We'll forget the tears we cried
+[A]Wa[Dmaj7]it  till I [A]come back [Dmaj7]to your [A]sid[Dmaj7]e
+We'll for[A]get the [C#7]tears we [F#m]cried
 
 [Bridge]
-          B                   E                   A
-I feel as though you ought to know that I've been good
-                 F#m
-As good as I can be
-           B                 E
-And if you do, I'll trust in you
-              A                 F#m C#
-And know that you will wait for me
+I feel as [B]though you ought to [E]know that I've been [A]good
+As good as I can [F#m]be
+And if you [B]do, I'll trust in [E]you
+And know that [A]you will wait for [F#m]me [C#]
 
 [Verse 3]
-            F#m  B     Bm  F#m7 C#7        F#m
-It's been a long time, now I'm coming back home
-           F#m B    Bm F#m7 C#7        F#m
-I've been away now, oh how I've been alone
+It's been a [F#m]long [B]time, [Bm]now [F#m7]I'm c[C#7]oming back [F#m]home
+I've been a[F#m]way [B]now, [Bm]oh [F#m7]how I[C#7]'ve been al[F#m]one
 
 [Chorus]
-A Dmaj7      A         Dmaj7   A  Dmaj7
-Wait  till I come back to your side
-         A       C#7      F#m
-We'll forget the tears we cried
+[A]Wa[Dmaj7]it  till I [A]come back [Dmaj7]to your [A]sid[Dmaj7]e
+We'll for[A]get the [C#7]tears we [F#m]cried
 
 [Bridge]
-          B                   E                   A
-I feel as though you ought to know that I've been good
-                 F#m
-As good as I can be
-           B                 E
-And if you do, I'll trust in you
-              A                 F#m C#
-And know that you will wait for me
+I feel as [B]though you ought to [E]know that I've been [A]good
+As good as I can [F#m]be
+And if you [B]do, I'll trust in [E]you
+And know that [A]you will wait for [F#m]me [C#]
 
 [Verse 4]
-            F#m   B       Bm    F#m7  C#7      F#m
-But if your heart breaks, don't wait, turn me away
-            F#m     B       Bm   F#m7 C#7      F#m
-And if your heart's strong, hold on, I won't delay
+But if your [F#m]heart [B]breaks, [Bm]don't [F#m7]wait, [C#7]turn me a[F#m]way
+And if your [F#m]heart's [B]strong, [Bm]hold [F#m7]on, I[C#7] won't de[F#m]lay
 
 [Chorus]
-A Dmaj7      A         Dmaj7   A  Dmaj7
-Wait  till I come back to your side
-         A       C#7      F#m
-We'll forget the tears we cried
+[A]Wa[Dmaj7]it  till I [A]come back [Dmaj7]to your [A]sid[Dmaj7]e
+We'll for[A]get the [C#7]tears we [F#m]cried
 
 [Outro]
-            F#m  B     Bm  F#m C#7         F#m
-It's been a long time, now I'm coming back home
-           F#m B    Bm F#m C#7        F#m
-I've been away now, oh how I've been alone
+It's been a [F#m]long [B]time, [Bm]now [F#m]I'm [C#7]coming back [F#m]home
+I've been a[F#m]way [B]now, [Bm]oh [F#m]how [C#7]I've been a[F#m]lone
