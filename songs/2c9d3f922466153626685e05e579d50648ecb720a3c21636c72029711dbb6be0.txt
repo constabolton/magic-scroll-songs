@@ -13,43 +13,26 @@ Cmaj7   - x  3  2  0  0  x
 Am7     - x  x  2  0  1  0
 Dm7     - x  x  0  2  1  1
 G       - 3  2  0  0  2  2
-G7      - 3  2  0  0  0  1
-Dm      - x  x  0  2  3  1
+[G7]Dm      - x  x  0  2  3  1
 Dm6     - x  0  0  2  0  1
 Cadd9   - x  3  2  0  3  3
 
 
-    C           Cmaj7        C6
-You always hurt the one you love 
-    C                 A7      Dm7    A7
-The one you shouldn't hurt at all; 
-    Dm      Dmmaj7  Dm7      G7
-You always take the sweetest rose 
-                      Gaug    C      Gaug
-And crush it till the petals fall; 
-    C       C9       Fmaj7    F
-You always break the kindest heart 
-       D7                    Dm7     G7
-With a hasty word you can't recall; 
-    C   Cmaj7                 A7
-So If I broke your heart last night,
-        Dm7             G7        C   G7
-It's because I love you most of all.
+You [C]always hurt [Cmaj7]the one you l[C6]ove 
+The [C]one you shouldn't [A7]hurt at [Dm7]all; [A7]
+You [Dm]always t[Dmmaj7]ake the [Dm7]sweetest [G7]rose 
+And crush it till the [Gaug]petals f[C]all; [Gaug]
+You [C]always b[C9]reak the [Fmaj7]kindest h[F]eart 
+With a [D7]hasty word you can't r[Dm7]ecall; [G7]
+So I[C]f I [Cmaj7]broke your heart last [A7]night,
+It's bec[Dm7]ause I love you [G7]most of al[C]l. [G7]
 
 
-    C               Cmaj7   C6
-You always hurt the one you love 
-    C                 A7       Dm7    A7
-The one you shouldn't hurt at all; 
-    Dm      Dm7              G7
-You always take the sweetest rose 
-                      Gaug    C      Gaug
-And crush it till the petals fall; 
-    C       C9       Fmaj7   F
-You always break the kindest heart 
-       Dm                    Dm7    G7
-With a hasty word you can't recall; 
-    C   Cmaj7                  A7
-So If I broke your heart last night, 
-     Dm7                G7       C   
-It's because I love you most of all.
+You [C]always hurt the [Cmaj7]one you [C6]love 
+The [C]one you shouldn't [A7]hurt at a[Dm7]ll; [A7]
+You [Dm]always t[Dm7]ake the sweetest [G7]rose 
+And crush it till the [Gaug]petals f[C]all; [Gaug]
+You [C]always b[C9]reak the [Fmaj7]kindest [F]heart 
+With a [Dm]hasty word you can't r[Dm7]ecall; [G7]
+So I[C]f I [Cmaj7]broke your heart last n[A7]ight, 
+It's [Dm7]because I love you [G7]most of a[C]ll.
