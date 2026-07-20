@@ -4,8 +4,7 @@ Chords:
           EADGBe
 G         320003
 Bm        X24432   
-Am        X02210
-D         XX0232
+[Am]D         XX0232
 Em        022100
 C         332010
 
@@ -15,41 +14,25 @@ INTRO:(Acoustic lead, piano and harmonica over)
 
 
 VERSE 1:
-       G             Bm        
-You've been long and on the open road,
-Am                          D                    
-You’ve been sleepin’ in the rain.
-G                    Em      
-From the dirty words and muddy cells,
-Am                           D        
-Your clothes are smeared and stained.
-    G                   Em
-But the dirty words and muddy cells,
-Am                    D
-Will soon be judged insane.
-   G             C
-So only stop and rest yourself, 
-Am               D
-’Til you are off again.
+You've [G]been long and [Bm]on the open road,
+[Am]You’ve been sleepin’ in the [D]rain.
+[G]From the dirty words [Em]and muddy cells,
+[Am]Your clothes are smeared and [D]stained.
+But [G]the dirty words and [Em]muddy cells,
+[Am]Will soon be judged in[D]sane.
+So [G]only stop and [C]rest yourself, 
+[Am]’Til you are off [D]again.
 
 
 CHORUS 1:
-     G             C               
-And, take off your thirsty boots,
-    G         C   
-And stay for awhile.
-     G                Em
-Your feet are hot and weary, 
-Am           D
-From a dusty mile.
-    G           C
-And maybe I can make you laugh,
-Am              D
-And maybe I can try.
-G                Em      
-Just looking for the evening,
-C               D       G
-And the mornin’ in your eye.
+And, [G]take off your [C]thirsty boots,
+And [G]stay for a[C]while.
+Your [G]feet are hot and [Em]weary, 
+[Am]From a dusty [D]mile.
+And [G]maybe I can [C]make you laugh,
+[Am]And maybe I can [D]try.
+[G]Just looking for [Em]the evening,
+[C]And the mornin’ [D]in your [G]eye.
 
 
 REFRAIN:(Acoustic lead over)
@@ -57,41 +40,25 @@ REFRAIN:(Acoustic lead over)
  
 
 VERSE 2:
-     G              Bm           
-Then tell me of the ones you saw,
-Am                  D
-As far as you could see.
- G                     Em            
-Across the plains from field to town, 
-Am             D
-Marching to be free.
-    G             Bm
-And of the rusty prison gates,
-Am             D
-That tumble by degree,
-     G                  C
-Like laughing children, one by one, 
-Am                    D
-Who look like you and me.
+Then [G]tell me of the [Bm]ones you saw,
+[Am]As far as you could [D]see.
+A[G]cross the plains from [Em]field to town, 
+[Am]Marching to be [D]free.
+And [G]of the rusty p[Bm]rison gates,
+[Am]That tumble by [D]degree,
+Like [G]laughing children, [C]one by one, 
+[Am]Who look like you and [D]me.
 
 
 CHORUS 2:
-      G             C               
-Then, take off your thirsty boots,
-    G         C   
-And stay for awhile.
-     G                Em
-Your feet are hot and weary, 
-Am           D
-From a dusty mile.
-    G           C
-And maybe I can make you laugh,
-Am              D
-And maybe I can try.
-G                    Em      
-Just looking for the evening,
-Am              D       G
-And the mornin’ in your eye.
+Then, [G]take off your [C]thirsty boots,
+And [G]stay for a[C]while.
+Your [G]feet are hot and [Em]weary, 
+[Am]From a dusty [D]mile.
+And [G]maybe I can [C]make you laugh,
+[Am]And maybe I can [D]try.
+[G]Just looking for the [Em]evening,
+[Am]And the mornin’ [D]in your [G]eye.
 
 
 INSTRUMENTAL:(Acoustic lead, piano and harmonica over)
@@ -99,43 +66,26 @@ INSTRUMENTAL:(Acoustic lead, piano and harmonica over)
 
 
 VERSE 3:
-  G                Bm            
-I know that you’re no stranger,  
-Am                       D
-Down the crooked rainbow trail.
-     G                   Em                 
-From dancing cliffheads, shattered sills,
-Am                    D 
-Of slandered shackled jails.
-    G                   Bm         
-But the voices drift up from below, 
-Am                     D
-As his walls are being scaled.
-G           
-And all of this, 
-Em                          
-And more my friend, 
-Am                     D
-Your song shall not be failed.
+I [G]know that you’re [Bm]no stranger,  
+[Am]Down the crooked rainbow [D]trail.
+From [G]dancing cliffheads, [Em]shattered sills,
+[Am]Of slandered shackled [D]jails.
+But [G]the voices drift up [Bm]from below, 
+[Am]As his walls are being [D]scaled.
+[G]And all of this, 
+[Em]And more my friend, 
+[Am]Your song shall not be [D]failed.
 
 
 CHORUS 3:
-      G             Em               
-Then, take off your thirsty boots,
-    Am        D   
-And stay for awhile.
-     G                Em
-Your feet are hot and weary, 
-Am           D
-From a dusty mile.
-    G           C
-And maybe I can make you laugh,
-Am              D
-And maybe I can try.
-G                    Em      
-Just looking for the evening,
-Am              D       G
-And the mornin’ in your eye.
+Then, [G]take off your [Em]thirsty boots,
+And [Am]stay for a[D]while.
+Your [G]feet are hot and [Em]weary, 
+[Am]From a dusty [D]mile.
+And [G]maybe I can [C]make you laugh,
+[Am]And maybe I can [D]try.
+[G]Just looking for the [Em]evening,
+[Am]And the mornin’ [D]in your [G]eye.
 
 
 CODA:(Acoustic lead, piano and harmonica over)
