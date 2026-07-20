@@ -1,0 +1,250 @@
+----------------------------------------------------------------------
+Song name: Eyes Of The World  by  Grateful Dead
+----------------------------------------------------------------------
+Runs and Embellishments:
+
+
+
+
+Define: Intro variations
+
+     DUD  UU    U
+e|----11---9----7-----|
+B|----12---10---9-----|
+G|----13---9----8-----|
+D|--------------------|
+A|--------------------|
+E|--------------------|
+
+you can also try:
+
+     DUD  UU   U
+e|----11---9---7-----|
+B|----12---9---9-----|
+G|----13---9---8-----|
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+but it sounds the same to me *shrugs*
+
+____________________________________________
+
+
+Define: Riff #1
+
+e|---------------------------------|
+B|---------------------------------|
+G|--------------------9--8--6------|
+D|-------------9--11-----------9---|
+A|---7--9^11-----------------------|
+E|---------------------------------|
+
+
+____________________________________________
+
+Define: C#m to B during bridge (optional):
+
+e|---4----------------------------------------------|
+B|---5--4h6h4------4--------------------------2-----|
+G|---6---------6---4--------------------------2-----|
+D|---6-------------4--------------------------2-----|
+A|---4----------------------------------------------|
+E|--------------------------------------------------|
+    C#m            B                          A
+
+this lazy gate    ...    of a winter's summer home
+
+
+____________________________________________
+
+Define: Riff #2 (during G to C chorus) (optional):
+
+e|----------------------------------------------|
+B|----------------------------------------------|
+G|----------------------12--11--10--------------|
+D|--------------12--14--------------12--9--12---|
+A|---10--12^14----------------------------------|
+E|----------------------------------------------|
+
+
+____________________________________________
+
+Define: Riff #3 (during E flat jam)
+
+e|-----------------------------|
+B|-----------------------------|
+G|------------8--6-------------|
+D|---------8--------8--6--8----|
+A|---6--9----------------------|
+E|-----------------------------|
+
+e|-----------------------------|
+B|-----------------------------|
+G|------------8--6-------------|
+D|---------8--------8--6--5----|
+A|---6--9----------------------|
+E|-----------------------------|
+
+and sometimes:
+
+e|------------------------------|
+B|------------------------7b8---|
+G|------------8--6--------------|
+D|---------8--------8--6--------|
+A|---6--9-----------------------|
+E|------------------------------|
+
+____________________________________________
+
+
+Chords and tabs (including chord variants and embellishments(this is important)):
+
+
+
+Emaj7: x7989x
+
+Emaj7sus4: x798(10)x
+
+Bmadd9: x79779 and x7977(10)
+
+Emaj7 (during closing jam): xxx(16)(16)(16)
+
+Emaj7sus4 (during closing jam): xxx(16)(16)(17)
+
+During chorus, the (A D A) is a quick upstroke x57775 from the 577655 downstrokes
+
+____________________________________________
+
+
+[Verse 1]
+Intro variation (optional in vocabulary) (do if jamming into verse or from another song. it's iconic.)
+
+Emaj7             A D A             Emaj7 (or Riff #1) Bm  A
+Right outside this      lazy summer home
+Emaj7                           A D A                Emaj7 (or Riff #1) Bm  A
+You ain’t got time to call your       soul a critic, no
+A                 C#m*      B                   A   (* = C#m > B embellishment at top)
+Right outside the lazy gate of winter’s summer home
+C#m                 B                  D             A
+Wonderin’ where the nut-thatch winter’s wings a mile long
+E                A     E       A  C
+Just carried the bird away
+
+
+[Chorus]
+
+G                        C                       G (or Riff #2 optional)  C
+Wake up to find out that you are the eyes of the world
+        G                          C                             G    C   C#
+But the heart has its beaches, its homelands and thoughts of its own
+D                        C                     G (or Riff #2 optional)  C
+Wake now, discover, that you are the song that morning brings
+        G                          C                           D    Bm  A
+But the heart has its seasons, its evenings and songs of its own
+
+
+[Jam #1] THERE IS NO A IN JAM #1, ONLY JAM #2
+
+
+(Emaj7 x2 | Bm x2) x4
+
+(feel free to mess around with...
+
+Emaj7sus4: xx798(10)x
+Bmadd9: x797779
+
+...too
+
+Use E Ionian scale during the Emaj7, then switch to E Mixolydian scale during the Bm
+
+
+[Verse 2]
+
+      Emaj7                   A D A                  Emaj7 (or Riff #1) Bm  A
+There comes a redeemer and he       slowly too fades away
+      Emaj7               A D A                     Emaj7 (or Riff #1) Bm  A
+There follows a wagon behind him that’s loaded with clay
+        A                          C#m*                    B     A  (* = C#m > B embellishment at top)
+And the seeds that were silent all burst into bloom and decay - ay
+    E                         A                         E       A  C
+And night comes so quiet it’s close on the heels of the day
+
+
+[Chorus]
+
+G                        C                       G (or Riff #2 optional)  C
+Wake up to find out that you are the eyes of the world
+        G                          C                             G    C   C#
+But the heart has its beaches, its homelands and thoughts of its own
+D                        C                     G (or Riff #2 optional)  C
+Wake now, discover, that you are the song that morning brings
+        G                          C                           D    Bm  A
+But the heart has its seasons, its evenings and songs of its own
+
+
+[Jam #2]
+
+Emaj7 x2
+Bm
+A
+
+Use E Ionian scale during the Emaj7, then switch to E Mixolydian scale during the Bm and the A
+
+
+[Verse 3]
+
+Emaj7                   A D A               Emaj7 (or Riff #1) Bm  A
+Sometimes we live no particular way but our own
+Emaj7                   A D A                    Emaj7 (or Riff #1) Bm  A
+Sometimes we visit your country and live in your home
+A                         C#m*    B                  A    (* = C#m > B embellishment at top)
+Sometimes we ride on your horses, sometimes we walk alone
+E                           A                          E      A C
+Sometimes the songs that we hear are just songs of our own
+
+
+[Chorus]
+
+G                        C                       G (or Riff #2 optional)  C
+Wake up to find out that you are the eyes of the world
+        G                          C                             G    C   C#
+But the heart has its beaches, its homelands and thoughts of its own
+D                        C                     G (or Riff #2 optional)  C
+Wake now, discover, that you are the song that morning brings
+        G                          C                         D    Bm  A
+But the heart has its seasons, its evenings and songs of its own
+
+
+LAND HARD ON Emaj7
+
+
+[Jam #3 / Studio outro] (While Phil is bass soloing)
+
+(Emaj7: xxx(16)(16)(16)) x3
+
+(Emaj7sus4: xxx(16)(16)(17)) x1
+
+(theory time: basically you're hitting the high A after the Emaj7 on the 16th fret)
+
+
+(1974 Style Jams) (Using 10/19/74 and 11/11/73 for reference)
+*Note at some point, go down to Emaj7 on 7th fret from 16th for a lower push toward G#m (so it's not high up)
+
+G#m x2
+Emaj7 x2
+G#m x2
+Emaj7 x4
+
+D#m x2
+D#dim x
+Emaj7 x4
+
+D#dim x 2 Riff #3 four times
+(Dm x2 Riff #3 four times) x3
+
+don't forget the high note squeal Jerry would do sometimes (check vocabulary end of Riff #3)
+
+____________________________________________
+
+Final thoughts: ALL INVERSIONS WELCOME DURING ENDING E FLAT JAM. DON'T ONLY PLAY CHORDS, BOB PLAYED NOTES TOO.
