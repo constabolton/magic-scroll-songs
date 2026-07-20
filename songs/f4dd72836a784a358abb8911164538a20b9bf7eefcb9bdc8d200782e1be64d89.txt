@@ -14,41 +14,27 @@ It would seem that when it was re-issued someone at the record label erroneously
 [Chords]
 F       xx3211
 C7      x32310
-Bb      x13331
-G7      xx0031
+[Bb]G7      xx0031
 F/Eb    xx1211
 Bb/D    xx0331
 Gsus/E  xx2013
 
 
 [Chorus]
-   F
-Be kind to your parents
-       C7
-though they don't deserve it
-                             F
-Remember that grown-ups is a difficult stage of life
-        F
-They're apt to be nervous
-    C7
-and over excited
-                                  F
-confused by their daily storm and strife
+Be [F]kind to your parents
+though [C7]they don't deserve it
+Remember that grown-ups is a [F]difficult stage of life
+They're [F]apt to be nervous
+and [C7]over excited
+confused by their daily storm and [F]strife
 
 [Verse]
-             Bb                    F
-Just keep in mind, though it seems hard, I know
-     G7                                C7     N.C.
-Most parents once were children long a-go, In-credible!
+Just keep in [Bb]mind, though it seems [F]hard, I know
+Most [G7]parents once were children long a-[C7]go, In-credible!
 
 [Chorus]
-   F
-So treat them with patience
-    C7
-and kind understanding
-                                    F   F/Eb
-In spite of the foolish things they do
-     Bb/D
-Some day you might wake up
-    Gsus/E               F
-and find you're a parent too!
+So [F]treat them with patience
+and [C7]kind understanding
+In spite of the foolish things they [F]do [F/Eb]
+Some [Bb/D]day you might wake up
+and [Gsus/E]find you're a parent [F]too!
