@@ -3,96 +3,58 @@ Song name: Youre Only Lonely  by  J.D. Souther
 ----------------------------------------------------------------------
 [Intro]
 A F#m D E  
-A   F#m D   E
-Ooh ooh ooh ooh
+[A]Ooh [F#m]ooh [D]ooh [E]ooh
 
 [Verse]
-A                               F#m
-When the world is ready to fall,                       
+[A]When the world is ready to fall,[F#m]                       
 On your little shoulders
-D                       
-And when you're feelin' lonely and small,
-         Dsus4    D        A       F#m
-you need somebody there to hold you
-                    D   E                  A     F#m
-You can call out my name, when you're only lonely
-                       D      E
-Now don't you ever be ashamed,
-                 A     F#m D E
-when you're only lonely
+[D]And when you're feelin' lonely and small,
+you need [Dsus4]somebody [D]there to [A]hold you[F#m]
+You can call out my [D]name[E], when you're only [A]lonely[F#m]
+Now don't you ever be a[D]shamed,[E]
+when you're only [A]lonely[F#m] [D] [E]
 
 [Verse]
-A                             F#m
-When you need somebody around,
+[A]When you need somebody around,[F#m]
 on the nights that try you
-D
-I was there when you were a queen,
-                Dsus4 D           A       F#m
-and I'll be the last  one there beside you
-                       D    E
-So you can call out my name,
-                 A    F#m 
-when you're only lonely
-                       D      E
-Now don't you ever be ashamed,
-                 A     
-when you're only lonely 
-             F#m    A
-(You're only lonely) 
-             F#m    D
-(You're only lonely) 
-             E7  E
-(You're only lonely)
-E7    A                               F#m
-Ooh...when the world is ready to fall,
-                        D
-on your little shoulders
+[D]I was there when you were a queen,
+and I'll be the [Dsus4]last  [D]one there be[A]side you[F#m]
+So you can call out my [D]name,[E]
+when you're only [A]lonel[F#m]y
+Now don't you ever be a[D]shamed,[E]
+when you're only [A]lonely 
+(You're only [F#m]lonely)[A] 
+(You're only [F#m]lonely)[D] 
+(You're only [E7]lone[E]ly)
+[E7]Ooh...[A]when the world is ready to fall,[F#m]
+on your little shoulders[D]
            
 [Verse]                              
 And when you're feelin' lonely and small,
-         Dsus4    D        A       F#m
-you need somebody there to hold you
-                      D      E
-So don't you ever be ashamed,
-                 A     F#m
-when you're only lonely 
-                    D   E
-Darling call out my name,
-                 A     
-when you're only lonely 
-                    F#m
-(You're only lonely) 
+you need [Dsus4]somebody [D]there to [A]hold you[F#m]
+So don't you ever be a[D]shamed,[E]
+when you're only [A]lonely[F#m] 
+Darling call out my [D]name[E],
+when you're only [A]lonely 
+(You're only lonely)[F#m] 
 When you're only lonely                  
 (You're only lonely) 
-            D
-Oh, it's no crime
-                       E
-Darlin' we got lots of time
-E7 E  A
-Whoa (You're only lonely)
-  F#m
-Whoa (You're only lonely)
-                               D
-No, there's nothin' wrong with you
-                      E7 E
-Darlin', I get lonely too
+Oh, it's no [D]crime
+Darlin' we got lots of [E]time
+[E7]Who[E]a ([A]You're only lonely)
+Wh[F#m]oa (You're only lonely)
+No, there's nothin' wrong with [D]you
+Darlin', I get lonely [E7]too[E]
 
 [Bridge]
- A                 F#m
-(You're only lonely) 
+([A]You're only lonely[F#m]) 
 
 (You're only lonely) 
 
 [Outro]
-           D
-So, if you need me
-                       E7   E
-All you've gotta do is call me
-          A
-Now you're only lonely 
-      F#m
-Ooh ooh ooh ooh
-            D
-Ooh ooh ooh ooh
-               E
-Oh my, my, my, my . . .
+So, if you [D]need me
+All you've gotta do is [E7]call [E]me
+Now you're[A] only lonely 
+Ooh oo[F#m]h ooh ooh
+Ooh ooh ooh [D]ooh
+Oh my, my, my, [E]my . . .
