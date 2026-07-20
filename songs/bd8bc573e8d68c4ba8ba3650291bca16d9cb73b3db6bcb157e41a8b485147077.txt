@@ -2,52 +2,29 @@
 Song name: Fools Rush In  by  Frank Sinatra
 ----------------------------------------------------------------------
 [Verse]
-D
-Romance is a game for fools
-D
-I used to say
-         G
-A game I thought I'd never play
+[D]Romance is a game for fools
+[D]I used to say
+A game I [G]thought I'd never play
 
 "Romance is a game for fools"
-         D
-I said and grinned
-                F#
-Then you passed by
-Bm
-And here am I
-Em      C#7      F#     B    D
-Throwing caution to the wind
-Am            D
-Fools rush in
-            G
-Where angels fear to tread
-                 Am        D7
-And so I come to you my love
-                 G
-My heart above my head
+I said an[D]d grinned
+Then you passed [F#]by
+[Bm]And here am I
+[Em]Throwing[C#7] caution [F#]to the [B]wind [D]
+[Am]Fools rush in [D]
+Where angels[G] fear to tread
+And so I come to [Am]you my lov[D7]e
+My heart above my[G] head
 
-          Am
-Though I see
-      D7     G    Em
-The danger there
-G              Am       Em  A7
-If there's a chance for me
-           Am  D
-Then I don't care
-Am            D
-Fools rush in
-               G
-Where wise men never go
-                    Am        D7
-But wise men never fall in love
-                 D      E7
-So how are they to know
-Am   Am7   Am
-When we met
-          G          Em
-I felt my life begin
-                Am7         D7
-So open up your heart and let
-               G
-This fool rush in
+Though I s[Am]ee
+The da[D7]nger th[G]ere [Em]
+[G]If there's a ch[Am]ance for [Em]me [A7]
+Then I don'[Am]t ca[D]re
+[Am]Fools rush in [D]
+Where wise men [G]never go
+But wise men never f[Am]all in lov[D7]e
+So how are they t[D]o know [E7]
+[Am]When [Am7]we met[Am]
+I felt my [G]life begin [Em]
+So open up your [Am7]heart and le[D7]t
+This fool rush [G]in
