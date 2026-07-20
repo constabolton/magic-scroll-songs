@@ -120,28 +120,20 @@ ____________________________________________
 [Verse 1]
 Intro variation (optional in vocabulary) (do if jamming into verse or from another song. it's iconic.)
 
-Emaj7             A D A             Emaj7 (or Riff #1) Bm  A
-Right outside this      lazy summer home
-Emaj7                           A D A                Emaj7 (or Riff #1) Bm  A
-You ain’t got time to call your       soul a critic, no
+[Emaj7]Right outside this[A]  [D]  [A]  lazy summer [Emaj7]home [Bm] [A]
+[Emaj7]You ain’t got time to call your [A]  [D]  [A]  soul a critic, [Emaj7]no [Bm] [A]
 A                 C#m*      B                   A   (* = C#m > B embellishment at top)
 Right outside the lazy gate of winter’s summer home
-C#m                 B                  D             A
-Wonderin’ where the nut-thatch winter’s wings a mile long
-E                A     E       A  C
-Just carried the bird away
+[C#m]Wonderin’ where the [B]nut-thatch winter’s[D] wings a mile [A]long
+[E]Just carried the [A]bird a[E]way [A] [C]
 
 
 [Chorus]
 
-G                        C                       G (or Riff #2 optional)  C
-Wake up to find out that you are the eyes of the world
-        G                          C                             G    C   C#
-But the heart has its beaches, its homelands and thoughts of its own
-D                        C                     G (or Riff #2 optional)  C
-Wake now, discover, that you are the song that morning brings
-        G                          C                           D    Bm  A
-But the heart has its seasons, its evenings and songs of its own
+[G]Wake up to find out that [C]you are the eyes of the [G]world [C]
+But the [G]heart has its beaches, its [C]homelands and thoughts of its [G]own [C] [C#]
+[D]Wake now, discover, that [C]you are the song that [G]morning brings [C]
+But the [G]heart has its seasons, its [C]evenings and songs of its ow[D]n [Bm] [A]
 
 
 [Jam #1] THERE IS NO A IN JAM #1, ONLY JAM #2
@@ -161,26 +153,19 @@ Use E Ionian scale during the Emaj7, then switch to E Mixolydian scale during th
 
 [Verse 2]
 
-      Emaj7                   A D A                  Emaj7 (or Riff #1) Bm  A
-There comes a redeemer and he       slowly too fades away
-      Emaj7               A D A                     Emaj7 (or Riff #1) Bm  A
-There follows a wagon behind him that’s loaded with clay
+There [Emaj7]comes a redeemer and he [A]  [D]  [A]  slowly too fades [Emaj7]away [Bm] [A]
+There [Emaj7]follows a wagon behi[A]nd[D] h[A]im that’s loaded with [Emaj7]clay [Bm] [A]
         A                          C#m*                    B     A  (* = C#m > B embellishment at top)
 And the seeds that were silent all burst into bloom and decay - ay
-    E                         A                         E       A  C
-And night comes so quiet it’s close on the heels of the day
+And [E]night comes so quiet it’s [A]close on the heels of the [E]day [A] [C]
 
 
 [Chorus]
 
-G                        C                       G (or Riff #2 optional)  C
-Wake up to find out that you are the eyes of the world
-        G                          C                             G    C   C#
-But the heart has its beaches, its homelands and thoughts of its own
-D                        C                     G (or Riff #2 optional)  C
-Wake now, discover, that you are the song that morning brings
-        G                          C                           D    Bm  A
-But the heart has its seasons, its evenings and songs of its own
+[G]Wake up to find out that [C]you are the eyes of the [G]world [C]
+But the [G]heart has its beaches, its [C]homelands and thoughts of its [G]own [C] [C#]
+[D]Wake now, discover, that [C]you are the song that [G]morning brings [C]
+But the [G]heart has its seasons, its [C]evenings and songs of its ow[D]n [Bm] [A]
 
 
 [Jam #2]
@@ -194,26 +179,19 @@ Use E Ionian scale during the Emaj7, then switch to E Mixolydian scale during th
 
 [Verse 3]
 
-Emaj7                   A D A               Emaj7 (or Riff #1) Bm  A
-Sometimes we live no particular way but our own
-Emaj7                   A D A                    Emaj7 (or Riff #1) Bm  A
-Sometimes we visit your country and live in your home
+[Emaj7]Sometimes we live no par[A]ti[D]cu[A]lar way but our [Emaj7]own [Bm] [A]
+[Emaj7]Sometimes we visit your [A]co[D]un[A]try and live in your [Emaj7]home [Bm] [A]
 A                         C#m*    B                  A    (* = C#m > B embellishment at top)
 Sometimes we ride on your horses, sometimes we walk alone
-E                           A                          E      A C
-Sometimes the songs that we hear are just songs of our own
+[E]Sometimes the songs that we [A]hear are just songs of our [E]own [A] [C]
 
 
 [Chorus]
 
-G                        C                       G (or Riff #2 optional)  C
-Wake up to find out that you are the eyes of the world
-        G                          C                             G    C   C#
-But the heart has its beaches, its homelands and thoughts of its own
-D                        C                     G (or Riff #2 optional)  C
-Wake now, discover, that you are the song that morning brings
-        G                          C                         D    Bm  A
-But the heart has its seasons, its evenings and songs of its own
+[G]Wake up to find out that [C]you are the eyes of the [G]world [C]
+But the [G]heart has its beaches, its [C]homelands and thoughts of its [G]own [C] [C#]
+[D]Wake now, discover, that [C]you are the song that [G]morning brings [C]
+But the [G]heart has its seasons, its [C]evenings and songs of its [D]own [Bm] [A]
 
 
 LAND HARD ON Emaj7
@@ -236,8 +214,7 @@ Emaj7 x2
 G#m x2
 Emaj7 x4
 
-D#m x2
-D#dim x
+[D#m]D#dim x
 Emaj7 x4
 
 D#dim x 2 Riff #3 four times
