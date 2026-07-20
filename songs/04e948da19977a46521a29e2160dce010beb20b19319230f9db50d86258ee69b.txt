@@ -37,134 +37,81 @@ E|-----------------|-----------------|-----------------|-----------------|
 . = staccato, (n) = hold note over bar line
 
 [Intro]
-Am   Fmaj7   C   G
-                 Hey!
-Am   Fmaj7   C   G
-                 Hey!
-Am   Fmaj7   C   G
-                 Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
 Am   Fmaj7   C   G
 
 [Verse 1]
-Am           Fmaj7                  C
-I don't like walking around this old and empty house
-   Am                 F                C
-So hold my hand, I'll walk with you my dear
-    Am           Fmaj7              C
-The stairs creak as you sleep, it's keeping me awake
-         Am            F                 C
-It's the house telling you to close your eyes
-    Am        Fmaj7       C
-And some days I can't even dress myself
-     Am            F               C
-It's killing me to see you this way
+[Am]I don't like [Fmaj7]walking around this old[C] and empty house
+So [Am]hold my hand, I'll [F]walk with you my [C]dear
+The [Am]stairs creak [Fmaj7]as you sleep, it's [C]keeping me awake
+It's the [Am]house telling [F]you to close your [C]eyes
+And [Am]some days [Fmaj7]I can't even[C] dress myself
+It's [Am]killing me to [F]see you this way[C]
 
 [Chorus]
-                  Am        Fmaj7
-'Cause though the truth may vary, this
-C           G
-  ship will carry our
-Am     F            C
-bodies safe to shore
+'Cause though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will [G]carry our
+[Am]bodies [F]safe to shore[C]
 
 [Interlude]
-Am   Fmaj7   C   G
-                 Hey!
-Am   Fmaj7   C   G
-                 Hey!
-Am   Fmaj7   C   G
-                 Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
 Am   Fmaj7   C   G
 
 [Verse 2]
-           Am        Fmaj7            C
-There's an old voice in my head that's holding me back
-      Am              Fmaj7            C
-Well, tell her that I miss our little talks
-Am              Fmaj7    C
-Soon it will be over and buried with our past
-   Am              Fmaj7             C
-We used to play outside when we were young (and full of life and full of love)
-Am        Fmaj7           C
-Some days I don't know if I am wrong or right
-     Am              Fmaj7             C
-Your mind is playing tricks on you my dear
+There's an [Am]old voice [Fmaj7]in my head that's[C] holding me back
+Well, [Am]tell her that I [Fmaj7]miss our little t[C]alks
+[Am]Soon it will be [Fmaj7]over and [C]buried with our past
+We [Am]used to play out[Fmaj7]side when we were [C]young (and full of life and full of love)
+[Am]Some days [Fmaj7]I don't know if [C]I am wrong or right
+Your [Am]mind is playing [Fmaj7]tricks on you my d[C]ear
 
 [Chorus]
-                  Am        Fmaj7
-'Cause though the truth may vary, this
-C            G
-  ship will carry our
-Am     Fmaj7        C  
-bodies safe to shore   Hey!
-      Am          Fmaj7  C    G
-Don't listen to a word I say. Hey!
-    Am          Fmaj7     C     G
-The screams all sound the same. Hey!
-           Am        Fmaj7
-Though the truth may vary, this
-C           G
-  ship will carry our
-Am     Fmaj7        C  G  
-bodies safe to shore
+'Cause though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will c[G]arry our
+[Am]bodies [Fmaj7]safe to shore[C]   Hey!
+Don't [Am]listen to a [Fmaj7]word I [C]say. [G]Hey!
+The [Am]screams all [Fmaj7]sound the [C]same. [G]Hey!
+Though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will [G]carry our
+[Am]bodies [Fmaj7]safe to shore[C] [G]
 
 [Instrumental]
-Am   Fmaj7   C   G
-                 Hey!
-Am   Fmaj7   C   G
-                 Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
+[Am]     [Fmaj7]        [C]    [G]Hey!
 Am   Fmaj7   C   G
 Am   Fmaj7   C   G
 Am   
 
 [Verse 3]
-       Am
-You're gone, gone, gone away. I watched you disappear
-Am
-All that's left is a ghost of you
-          Am
-Now we're torn, torn, torn apart, there's nothing we can do
-     Am
-Just let me go, we'll meet again soon
-    Am          Fmaj7       C
-Now wait, wait, wait for me. Please hang around
-     Am             Fmaj7 C     
-I'll see you when I fall asleep. Hey!
+You're [Am]gone, gone, gone away. I watched you disappear
+[Am]All that's left is a ghost of you
+Now we're [Am]torn, torn, torn apart, there's nothing we can do
+Just [Am]let me go, we'll meet again soon
+Now [Am]wait, wait, [Fmaj7]wait for me.[C] Please hang around
+I'll [Am]see you when I [Fmaj7]fall a[C]sleep. Hey!
 
 [Chorus]
-      Am          Fmaj7  C    G
-Don't listen to a word I say. Hey!
-    Am          Fmaj7     C     G
-The screams all sound the same. Hey!
-           Am        Fmaj7
-Though the truth may vary, this
-C           G
-  ship will carry our
-Am     Fmaj7        C  G
-bodies safe to shore
+Don't [Am]listen to a [Fmaj7]word I [C]say. [G]Hey!
+The [Am]screams all [Fmaj7]sound the [C]same. [G]Hey!
+Though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will [G]carry our
+[Am]bodies [Fmaj7]safe to shore[C] [G]
 
-      Am          Fmaj7  C    G
-Don't listen to a word I say. Hey!
-    Am          Fmaj7     C     G
-The screams all sound the same. Hey!
-           Am        Fmaj7
-Though the truth may vary, this
-C           G
-  ship will carry our
-Am     Fmaj7        C  G
-bodies safe to shore
+Don't [Am]listen to a [Fmaj7]word I [C]say. [G]Hey!
+The [Am]screams all [Fmaj7]sound the [C]same. [G]Hey!
+Though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will [G]carry our
+[Am]bodies [Fmaj7]safe to shore[C] [G]
 
 [Ending]
-           Am        Fmaj7
-Though the truth may vary, this
-C           G
-  ship will carry our
-Am     Fmaj7        C
-bodies safe to shore
+Though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will [G]carry our
+[Am]bodies [Fmaj7]safe to shore[C]
 
-           Am        Fmaj7
-Though the truth may vary, this
-C           G
-  ship will carry our
-Am     Fmaj7        C
-bodies safe to shore
+Though the [Am]truth may [Fmaj7]vary, this
+[C]  ship will [G]carry our
+[Am]bodies [Fmaj7]safe to shore[C]
