@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Heidi Hendi
+C: Andy Cutting
+R: Jig
+M: 6/8
+L: 1/8
+K: Em
+"Em"EGB c2"G" (B|B2)B ABG|"D"FGA B2B|"C"ABG AFG|
+"Em"EGB c2"G" (B|B2)B ABG|"D"FGA BGB|"C"FBG BFB:|
+"Em"E2E GFE|"D"FGA d2B|"G"BAG FGA|"C"BGB FBG|
+"Am"E2E GFE|"D"FGA d2B|"G"BAG FGA|"C"BGB FBG:|

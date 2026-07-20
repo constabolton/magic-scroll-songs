@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Go Mauve
+C: Ian Luff
+R: Schottische
+L: 1/8
+M: 4/4
+K: D
+ "Em" EGBG E2GB | "D" ddcB F2FG | "Bm7" AGFE D2AG | "C/Em" FEDE FDE2 |
+ "Em" EGBG E2GB | "D" ddcB F2FG | "Bm7" AGFE DEFG |
+|1 "C/Em" EzE3 FGF :|2 "C/Em" EzE4 GF |: "Em" E2ED EFGE | "Bm" F2FE FGAF |
+ "C/Em" G2GF GABG | "D" A2AG FGFG | "Em" E2ED EFGE | "Bm" F2FE FGAF |
+ "C/Em" G2GF GABG |1 "D" A2A2 BAGF :|2 A3B- BAGF |]

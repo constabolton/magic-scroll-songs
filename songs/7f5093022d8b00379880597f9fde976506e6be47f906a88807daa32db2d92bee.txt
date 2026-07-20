@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Huntsman's Mountain
+T: Mynydd Yr Heliwr
+C: Traditional, Wales
+R: Jig
+L: 1/8
+M: 6/8
+K: Em
+"Em"e3 B2e|"Bm"dBA BAF|"G"G3 EGB|"A"^c2e dcB|"Em"e3 B2e|
+dBA BAF|"G"G3 EGB|"A"AGF "Em"E3:||:"Em"E3 GEG|BAB EFG|"D"F3 FGF|D2D AGF|"C5"EGB e2e|dBA BAF|"Bm"G3 EGB|"A"AGF "Em"E3:|

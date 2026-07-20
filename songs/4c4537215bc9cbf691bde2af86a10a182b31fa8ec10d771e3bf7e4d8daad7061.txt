@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T: Cellar Door Key, The
+C: Great Northern Tunebook
+R: Triple Hornpipe
+M: 3/2
+L: 1/8
+P: D minor
+K: Ddor
+"Dm"F2D2 D2A,2 D4|"Dm"F2D2 -D2F2 "C"EFGE|"Dm"F2D2 D2A,2 D4|"C"E2C2 -C2F2 EFGE:|
+"Bb"F2A2 A2d2 d4|"Bb"F2A2 A2GF "C"EFGE|"Bb"F2A2 A2d2 d4|"C"E2C2 -C2F2 EFGE:|
+P: A minor
+K: Am
+"Am"c2A2 A2e,2 A4|"Am"c2A2 -A2c2 "G"BcdB|"Am"c2A2 A2e,2 A4|"G"B2G2 -G2c2 BcdB:|
+"F"c2e2 e2a2 a4|"F"c2e2 e2dc "G"BcdB|"F"c2e2 e2a2 a4|"G"B2G2 -G2c2 BcdB:|
+P: Possible additional parts
+K: Ddor
+"Dm"D2d2 d2c2 d4|"Dm"D2d2 d2e2 f2ed|"Dm"A2d2 d2cB c2BA|"C"G2E2 C2F2 EFGE:|
+"Dm"D2d2 d2c2 d4|"Dm"D2d2 d2e2 f2ed|"Dm"A2d2 d2cB c4|"C"E2C2 -C2F2 EFGE:|
+"F"F4 G2B2 "Am"A4|"Dm"A2D2 D2F2 "C"EFGE|"F"F4 G2B2 "Am"A2c2|"C"E2C2 -C2F2 EFGE:|

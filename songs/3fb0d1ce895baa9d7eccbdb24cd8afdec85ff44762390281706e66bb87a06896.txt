@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Tip Top (Toe) Polka
+C: Traditional, England
+R: Polka
+M: 4/4
+L: 1/8
+K: G
+Bc|"G"d2d2 d2ed|"G"B2B2 B2GA|"G"B2B2 BcdB|"D"A2AA A2|
+AB|"C"c2c2 cdcB|"D"A2A2 A2G2|"D"FGAB "D7"cdef|"G"g2gf g2:|
+ef|"C"g2e2 edef|"G"g2d2 d2GA|"G"B2B2 "Am"A2"G/B"G2|"C"e2d2 d2|
+ef|"C"g2e2 edef|"G"g2d2 d2B2|"C"cBAB "D7"cdef|"G"g2g2 g2:|

@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Three Around Three
+C: Traditional, North West England
+R: Polka
+M: 4/4
+L: 1/8
+K: G
+"G"d2BA G2G2|"G/F#"A2BA G2D2|"C"EDEF G2AB|"C"c2B2 "D"B2A2|"G"d2BA G2G2|
+"G/F#"A2BA G2D2|"C"EDEF G2Ac|"G"B2G2 G4:||:"G"d2ef gfed|"Em"e2e2 e2ge|
+"G"d2B2 B2AG|"D"FGAB A4|"G"d2ef "Bm"gfed|"C"e2e2 e2d2|"C"efg2 "D"fga2|"G"g4 "G"g4:|

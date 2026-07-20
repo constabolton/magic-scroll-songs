@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Rigged Ship, The
+T: Hills of Glenorchy
+C: Traditional, England from Ireland
+R: Jig
+L: 1/8
+M: 6/8
+K: Em
+A|"Em"B2E EFE|BAB d2B|"D"A2F DED|FEF A2|
+A|"Em"B2E EFE|BAB d2B|"D"A2F DEF|"Em"E3 E2:|
+B|"Em"e2B e2B|efg f2e|"D"d2A d2A|def e2|
+B|"C"e2B e2B|efg f2e|"D"d2B A2F|"Em"EFE E2:|

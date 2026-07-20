@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Mrs Forster's Fudge
+C: Chris Wood
+R: Reel
+L: 1/4
+M: 2/4
+K: D
+d/c/|"G"BB/B/ B/A/B/d/|"D"BA AD/E/|"D"F/E/F/A/ G/F/E/D/|"A"BA A|
+d/c/|"G"BB/B/ B/A/B/d/|"D"BA AD/E/|"D"F/E/F/A/ G/F/E/D/|"A"B,C "D"D:|
+F/D/|"A"E/D/C/D/ E>G|"D"F/D/F/A/ dc/d/|"G"B/A/B/d/ B/A/D/E/|"G"F/G/A/F/ "A"E|
+F/D/|"A"E/D/C/D/ E>G|"D"F/D/F/A/ de/f/|"G"g/f/e/d/ e/f/e/d/|"A"Bc "D"d:|

@@ -1,0 +1,20 @@
+%%abc-charset utf-8
+
+X:1
+T: Vill du Flyga?
+C: Leija Lautamaya
+L: 1/8
+M: 4/4
+R: Schottische
+K: D
+P: A
+V: Higher
+"A"zfaf|"Bm"d4 zdfd|"G"B4 zBdB|"A"c2ec "F#m"BABc|"G"dcBA "A"F|
+faf|"Bm"d4 zdfd|"G"B4 zBdB|"A"c2ea "F#m"a2fa|"G"b4:| b4||
+V: Lower
+zfaf|d4 zdfd|B4 zBdB|c2ec BABc|dcBA F|
+FAF|D4 zDFD|B,4 zB,DB,|C2EA A2FA|B4:|B4||
+P: B
+|:"Bm"dcBA "Bm"dcBA|"Bm"dcBA "A"B2A2|"Bm"dcB"A"A- ABc"G"d-|
+"G"dcde "A"c4|"Bm"dcBA "A"dcBA|"D"FAAB "G"B4|
+|1"G"zdcB "A"A2"D"FE|"D"F4 F2AB:|2"G"zdcB "A"A2"D"FA|"G"B4|]

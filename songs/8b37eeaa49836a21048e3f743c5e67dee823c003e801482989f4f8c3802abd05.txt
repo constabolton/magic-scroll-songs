@@ -1,0 +1,17 @@
+%%abc-charset utf-8
+
+X:1
+T: Valiant, The
+C: Simon Ritchie
+Z: Mix O'Lydian
+R: Jig
+M: 6/8
+L: 1/8
+K: G
+dc|"G"B2B BAG|"D"B2A ABA|"Em"G2G GAB|"G"G2F F|
+ED|"C"E2E EFG|1E2"D"D DEF|"G"G2G GAB|"D7"B2A A:|
+|2"Em"BAG FED|"C"EFG "D"AGF|"G"G2G G||
+|:Bc|"G"d3 "C"e3|"G"dcB "D"AGF|"G"G2G GAB|"G"B2"D"A A|
+Bc|"C"dBG e2"D"d-|"G"dcB "D"AGF|"G"G2G GAB|"D"A2"G"G G:|
+ED|"C"E2E EFG|"D"E2D DEF|"G"G2G GAB|"D"B2A A|
+GF|"C"E2E EFG|"Em"BAG FED|"C"EFG "D"AGF|"D"A2"G"G G:|

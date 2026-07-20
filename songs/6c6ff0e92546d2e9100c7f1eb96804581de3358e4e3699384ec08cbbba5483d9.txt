@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Bonny Breast Knot
+C: Traditional, Sussex, England
+R: Reel
+M: 4/4
+L: 1/8
+K: G
+dc|"G"B2G2 G2AB|"C"cBAG "D"F2D2|"G"G2B2 G2B2|"G"G2d2 "D"d2|
+dc|"G"B2G2 G2AB|"C"cBAG "D"F2D2|"G"G2B2 "D"ABdc|"G"B2G2 G2:|
+Bc|"G"d2d2 d2>e2|"Em"dcBA G2G2|"Am"A2AB cBcd|"D"e2A2 A2|
+Bc|"G"d2d2 "G/F#"d2>e2|"Em"dcBA G2G2|"C"cBAG "D"F2D2|"G"G2G2 G2:|

@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Jupiter's Return
+C: Dave Whetstone
+R: Hornpipe
+L: 1/8
+M: 4/4
+K: G
+Bc|"G"d2gf gdBd|"C"ec"Bm"dB "D"A2GA|"Em"BAGF EFGE|"G"DGBG "D"A2|
+Bc|"G"d2gf gdBd|"C"ec"Bm"dB "D"A2GA|"Em"BAGB "D"ADED|"G"G4 G2:|
+FG|"D"AGFE "D"FGAG|"D"F2D2 D4|"Am"AGFE "D"FGAc|"G"B2G2 G4|"C"edcd efge|"D"f2d2 d4|"Em"BAGB "D"ADEF|"G"G4 G2:|

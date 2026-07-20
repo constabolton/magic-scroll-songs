@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Huntsman's Chorus
+R: March
+C: Traditional from Carl Maria von Weber
+M: 4/4
+L: 1/8
+K: G
+D2|"G"G2D2 GABc|"G"d4 B4|"D"A2d2 A2d2|"G"BcBA G2|
+D2|"G"G2D2 GABc|"G"d4 "C"c4|"G"BAGA "D7"B2A2|"G"G6:|
+A2|"G"B2>c2 B2A2|"Em"G4 G2B2|"C (Am)"c2>d2 c2B2|"D"A2F2 E2|
+D2|"G"G2D2 GABc|"G"d4 "C"c4|"G"BAGA "D7"B2A2|"G"G6:|

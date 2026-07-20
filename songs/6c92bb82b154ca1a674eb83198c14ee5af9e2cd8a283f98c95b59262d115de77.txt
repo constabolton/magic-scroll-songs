@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Jen's Tent
+C: Ross Grant
+R: Jig
+L: 1/8
+M: 6/8
+K: Em
+"Em"E2e e2B|"C"cBA BAG|"Am"cBA BAG|"D"FGA dAF|
+"Em"E2e e2B|"C"cBA BAG|"G"BAG "Bm"FED|"Em"E3 E3:|
+"G"G2D A2B|"Em"G2D A2B|"C"dcB "Am"AGA|"G"BcB "D"AFD|
+"G"G2D A2B|"Em"G2D A2B|"C"dcB AGF|1"Em"E3 "D"F3:|2"Em"E3 "D"D3|]

@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: From Night till Morn
+C: Litten and Welch Manuscripts, 1800s, England
+R: March
+M: 4/4
+L: 1/8
+K: G
+dc|"G"B2B2 B2G2|"D"AGAB "G"G2AB|"Am"cBAG "G"GABc|"D"d2ec B2A2|
+"G"B2B2 B2G2|"D"AGAB "G"G2AB|"Am"cBAG "G"GABG|"D"A4 "G"G2:|
+z2|"G"GABc "D"d2d2|"D"d2e2 d4|"C"e2d2 "G"g2B2|"D"d2ec B2A2|
+"G"B2B2 B2G2|"D"AGAB "G"G2AB|"Am"cBAG "G"GABG|"D"A4 "G"G2:|
