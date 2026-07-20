@@ -4,20 +4,16 @@ Song name: Children Go Where I Send Thee  by  The Seekers
 CHILDREN GO WHERE I SEND THEE  (Seekers version)
 
 Intro:
-D            G     D       A7    D
-He was born, born, born in Bethlehem. 
+[D]He was born, [G]born, [D]born in [A7]Bethle[D]hem. 
 
 Vamp on D 4 bars - give an "Ahhhummmm...." halfway
 
-D
-Children go where I send thee: how shall I send thee? 
+[D]Children go where I send thee: how shall I send thee? 
 Well, I'm gonna send thee one by one 
 One for the little bitty baby 
-              G     D       A7    D
-Who was born, born, born in Bethlehem 
+Who was born, [G]born, [D]born in [A7]Bethle[D]hem 
  
-D
-Children go where I send thee: how shall I send thee? 
+[D]Children go where I send thee: how shall I send thee? 
 Hey, I'm gonna send thee two by two 
 Two for Paul and Silas 
 One for the itty bitty baby 
@@ -28,8 +24,7 @@ v
 (D)           G     D       A7    D
 Who was born, born, born in Bethlehem. 
 
-D
-Children go where I send thee.
+[D]Children go where I send thee.
 how shall I send thee? 
 I'm gonna send thee:
 
@@ -53,7 +48,6 @@ Wrapped in the swaddling clothing
 Laying in a lowly manger
 (D)           G     D       A7    D
 Who was born, born, born in Bethlehem. 
-       D     G     A7            D       A7    D
-He was born, born, born...[STOP] Born in Bethlehem.
+He was [D]born, [G]born, [A7]born...[STOP] [D]Born in [A7]Bethle[D]hem.
 
 :Charted by Bustopher the Busker - bustopher@bigpond.com
