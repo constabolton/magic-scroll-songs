@@ -2,8 +2,7 @@
 Song name: The Way You Look Tonight  by  Frank Sinatra
 ----------------------------------------------------------------------
 Ebmaj7          (xx1333)
-Cm7             (x31313)
-Fm7             (1311xx)
+[Cm7]Fm7             (1311xx)
 Bb7             (x1313x)
 Gm7             (3533xx)
 C7(b9)          (x3232x)
@@ -16,14 +15,10 @@ Eb7(b5)         (xx1223)
 
 
 [Verse 1]
-Ebmaj7  Cm7  Fm7              Bb7
-Some    day, when I'm awfully low,
-Gm7               C7(b9)
-When the world is cold,
-Fm7           Bb7                Ebmaj7  Cm7
-I will feel a glow just thinking of      you
-Fm7             Bb7    Ebmaj7
-And the way you look tonight.
+[Ebmaj7]Some    [Cm7]day, [Fm7]when I'm awfully [Bb7]low,
+[Gm7]When the world is [C7]cold,
+[Fm7]I will feel a [Bb7]glow just thinking [Ebmaj7]of      [Cm7]you
+[Fm7]And the way you [Bb7]look to[Ebmaj7]night.
 
 
 [Interlude]
@@ -32,33 +27,21 @@ Ebmaj7 Cm7 Fm7 Bb7
 
 
 [Verse 2]
-           Ebmaj7  Cm7  Fm7                Bb7
-Yes you're love  - ly,  with your smile so warm
-Gm7                C7(b9)
-And your cheeks so soft,
-Fm7                  Bb7       Ebmaj7  Cm7
-There is nothing for me but to love    you,
-Fm7             Bb7    Ebmaj7
-And the way you look tonight.
+Yes you're [Ebmaj7]love  - [Cm7]ly,  [Fm7]with your smile so [Bb7]warm
+[Gm7]And your cheeks so [C7]soft,
+[Fm7]There is nothing for [Bb7]me but to [Ebmaj7]love    [Cm7]you,
+[Fm7]And the way you [Bb7]look to[Ebmaj7]night.
 
 
 [Bridge]
-Gbmaj7         Gdim7 Abm7       Db7
-With each word your  tenderness grows,
-Bbm7       Adim7 Abm7  Db7
-Tearing my fear apart
-Bbm7     Eb7(b5)    Abm7          Db7
-And that laugh that wrinkles your nose,
-Gbmaj7        Gdim7   Fm7    Bb7
-It touches my foolish heart.
+[Gbmaj7]With each word [Gdim7]your  [Abm7]tenderness [Db7]grows,
+[Bbm7]Tearing my [Adim7]fear a[Abm7]part [Db7]
+[Bbm7]And that [Eb7]laugh that [Abm7]wrinkles your [Db7]nose,
+[Gbmaj7]It touches my [Gdim7]foolish [Fm7]heart. [Bb7]
 
 
 [Verse 3]
-Ebmaj7  Cm7 Fm7             Bb7
-Love  - ly, don't you, ever change.
-Gm7                  C7(b9)
-Keep that breathless charm.
-Fm7              Bb7                  Ebmaj7 Cm7
-Won't you please arrange it? 'Cause I love   you
-Fm7              Bb7    Ebmaj7
-Just the way you look tonight.
+[Ebmaj7]Love  - [Cm7]ly, [Fm7]don't you, ever [Bb7]change.
+[Gm7]Keep that breathless [C7]charm.
+[Fm7]Won't you please [Bb7]arrange it? 'Cause I [Ebmaj7]love   [Cm7]you
+[Fm7]Just the way you [Bb7]look to[Ebmaj7]night.
