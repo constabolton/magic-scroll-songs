@@ -2,8 +2,7 @@
 
 [Intro] and [Chorus]
     Db                                       Db
-  D   C B Bb  F    G5                      D   C B Bb  F    G5
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +         1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+  [D]1 + [C]2 [B]+ [Bb]3 + [F]4 +  [G5]1 + 2 + 3 + 4 +         [D]1 + [C]2 [B]+ [Bb]3 + [F]4 +  [G5]1 + 2 + 3 + 4 +
 e|----------------|3---------------|     e|----------------|3---------------|
 B|----------------|3---------------|     B|----------------|3---------------|
 G|----------------|0---------------| or  G|----------------|0---------------|
@@ -25,102 +24,66 @@ G    3-5-5-4-3-3
 
 
 [Verse 1]
-D          Bb       F     C
-Look, he's crawling up my wall
-C         G5     Bb   F   G5
-Black and hairy, very sma-all
-C        G5  Bb      F   C
-Now he's up above my hea-ead
-C       G5   Bb     F     G5
-Hanging by a little threa-ead
+[D]Look, he's [Bb]crawling [F]up my [C]wall
+[C]Black and [G5]hairy, [Bb]very [F]sma-[G5]all
+[C]Now he's [G5]up a[Bb]bove my [F]hea-[C]ead
+[C]Hanging [G5]by a [Bb]little [F]threa-[G5]ead
 
 
 [Chorus]
-D         Bb F   | G5 |
-Boris the spider
-D         Bb F   | G5 |
-Boris the spider
+[D]Boris the [Bb]spi[F]der [G5]
+[D]Boris the [Bb]spi[F]der [G5]
 
 
 [Verse 2]
-D        Bb        F        C
-Now he's dropped onto the floor
-C       G5      Bb      F  G5
-Heading for the bedroom do-or
-C     G5      Bb        F  C
-Maybe he's as scared as me-e
-C          G5        Bb      F   G5
-Where's he gone now, I can't see-ee
+[D]Now he's [Bb]dropped on[F]to the fl[C]oor
+[C]Heading [G5]for the [Bb]bedroom [F]do-[G5]or
+[C]Maybe [G5]he's as [Bb]scared as [F]me-[C]e
+[C]Where's he [G5]gone now, [Bb]I can't [F]see-[G5]ee
 
 
 [Chorus]
-D         Bb F   | G5 |
-Boris the spider
-D         Bb F   | G5 |
-Boris the spider
+[D]Boris the [Bb]spi[F]der [G5]
+[D]Boris the [Bb]spi[F]der [G5]
 
 
 [Bridge]
-G5
-Creepy, crawly
-G5
-Creepy, crawly
-G5
-Creepy, creepy, crawly, crawly
-G5
-Creepy, creepy, crawly, crawly
-G5
-Creepy, creepy, crawly, crawly
-G5
-Creepy, creepy, crawly, crawly
+[G5]Creepy, crawly
+[G5]Creepy, crawly
+[G5]Creepy, creepy, crawly, crawly
+[G5]Creepy, creepy, crawly, crawly
+[G5]Creepy, creepy, crawly, crawly
+[G5]Creepy, creepy, crawly, crawly
 
 
 [Verse 3]
-D        Bb         F       C
-There he is wrapped in a ba-all
-C       G5      Bb      F G5
-Doesn't seem to move at a-all
-   C         G5         Bb        F  C
-Perhaps he's dead, I'll just make su-ure
-C         G5      Bb      F   G5
-Pick this book up off the flo-or
+[D]There he [Bb]is wrapped [F]in a ba-[C]all
+[C]Doesn't [G5]seem to [Bb]move at [F]a-[G5]all
+Per[C]haps he's [G5]dead, I'll [Bb]just make [F]su-[C]ure
+[C]Pick this [G5]book up [Bb]off the [F]flo-[G5]or
 
 
 [Chorus]
-D         Bb F   | G5 |
-Boris the spider
-D         Bb F   | G5 |
-Boris the spider
+[D]Boris the [Bb]spi[F]der [G5]
+[D]Boris the [Bb]spi[F]der [G5]
 
 
 [Bridge]
-G5
-Creepy, crawly
-G5
-Creepy, crawly
-G5
-Creepy, creepy, crawly, crawly
-G5
-Creepy, creepy, crawly, crawly
-G5
-Creepy, creepy, crawly, crawly
-G5
-Creepy, creepy, crawly, crawly
+[G5]Creepy, crawly
+[G5]Creepy, crawly
+[G5]Creepy, creepy, crawly, crawly
+[G5]Creepy, creepy, crawly, crawly
+[G5]Creepy, creepy, crawly, crawly
+[G5]Creepy, creepy, crawly, crawly
 
 
 [Verse 4]
-D         Bb   F      C
-He's come to a sticky end
-C           G5      Bb   F  G5
-Don't think he will ever me-end
-C     G5        Bb        F   C
-Never more will he crawl 'rou-ound
-C      G5     Bb     F    G5
-He's embedded in the grou-ound
+[D]He's come [Bb]to a [F]sticky [C]end
+[C]Don't think [G5]he will [Bb]ever [F]me-[G5]end
+[C]Never [G5]more will [Bb]he crawl '[F]rou-[C]ound
+[C]He's em[G5]bedded [Bb]in the [F]grou-[G5]ound
 
 
 [Chorus]
-D         Bb F   | G5 |
-Boris the spider
-D         Bb F    G
-Boris the spider
+[D]Boris the [Bb]spi[F]der [G5]
+[D]Boris the [Bb]spi[F]der [G]
