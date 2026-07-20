@@ -6,106 +6,59 @@ The Beatles  1967 **
 
 https://en.wikipedia.org/wiki/Hello,_Goodbye
 
-Dm           C
-You say yes, I say no 
-G7               Am            G
-You say stop and I say go, go, go 
-Am    G7
-  Oh, no 
-G            G7     F        C
-You say goodbye and I say hello 
-          Am   C
-Hello, hello 
-             F               G# *
-I don't know why you say goodbye 
-         C
-I say hello 
-          Am  C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello 
+[Dm]You say yes, [C]I say no 
+[G7]You say stop and [Am]I say go, go, [G]go 
+[Am]  Oh, [G7]no 
+[G]You say goodb[G7]ye and [F]I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
 
-Dm          C
-I say high, you say low 
-G7               Am            G
-You say why, and I say I don't know 
-Am    G7
-  Oh, no 
-G           G7      F        C
-You say goodbye and I say hello 
-          Am   C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello 
-          Am  C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello
+[Dm]I say high, [C]you say low 
+[G7]You say why, and [Am]I say I don't [G]know 
+[Am]  Oh, [G7]no 
+[G]You say good[G7]bye and [F]I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo
 
-Dm   C                  G7
-         Why, why, why, why, why, why 
-       Am
-Do you say good bye 
-    G                       Am
-Goodbye, bye, bye, bye, bye 
+[Dm]     [C]    Why, why, why, [G7]why, why, why 
+Do you [Am]say good bye 
+Good[G]bye, bye, bye, bye, bye [Am]
 
-Am    G7
-  Oh, no 
-G           G7      F        C
-You say goodbye and I say hello 
-          Am  C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello 
-          Am  C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello 
+[Am]  Oh, [G7]no 
+[G]You say good[G7]bye and [F]I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
 
-Dm           C
-You say yes, I say no 
-G7               Am            G7
-You say stop and I say go, go, go 
-Am    G7
-  Oh, no 
-G           G7      F        C
-You say goodbye and I say hello 
-          Am   C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello 
-          Am  C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         C
-I say hello 
-          Am  C
-Hello, hello 
-             F               G#
-I don't know why you say goodbye 
-         G# C      G# F
-I say hello hello  o
+[Dm]You say yes, [C]I say no 
+[G7]You say stop and [Am]I say go, go, [G7]go 
+[Am]  Oh, [G7]no 
+[G]You say good[G7]bye and [F]I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[C]lo 
+Hello, hel[Am]lo [C]
+I don't know [F]why you say good[G#]bye 
+I say hel[G#]lo [C]hello  [G#]o [F]
 
-   C  Am  C      
-hellllooooo 
+hel[C]lll[Am]oooo[C]o 
 
-C             Am ***
-Hela, heba helloa 
-C             Am
-Hela, heba helloa   10x
+[C]Hela, heba hel[Am]loa 
+[C]Hela, heba hel[Am]loa   10x
 
 *  Some folks prefer Fm here
 
