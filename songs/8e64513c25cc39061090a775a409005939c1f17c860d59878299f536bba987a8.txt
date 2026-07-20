@@ -1,23 +1,15 @@
 ----------------------------------------------------------------------
 Song name: Auld Lang Syne  by  Misc Traditional
 ----------------------------------------------------------------------
-       F                C7
-Should old acquaintance be forgot
-    F                Bb
-And never brought to mind
-       F                C7
-Should old acquaintance be forgot
-A   Dm      Gm7  C7   F
-And days of auld lang syne
+Should [F]old acquaintance [C7]be forgot
+And [F]never brought to [Bb]mind
+Should [F]old acquaintance [C7]be forgot
+[A]And [Dm]days of [Gm7]auld [C7]lang [F]syne
 
-    F         C7
-For auld lang syne, my dear,
-    F         Bb
-For auld lang syne,
-      F             C7
-We'll take a cup o' kindness yet
-A   Dm      Gm7  C7   F
-And days of auld lang syne
+For [F]auld lang [C7]syne, my dear,
+For [F]auld lang [Bb]syne,
+We'll [F]take a cup o' [C7]kindness yet
+[A]And [Dm]days of [Gm7]auld [C7]lang [F]syne
 
 The original poem has another verse, but nobody ever sings it. 
 
