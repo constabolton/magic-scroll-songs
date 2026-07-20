@@ -24,56 +24,37 @@ droning C note going.)
 
 [Intro]
 
-C Cadd4
-(hammering onto the 4th string at the 2nd fret)
+[C](h[Cadd4]ammering onto the 4th string at the 2nd fret)
 
 
 [Verse 1]
 
-G                                           F          C
-You must leave now, take what you need, you think will last
-        G                          F      C
-But whatever you wish to keep, you better grab it fast
-Dm                 F               C
-Yonder stands your orphan with his gun
-Dm            F           C
-Crying like a fire in the sun
-E7                      F      G
-Look out the saints are coming through
-    Dm            F         C
-And it's all over now, Baby Blue.
+[G]You must leave now, take what you need, you [F]think will [C]last
+But what[G]ever you wish to keep, you [F]better [C]grab it fast
+[Dm]Yonder stands your [F]orphan with his [C]gun
+[Dm]Crying like a [F]fire in the [C]sun
+[E7]Look out the saints are [F]coming [G]through
+And [Dm]it's all over [F]now, Baby [C]Blue.
 
 
 [Verse 2]
 
-G                            F      C
-The highway is for gamblers, better use your sense.
-G                           F      C
-Take what you have gathered from coincidence.
-    Dm           F                 C
-The empty-handed painter from your streets
-   Dm            F                C
-Is drawing crazy patterns on your sheets.
-E7                       F     G
-The sky, too, is folding under you
-    Dm            F         C
-And it's all over now, Baby Blue.
+[G]The highway is for gamblers, [F]better [C]use your sense.
+[G]Take what you have gathered [F]from co[C]incidence.
+The [Dm]empty-handed [F]painter from your [C]streets
+Is [Dm]drawing crazy [F]patterns on your [C]sheets.
+[E7]The sky, too, is folding [F]under [G]you
+And [Dm]it's all over [F]now, Baby [C]Blue.
 
 
 [Verse 3]
 
-G                         F        C
-All your seasick sailors, they are rowing home.
-     G                    F           C
-Your empty handed armies, they're all going home.
-     Dm        F                   C
-Your lover who just walked out the door
-    Dm            F                 C
-Has taken all his blankets from the floor.
-    E7                    F      G
-The carpet, too, is moving under you
-    Dm            F         C
-And it's all over now, Baby Blue.
+[G]All your seasick sailors, [F]they are [C]rowing home.
+Your [G]empty handed armies, [F]they're all [C]going home.
+Your [Dm]lover who [F]just walked out the [C]door
+Has [Dm]taken all his [F]blankets from the [C]floor.
+The [E7]carpet, too, is moving[F] under [G]you
+And [Dm]it's all over [F]now, Baby [C]Blue.
 
 
 [Harmonica Solo]
@@ -88,15 +69,9 @@ Dm    F   C
 
 [Verse 4]
 
-           G                           F              C
-Leave your stepping stones behind, now something that calls for you.
-   G                              F        C
-Forget the dead you've left, they will not follow you.
-    Dm             F               C
-The vagabond who's rapping at your door
-   Dm              F                     C
-Is standing in the clothes that you once wore.
-E7                       F      G
-Strike another match, go start anew
-    Dm            F         C
-And it's all over now, Baby Blue.
+Leave your [G]stepping stones behind, now [F]something that [C]calls for you.
+For[G]get the dead you've left, they [F]will not [C]follow you.
+The [Dm]vagabond who's [F]rapping at your [C]door
+Is [Dm]standing in the [F]clothes that you once [C]wore.
+[E7]Strike another match, go [F]start a[G]new
+And [Dm]it's all over [F]now, Baby [C]Blue.
