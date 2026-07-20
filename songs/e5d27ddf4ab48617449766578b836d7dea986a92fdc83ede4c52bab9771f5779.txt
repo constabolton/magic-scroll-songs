@@ -3,66 +3,44 @@ Song name: How Sweet It Is  by  James Taylor
 ----------------------------------------------------------------------
 [Chorus]
 
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you
-Cmaj7          Am       D11      G    C/G G C/G G C/D 
-  How sweet it is to be loved by you
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [F] [Em] [Dm]
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [C/D]
 
 
 [Verse 1]
 
-G                         Em
-  I needed the shelter of someone's arms
-D7          C#7  C7
-  and there you were
-G                          Em
-  I needed someone to understand my ups and downs
-D7          C#7  C7
-  and there you were
-G7                       C7
-  With sweet love and devotion
-Em                     C   C#dim7
-   deeply touching my emotion
-          G  C/G G            C
-I want to stop and thank you baby
-          G  N.C.            G F Em Dm
-I want to stop and thank you baby, yes I do
+[G]  I needed the shelter of [Em]someone's arms
+[D7]  and there [C#7]you w[C7]ere
+[G]  I needed someone to under[Em]stand my ups and downs
+[D7]  and there [C#7]you w[C7]ere
+[G7]  With sweet love and dev[C7]otion
+[Em]   deeply touching my e[C]moti[C#dim7]on
+I want to [G]sto[C/G]p an[G]d thank you b[C]aby
+I want to [G]stop and thank you [G]ba[F]by[Em], y[Dm]es I do
 
 
 [Chorus]
 
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you
-Cmaj7          Am       D11      G    C/G G C/G G C/D 
-  How sweet it is to be loved by you
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [F] [Em] [Dm]
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [C/D]
 
 
 [Verse 2]
 
-G                     Em
-  I close my eyes at night,
-D7                             C#7  C7
-wondering where would I be without you in my life
-G                      Em
-  Everything I did was just a bore,
-D7                    C#7       C
-everywhere I went it seems I'd been there before
-    G7                         C7
-But you brightened up for me all of my days
-Em                         C        C#dim7
-   With a love so sweet in so many ways
-          G  C/G G            C
-I want to stop and thank you baby
-          G  N.C.            G F Em Dm
-I want to stop and thank you baby
+[G]  I close my eyes at n[Em]ight,
+[D7]wondering where would I be with[C#7]out y[C7]ou in my life
+[G]  Everything I did was [Em]just a bore,
+[D7]everywhere I went it s[C#7]eems I'd b[C]een there before
+But [G7]you brightened up for me al[C7]l of my days
+[Em]   With a love so sweet in [C]so many w[C#dim7]ays
+I want to [G]sto[C/G]p an[G]d thank you b[C]aby
+I want to [G]stop and thank you [G]ba[F]by[Em] [Dm]
 
 
 [Chorus]
 
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you
-Cmaj7          Am       D11      G    C/G G C/G G C/D 
-  How sweet it is to be loved by you
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [F] [Em] [Dm]
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [C/D]
 
 
 [Instrumental]
@@ -74,30 +52,20 @@ G    Em    D7  C#7  C7
 
 [2nd half of verse]
 
-G7                             C7
- You were better to me than I was to myself
-    Em                              C      C#dim7
-For me, there's you and there ain't nobody else
-          G  C/G G            C
-I want to stop and thank you baby
-          G  N.C.            G F Em Dm
-I want to stop and thank you baby
+[G7] You were better to me than I w[C7]as to myself
+For [Em]me, there's you and there ain't [C]nobody [C#dim7]else
+I want to [G]sto[C/G]p an[G]d thank you b[C]aby
+I want to [G]stop and thank you [G]ba[F]by[Em] [Dm]
 
 
 [Chorus]
 
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you, oh now
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you, it's like jelly, baby
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  How sweet it is to be loved by you, just like honey to the bee, baby
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  (How sweet it is to be loved by you)
-Cmaj7          Am       D11      G    C/G G C/G G F Em Dm 
-  (How sweet it is to be loved by you)
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you [C/G] [G] [C/G] [G] [F] [Em] [Dm]
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you, [C/G]oh n[G]ow[C/G] [G] [F] [Em] [Dm]
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you, [C/G]it's[G] l[C/G]ike [G]je[F]ll[Em]y, [Dm]baby
+[Cmaj7]  How sweet it [Am]is to be [D11]loved by [G]you, [C/G]just[G] l[C/G]ike [G]ho[F]ne[Em]y t[Dm]o the bee, baby
+[Cmaj7]  (How sweet it[Am] is to be[D11] loved by[G] you)[C/G] [G] [C/G] [G] [F] [Em] [Dm]
+[Cmaj7]  (How sweet it[Am] is to be[D11] loved by[G] you)[C/G] [G] [C/G] [G] [F] [Em] [Dm]
 
 (fade out)
 
