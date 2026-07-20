@@ -12,74 +12,50 @@ There’s something a little weird about the the C chords.  I think John adds a 
 C  F  C  F
 
 [Verse 1]
-C
-  Got up before dawn
-F                           C    F
-  Went down to the racetrack
-C
-   Riding with the windows down
-F                                    C     F
-   Shortly after your first heart attack
-Am                           C
-   You parked behind the paddock
-Am                          C
-   Cracking asphalt underfoot
-Am                           C
-   Coming up through the cracks
+[C]  Got up before dawn
+[F]  Went down to the racetrack[C] [F]
+[C]   Riding with the windows down
+[F]   Shortly after your first heart att[C]ack [F]
+[Am]   You parked behind the padd[C]ock
+[Am]   Cracking asphalt underfoo[C]t
+[Am]   Coming up through the crac[C]ks
 
 
 [Chorus]
-             G                  C
-Pale green things, pale green things
+Pale green th[G]ings, pale green th[C]ings
 
 C  F  C  F
 
 
 [Verse 2]
-C
-   You watched the horses run their workouts
-F                                          C     F
-   You held your stopwatch in your left hand
-C
-   And a Racing Form beneath your arm
-F                                         C     F
-   Casting your gaze way out to no man's land
-Am                                  C
-   Sometimes I'll meet you out there
-Am                 C
-   Lonely and frightened
-Am                                    C
-   Flicking my tongue out at the wet leaves
+[C]   You watched the horses run their workouts
+[F]   You held your stopwatch in your left han[C]d [F]
+[C]   And a Racing Form beneath your arm
+[F]   Casting your gaze way out to no man's l[C]and [F]
+[Am]   Sometimes I'll meet you out there[C]
+[Am]   Lonely and frigh[C]tened
+[Am]   Flicking my tongue out at the wet l[C]eaves
 
 
 [Chorus]
-             G                  C
-Pale green things, pale green things
+Pale green th[G]ings, pale green th[C]ings
 
 
 C  F  C  F  C  F  C  F  Am  C  Am  C  Am  C  G  C
 
 
 [Verse 3]
-C
-   My sister called at 3 AM
-F                    C    F
-   Just last December
-C
-   She told me how you'd died at last, at last
-F                                           C                     F
-   That morning at the racetrack was one thing that I remembered
-Am                                  C
-   I turned it over in my mind
-Am                                  C
-   Like a living Chinese finger trap
-Am                               C
-   Seaweed in Indiana sawgrass
+[C]   My sister called at 3 AM
+[F]   Just last December[C] [F]
+[C]   She told me how you'd died at last, at last
+[F]   That morning at the racetrack was one thi[C]ng that I remembered [F]
+[Am]   I turned it over in my mind [C]
+[Am]   Like a living Chinese finger trap[C]
+[Am]   Seaweed in Indiana sawgrass [C]
 
 
 [Chorus]
-             G                  C
-Pale green things, pale green things
+Pale green th[G]ings, pale green th[C]ings
 
 
 C  F  C  F  C  F  C  F  Am  C  Am  C  Am  C  G  C
