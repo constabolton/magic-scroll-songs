@@ -23,31 +23,23 @@ Intro:
 
 CHORUS
 
-B           A                 E          B
-Lovely Rita meter maid      Lovely Rita meter maid
+[B]Lovely Rita [A]meter maid      Lo[E]vely Rita m[B]eter maid
 
 
-E           D     A    E                  B
-Lovely Rita meter maid nothing can come between us
-C#m                 F#7             B
-When it gets dark I tow your heart away
+[E]Lovely Rita [D]meter [A]maid [E]nothing can come be[B]tween us
+[C#m]When it gets dark I [F#7]tow your heart a[B]way
 
-E             A             D                G
-Standing by a parking meter  when I caught a glimpse of Rita
-E                          B
-filling in a ticket in her little white book
+[E]Standing by a [A]parking meter [D] when I caught a [G]glimpse of Rita
+[E]filling in a ticket in her [B]little white book
 
 In a cap whe looked much older, and the bag across her shoulder
 made her look a little like a military man
 
 |E C#m F#m7 B7|
 
-E           D     A    E                B
-Lovely Rita meter maid may I enquire discreetly
-C#m                  F#7               |B   A/B   |G#m/B   F#m/B   |
-When are you free to take some tea with me?
-E6/B        B7          |E    D A|E   B7   |E   F#7   |B7          |
-Ah                Rita
+[E]Lovely Rita [D]meter [A]maid [E]may I enquire dis[B]creetly
+[C#m]When are you free to [F#7]take some tea with me? [A/B] [F#m/B]
+[E6/B]Ah          [B7]      Rita [D] [B7] [F#7]
 
 
 CHORUS
