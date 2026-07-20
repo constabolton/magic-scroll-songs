@@ -3,132 +3,80 @@ Song name: Lets Do It Lets Fall In Love  by  Cole Porter
 ----------------------------------------------------------------------
 [Verse 1]
 
-F7       Bb         F7           Bb           F7
-When the little Bluebird who has never said a word
-          Bb     Bb+     Bb6     Bb+ Bb F+ Bb6
-Starts to sing: “Spring, spring”
-F7       Bb         F7           Bb            F7
-When the little Bluebell, in the bottom of the dell
-          Bb     Bb+   Bb6   Bb+ Bb F+ Bb6
-Starts to ring: “Ding, ding”
-Bb+      Gm     Gm/F# Gm/F          C7            F7
-When the little blue  clerk, in the middle of his work,
-         Bb          Bdim    F7
-Starts a tune to the moon up above
-F+    Bb             Bb7         Eb                 Ebm Bb   F+ Bb6 F+ Bb6
-It is nature, that’s all, simply telling us to fall in  love
+[F7]When the [Bb]little Blue[F7]bird who has [Bb]never said a [F7]word
+Starts to [Bb]sing: “[Bb+]Spring, [Bb6]spring” [Bb+] [Bb] [F+] [Bb6]
+[F7]When the [Bb]little Blue[F7]bell, in the [Bb]bottom of the [F7]dell
+Starts to [Bb]ring: “[Bb+]Ding, [Bb6]ding” [Bb+] [Bb] [F+] [Bb6]
+[Bb+]When the [Gm]little [Gm/F#]blue  [Gm/F]clerk, in the [C7]middle of his [F7]work,
+Starts a [Bb]tune to the [Bdim]moon up [F7]above
+[F+]It is [Bb]nature, that’s [Bb7]all, simply [Eb]telling us to fall [Ebm]in  [Bb]love [F+] [Bb6] [F+] [Bb6]
 
 
 [Verse 2]
 
-F+             Bb    Gm     Cm   F7
-And that’s why birds do it, bees do it
-Bb     Bb7      Eb    Ebm   Bb      Gm    Cm      F7      Bb   Bdim
-  Even educated fleas do it,  Let’s do it.  Let’s fall in love
-Cm  F7         Bb   Gm    Cm   F7
- In Spain, the best upper sets do it, 
-Bb     Bb7        Eb    Ebm   Bb      Gm    Cm      F7      Bb   Eb
-  Lithuanians and Letts do it,  Let’s do it.  Let’s fall in love
-Bb             Gm        Cm7       Bbmaj7               Bb7
-  The Dutch in old Amsterdam do it,  not to mention the Finns
-Eb         Ab7      Db                 F7
-Folks in Siam do it,  think of Siamese twins
-F+        Bb    Gm      Cm    F7
-Some Argentines without means do it
-Bb            Bb7         Eb    Ebm   
-People say in Boston even beans do it,  
-Bb    Gm    Cm     F7      Bb   Ebm Bb
-Let’s do it. Let’s fall in love
+[F+]And that’s why [Bb]birds [Gm]do it, [Cm]bees [F7]do it
+[Bb]  Even [Bb7]educated [Eb]fleas [Ebm]do it,[Bb]  Let’s [Gm]do it.[Cm]  Let’s [F7]fall in [Bb]love [Bdim]
+[Cm] In [F7]Spain, the [Bb]best [Gm]upper [Cm]sets [F7]do it, 
+[Bb]  Lithu[Bb7]anians and [Eb]Letts [Ebm]do it,[Bb]  Let’s [Gm]do it.[Cm]  Let’s [F7]fall in [Bb]love [Eb]
+[Bb]  The Dutch in [Gm]old Amster[Cm7]dam do it,[Bbmaj7]  not to mention the [Bb7]Finns
+[Eb]Folks in Si[Ab7]am do it,[Db]  think of Siamese [F7]twins
+[F+]Some Argen[Bb]tines [Gm]without [Cm]means [F7]do it
+[Bb]People say in [Bb7]Boston even [Eb]beans [Ebm]do it,  
+[Bb]Let’s [Gm]do it.[Cm] Let’s [F7]fall in [Bb]love [Ebm] [Bb]
 
 (Additional verses from various performances)
 
 
 [Verse 3]
 
-F+             Bb    Gm     Cm   F7
-Romantic sponges, they say, do it
-Bb     Bb7      Eb    Ebm   Bb      Gm    Cm      F7      Bb   Bdim
-Oysters, down in Oyster Bay, do it, Let’s do it. Let’s fall in love
-Cm  F7         Bb   Gm    Cm   F7
-Cold Cape Cod clams ’gainst their wish, do it
-Bb     Bb7        Eb    Ebm   Bb      Gm    Cm      F7      Bb   Eb
-Even lazy jellyfish do it, Let’s do it. Let’s fall in love
-Bb             Gm        Cm7       Bbmaj7               Bb7
-Electric eels, I might add, do it though it shocks them I know
-Eb         Ab7      Db                 F7
-Why ask if shad do it, waiter, bring me shad roe.
-Bb            Bb7         Eb    Ebm   
-In shallow shoals, English soles do it
-Bb            Bb7         Eb    Ebm   
-Goldfish in the privacy of bowls do it
-Bb    Gm    Cm     F7      Bb   Ebm Bb
-Let’s do it. Let’s fall in love
+[F+]Romantic sponge[Bb]s, the[Gm]y say, [Cm]do it[F7]
+[Bb]Oysters[Bb7], down in[Eb] Oyste[Ebm]r Bay,[Bb] do it, [Gm]Let’s [Cm]do it. L[F7]et’s fal[Bb]l in [Bdim]love
+[Cm]Cold[F7] Cape Cod c[Bb]lams [Gm]’gains[Cm]t the[F7]ir wish, do it
+[Bb]Even la[Bb7]zy jellyfis[Eb]h do i[Ebm]t, Let[Bb]’s do it[Gm]. Let’[Cm]s fall i[F7]n love [Bb] [Eb]
+[Bb]Electric eels, [Gm]I might ad[Cm7]d, do it t[Bbmaj7]hough it shocks them [Bb7]I know
+[Eb]Why ask if [Ab7]shad do i[Db]t, waiter, bring me[F7] shad roe.
+[Bb]In shallow sho[Bb7]als, English[Eb] soles[Ebm] do it
+[Bb]Goldfish in th[Bb7]e privacy of[Eb] bowls[Ebm] do it
+[Bb]Let’s [Gm]do it.[Cm] Let’s [F7]fall in [Bb]love [Ebm] [Bb]
 
 
 [Verse 4]
 
-F+             Bb    Gm     Cm   F7
-Mosquitoes, heaven forbid, do it
-Bb     Bb7      Eb    Ebm   Bb      Gm    Cm      F7      Bb   Bdim
-So does every katydid do it, Let’s do it. Let’s fall in love
-Cm  F7         Bb   Gm    Cm   F7
-Dragonflies in the reeds do it
-Bb     Bb7        Eb    Ebm   Bb      Gm    Cm      F7      Bb   Eb
-Sentimental centipedes do it, Let’s do it. let’s fall in love
-Bb             Gm        Cm7       Bbmaj7               Bb7
-The most refined ladybugs do it when a gentleman calls 
-Eb         Ab7      Db                 F7
-Moths in your rugs do it. What's the use of moth balls? 
-Bb            Bb7         Eb    Ebm   
-The locusts up in the trees do it 
-Bb            Bb7         Eb    Ebm   
-Even over-educated fleas do it 
-Bb    Gm    Cm     F7      Bb   Ebm Bb
-Let’s do it. Let’s fall in love.
+[F+]Mosquitoes, hea[Bb]ven fo[Gm]rbid, d[Cm]o it [F7]
+[Bb]So does[Bb7] every ka[Eb]tydid [Ebm]do it,[Bb] Let’s d[Gm]o it. [Cm]Let’s fa[F7]ll in lo[Bb]ve [Bdim]
+[Cm]Drag[F7]onflies in [Bb]the r[Gm]eeds d[Cm]o it [F7]
+[Bb]Sentime[Bb7]ntal centip[Eb]edes d[Ebm]o it, [Bb]Let’s do[Gm] it. l[Cm]et’s fal[F7]l in lov[Bb]e [Eb]
+[Bb]The most refine[Gm]d ladybugs[Cm7] do it whe[Bbmaj7]n a gentleman calls [Bb7]
+[Eb]Moths in yo[Ab7]ur rugs d[Db]o it. What's the us[F7]e of moth balls? 
+[Bb]The locusts up[Bb7] in the tree[Eb]s do i[Ebm]t 
+[Bb]Even over-educ[Bb7]ated fleas d[Eb]o it [Ebm]
+[Bb]Let’s [Gm]do it.[Cm] Let’s [F7]fall in [Bb]love.[Ebm] [Bb]
 
 
 [Verse 5]
 
-F+             Bb    Gm     Cm   F7
-The chimpanzees in the zoos, do it,
-Bb     Bb7      Eb    Ebm   Bb      Gm    Cm      F7      Bb   Bdim
-Some courageous kangaroos do it, Let’s do it. Let’s fall in love
-Cm  F7         Bb   Gm    Cm   F7
-I’m sure giraffes on the sly do it
-Bb     Bb7        Eb    Ebm   Bb      Gm    Cm      F7      Bb   Eb
-Heavy hippopotami do it, Let’s do it. let’s fall in love
-Bb             Gm        Cm7       Bbmaj7               Bb7
-Old sloths who hang down from twigs do it though the effort is great
-Eb         Ab7      Db                 F7
-Sweet guinea pigs do it; buy a couple and wait
-Bb            Bb7         Eb    Ebm   
-The world admits bears in pits do it,
-Bb            Bb7         Eb    Ebm   
-Even Pekingeses in the Ritz do it, 
-Bb    Gm    Cm     F7      Bb   Ebm Bb
-Let’s do it. Let’s fall in love.
+[F+]The chimpanzees[Bb] in th[Gm]e zoos,[Cm] do i[F7]t,
+[Bb]Some co[Bb7]urageous [Eb]kangar[Ebm]oos do[Bb] it, Let[Gm]’s do [Cm]it. Let’[F7]s fall i[Bb]n lov[Bdim]e
+[Cm]I’m [F7]sure giraff[Bb]es on[Gm] the s[Cm]ly do[F7] it
+[Bb]Heavy h[Bb7]ippopotami [Eb]do it,[Ebm] Let’s[Bb] do it. [Gm]let’s [Cm]fall in [F7]love [Bb] [Eb]
+[Bb]Old sloths who [Gm]hang down [Cm7]from twigs[Bbmaj7] do it though the eff[Bb7]ort is great
+[Eb]Sweet guine[Ab7]a pigs do[Db] it; buy a couple a[F7]nd wait
+[Bb]The world admi[Bb7]ts bears in [Eb]pits d[Ebm]o it,
+[Bb]Even Pekingese[Bb7]s in the Rit[Eb]z do i[Ebm]t, 
+[Bb]Let’s [Gm]do it.[Cm] Let’s [F7]fall in [Bb]love.[Ebm] [Bb]
 
 
 [Verse 6]
 
-F+             Bb    Gm     Cm   F7
-The nightingales in the dark do it
-Bb     Bb7      Eb    Ebm   Bb      Gm    Cm      F7      Bb   Bdim
-Larks crazy for a lark do it, Let’s do it. Let’s fall in love
-Cm  F7         Bb   Gm    Cm   F7
-Canaries caged in the house do it
-Bb     Bb7        Eb    Ebm   Bb      Gm    Cm      F7      Bb   Eb
-When they’re out of season grouse do it let’s do it. Let’s fall in love.
-Bb             Gm        Cm7       Bbmaj7               Bb7
-The most sedate barnyard fowls do it when a chanticleer cries.
-Eb         Ab7      Db                 F7
-Highbrowed old owls do it; they’re supposed to be wise
-Bb            Bb7         Eb    Ebm   
-Penguins in flocks on the rocks do it
-Bb            Bb7         Eb    Ebm   
-Even little cuckoos in their clocks do it
-Bb    Gm    Cm     F7      Bb   Ebm Bb
-Let’s do it. Let’s fall in love
+[F+]The nightingale[Bb]s in t[Gm]he dark[Cm] do i[F7]t
+[Bb]Larks c[Bb7]razy for [Eb]a lark[Ebm] do it[Bb], Let’s [Gm]do it.[Cm] Let’s f[F7]all in l[Bb]ove [Bdim]
+[Cm]Cana[F7]ries caged [Bb]in th[Gm]e hous[Cm]e do [F7]it
+[Bb]When th[Bb7]ey’re out o[Eb]f seas[Ebm]on gro[Bb]use do i[Gm]t let’[Cm]s do it.[F7] Let’s f[Bb]all i[Eb]n love.
+[Bb]The most sedate[Gm] barnyard [Cm7]fowls do i[Bbmaj7]t when a chanticleer [Bb7]cries.
+[Eb]Highbrowed [Ab7]old owls [Db]do it; they’re supp[F7]osed to be wise
+[Bb]Penguins in fl[Bb7]ocks on the [Eb]rocks [Ebm]do it
+[Bb]Even little cu[Bb7]ckoos in the[Eb]ir clo[Ebm]cks do it
+[Bb]Let’s [Gm]do it.[Cm] Let’s [F7]fall in [Bb]love [Ebm] [Bb]
 
 
 [Instrumental]
@@ -138,13 +86,8 @@ Bb     Bb7      Eb    Ebm   Bb      Gm    Cm      F7      Bb   Bdim
 Cm  F7         Bb   Gm    Cm   F7
 Bb     Bb7        Eb    Ebm   Bb      Gm    Cm      F7      Bb   Eb
 
-Bb             Gm        Cm7       Bbmaj7               Bb7
-The royal set sans regret did it and they considered it fun 
-Eb         Ab7      Db                 F7
-Marie antoinette did it - with or without napoleon 
-Bb            Bb7         Eb    Ebm   
-Parliament's pleasure bent do it 
-Bb            Bb7         Eb    Ebm   
-Mam'selles every time they're short of rent do it 
-Bb    Gm    Cm     F7      Bb   Ebm Bb
-Let’s do it. Let’s fall in love
+[Bb]The royal set s[Gm]ans regret[Cm7] did it an[Bbmaj7]d they considered it [Bb7]fun 
+[Eb]Marie antoi[Ab7]nette did[Db] it - with or witho[F7]ut napoleon 
+[Bb]Parliament's p[Bb7]leasure bent[Eb] do it[Ebm] 
+[Bb]Mam'selles eve[Bb7]ry time they[Eb]'re sh[Ebm]ort of rent do it 
+[Bb]Let’s [Gm]do it.[Cm] Let’s [F7]fall in [Bb]love [Ebm] [Bb]
