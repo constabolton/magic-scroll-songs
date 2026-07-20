@@ -7,8 +7,7 @@ the album was recorded in a single take by Blake Mills on guitar - play around w
 on the A and E strings to emulate his wonderful playing style.
 
 [Intro]
-G
-(pluck the open low E string then Hammer on into a Barre G to sound like the recording)
+[G](pluck the open low E string then Hammer on into a Barre G to sound like the recording)
 
 [Whistling  Bit]
 Am G F
@@ -17,33 +16,21 @@ Am G F
 G F C
 
 [Verse]
-Am               G           F
-I keep hearing a vicious rumor
-G                          Dm                    Em
-From the back rooms, to the alleys, to the avenues
-Am                G             F
-That you lost your sense of humor
-G                      F              C
-And the first place you look is the soles of your shoes
+[Am]I keep hearing a [G]vicious rumo[F]r
+[G]From the back rooms, to the[Dm] alleys, to the avenue[Em]s
+[Am]That you lost your[G] sense of humo[F]r
+[G]And the first place you[F] look is the so[C]les of your shoes
 
-     Am            G           F
-And I watch these ice fields melt into the sea
-  G             Dm          Em
-Warming you're oceans to centuries
-          Am        G      F
-Will your saline waters bring you back to me?
-         G         F          C
-Oh the weight is bringing me to my knees
+And I[Am] watch these i[G]ce fields me[F]lt into the sea
+Wa[G]rming you're o[Dm]ceans to cen[Em]turies
+Will your [Am]saline wat[G]ers bri[F]ng you back to me?
+Oh the we[G]ight is br[F]inging me t[C]o my knees
 
 [Chorus]
-Am          C       G            F
-Chemical switches thrown in the dark
-        G         Dm         C
-All it takes is a spark to begin
-    Am            C           G          F
-And can you tell which is the one with a mark
-     G                  Dm            C
-That bleeds through the clothes to the skin
+[Am]Chemical swi[C]tches th[G]rown in the d[F]ark
+All it t[G]akes is a [Dm]spark to be[C]gin
+And [Am]can you tell w[C]hich is the [G]one with a [F]mark
+That [G]bleeds through the [Dm]clothes to the[C] skin
 
 [Whistling Interlude]
 Am G F
@@ -52,12 +39,9 @@ Am G F
 G F C
 
 [Verse]
-Am  G  F          G            Dm        Em
-Too long I keep searching the alleys and avenues
-        Am        G        F
-But it seems I'm doing it wrong
-          G            F         C
-For I've seen neither hide nor hair of you
+[Am]Too [G]lon[F]g I keep se[G]arching the a[Dm]lleys and [Em]avenues
+But it s[Am]eems I'm d[G]oing it w[F]rong
+For I've s[G]een neither h[F]ide nor ha[C]ir of you
 
 [Humming/Singing Interlude]
 Am G F
@@ -66,19 +50,12 @@ Am G F
 G F C
 
 [Bridge]
-             F          C          G          F
-And it's a short short walk from pebbles to bricks
-        G             F
-From stones back to sticks
-         G
-We're lowering the boiling point
-         Am      C          G       F
-And as time goes by, gets harder to fix
-          G      F           G           C
-It's a volatile mix, like hydrogen and oxygen
+And it's a sh[F]ort short w[C]alk from pe[G]bbles to br[F]icks
+From sto[G]nes back to st[F]icks
+We're low[G]ering the boiling point
+And as ti[Am]me goes [C]by, gets ha[G]rder to [F]fix
+It's a vol[G]atile m[F]ix, like hyd[G]rogen and ox[C]ygen
 
 [Chorus]
-Am          C       G            F
-Chemical switches thrown in the dark
-        G         Dm         C
-All it takes is a spark to begin
+[Am]Chemical swi[C]tches th[G]rown in the d[F]ark
+All it t[G]akes is a [Dm]spark to be[C]gin
