@@ -8,31 +8,20 @@ Dmaj7   Bm7   G    A
 
 [verse 1]
 
-Dmaj7          Bm7             G             A
-I hear the wind traveling down the Ko'olau
-Dmaj7             Bm7         G
-It touches my skin and makes me think of
-A          G           A
-How much I miss you, my Hawaii
-Dmaj7             Bm7               G             A
-I breathe the fragrance of the yellow ginger lei
-Dmaj7         Bm7            G                 A
-I look inside myself to find the words to say
-A           G            A
-How much I miss you, my Hawaii
+[Dmaj7]I hear the wind[Bm7] traveling down [G]the Ko'olau [A]
+[Dmaj7]It touches my skin[Bm7] and makes m[G]e think of
+[A]How much I [G]miss you, my[A] Hawaii
+[Dmaj7]I breathe the frag[Bm7]rance of the yello[G]w ginger lei [A]
+[Dmaj7]I look inside [Bm7]myself to find [G]the words to say [A]
+[A]How much I m[G]iss you, my H[A]awaii
 
 
 
-           G                    Dmaj7                      G             Dmaj7
-Every time I stop to watch the moon dance across the early evening sky
-             G               Dmaj7                  Em             A
-Every time I hear a country tune I can see the shores of Waianae
-              G             Dmaj7                   G                 Bm7
-Every time I listen to my heart telling me it longs to go back home
-                  Em
-And it makes me want to
-         A           Dmaj7
-Cause I miss you my love
+Every time [G]I stop to watch the m[Dmaj7]oon dance across the early [G]evening sky [Dmaj7]
+Every time I [G]hear a country t[Dmaj7]une I can see the shore[Em]s of Waianae [A]
+Every time I l[G]isten to my he[Dmaj7]art telling me it longs [G]to go back home [Bm7]
+And it makes me wa[Em]nt to
+Cause I m[A]iss you my l[Dmaj7]ove
 
 [instrumental]
 
@@ -40,44 +29,28 @@ Bm7 G A
 
 [verse 2]
 
-Dmaj7            Bm7             G                A
-I catch the glimmer of your face across the sky
-Dmaj7            Bm7             G           A
-I watch the setting sun and I begin to cry
-A          G            A
-Because I miss you, my Hawaii
-Dmaj7           Bm7           G          A
-I rest my head upon the sands of Waikiki
-Dmaj7           Bm7        G                A
-I close my eyes and I hear you calling me
-A       G             A
-How I miss you, my Hawaii
+[Dmaj7]I catch the glimm[Bm7]er of your face [G]across the sky [A]
+[Dmaj7]I watch the setti[Bm7]ng sun and I beg[G]in to cry [A]
+[A]Because I m[G]iss you, my H[A]awaii
+[Dmaj7]I rest my head u[Bm7]pon the sands [G]of Waikiki [A]
+[Dmaj7]I close my eyes [Bm7]and I hear [G]you calling me [A]
+[A]How I mi[G]ss you, my Haw[A]aii
 
 
-           G                Dmaj7                      G             Dmaj7
-Every time I stop to watch the moon dance across the early evening sky
-             G               Dmaj7                  Em             A
-Every time I hear a country tune I can see the shores of Waianae
-              G             Dmaj7                   G                 Bm7
-Every time I listen to my heart telling me it longs to go back home
-                  Em7
-And it makes me want to
-              A       Dmaj7
-Cause I miss you my love
+Every time [G]I stop to watch t[Dmaj7]he moon dance across the ea[G]rly evening sk[Dmaj7]y
+Every time I [G]hear a country t[Dmaj7]une I can see the shore[Em]s of Waianae [A]
+Every time I l[G]isten to my he[Dmaj7]art telling me it longs [G]to go back home [Bm7]
+And it makes me wa[Em7]nt to
+Cause I miss y[A]ou my lo[Dmaj7]ve
 
 
 [INSTRUMENTAL]
 
 
-           G                Dmaj7                      G             Dmaj7
-Every time I stop to watch the moon dance across the early evening sky
-             G               Dmaj7                  Em7             A
-Every time I hear a country tune I can see the shores of Waianae
-              G             Dmaj7                   G                 Bm7
-Every time I listen to my heart telling me it longs to go back home
-                  Em
-And it makes me want to
-              A       Dmaj7
-Cause I miss you my love
+Every time [G]I stop to watch t[Dmaj7]he moon dance across the ea[G]rly evening sk[Dmaj7]y
+Every time I [G]hear a country t[Dmaj7]une I can see the shore[Em7]s of Waianae [A]
+Every time I l[G]isten to my he[Dmaj7]art telling me it longs [G]to go back home [Bm7]
+And it makes me wa[Em]nt to
+Cause I miss y[A]ou my lo[Dmaj7]ve
 
 My Love
