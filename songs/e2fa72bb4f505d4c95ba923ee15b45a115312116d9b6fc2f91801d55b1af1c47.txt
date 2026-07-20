@@ -8,80 +8,60 @@ G C F
 
 [Verse 1]
 
-F        A7         Dm       A7
-Hanohano Hawai`i la lei i ka lehua la
-D7      G7      C7      F
-Kuahiwi nani la o Mauna Kea
+[F]Hanohano [A7]Hawai`i la [Dm]lei i ka [A7]lehua la
+[D7]Kuahiwi [G7]nani la [C7]o Mauna [F]Kea
 G C F
 
 [Verse 2]
 
-F         A7        Dm       A7
-Kilakila `o Maui la lei i ka roselani la
-D7      G7      C7       F
-Kuahiwi nani la o Haleakalâ
+[F]Kilakila `[A7]o Maui la [Dm]lei i ka [A7]roselani la
+[D7]Kuahiwi [G7]nani la [C7]o Haleaka[F]lâ
 G C F
 
 [Verse 3]
 
-F       A7       Dm        A7
-Ha`aheo O`ahu la lei i ka `ilima la
-D7      G7      C7     F
-Kuahiwi nani la a`o Ka`ala
+[F]Ha`aheo [A7]O`ahu la [Dm]lei i ka `[A7]ilima la
+[D7]Kuahiwi [G7]nani la [C7]a`o Ka`[F]ala
 G C F
 
 [Verse 4]
 
-F       A7        Dm           A7
-Kaulana Kaua`i la lei i ka mokihana la
-D7      G7      C7          F
-Kuahiwi nani la a`o Wai`ale`ale
+[F]Kaulana [A7]Kaua`i la [Dm]lei i ka moki[A7]hana la
+[D7]Kuahiwi [G7]nani la [C7]a`o Wai`ale`[F]ale
 G C F
 
 [Verse 5]*
 
-F       A7       Dm          A7
-Aîwaîwa Moloka`i la lei i ke kukui la
-D7      G7      C7    F
-Kuahiwi nani la o Kamakou
+[F]Aîwaîwa [A7]Moloka`i [Dm]la lei i ke [A7]kukui la
+[D7]Kuahiwi [G7]nani la [C7]o Kama[F]kou
 G C F
 
 [Verse 6]*
 
-F      A7        Dm         A7
-Hiehie Lâna`i la lei i ke kauna`oa la
-D7      G7      C7      F
-Kuahiwi nani la o Lâna`ihale
+[F]Hiehie [A7]Lâna`i la [Dm]lei i ke ka[A7]una`oa la
+[D7]Kuahiwi [G7]nani la [C7]o Lâna`i[F]hale
 G C F
 
 [Verse 7]*
 
-F        A7        Dm            A7
-Ua kapu `o Ni`ihau la lei i ka pûpû la
-D7      G7      C7      F
-Kuahiwi nani la o  Pânî`au
+[F]Ua kapu `[A7]o Ni`ihau [Dm]la lei i ka pû[A7]pû la
+[D7]Kuahiwi [G7]nani la [C7]o  Pânî`[F]au
 
 G C F
 
 [Verse 8]*
 
-F           A7      Dm           A7
-Panoa Kaho`olawe la lei i ka hinahina la
-D7      G7      C7     F
-Kuahiwi nani la o Luamakika
+[F]Panoa Kaho`o[A7]lawe la [Dm]lei i ka hina[A7]hina la
+[D7]Kuahiwi [G7]nani la [C7]o Luama[F]kika
 G C F
 
 [Outro]
 
-F       A7     Dm       A7
-Ha`ina `ia mai ana ka puana la
-D7      G7      C7            F
-Kuahiwi nani la a`o nâ moku `ewalu
+[F]Ha`ina `[A7]ia mai [Dm]ana ka pu[A7]ana la
+[D7]Kuahiwi [G7]nani la [C7]a`o nâ moku `e[F]walu
 G C F
 
-F       A7     Dm       A7
-Ha`ina `ia mai ana ka puana la
-D7       G7     C7       F
-Nâ moku `ehâ la o ka Pâkipika
+[F]Ha`ina `[A7]ia mai [Dm]ana ka pu[A7]ana la
+[D7]Nâ moku `[G7]ehâ la [C7]o ka Pâki[F]pika
 G C F
 G C F
