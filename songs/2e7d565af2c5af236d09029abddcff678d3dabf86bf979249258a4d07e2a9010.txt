@@ -2,53 +2,32 @@
 Song name: The Music Man - Lida Rose  by  Misc Soundtrack
 ----------------------------------------------------------------------
 [Verse]
- D             D#dim                           A7           A7sus
-Lida Rose / I'm home again Rose / To get the sun back / in the sky/
-                 C#7                      G     D    C#  D   C6
-Lida Rose / I'm home again Rose / About a thou-sand kiss-es shy/
-G                      D                    B7
-Ding dong ding / I can hear the chapel bell chime/
-G                        A7           B7     Em7          A7
-Ding dong ding / At the least sugges-tion / I'll pop the question/
+L[D]ida Rose / I'm[D#dim] home again Rose / To get the su[A7]n back / in t[A7sus]he sky/
+Lida Rose / I'm h[C#7]ome again Rose / About a [G]thou-s[D]and k[C#]iss-[D]es s[C6]hy/
+[G]Ding dong ding / I can [D]hear the chapel bell [B7]chime/
+[G]Ding dong ding / At the l[A7]east sugges-t[B7]ion / I[Em7]'ll pop the q[A7]uestion/
 
 [Refrain]
-        D        D#dim   A7     A7sus
-        Dream of now /   Dream of then/
-        A7          C#          D               D7
-        Dream of a love song / That might have been/
-              G             Gm       D       B7
-        Do I love you? / Oh yes / I love you /
-        B7                 E7                   A     A9       A7
-        And I'll bravely tell you / But only / when we dream again/
+        [D]Dream of [D#dim]now /   [A7]Dream o[A7sus]f then/
+        [A7]Dream of a l[C#]ove song / T[D]hat might have b[D7]een/
+        Do I l[G]ove you? / Oh [Gm]yes / I l[D]ove you [B7]/
+        [B7]And I'll bravely te[E7]ll you / But only / w[A]hen we[A9] dream ag[A7]ain/
 
 [Verse]
-D              D#dim                         A7               A7sus
-Lida Rose / I'm home again Rose / Without a sweetheart to my name/
-                C#7                        G   D      C#     D   C6
-Lida Rose / now everyone knows / That I am hop-ing / you're the same/
-G             Gm6   D                  B7
-So here is my love song / not fancy or fine/
-Em7             A7            D
-Lida Rose / oh won't you be mine?/
+[D]Lida Rose / I'm[D#dim] home again Rose / Without a s[A7]weetheart to my n[A7sus]ame/
+Lida Rose / now [C#7]everyone knows / That I am [G]hop-[D]ing / y[C#]ou're t[D]he s[C6]ame/
+[G]So here is my [Gm6]love s[D]ong / not fancy or [B7]fine/
+[Em7]Lida Rose / oh w[A7]on't you be mi[D]ne?/
 
 [Refrain]
-        D         D#dim   A7     A7sus
-        Sweet and low /   Sweet and low/
-        A7             C#       D        D7
-        How sweet that mem'ry / How long ago/
-           G         Gm       D     B7
-        Forever / Oh yes / forever/
-                    Em7      A7       D
-        Will I ever tell you? / Oh / no...
+        [D]Sweet and [D#dim]low /   [A7]Sweet a[A7sus]nd low/
+        [A7]How sweet that [C#]mem'ry / [D]How long [D7]ago/
+        For[G]ever / Oh [Gm]yes / for[D]ever/ [B7]
+        Will I ever [Em7]tell you?[A7] / Oh / n[D]o...
 
 [Verse]
-D              D#dim                         A7              A7sus
-Lida Rose / I'm home again Rose / Without a sweetheart to my name/
-                C#7                        G   D      C#     D   C6
-Lida Rose / now everyone knows / That I am hop-ing / you're the same/
-G             Gm6   D                  B7
-So here is my love song / not fancy or fine/
-Em7             A7            D
-Lida Rose / oh won't you be mine?/
-D         D6   D          D6   D    C#7   D
-Lida Rose oh / Li-da Rose oh / Li / da / Rose!
+[D]Lida Rose / I'm[D#dim] home again Rose / Without a s[A7]weetheart to my [A7sus]name/
+Lida Rose / now [C#7]everyone knows / That I am [G]hop-[D]ing / y[C#]ou're t[D]he s[C6]ame/
+[G]So here is my [Gm6]love s[D]ong / not fancy or [B7]fine/
+[Em7]Lida Rose / oh w[A7]on't you be mi[D]ne?/
+[D]Lida Rose [D6]oh / [D]Li-da Rose [D6]oh / [D]Li / [C#7]da / R[D]ose!
