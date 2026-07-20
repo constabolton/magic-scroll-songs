@@ -19,10 +19,8 @@ G/D        D*     G  D
  The sunny sky is aqua blue
 G/D         D*      G  D
  And all the couples dancing cheek to cheek.
-C          G       D
- It's very nice to stay a week or two,
-C          G       D
- And maybe fall in love just me and you.
+[C] It's very [G]nice to [D]stay a week or two,
+[C] And maybe [G]fall in [D]love just me and you.
 
 There's lots of pretty girls in Mozambique
 And plenty time for good romance
@@ -30,14 +28,10 @@ And everybody likes to stop and speak
 To give the special one you seek a chance
 Or maybe say hello with just a glance.
 
-Bm                       F#m
-Lying next to her by the ocean
-Em                            D
-Reaching out and touching her hand,
-Bm                      F#m
-Whispering your secret emotion
-G                  A
-Magic in a magical land.
+[Bm]Lying next to her by the [F#m]ocean
+[Em]Reaching out and touching her [D]hand,
+[Bm]Whispering your secret e[F#m]motion
+[G]Magic in a magical [A]land.
 
 And when it's time for leaving Mozambique
 To say goodbye to sand and sea,
