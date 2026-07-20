@@ -14,83 +14,52 @@ in the tab (Cm7 to C#m7b5).
 
 
 [Verse]
-Em   A6    Am/D
- She was a working girl
-Cm                G
- North of England way
-Em        A6      Am/D
-Now she's hit the big time
-Cm          G
- In the U.S.A.
-    A7
-And if she could only hear me
-D7
-This is what I'd say
+[Em] She [A6]was a [Am/D]working girl
+[Cm] North of England [G]way
+[Em]Now she's [A6]hit the [Am/D]big time
+[Cm] In the U.S.[G]A.
+And [A7]if she could only hear me
+[D7]This is what I'd say
 
 
 [Chorus]
-G                            Eb7
-Honey pie, you are making me crazy
-E7                  A7
-I'm in love but I'm lazy
-D7                       G        Eb7   D7
-So won't you please come home
+[G]Honey pie, you are making me [Eb7]crazy
+[E7]I'm in love but I'm [A7]lazy
+[D7]So won't you please come [G]home [Eb7] [D7]
 
-   G                         Eb7
-Oh honey pie, my position is tragic
-E7                   A7
-Come and show me the magic
-D7                G       F#  F
-of your Hollywood song
+Oh [G]honey pie, my position is [Eb7]tragic
+[E7]Come and show me the [A7]magic
+[D7]of your Hollywood [G]song [F#] [F]
 
-Em           C#m7b5        G              G7
-You became a legend of the silver screen
-            C
-And now the thought of meeting you
-E7                   Am        D7
-Makes me weak in the knee
+[Em]You became a [C#m7b5]legend of the [G]silver screen [G7]
+And now the [C]thought of meeting you
+[E7]Makes me weak in the [Am]knee [D7]
 
-   G                             Eb7
-Oh honey pie, you are driving me frantic
-E7                A7
-Sail across the Atlantic
-D7                G           Eb7      D7
-To be where you belong, honey pie come back to me
+Oh [G]honey pie, you are driving me [Eb7]frantic
+[E7]Sail across the At[A7]lantic
+[D7]To be where you be[G]long, honey [Eb7]pie come [D7]back to me
 
 
 [Instrumental] (same as verse)
 |G    |G    |Eb7  |E7   |A7   |D7   |G
-               Eb7  D7
-I like it like that, ooh
+I like it like [Eb7]that,[D7] ooh
 
 
 [Verse]
-G                                   Eb7
-    I like this kind of hot kind of music
-E7
-Hot kind of music
-A7
-Just play it to me
-D7                      G       F#  F
-Play it to me Hollywood Blues
+[G]    I like this kind of hot kind of [Eb7]music
+[E7]Hot kind of music
+[A7]Just play it to me
+[D7]Play it to me Hollywood [G]Blues [F#] [F]
 
-Em                 C#m7b5
-Will the wind that blew her boat
- G              G7
-Across the sea
-C               E7              Am    D7
-Kindly send her sailing back to me
+[Em]Will the wind that [C#m7b5]blew her boat
+A[G]cross the sea [G7]
+[C]Kindly send her [E7]sailing back to [Am]me [D7]
 
 
 [Chorus]
-G                            Eb7
-Honey pie, you are making me crazy
-E7                  A7
-I'm in love but I'm lazy
-D7                       G
-So won't you please come home
-                   Eb7      D7
-Come, come back to me honey pie
+[G]Honey pie, you are making me [Eb7]crazy
+[E7]I'm in love but I'm [A7]lazy
+[D7]So won't you please come [G]home
+Come, come back to [Eb7]me honey [D7]pie
 
-G     G     Eb7   E7     A7     D7    G     Eb7 D7     G
-(scat vocals)
+[G](scat [G]vocals[Eb7]) [E7] [A7] [D7] [G] [Eb7] [D7] [G]
