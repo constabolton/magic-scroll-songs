@@ -2,14 +2,10 @@
 Song name: People Get Ready  by  Curtis Mayfield & The Impressions
 ----------------------------------------------------------------------
 [Verse 1]
-Db         Bbm              Gb/Ab   Db
-People get ready, there’s a train a-comin'
-Db                Bbm               Gb/Ab  Db
-You don’t need no baggage, you just get on board
-Db              Bbm                Gb/Ab   Db
-All you need is faith, to hear the diesels hummin’
-Fm7           Ebm7             Gb/Ab     Db
-Don’t need no ticket, you just thank the Lord
+[Db]People get [Bbm]ready, there’s a [Gb/Ab]train a-[Db]comin'
+[Db]You don’t need no [Bbm]baggage, you just [Gb/Ab]get on [Db]board
+[Db]All you need is [Bbm]faith, to hear the [Gb/Ab]diesels [Db]hummin’
+[Fm7]Don’t need no [Ebm7]ticket, you just [Gb/Ab]thank the [Db]Lord
 
 
 [Instrumental]
@@ -17,14 +13,10 @@ Db   Bbm   Gb/Ab    Db
 
 
 [Chorus]
-Db            Bbm            Gb/Ab    Db
-So people get ready, for the train to Jordan
-Db         Bbm         Gb/Ab    Db
-Picking up passengers, coast to coast
-Db           Bbm           Gb/Ab     Db
-Faith is the key, open the doors and board em
-Fm7              Ebm7             Gb/Ab     Db
-There’s hope for all, among those loved the most
+[Db]So people get [Bbm]ready, for the [Gb/Ab]train to [Db]Jordan
+[Db]Picking up [Bbm]passengers, [Gb/Ab]coast to [Db]coast
+[Db]Faith is the [Bbm]key, open the [Gb/Ab]doors and [Db]board em
+[Fm7]There’s hope for [Ebm7]all, among those [Gb/Ab]loved the [Db]most
 
 
 [Instrumental]
@@ -33,25 +25,17 @@ D   Bm  G/A     D
 
 
 [Verse 2]
-D              Bm            G/A      D
-There ain’t no room, for the hopeless sinner
-D         Bm                        G/A      D
-Who would hurt all mankind, just to save his own
-D            Bm           G/A          D
-Have pity on those, whose chances grow thinner
-Gbm7                 Em7                G/A       D
-So there’s no hiding place, against the kingdom's throne
+[D]There ain’t no [Bm]room, for the [G/A]hopeless [D]sinner
+[D]Who would [Bm]hurt all mankind, just to [G/A]save his [D]own
+[D]Have pity on [Bm]those, whose [G/A]chances grow [D]thinner
+[Gbm7]So there’s no hiding [Em7]place, against the [G/A]kingdom's [D]throne
 
 
 [Chorus]
-D              Bm              G/A     D
-So people get ready, there's a train a-comin'
-D                 Bm                G/A    D
-You don’t need no baggage, you just get on board,
-D               Bm                G/A     D
-All you need is faith to hear the diesels hummin’
-Gbm7          Em7             G/A       D
-Don’t need no ticket you just thank the Lord
+[D]So people get r[Bm]eady, there's a [G/A]train a-[D]comin'
+[D]You don’t need no [Bm]baggage, you just [G/A]get on [D]board,
+[D]All you need is [Bm]faith to hear the [G/A]diesels [D]hummin’
+[Gbm7]Don’t need no [Em7]ticket you just [G/A]thank the [D]Lord
 
 [Outro]
 D Bm G/A D
