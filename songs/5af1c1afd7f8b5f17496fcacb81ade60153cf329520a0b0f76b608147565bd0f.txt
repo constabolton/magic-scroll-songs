@@ -12,74 +12,51 @@ A7M: x02120
 
 [Verse 1]
 
-G             Em7      D      E7 
-Talking to myself and feeling old; 
- Am7                  D    Am7                    D 
-Sometimes I'd like to quit, nothing ever seems to fit; 
- Em7            C7M   Am7         D  D7   G    
-Hanging   a  -  round, nothing to do but frown -- 
-Am7                    C             G   D7sus4 
-Rainy days and Mondays always get me down. 
+[G]Talking to mys[Em7]elf and f[D]eeling [E7]old; 
+S[Am7]ometimes I'd like to [D]quit,[Am7] nothing ever seems to [D]fit; 
+H[Em7]anging   a  -  [C7M]round,[Am7] nothing to [D]do [D7]but f[G]rown -- 
+[Am7]Rainy days and Mondays [C]always get me [G]down[D7sus4]. 
 
 
 [Chorus]
 
-G                  Em7     D        E7 
-What I've got they used to call the blues. 
-Am7               D      Am7                    D 
-Nothing is really wrong, feeling like I don't belong, 
-Em7           C7M    Am7          D      D7 G     
-Walking a  -  round, some kind of lone - ly clown -- 
-Am7                    C             G    D   D6 
-Rainy days and Mondays always get me down. 
+[G]What I've got they [Em7]used to [D]call the [E7]blues. 
+[Am7]Nothing is really [D]wrong, [Am7]feeling like I don't be[D]long, 
+[Em7]Walking a  -  [C7M]round, [Am7]some kind of [D]lone - [D7]ly [G]clown -- 
+[Am7]Rainy days and Mondays [C]always get me [G]down.[D] [D6]
  
 
 [Bridge]
 
-  Em7         C7M           Am7      D7       G7M 
-Funny but it seems I always wind up here with you ? 
-D       C7M           D7sus4    D7    D6 
-Nice to know somebody loves  me. 
-Em7           C7M                 Am7  D7       Em    D    Em7 
-Funny, but it seems that it's the only thing to do ? 
-        C7M              D7sus4  D   D7sus4   D 
-Run and find the one who loves   me. 
+Fu[Em7]nny but it s[C7M]eems I always [Am7]wind up h[D7]ere with [G7M]you ? 
+[D]Nice to [C7M]know somebody [D7sus4]loves  me.[D7] [D6]
+[Em7]Funny, but it [C7M]seems that it's the [Am7]only [D7]thing to [Em]do ? [D] [Em7]
+Run and [C7M]find the one who [D7sus4]loves   [D]me. [D7sus4] [D]
 
 
 [Chorus]
 
-G               Em7      D       E7 
-What I feel has come and gone before; 
-Am7                D    Am7                     D 
-No need to talk it out, we know what it's all about; 
-Em7             C7M   Am7         D  D7  G     
-Hanging   a  -  round, nothing to do but frown -- 
- Am7                   C             G     D   D6 
-Rainy days and Mondays always get me down. 
+[G]What I feel has [Em7]come and [D]gone bef[E7]ore; 
+[Am7]No need to talk it [D]out, [Am7]we know what it's all ab[D]out; 
+[Em7]Hanging   a  -  [C7M]round,[Am7] nothing to [D]do [D7]but [G]frown -- 
+R[Am7]ainy days and Mondays [C]always get me [G]down. [D] [D6]
 
 
 (Optional Key Change - otherwise same chords as before
 
 (Repeat bridge, new last line) 
-        C7M             D7sus4  D    E7sus4  E7 
-Run and find the one who loves  me. 
+Run and [C7M]find the one who[D7sus4] loves  [D]me. [E7sus4] [E7]
 
 
 [Chorus]
 
-A               C#m             F#     
-What I feel has come and gone before; 
-Bm                 C#m  Bm                     C#m 
-No need to talk it out, we know what it's all about; 
- F#m       D7M  D                  A 
-Hanging around, nothing to do but frown -- 
- D                   D                 A7M    D    
-Rainy days and Mondays always  get me  down. 
+[A]What I feel has [C#m]come and gone be[F#]fore; 
+[Bm]No need to talk it [C#m]out, [Bm]we know what it's all a[C#m]bout; 
+H[F#m]anging aro[D7M]und, [D]nothing to do but f[A]rown -- 
+R[D]ainy days and Monday[D]s always  get me  [A7M]down. [D]
  
 
 [Coda]
 
-F#m       D7M   D                 A 
-Hanging around, nothing to do but frown -- 
-D                         C#m   D      A  
-Rainy days and Mondays al- ways get me down.
+[F#m]Hanging ar[D7M]ound, [D]nothing to do but [A]frown -- 
+[D]Rainy days and Mondays al-[C#m] ways [D]get me [A]down.
