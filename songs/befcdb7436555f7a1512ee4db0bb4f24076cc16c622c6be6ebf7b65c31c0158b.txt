@@ -1,0 +1,24 @@
+X:1
+T: Hiawatha Rag
+C: Charles N. Daniels
+M: 4/4
+L: 1/16
+K: C
+"G"dddd"A7"^c2c2"D7"=cccc"G"B2B2|
+"Eb7"_BBBB"D7"A2A2"G"G2gabage|
+"G"d2dBd2dBd2dBedcB|
+"D7"dd2cA8-A2^FG|
+A2ABc2cde2d2e2^f2|
+"G"g^fgab4-b2gabage|
+"G"d2dBd2dBd2dBedcB|
+"D7"dd2cA8-A2^FG|
+A2ABc2cde2d2e2^f2|
+"G"g8-g2g2^f2g2|
+"C"a4g4"F#7"^f4e4|
+"G"e2d2g4-g2d2e2d2|
+"D"d2c2^f4-f2d2e2d2|
+"G"c2B2d4-d2g2^f2g2|
+"C"a4g4"F#7"^f4e4|
+"G"e2d2g4-g2d2e2d2|
+"D"d4^d4e4^f4|
+"G"g8-g2gabage|]
