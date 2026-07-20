@@ -9,54 +9,34 @@ Key: Bb Major, then modulates to B Major
 Time: 4/4
 
 
-| Bb  | Dm7 - -  Dbm7 | Cm7       | F7    |
-( blue  velvet   whoa   whoa )
+( [Bb]blue  [Dm7]velvet   [Dbm7]whoa   [Cm7]whoa ) [F7]
 
-         Bb    Dm7       Dbm7  Cm7
-She wore blue  velvet  ( whoa  whoa)
-           F              Bb      Dm7   Dbm7  Cm7
-Bluer than velvet was the night ( whao  whoa  whoa )
-                          F              Bb     Gm7    Cm7   F7
-Softer than satin was the light from the stars
+She wore [Bb]blue  [Dm7]velvet  ( [Dbm7]whoa  [Cm7]whoa)
+Bluer than [F]velvet was the [Bb]night ( [Dm7]whao  [Dbm7]whoa  [Cm7]whoa )
+Softer than satin was the [F]light from the [Bb]stars [Gm7] [Cm7] [F7]
 
 
-         Bb      Dm7       Dbm7  Cm7
-She wore blue    velvet  ( whoa  whoa )
-           F               Bb      Dm7  Dbm7  Cm7
-Bluer than velvet were her eyes  ( whoa whoa  whoa )
-                           F              Fm7    Bb7
-Warmer than May her tender sighs love was o-o-o-o-o-urs
+She wore [Bb]blue    [Dm7]velvet  ( [Dbm7]whoa  [Cm7]whoa )
+Bluer than [F]velvet were her [Bb]eyes  ( [Dm7]whoa [Dbm7]whoa  [Cm7]whoa )
+Warmer than May her tender [F]sighs love was [Fm7]o-o-o-o[Bb7]-o-urs
 
 
-Ebmaj7             Ebm7
-Ours a love I held tightly
-Bb                  Bb7
-Feeling the rapture grow
-Ebmaj7               Ebm7
-Like a flame burning brightly
-Dm7          Dbdim7  Cm7              F7
-But when she left,       gone was the glow
+[Ebmaj7]Ours a love I held [Ebm7]tightly
+[Bb]Feeling the rapture [Bb7]grow
+[Ebmaj7]Like a flame burning [Ebm7]brightly
+[Dm7]But when she [Dbdim7]left,   [Cm7]    gone was the [F7]glow
 
 
-   Bb    Dm7       Dbm7  Cm7
-Of blue  velvet  ( whoa  whoa )
-          F                     Bb   Dm7  Dbm7  Cm7
-But in my heart there'll always be  (whoa whoa  whoa )
-                          F              Fm7    Bb7
-Precious and warm, a memory, through the years
-      Ebmaj7             Ebm7              Bb    F#7
-And I still can see blue velvet through my tears
+Of [Bb]blue  [Dm7]velvet  ( [Dbm7]whoa  [Cm7]whoa )
+But in my [F]heart there'll always [Bb]be  ([Dm7]whoa [Dbm7]whoa  [Cm7]whoa )
+Precious and warm, a memor[F]y, through the [Fm7]years [Bb7]
+And I [Ebmaj7]still can see blue [Ebm7]velvet through my [Bb]tears [F#7]
 
 
-         B     D#m7     Dm7  C#m7
-She wore blue  velvet ( whoa whoa  )
-           F#                   B    D#m7  Dm7  C#m7
-But in my heart there'll always be ( whoa  whoa whoa )
-                          F#              F#m7    B7
-Precious and warm, a memo ry, through the years
-      Emaj7              Em7
-And I still can see blue velvet through my
+She wore [B]blue  [D#m7]velvet ( [Dm7]whoa [C#m7]whoa  )
+But in my h[F#]eart there'll always [B]be ( [D#m7]whoa  [Dm7]whoa [C#m7]whoa )
+Precious and warm, a memo [F#]ry, through the [F#m7]years [B7]
+And I [Emaj7]still can see blue [Em7]velvet through my
 
-| B       |  D#m7 - - Dm7 |  C#m7 | Cmaj7 | B          |
-  tears
+  [B]tears [D#m7] [Dm7] [C#m7] [Cmaj7] [B]
     ( Blue   velvet   oo     oo     oo      oooooo    )
