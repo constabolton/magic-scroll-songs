@@ -27,67 +27,41 @@ A|-3--2--0----0-0-0--3---2-0-----------3----3-3-3--5---7-5-----3-----2----------
 E|-------------------------------------------------------------------------------|
 
 [Verse]
-        C                 F
-If you come to find me affable
-           C        G
-Build a replica for me
-            C              F
-Would the idea to you be laughable
-      C           G
-Of a pale facsimile
-              C               F
-So when you come to burn an effigy
-          C               G
-It should keep the flies away
-             C                 F
-And when you learn to burn this effigy
-                       C               G         Am    D    Dm    G    G#(note)
-It should be for the hours that slip away, slip away
+If you c[C]ome to find me aff[F]able
+Build a rep[C]lica for [G]me
+Would the id[C]ea to you be la[F]ughable
+Of a p[C]ale facsimil[G]e
+So when you co[C]me to burn an ef[F]figy
+It should [C]keep the flies a[G]way
+And when you [C]learn to burn this[F] effigy
+It should be for the ho[C]urs that slip aw[G]ay, slip a[Am]way [D] [Dm] [G] [G#]
 
 [Chorus]
-F            C               G
-It could be you, it could be me
-            Dm                   F   
-Working the door, drinking for free
-         Am                    E
-Carrying on with your conspiracies
-            F                      F
-Filling the room with a sense of unease
-           G                       C      A   
-Fake conversations on a nonexistent telephone
-F                    G                               C       A  
-Like the words of a man who's spent a little too much time alone
-      Dm                     G
-When one has spent too much time alone
+[F]It could be y[C]ou, it could be [G]me
+Working the [Dm]door, drinking for fr[F]ee
+Carrying [Am]on with your conspirac[E]ies
+Filling the [F]room with a sense of un[F]ease
+Fake conver[G]sations on a nonexistent[C] teleph[A]one
+[F]Like the words of a m[G]an who's spent a little too much[C] time al[A]one
+When o[Dm]ne has spent too much t[G]ime alone
 
 [Interlude] 
 C F G C F C G
 
 [Verse]
-              C                F
-So when you come to burn an effigy
-            C              G
-It should keep the flies away
-          C              F
-If you long to burn an effigy
-                   C                      G          Am    D    Dm    G    G#(note)
-It should be of a man whose has lost his way, slips away
+So when you co[C]me to burn an eff[F]igy
+It should ke[C]ep the flies aw[G]ay
+If you lon[C]g to burn an ef[F]figy
+It should be of a m[C]an whose has lost his w[G]ay, slips a[Am]way [D] [Dm] [G] [G#]
 
 [Chorus]
-F           C                G
-It could be you, it could be me
-            Dm                   F   
-Working the door, drinking for free
-         Am                    E
-Carrying on with your conspiracies
-            F                      F
-Filling the room with a sense of unease
-           G                       C     A   
-Fake conversations on a nonexistent telephone
-           F                    G                       C          A
-Like the words of a man who's spent a little too much time all alone
-     Dm                      G
-When one has spent too much time alone
+[F]It could be [C]you, it could be [G]me
+Working the [Dm]door, drinking for fr[F]ee
+Carrying [Am]on with your conspirac[E]ies
+Filling the [F]room with a sense of un[F]ease
+Fake conver[G]sations on a nonexistent[C] telep[A]hone
+Like the wo[F]rds of a man who's sp[G]ent a little too much ti[C]me all alon[A]e
+When [Dm]one has spent too much t[G]ime alone
 
 [Outro]
 F Am G F
