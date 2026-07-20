@@ -22,74 +22,53 @@ Please press the Simplify feature (Next to the Autscroll) for simpler chords.
 **************************************
 
 [Intro]
-A             D
- (Makin' love ukulele style)
-A             E7      E7/D
- (Makin' love ukulele style)
+[A] (Makin' love [D]ukulele style)
+[A] (Makin' love [E7]ukulele [E7/D]style)
 
 
 [Verse 1] 0:08
-       A            A        D    Bm7
-Makin' love (makin' love) ukulele style
-    E7            A
-You needn't be in Waikiki
-A                   A7       D    B7
-Makin' love (makin' love) ukulele style
-     E7        E7/D     A
-To a lovely ukulele serenade (ooh)
+Makin' [A]love (makin' [A]love) uku[D]lele [Bm7]style
+You [E7]needn't be in [A]Waikiki
+[A]Makin' love (makin' [A7]love) uku[D]lele [B7]style
+To a [E7]lovely uku[E7/D]lele sere[A]nade (ooh)
 
 
 [Verse 2] 0:26
-A               A              D    Bm7
-When you love, (making love)ukulele style
-      E7                  A
-Well, everyone knows your heart will float
-    A        A7       D      B7
-Faraway (faraway)to a tropic Isle
-        E7                     A       A  N.C.
-While a ukulele tune is softly played (ooh)
+[A]When you love, ([A]making love)uku[D]lele [Bm7]style
+Well, [E7]everyone knows your [A]heart will float
+Fara[A]way (fara[A7]way)to a [D]tropic [B7]Isle
+While a [E7]ukulele tune is softly [A]played ([A]ooh)
 
 
 [Chorus] 0:43
-           D      Dm        A         A7
-Strollin' along beneath the starlight
-           D       Dm        A    A
-Dreamin' a lover's dream for two
-A             B7      B7       B7   B7
-Soon you will see her eyes are star bright
+Strollin' a[D]long be[Dm]neath the [A]starlight [A7]
+Dreamin' a [D]lover's [Dm]dream for [A]two [A]
+[A]Soon you will [B7]see her [B7]eyes are [B7]star [B7]bright
        B7            B7    E7*    E7**** N.C.
 As the ukulele magic comes through (ooh)
 
 
 [Verse 3] 1:00
-N.C.   A           A7            D    D/A
-Now if you (now if you), want to satisfy
-    E7           E7       A
-The one that you love all else above
-       A           A7           D        B7
-Take a tip (take a tip), and be sure you try
+Now if [A]you (now if [A7]you), want to [D]satis[D/A]fy
+The [E7]one that you [E7]love all [A]else above
+Take a [A]tip (take a [A7]tip), and be [D]sure you [B7]try
     E7      E7       E7     A*    A**** N.C.
 The ukulele style of makin' love (ooh)
 
 
 [Chorus] 1:18
-N.C.       D      Dm        A         A7
-Strollin' along beneath the starlight
+Strollin' a[D]long be[Dm]neath the [A]starlight [A7]
            D       Dm        A    A****
 Dreamin' a lover's dream for two
-              B7               B7
-Soon you will see her eyes are star bright
+Soon you will [B7]see her eyes are [B7]star bright
        B7      B7          E7*      E7**** N.C.
 As the ukulele magic comes through (ooh)
 
 
 [Verse 4] 1:35
-E7     A           A7            D    D/A
-Now if you (now if you), want to satisfy
-    E7           E7       A     A
-The one that you love all else above
-       A           A7           D        B7
-Take a tip (take a tip), and be sure you try
+[E7]Now if [A]you (now if [A7]you), want to [D]satis[D/A]fy
+The [E7]one that you [E7]love all [A]else a[A]bove
+Take a [A]tip (take a [A7]tip), and be [D]sure you [B7]try
     E7      E7       E7     A      A****
 The ukulele style of makin' love  (ooh-ooh-ooh)
 
