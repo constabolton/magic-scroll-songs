@@ -4,43 +4,26 @@ Song name: Danny Boy  by  Misc Traditional
 Danny Boy (trad)
 
 [Verse 1]
-         C Cmaj7     C7                   F        Fm         
-Oh Danny boy,    the pipes, the pipes are calling
-             C         Am               D7   G  
-From glen to glen and down the mountain side
-             C Cmaj7  C7            F     Fm
-The summer's gone and all the roses falling
-               C   Am      Dm     G      C
-'Tis you, 'tis you    must go and I must bide
+Oh Danny [C]bo[Cmaj7]y,    the [C7]pipes, the pipes are [F]calling [Fm]
+From glen to [C]glen and d[Am]own the mountain [D7]side [G]
+The summer's [C]go[Cmaj7]ne and [C7]all the roses [F]fallin[Fm]g
+'Tis you, 'tis [C]you [Am]   must [Dm]go and [G]I must [C]bide
 
 [Chorus]
-G   Am   G/B  C         F               C
-But come ye   back when summer's in the meadow
-G  Am   G/B  Am      F          C          D7   G
-Or when the valley's hushed and white with snow
-            C C/E   F        D/F#   C  Em/B Am Am7/G Fm
-And I'll be here in sunshine or in sha-     dow
-         C       Am    Dm    G        C      G7/B
-Oh Danny boy, oh Danny boy I love you so
+[G]But [Am]come [G/B]ye   [C]back when [F]summer's in the [C]meadow
+[G]Or [Am]when [G/B]the v[Am]alley's [F]hushed and [C]white with [D7]snow [G]
+And I'll be [C]he[C/E]re in [F]sunshine [D/F#]or in s[C]ha-[Em/B]     [Am]dow[Am7/G] [Fm]
+Oh Danny [C]boy, oh [Am]Danny [Dm]boy I [G]love you [C]so [G7/B]
 
 [Verse 2]
-          C Cmaj7  C7            F     Fm
-But if he come and all the roses dying
-         C G/B    Am     Am/G     D/F#    G
-And I am dead, as dead I well may be
-                C Cmaj7  C7               F     Fm
-You'll come and find the place where I am lying
-              C  Am    F   G         C
-And kneel and say   an Ave there for me
+But if he [C]co[Cmaj7]me and [C7]all the roses [F]dying [Fm]
+And I am [C]de[G/B]ad, as [Am]dead I [Am/G]well may [D/F#]be [G]
+You'll come and [C]fi[Cmaj7]nd the [C7]place where I am [F]lying [Fm]
+And kneel and [C]say[Am]   an [F]Ave [G]there for [C]me
 
 [Chorus]
-G  Am G/B   C            F               C
-And I shall feel, though soft you tread above me
-G   Am   G/B Am Am/G   F       C/E       D/F#   G 
-And then my grave will richer, sweeter be
-G   Am7 G/B  C    C/E F       D/F#     C   Em/B  Am  Am7/G  Ab7
-For you will bend and tell me that you lo- ve    me
-            C       Am      Dm      G       C   G7
-And I shall rest in peace until you come to me
-            C       Am7     Dm7     G11     C/G
-And I shall rest in peace until you come to me
+[G]And[Am] I [G/B]shall [C]feel, though [F]soft you tread a[C]bove me
+[G]And [Am]then [G/B]my g[Am]rav[Am/G]e will [F]richer, [C/E]sweeter be[D/F#] [G]
+[G]For [Am7]you [G/B]will [C]bend [C/E]and [F]tell me [D/F#]that you [C]lo- [Em/B]ve    [Am]me [Am7/G] [Ab7]
+And I shall [C]rest in [Am]peace un[Dm]til you [G]come to [C]me [G7]
+And I shall [C]rest in [Am7]peace un[Dm7]til you [G11]come to [C/G]me
