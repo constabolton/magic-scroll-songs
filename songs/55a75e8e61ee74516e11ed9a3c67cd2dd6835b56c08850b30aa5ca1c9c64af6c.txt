@@ -2,85 +2,54 @@
 Song name: Jumper  by  Third Eye Blind
 ----------------------------------------------------------------------
 [Chorus]
-Fmaj7             C                   G
- I wish you would step back from that ledge my friend
-         Fmaj7              C                  G
-You could     cut ties with all the lies that you've been livin' in
-     Fmaj7      C               G
-A-and if you do not want to see me again
+[Fmaj7] I wish you would [C]step back from that [G]ledge my friend
+You could[Fmaj7]     cut ties with [C]all the lies that y[G]ou've been livin' in
+A-and[Fmaj7] if you do [C]not want to see [G]me again
 
-              Fmaj7   C     G
-I would under-sta---i-a---i-and
-              Fmaj7   C     G
-I would under-sta---i-a---i-and
+I would under-[Fmaj7]sta---i-[C]a---i-[G]and
+I would under-[Fmaj7]sta---i-[C]a---i-[G]and
 
 [Verse 1]
-    Am
-The angry boy, a bit too insane,
-C
-icing over a secret pain
-G
-  You know you don't belong
-           Am
-You're the first to fight, you're way too loud
-           C
-You're the flash of light, on a burial shroud
-G
-  I know something's wrong
+The [Am]angry boy, a bit too insane,
+[C]icing over a secret pain
+[G]  You know you don't belong
+You're the [Am]first to fight, you're way too loud
+You're the [C]flash of light, on a burial shroud
+[G]  I know something's wrong
 
 [Pre-Chorus 1]
-     Am                         Dsus2      C
-When everyone I know has got a reason, to say
-N.C.           Fmaj7
-put the past away
+When [Am]everyone I know has got a r[Dsus2]eason, to s[C]ay
+put the past aw[Fmaj7]ay
 
 [Chorus]
-                  C                   G
-I wish you would step back from that ledge my friend
-         Fmaj7              C                   G
-You could     cut ties with all the lies, that you've been livin' in
-     Fmaj7      C               G
-A-and if you do not want to see me again
+I wish you would s[C]tep back from that l[G]edge my friend
+You could[Fmaj7]     cut ties with [C]all the lies, that y[G]ou've been livin' in
+A-and[Fmaj7] if you do [C]not want to see [G]me again
 
-              Fmaj7   C     G
-I would under-sta---i-a---i-and
-              Fmaj7       C     G
-I would under-sta-a-a---i-a---i-and
+I would under-[Fmaj7]sta---i-[C]a---i-[G]and
+I would under-[Fmaj7]sta-a-a---i-[C]a---i-[G]and
 
 [Verse 2]
-           Am
-Well, he's on the table and he's gone ta code
-      C                                   G
-And I do not think anyone knows what they're
+Well, he's [Am]on the table and he's gone ta code
+And I [C]do not think anyone knows what they'[G]re
 
 doing here-ere
-         Am
-And your friends have left you, you've been dismissed
-C
-I never thought it would come to this, and I
-G
-  I want you to know-o
+And your [Am]friends have left you, you've been dismissed
+[C]I never thought it would come to this, and I
+[G]  I want you to know-o
 
 [Pre-Chorus 2]
-Am                               Dsus2           C
-Everyone's got to face down the demons, maybe today
-        N.C.           Fmaj7
-you can put the past away
+[Am]Everyone's got to face down the d[Dsus2]emons, maybe tod[C]ay
+you can put the past aw[Fmaj7]ay
 
 [Chorus]
-                  C                   G
-I wish you would step back from that ledge my friend
-         Fmaj7              C                   G
-You could     cut ties with all the lies, that you've been livin' in
-     Fmaj7      C               G
-A-and if you do not want to see me again
+I wish you would s[C]tep back from that l[G]edge my friend
+You could[Fmaj7]     cut ties with [C]all the lies, that y[G]ou've been livin' in
+A-and[Fmaj7] if you do [C]not want to see [G]me again
 
-              Fmaj7   C     G
-I would under-sta---i-a---i-and
-              Fmaj7   C     G
-I would under-sta---i-a---i-and
-             Fmaj7    C     G
-I would under-sta---i-a---i-a-and
+I would under-[Fmaj7]sta---i-[C]a---i-[G]and
+I would under-[Fmaj7]sta---i-[C]a---i-[G]and
+I would under[Fmaj7]-sta---i-[C]a---i-[G]a-and
 
 [Bass Solo]
 F  C  G    x6
@@ -91,23 +60,15 @@ F  C  G    x2
 [Guitar Solo]
 F  C  G    x4
 
-Dadd4add9   C          N.C.           F
-               You can put the past away
+[Dadd4add9]            [C]   You can put the past aw[F]ay
 
 [Chorus]
-                  C                   G
-I wish you would step back from that ledge my friend
-                F                      C                   G
-(I would understand) I wish you would step back from that ledge my friend
-                F                      C                   G
-(I would understand) I wish you would step back from that ledge my friend
-                    F                      C                   G
-(And I would understand) I wish you would step back from that ledge my friend
-                    F                      C                   G
-(And I would understand) I wish you would step back from that ledge my friend
-                 F      C    G
-(And I would understand....)
+I wish you would s[C]tep back from that l[G]edge my friend
+(I would underst[F]and) I wish you would s[C]tep back from that l[G]edge my friend
+(I would underst[F]and) I wish you would s[C]tep back from that l[G]edge my friend
+(And I would underst[F]and) I wish you would s[C]tep back from that l[G]edge my friend
+(And I would underst[F]and) I wish you would s[C]tep back from that l[G]edge my friend
+(And I would unde[F]rstand.[C]...) [G]
 
 [Outro]
-F  C  G    x4
-Drums
+[F]Dru[C]ms [G]
