@@ -2,40 +2,23 @@
 Song name: Dinah  by  Fats Waller
 ----------------------------------------------------------------------
 [Verse]
-G
-Dinah,
-G
-Is there anyone finer
-                    Am7
-In the state of Carolina
-D7               G       Dm6
-If there is and you know her
-Am7      D7
-Show her to me
+[G]Dinah,
+[G]Is there anyone finer
+In the state of Caro[Am7]lina
+[D7]If there is and y[G]ou know [Dm6]her
+[Am7]Show her [D7]to me
 
-G
-Dinah,
-G
-With her Dixie eyes blazin'
-                      Am7
-How I love to sit and gaze in
-D7             G
-To the eyes of Dinah Lee
+[G]Dinah,
+[G]With her Dixie eyes blazin'
+How I love to sit and [Am7]gaze in
+[D7]To the eyes of [G]Dinah Lee
 
-B7    Em
-Yet every night
-Gaug       G                 A7sus2
-My how I shake with fright
-         G          A7sus2
-Because my Dinah might
-                      Am7   Eb7 D7
-Change her mind about me
+[B7]Yet ev[Em]ery night
+[Gaug]My how I sh[G]ake with fright [A7sus2]
+Because m[G]y Dinah mig[A7sus2]ht
+Change her mind about [Am7]me [Eb7] [D7]
 
-       G
-But if Dinah
-G
-Ever wandered to China
-                      Am7
-I would hop an ocean liner
-D7              G  C7  G
-Just to be with Dinah Lee
+But if [G]Dinah
+[G]Ever wandered to China
+I would hop an ocean l[Am7]iner
+[D7]Just to be with [G]Din[C7]ah L[G]ee
