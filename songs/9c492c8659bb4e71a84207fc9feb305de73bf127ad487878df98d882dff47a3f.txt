@@ -8,34 +8,21 @@ The Rails
 D  Em   G   D
 
 [Verse]
-D       Em           G               D
-O Bonny Portmore you shine where you stand
-D                    Em                 
-And the more I think of you, 
-    G             D
-The more I think long
-     G        D        Em        Bm
-If I have you now as I have once before
-        G            D
-All the Lords of Old England 
-          Em           A
-Would not purchase Portmore.
+[D]O Bonny [Em]Portmore you [G]shine where you [D]stand
+[D]And the more I think [Em]of you, 
+The [G]more I think l[D]ong
+If I [G]have you [D]now as I [Em]have once [Bm]before
+All the [G]Lords of Old [D]England 
+Would not [Em]purchase Port[A]more.
 
 [Verse]
-D       Em             G       D
-O Bonny Portmore I am sorry to see
-D                Em     
-Such a woeful destruction 
-        G        D
-Of your ornament tree
-       G              D    
-For it stood on your shore 
-    Em              Bm
-For many’s the long day
-         G               D
-’Til the long boats from Antrim 
-        Em        A
-Came to float it away.
+[D]O Bonny [Em]Portmore I am s[G]orry to [D]see
+[D]Such a woeful des[Em]truction 
+Of your [G]ornament [D]tree
+For it [G]stood on your s[D]hore 
+For [Em]many’s the long [Bm]day
+’Til the [G]long boats from [D]Antrim 
+Came to [Em]float it a[A]way.
 
 [Instrumental]
 D  Em  G  D
@@ -44,62 +31,37 @@ G  D  Em  Bm
 G  D  Em  A
 
 [Verse]
-D       Em           G               D
-O Bonny Portmore you shine where you stand
-D                    Em     
-And the more I think of you 
-    G            D
-The more I think long
-     G       D        Em       Bm
-If I had you now as I had once before
-        G            D
-All the Lords of Old England 
-          Em           A
-Would not purchase Portmore.
+[D]O Bonny [Em]Portmore you [G]shine where you [D]stand
+[D]And the more I think [Em]of you 
+The [G]more I think [D]long
+If I [G]had you [D]now as I [Em]had once [Bm]before
+All the [G]Lords of Old [D]England 
+Would not [Em]purchase Port[A]more.
 
 [Verse]
-D       Em           G               D
-O Bonny Portmore you shine where you stand
-D                    Em     
-And the more I think of you 
-    G            D
-The more I think long
-     G       D        Em        Bm
-If I had you now as I had once before
-        G            D
-All the Lords of Old England 
-          Em            A
-Would not purchase Portmore.
+[D]O Bonny [Em]Portmore you [G]shine where you [D]stand
+[D]And the more I think [Em]of you 
+The [G]more I think [D]long
+If I [G]had you [D]now as I [Em]had once b[Bm]efore
+All the [G]Lords of Old [D]England 
+Would not [Em]purchase Portm[A]ore.
 
 [Verse]
-        D            Em          G        D
-All the birds in the forest they bitterly weep
-D                      Em     
-Saying “where shall we shelter 
-    G              D
-And where shall we sleep?”
-        G           D       
-For the Oak and the Ash
-         Em         Bm
-They are all cutten down
-        G                   D
-And the walls of Bonny Portmore 
-    Em           A
-Are down to the ground.
+All the [D]birds in the [Em]forest they [G]bitterly [D]weep
+[D]Saying “where shall we [Em]shelter 
+And [G]where shall we [D]sleep?”
+For the [G]Oak and the [D]Ash
+They are [Em]all cutten [Bm]down
+And the [G]walls of Bonny Portm[D]ore 
+Are [Em]down to the g[A]round.
 
 [Verse]
-D       Em           G               D
-O Bonny Portmore you shine where you stand
-D                    Em     
-And the more I think of you 
-    G            D
-The more I think long
-     G       D        Em        Bm
-If I had you now as I had once before
-        G            D
-All the Lords of Old England 
-          Em           A
-Would not purchase Portmore.
+[D]O Bonny [Em]Portmore you [G]shine where you [D]stand
+[D]And the more I think [Em]of you 
+The [G]more I think [D]long
+If I [G]had you [D]now as I [Em]had once b[Bm]efore
+All the [G]Lords of Old [D]England 
+Would not [Em]purchase Port[A]more.
 
 [Outro]
 D  Em  G  D
