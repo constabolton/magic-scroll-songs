@@ -11,103 +11,62 @@ Capo 2
 
 
 [Chorus]
-Fm             Bbm
-Besame, besame mucho,
-        F7         Bbm
-como si fuera esta noche
-   C7     Fm
-la última vez.
+[Fm]Besame, besame [Bbm]mucho,
+como si [F7]fuera esta [Bbm]noche
+la [C7]última [Fm]vez.
 
-F7             Bbm
-Besame, besame mucho,
-Fm        C7       Db7
-Que tengo miedo perderte
-   C7        Fm
-perderte despues.
+[F7]Besame, besame [Bbm]mucho,
+[Fm]Que tengo [C7]miedo per[Db7]derte
+per[C7]derte desp[Fm]ues.
 
 [Verse]
-Bbm                  Fm
- Quiero tenerte muy cerca,
-               C7
-mirarme en tus ojos,
-                Fm
-Verte junto a mí.
+[Bbm] Quiero tenerte muy c[Fm]erca,
+mirarme en tus [C7]ojos,
+Verte junto a mí[Fm].
 
-Bbm                  Fm
-Piensa que talvez mañana,
-             G7
-Yo ya estaré lejos,
-    Db7      C7
-muy lejos de ti
+[Bbm]Piensa que talvez mañ[Fm]ana,
+Yo ya estaré [G7]lejos,
+muy [Db7]lejos de [C7]ti
 
 [Chorus]
-Fm             Bbm
-Besame, besame mucho,
-        F7         Bbm
-como si fuera esta noche
-   C7     Fm
-la última vez.
+[Fm]Besame, besame [Bbm]mucho,
+como si [F7]fuera esta [Bbm]noche
+la [C7]última [Fm]vez.
 
-F7             Bbm
-Besame, besame mucho,
-Fm        C7       Db7
-Que tengo miedo perderte
-   C7        Fm
-perderte despues.
+[F7]Besame, besame [Bbm]mucho,
+[Fm]Que tengo [C7]miedo per[Db7]derte
+per[C7]derte desp[Fm]ues.
 
 [Verse]
-Bbm                  Fm
-Quiero tenerte muy cerca,
-               C7
-mirarme en tus ojos,
-                Fm
-Verte junto a mí.
+[Bbm]Quiero tenerte muy ce[Fm]rca,
+mirarme en tus [C7]ojos,
+Verte junto a mí[Fm].
 
-Bbm                  Fm
-Piensa que talvez mañana,
-             G7
-Yo ya estaré lejos,
-    Db7      C7
-muy lejos de ti
+[Bbm]Piensa que talvez mañ[Fm]ana,
+Yo ya estaré [G7]lejos,
+muy [Db7]lejos de [C7]ti
 
 [Chorus]
-Fm  C7  Fm           Bbm
-Be  sa  me, besame mucho,
-        F7         Bbm
-como si fuera esta noche
-   C7     Fm
-la última vez.
+[Fm]Be  [C7]sa  [Fm]me, besame mu[Bbm]cho,
+como si [F7]fuera esta [Bbm]noche
+la [C7]última [Fm]vez.
 
-F7         Bbm
-Besame, besame mucho,
-Fm        C7      Db7
-Que tengo miedo perderte
-   C7        Fm
-perderte despues.
-   Fm       C7     Db7
-Que tengo miedo perderte
-   C7        Fm
-perderte despues.
+[F7]Besame, bes[Bbm]ame mucho,
+[Fm]Que tengo [C7]miedo pe[Db7]rderte
+per[C7]derte desp[Fm]ues.
+Que[Fm] tengo mi[C7]edo per[Db7]derte
+per[C7]derte desp[Fm]ues.
 
 [Bridge]
 Fm  Db7  C7 (x2)
 
 [Outro]
-Fm
-Besame
-          Db7  C7
-Que tengo miedo perderte
-Fm
-Besame
-   Db7      C7
-No te vayas mi amor
-Fm
-Besame
-     Db7    C7
-Estares lejos de ti
-Fm
-Besame
-      Db7      C7
-Quiero tener ti muy circa
-Fm Fm Fm
-Be sa me!
+[Fm]Besame
+Que tengo [Db7]miedo[C7] perderte
+[Fm]Besame
+No [Db7]te vayas [C7]mi amor
+[Fm]Besame
+Estar[Db7]es lejo[C7]s de ti
+[Fm]Besame
+Quiero[Db7] tener ti[C7] muy circa
+[Fm]Be [Fm]sa [Fm]me!
