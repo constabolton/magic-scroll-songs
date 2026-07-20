@@ -1,6 +1,5 @@
 [Link]
-           G#7/A          G#7/A
-  A     G7/A       A7*        G7/A
+  A     G7/[G#7/A]A       A7*    [G#7/A]    G7/A
   1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
 e|----------------|----------------|5
 B|2-------3---4---|5-------4---3---|2
@@ -31,91 +30,57 @@ A7*     x-0-5(6)5-x or x-0-5-x-5-x
 | A D/A | % | % | % |
 
 [Verse 1]
-A           D/A        A              D/A
- I've got a feeling, a feeling deep inside
-   A    D/A     A             D/A
-Oh yeah,     oh yeah. (that's right)
-A           D/A        A               D/A
- I've got a feeling, a feeling I can't hide
-   A     D/A     A   D/A
-Oh no (no)    Oh no!
-   A7         E   G    D
-Oh no! Yeah!   Yeah! (break)
-              | A D/A | % |
-I've got a feeling, yeah!
+[A] I've got a [D/A]feeling, a [A]feeling deep in[D/A]side
+Oh [A]yeah,[D/A]     oh [A]yeah. (that's [D/A]right)
+[A] I've got a [D/A]feeling, a [A]feeling I can't [D/A]hide
+Oh [A]no (no[D/A])    Oh [A]no! [D/A]
+Oh [A7]no! Yeah!  [E] Yea[G]h! (b[D]reak)
+I've got a feeli[A]ng[D/A], yeah!
 
 [Verse 2]
-A               D/A           A                D/A
- Lord, please believe me, I'd hate to miss the train
-   A      D/A     A      D/A
-Oh yeah, yeah, oh yeah.
-A           D/A        A              D/A
- And if you leave me I won't be late again
-   A   D/A  A    D/A
-Oh no,   oh no
-   A7         E   G    D
-Oh no! Yeah!   Yeah! (break)
-              | A D/A | % |
-I've got a feeling, yeah!
+[A] Lord, please be[D/A]lieve me, I'd [A]hate to miss the [D/A]train
+Oh [A]yeah, y[D/A]eah, oh [A]yeah. [D/A]
+[A] And if you [D/A]leave me I [A]won't be late a[D/A]gain
+Oh [A]no, [D/A]  oh [A]no [D/A]
+Oh [A7]no! Yeah!  [E] Yea[G]h! (b[D]reak)
+I've got a feeli[A]ng[D/A], yeah!
 
 [Middle 8]
-E
-All these years I've been wandering around,
-G
-Wondering how come nobody told me
-D                                                     |  A  |  %  |
-All that I was looking for was somebody who looked like you
+[E]All these years I've been wandering around,
+[G]Wondering how come nobody told me
+[D]All that I was looking for was somebody who looked like y[A]ou
                                                       (break)
 [Verse 3]
-A           D/A          A              D/A
- I've got a feeling that keeps me on my toes
-   A      D/A     A      D/A
-Oh yeah, yeah, oh yeah
-A           D/A                   A         D/A
- I've got a feeling, I think that everybody knows
-   A     D/A     A      D/A
-Oh yeah,     oh yeah
-   A7             E   G    D
-Oh yeah! Yeah!   Yeah!  (break)
-              | A D/A | % |
-I've got a feeling, yeah!
+[A] I've got a [D/A]feeling that [A]keeps me on my [D/A]toes
+Oh [A]yeah, y[D/A]eah, oh [A]yeah [D/A]
+[A] I've got a [D/A]feeling, I think that [A]everybody [D/A]knows
+Oh [A]yeah, [D/A]    oh y[A]eah [D/A]
+Oh [A7]yeah! Yeah!   Y[E]eah![G]  (br[D]eak)
+I've got a feeli[A]ng[D/A], yeah!
 
 [Bridge]
-A                D/A
- Ev'rybody had a hard year
-A                D/A
- Ev'rybody had a good time
-A                D/A
- Ev'rybody had a wet dream
-A                  D/A
- Ev'rybody saw the sunshine
-   A        D/A      A      D/A
-Oh yeah, oh yeah, oh yeah
-A                D/A
- Ev'rybody had a good year
-A                    D/A
- Ev'rybody let their hair down
-A                       D/A
- Ev'rybody pulled their socks up
-A                    D/A
- Ev'rybody put their foot down
+[A] Ev'rybody had a [D/A]hard year
+[A] Ev'rybody had a [D/A]good time
+[A] Ev'rybody had a [D/A]wet dream
+[A] Ev'rybody saw the [D/A]sunshine
+Oh [A]yeah, oh [D/A]yeah, oh [A]yeah [D/A]
+[A] Ev'rybody had a [D/A]good year
+[A] Ev'rybody let their [D/A]hair down
+[A] Ev'rybody pulled their [D/A]socks up
+[A] Ev'rybody put their [D/A]foot down
 
 [Link]
 | A     G7/A G#7/A | A7*    G#7/A G7/A |
 | A D/A | % |
 
 [Verse/Bridge]
-A           D/A        A              D/A
- I've got a feeling, a feeling deep inside
+[A] I've got a [D/A]feeling, a [A]feeling deep in[D/A]side
 Ev'rybody had a good year. Everybody had a hard time
-   A                 D/A          A                   D/A
-Oh yeah,                      Oh yeah.
+Oh [A]yeah,             [D/A]         Oh y[A]eah. [D/A]
      Ev'rybody had a wet dream,     everybody saw the sun shine
-A           D/A         A              D/A
- I've got a feeling, a feeling I can't hide
+[A] I've got a [D/A]feeling, a f[A]eeling I can't [D/A]hide
 Everybody had a good year.  Everybody let their hair down.
-   A                        D/A         A                     D/A
-Oh no.                               Oh no!
+Oh [A]no.                      [D/A]         Oh [A]no! [D/A]
      Everybody pulled their socks up,     everybody put their foot down
 
 [Link] + coda
