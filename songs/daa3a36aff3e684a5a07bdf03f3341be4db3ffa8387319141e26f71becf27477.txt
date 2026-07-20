@@ -22,28 +22,21 @@ Cdim  x3454x   C6 x32210   Em6 xx202x   Eb6 xx101x   E7 020130 or 020100
 ******************************************************************
 
 [Intro]
-| C        | C        | C        | C        |
- (Whistling.................................)
+ ([C]Whistling..[C]...........[C]...........[C].........)
 
 [Verse 1] 0:08
-F                   Fm        
-I'll see you, in my    dreams
-C                 Cdim       C 
-And I'll hold you      in my   dreams
+[F]I'll see you, in my [Fm]   dreams
+[C]And I'll hold you [Cdim]     in my [C]  dreams
 A7        Em7         A7                 Em7     A7*  Em7*  D7
   Someone    took you,   right out of my arms
 D7                Dm7               G7      C7* B7* F
 Still I feel, the    thrill of your charms
 
 [Verse 2] 0:44
-F           FM7       Fm      Fm
-Lips,  that once were mine
-C       C6        C       C
- Tender eyes that   shine
-Gm          A7        E7      Am
-  They will light, my   way tonight
-Dm           G7       C        C     
-I'll see you,   in my,  dreams
+[F]Lips,  that [FM7]once were [Fm]mine [Fm]
+[C] Tender [C6]eyes that [C]  shine [C]
+[Gm]  They will [A7]light, my [E7]  way to[Am]night
+[Dm]I'll see you,[G7]   in my,[C]  dreams [C]
 
 [Instrumental] 1:19
 | F        | F        | Fm       | Fm       |
@@ -54,14 +47,9 @@ A7      Em7            A7                Em7    A7*  Em7*  D7
 Oh, someone,  took you   right out of my arms
 D7                Dm7               G7      C7* B7* F
 Still I feel, the    thrill of your charms
-F           FM7       Fm      Fm
-Lips,  that once were mine
-C       C6        C       C
- Tender eyes that   shine
-Gm          A7        E7      Am
-  They will light, my   way tonight
-Dm           G7       C        C     
-I'll see you,   in my,  dreams
+[F]Lips,  that [FM7]once were [Fm]mine [Fm]
+[C] Tender [C6]eyes that [C]  shine [C]
+[Gm]  They will [A7]light, my [E7]  way to[Am]night
+[Dm]I'll see you,[G7]   in my,[C]  dreams [C]
 
-| C        | C        | C        | C        |
- (Whistling, to fade........................)
+ ([C]Whistling, [C]to fade....[C]...........[C].........)
