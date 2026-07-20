@@ -6,8 +6,7 @@ Song name: Rye Whiskey  by  Punch Brothers
 G  
 
 [Verse 1]
-G
-Rye whiskey makes the band sound better,
+[G]Rye whiskey makes the band sound better,
 Makes your baby cuter,
 Makes itself taste sweeter.
 Oh, boy!
@@ -18,8 +17,7 @@ Makes the back room hotter, oh, but
 
 [Chorus 1]
 
-D                   Em
-Rye thoughts aren't good thoughts, boys,
+[D]Rye thoughts aren't [Em]good thoughts, boys,
 Have I ever told you about the time I...
 
 [Instrumental]
@@ -27,8 +25,7 @@ Have I ever told you about the time I...
 G
 
 [Verse 2]
-G
-Rye whiskey wraps your troubles up 
+[G]Rye whiskey wraps your troubles up 
 Into a bright blue package,
 Ties a bow around it.
 Oh, boy!
@@ -37,8 +34,7 @@ Just throw it on the pile in the corner, see,
 You're not alone in not being alone tonight, but
 
 [Chorus 2]
-D              Em
-Rye love isn't good love, boys,
+[D]Rye love isn't [Em]good love, boys,
 Have I ever told you about the time I...
 
 [Instrumental]
@@ -46,8 +42,7 @@ Have I ever told you about the time I...
 G
 
 [Verse 3]
-G
-I used to wake up bright and early,
+[G]I used to wake up bright and early,
 Got my work done quickly, held my baby tightly.
 Oh, boy!
 
@@ -56,17 +51,13 @@ Makes the spirit more willing
 But the body weaker because 
 
 [Chorus 3]
-D               Em
-Rye sleep isn't good sleep, boys,
+[D]Rye sleep isn't [Em]good sleep, boys,
 Have I ever told you about the time I 
 
 [Bridge]
-B                        C#
-Took it and took her for granted?
-B                              C#
-How I took it and took her for granted?
-B                                         C#
-So, let's take some and take them all for granted.
+[B]Took it and took her for [C#]granted?
+[B]How I took it and took her for [C#]granted?
+[B]So, let's take some and take them all for [C#]granted.
 
 [Instrumental]
 A
