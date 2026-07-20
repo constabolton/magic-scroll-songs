@@ -2,81 +2,46 @@
 Song name: The Sound Of Silence  by  Simon & Garfunkel
 ----------------------------------------------------------------------
 [Verse 1]
-Am                        G
-   Hello darkness, my old friend,
-                            Am
-I've come to talk with you again,
-                      F      C
-Because a vision softly creeping,
-                        F       C
-Left its seeds while I was sleeping,
-        F                             C
-And the vision that was planted in my brain
-            C/B Am    C
-Still remains
-           G        Am
-Within the sound of silence.
+[Am]   Hello darkness, my old [G]friend,
+I've come to talk with you a[Am]gain,
+Because a vision softl[F]y creep[C]ing,
+Left its seeds while I w[F]as sleep[C]ing,
+And the [F]vision that was planted in my [C]brain
+Still remain[C/B]s [Am] [C]
+Within the [G]sound of [Am]silence.
 
 [Verse 2]
-                             G
-In restless dreams I walked alone
-                        Am
-Narrow streets of cobblestone,
-                    F        C
-'neath the halo of a street lamp,
-                          F         C
-I turned my collar to the cold and damp
-        F                                         C
-When my eyes were stabbed by the flash of a neon light
-                    C/B Am    C
-That split the night
-                G        Am
-And touched the sound of silence.
+In restless dreams I walked a[G]lone
+Narrow streets of cobble[Am]stone,
+'neath the halo of a[F] street l[C]amp,
+I turned my collar to the [F]cold and d[C]amp
+When my [F]eyes were stabbed by the flash of a neon l[C]ight
+That split the night[C/B] [Am] [C]
+And touched the [G]sound of [Am]silence.
 
 [Verse 3]
-                         G
-And in the naked light I saw
-                           Am
-Ten thousand people, maybe more.
-                    F       C
-People talking without speaking,
-                    F       C
-People hearing without listening,
-               F                         C
-People writing songs that voices never share
-               C/B Am    C
-And no one dare
-            G        Am
-Disturb the sound of silence.
+And in the naked light I [G]saw
+Ten thousand people, maybe [Am]more.
+People talking witho[F]ut speak[C]ing,
+People hearing witho[F]ut liste[C]ning,
+People writing [F]songs that voices never sh[C]are
+And no one dare[C/B] [Am] [C]
+Disturb the [G]sound of [Am]silence.
 
 [Verse 4]
-                         G
-Fools said I, you do not know
-                      Am
-Silence like a cancer grows.
-                      F           C
-Hear my words that I might teach you,
-                     F           C
-Take my arms that I might reach you.
-       F                           C        C/B Am
-But my words like silent raindrops fell,
-    C             G        Am
-And echoed in the wells of silence
+Fools said I, you do not [G]know
+Silence like a cancer [Am]grows.
+Hear my words that I m[F]ight teach y[C]ou,
+Take my arms that I m[F]ight reach y[C]ou.
+But my [F]words like silent raindrops [C]fell, [C/B] [Am]
+And [C]echoed in the [G]wells of [Am]silence
 
 [Verse 5]
-                         G
-And the people bowed and prayed
-                     Am
-To the neon god they made.
-                          F      C
-And the sign flashed out its warning,
-                      F      C
-In the words that it was forming.
-                       F
-And the sign said, the words of the prophets
-                           C
-Are written on the subway walls
-                  C/B Am
-And tenement halls
-    C                G         Am
-And whisper'd in the sounds of silence.
+And the people bowed and [G]prayed
+To the neon god they [Am]made.
+And the sign flashed out i[F]ts warn[C]ing,
+In the words that it w[F]as form[C]ing.
+And the sign said, the [F]words of the prophets
+Are written on the subway w[C]alls
+And tenement halls[C/B] [Am]
+And [C]whisper'd in the [G]sounds of [Am]silence.
