@@ -2,73 +2,41 @@
 Song name: On The Sidewalks Of New York  by  Nat King Cole
 ----------------------------------------------------------------------
 [Chorus]
-Eb
-East side, West side
-Ab             Eb
-All around the town
-Ab                    Eb
-The tots sang 'Ring-a-Rosie'
-        F7                Bb7
-'London Bridge is falling down!
-Eb
-Boys and girls together
-Ab             Eb
-Me and Mamie O'Rorke
-Ab                Eb
-Tripped the light fantastic
-Bb7                 Eb
-On the sidewalks of New York
+[Eb]East side, West side
+[Ab]All around the [Eb]town
+[Ab]The tots sang 'Ring-a-[Eb]Rosie'
+'London [F7]Bridge is falling [Bb7]down!
+[Eb]Boys and girls together
+[Ab]Me and Mamie O'[Eb]Rorke
+[Ab]Tripped the light [Eb]fantastic
+[Bb7]On the sidewalks of [Eb]New York
 
 [Verse]
-Eb
-Down in front of Casey's
-Ab               Eb
-Old brown wooden stoop
-Ab             Eb
-On a summer's evening
-    F7            Bb7
-We formed a merry group;
-Eb
-Boys and girls together
-Ab                 Eb
-We would sing and waltz
-           Ab                  Eb
-While the "Ginnie" played the organ
-       Bb7              Eb   C7
-On the sidewalks of New York
+[Eb]Down in front of Casey's
+[Ab]Old brown wooden [Eb]stoop
+[Ab]On a summer's e[Eb]vening
+We f[F7]ormed a merry [Bb7]group;
+[Eb]Boys and girls together
+[Ab]We would sing and w[Eb]altz
+While the "[Ab]Ginnie" played the o[Eb]rgan
+On the [Bb7]sidewalks of New [Eb]York [C7]
 
 [Chorus]
-F
-East side, West side
-Bb             F
-All around the town
-    Bb                F
-The tots sang 'Ring-a-Rosie'
-        G7                C7
-'London Bridge is falling down!
-F
-Boys and girls together
-Bb             F
-Me and Mamie O'Rorke
-Bb                F
-Tripped the light fantastic
-       C7               F
-On the sidewalks of New York
+[F]East side, West side
+[Bb]All around the [F]town
+The [Bb]tots sang 'Ring-a-[F]Rosie'
+'London [G7]Bridge is falling [C7]down!
+[F]Boys and girls together
+[Bb]Me and Mamie O'[F]Rorke
+[Bb]Tripped the light [F]fantastic
+On the [C7]sidewalks of New [F]York
 
 [Chorus]
-F#
-East side, West side
-B              F#
-All around the town
-    B                 F#
-The tots sang 'Ring-a-Rosie'
-        G#7                C#7
-'London Bridge is falling down!
-F#
-Boys and girls together
-B              F#
-Me and Mamie O'Rorke
-B                 F#
-Tripped the light fantastic
-       C#7               F#
-On the sidewalks of New York
+[F#]East side, West side
+[B]All around the [F#]town
+The [B]tots sang 'Ring-a-[F#]Rosie'
+'London [G#7]Bridge is falling d[C#7]own!
+[F#]Boys and girls together
+[B]Me and Mamie O'[F#]Rorke
+[B]Tripped the light [F#]fantastic
+On the [C#7]sidewalks of New Y[F#]ork
