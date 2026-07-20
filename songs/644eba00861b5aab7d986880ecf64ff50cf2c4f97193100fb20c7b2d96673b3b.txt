@@ -3,29 +3,18 @@ Song name: Take Me Out To The Ball Game  by  Misc Traditional
 ----------------------------------------------------------------------
 [Intro]
                         
- A7
-(For it’s)              
- F    D7   C                     A7
-(one, two, three strikes, you’re out at the)                    
- D7  G7   C       G7
-(old ball game.)        
+([A7]For it’s)              
+([F]one, [D7]two, [C]three strikes, you’re [A7]out at the)                    
+([D7]old [G7]ball [C]game.)  [G7]      
                         
                         
 [Verse]
                         
-C                  G7  
-Take me out to the ball game.                           
-C                    G7        
-Take me out with the crowd.     
-A7                      Dm     
-Buy me some peanuts and Cracker Jack.                   
-D                 G7   
-I don’t care if I never get back, let me                                
-C                        G7    
-root, root, root for the home team. If                  
-C7                     F      
-they don’t win, it’s a shame. For it’s                  
-Dm    F   C                     
-one, two, three strikes, you’re out at the                      
-F    G7   C    
-old ball game.  PLAY BALL!!
+[C]Take me out to the [G7]ball game.                           
+[C]Take me out with the [G7]crowd.     
+[A7]Buy me some peanuts and [Dm]Cracker Jack.                   
+[D]I don’t care if I [G7]never get back, let me                                
+[C]root, root, root for the [G7]home team. If                  
+[C7]they don’t win, it’s a [F]shame. For it’s                  
+[Dm]one, t[F]wo, [C]three strikes, you’re out at the                      
+[F]old b[G7]all g[C]ame.  PLAY BALL!!
