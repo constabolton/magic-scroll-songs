@@ -8,42 +8,30 @@ G  Am7  G  Am7  G
 
 [Verse 1]
    
-Bm        G      Bm         G
-Childhood living is easy to do
-Am7                   C  D  G                    D   C
-The things that you wanted     I bought them for you
-Bm         G         Bm       G
-Graceless lady you know who I am
-Am7                C    D G                D
-You know I can't let you   slide through my hands
+[Bm]Childhood [G]living [Bm]is easy to [G]do
+[Am7]The things that you wa[C]nte[D]d  [G]   I bought them for [D]you [C]
+[Bm]Graceless l[G]ady you kn[Bm]ow who I [G]am
+[Am7]You know I can't le[C]t you[D]  [G] slide through my[D] hands
 
 
 [Chorus]
 
-Am7   C     D G        F        C   Bm
-Wild horses   couldn't drag me away
-Am7   C          D G        F        C
-Wild, wild horses  couldn't drag me away
+[Am7]Wild h[C]orses [D]  [G]couldn't [F]drag me a[C]way [Bm]
+[Am7]Wild, [C]wild horses[D]  [G]couldn't [F]drag me a[C]way
 
 
 [Verse 2]
 
-Bm            G       Bm            G
-I watched you suffer a dull aching pain
-Am7           C    D G              D    C
-Now you've decided,  to show me the same
-Bm          G     Bm          G
-No sweeping exit or offstage lines
-Am7                 C      D G               D
-Could make me feel bitter    or treat you unkind
+[Bm]I watched you [G]suffer a[Bm] dull aching p[G]ain
+[Am7]Now you've dec[C]ided,[D]  [G]to show me the [D]same [C]
+[Bm]No sweeping [G]exit o[Bm]r offstage l[G]ines
+[Am7]Could make me feel b[C]itter  [D]  [G]or treat you unk[D]ind
 
 
 [Chorus]
 
-Am7   C    D G         F        C   Bm
-Wild Horses,  couldn't drag me away
-Am7          C   D G        F        C
-Wild, wild horses  couldn't drag me away
+[Am7]Wild H[C]orses[D], [G] couldn't [F]drag me a[C]way [Bm]
+[Am7]Wild, wild ho[C]rses[D]  [G]couldn't [F]drag me a[C]way
 
 
 [Solo]
@@ -53,22 +41,16 @@ F/C   C   F/C   C  D  G
 
 [Verse 3]
 
-Bm       G           Bm          G
-I know I dreamed you a sin and a lie
-Am7        C       D G                       D   C
-I have my freedom     but I don't have much time
-Bm            G        Bm           G
-Faith has been broken, tears must be cried
-Am7            C     D G          D
-Let's do some living,   after we die
+[Bm]I know I [G]dreamed you [Bm]a sin and a [G]lie
+[Am7]I have my f[C]reedom  [D]  [G] but I don't have much t[D]ime [C]
+[Bm]Faith has been[G] broken, [Bm]tears must be[G] cried
+[Am7]Let's do some l[C]iving,[D]  [G] after we d[D]ie
 
 
 [Chorus]
 
-Am7   C    D G        F        C    Bm
-Wild Horses, couldn't drag me away
-Am7   C         D G      F              C
-Wild wild Horses, we'll ride them some day
+[Am7]Wild H[C]orses[D], [G]couldn't [F]drag me a[C]way [Bm]
+[Am7]Wild w[C]ild Horses[D], [G]we'll r[F]ide them some d[C]ay
 
 
 [Instrumental]
@@ -78,10 +60,8 @@ Bm G  Bm  G  Am7   C  D G  D
 
 [Chorus]
 
-Am7   C     D G        F        C   Bm
-Wild Horses,  couldn't drag me away
-Am7   C         D G      F              C
-Wild wild Horses,  we'll ride them some day
+[Am7]Wild H[C]orses,[D]  [G]couldn't [F]drag me a[C]way [Bm]
+[Am7]Wild w[C]ild Horses[D], [G] we'll [F]ride them some [C]day
 
 
 Either fade it out or end with D (transitional) G
