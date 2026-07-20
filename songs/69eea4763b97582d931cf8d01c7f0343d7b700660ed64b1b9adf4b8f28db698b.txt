@@ -5,88 +5,56 @@ We Can Work It Out - The Beatles
 
 
 [Verse 1]
-D             Dsus4 D
-Try to see it  my   way
-             Dsus4           C               D
-Do I have to keep on talking till I can't go on
-D                 Dsus4 D
-Why do you see it your  way?
-D               Dsus4            C                D
-Run the risk of knowing that our love may soon be gone
+[D]Try to see it [Dsus4] my   [D]way
+Do I have to [Dsus4]keep on talking [C]till I can't go [D]on
+[D]Why do you see it [Dsus4]your  [D]way?
+[D]Run the risk of [Dsus4]knowing that our [C]love may soon be [D]gone
 
 [Chorus]
-G              D
-We can work it out
-G              A
-We can work it out
+[G]We can work it [D]out
+[G]We can work it [A]out
 
 [Verse 2]
-D                    Dsus4 D
-Think of what you're say - ing
-D              Dsus4               C                   D
-You can get it wrong and still you think that it's all right
-D                 Dsus4 D
-Think of what I'm say - ing
-D              Dsus4          C                    D
-We can work it out and get it straight or say goodnight
+[D]Think of what you're [Dsus4]say - [D]ing
+[D]You can get it [Dsus4]wrong and still you [C]think that it's all [D]right
+[D]Think of what I'm [Dsus4]say - [D]ing
+[D]We can work it [Dsus4]out and get it [C]straight or say goodn[D]ight
 
 [Chorus]
-G              D
-We can work it out
-G              A
-We can work it out
+[G]We can work it [D]out
+[G]We can work it [A]out
 
 [Middle]
-Bm                     Bm/A       G   F#7sus4
-Life is very short and there's no time
-    F#          Bm          Bm/A      Bm/G     Bm/F#
-For fussing and fighting my friend
-Bm                         Bm/A   G   F#7sus4
-I have always thought that it's a crime
-   F#     Bm      Bm/A Bm/G  Bm/F#
-So I will ask you once again
+[Bm]Life is very short and [Bm/A]there's no [G]time[F#7sus4]
+For [F#]fussing and [Bm]fighting my [Bm/A]friend [Bm/G] [Bm/F#]
+[Bm]I have always thought that [Bm/A]it's a [G]crim[F#7sus4]e
+So [F#]I will [Bm]ask you [Bm/A]once [Bm/G]again [Bm/F#]
 
 [Verse 3]
-D             Dsus4 D
-Try to see it  my   way  
-               Dsus4        C             D
-Only time will tell if I am right or I am wrong
-D                Dsus4 D
-While you see it your  way?
-D                     Dsus4         C                D
-There's a chance that we might fall apart before too long
+[D]Try to see it [Dsus4] my   [D]way  
+Only time will [Dsus4]tell if I am [C]right or I am [D]wrong
+[D]While you see it [Dsus4]your  [D]way?
+[D]There's a chance that [Dsus4]we might fall [C]apart before too [D]long
 
 [Chorus]
-G              D
-We can work it out
-G              A
-We can work it out
+[G]We can work it [D]out
+[G]We can work it [A]out
 
 [Middle]
-Bm                     Bm/A       G   F#7sus4
-Life is very short and there's no time
-    F#          Bm          Bm/A      Bm/G     Bm/F#
-For fussing and fighting my friend
-Bm                         Bm/A   G   F#7sus4
-I have always thought that it's a crime
-   F#     Bm      Bm/A Bm/G  Bm/F#
-So I will ask you once again
+[Bm]Life is very short and [Bm/A]there's no [G]time[F#7sus4]
+For [F#]fussing and [Bm]fighting my [Bm/A]friend [Bm/G] [Bm/F#]
+[Bm]I have always thought that [Bm/A]it's a [G]crim[F#7sus4]e
+So [F#]I will [Bm]ask you [Bm/A]once [Bm/G]again [Bm/F#]
 
 [Verse 4]
-D             Dsus4 D
-Try to see it  my   way
-               Dsus4        C             D
-Only time will tell if I am right or I am wrong
-D                Dsus4 D
-While you see it your  way?
-D                     Dsus4         C                D
-There's a chance that we might fall apart before too long
+[D]Try to see it [Dsus4] my   [D]way
+Only time will [Dsus4]tell if I am [C]right or I am [D]wrong
+[D]While you see it [Dsus4]your  [D]way?
+[D]There's a chance that [Dsus4]we might fall [C]apart before too [D]long
 
 [Chorus]
-G              D
-We can work it out
-G              A
-We can work it out
+[G]We can work it [D]out
+[G]We can work it [A]out
 
 D   Dsus4   D
 
