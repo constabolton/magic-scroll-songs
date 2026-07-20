@@ -5,31 +5,23 @@ Song name: Autumn Leaves  by  Eric Clapton
 Bm   Bm
 
 [Verse 1]
-            Em7     A7              Dmaj7   Gmaj7
-The falling leaves      drift by my window
-           C#m7b5   F#7             Bm   Bm
-The autumn leaves        of red and gold
+The falling [Em7]leaves  [A7]    drift by my [Dmaj7]window [Gmaj7]
+The autumn [C#m7b5]leaves   [F#7]     of red and [Bm]gold [Bm]
 
 
 [Verse 2]
-           Em7   A7              Dmaj7   Gmaj7
-I see your lips      The summer kisses
-              C#m7b5   F#7            Bm   Bm
-The sunburned hands         I used to hold
+I see your [Em7]lips  [A7]    The summer k[Dmaj7]isses [Gmaj7]
+The sunburned [C#m7b5]hands    [F#7]     I used to [Bm]hold [Bm]
 
 
 [Pre-Chorus]
-               C#m7b5   F#7                Bm   Bm
-Since you went away          the days grow long
-              Em7   A7               Dmaj7   Dmaj7
-And soon I'll hear      old winter's song
+Since you went [C#m7b5]away     [F#7]     the days grow [Bm]long [Bm]
+And soon I'll [Em7]hear  [A7]    old winter's [Dmaj7]song [Dmaj7]
 
 
 [Chorus]
-       C#m7b5          F#7     Bm      Bm
-But I miss you most of all, my darling
-C#m7b5              F#7             Bm   Bm
-       When autumn leaves start to fall
+But I m[C#m7b5]iss you most of [F#7]all, my [Bm]darling [Bm]
+[C#m7b5]       When autumn l[F#7]eaves start to f[Bm]all [Bm]
 
 
 [Instrumental]
@@ -40,22 +32,16 @@ C#m7b5   F#7   Bm      Bm
 
 
 [Pre-Chorus]
-               C#m7b5   F#7                Bm   Bm
-Since you went away          the days grow long
-              Em7   A7               Dmaj7   Dmaj7
-And soon I'll hear      old winter's song
+Since you went [C#m7b5]away     [F#7]     the days grow [Bm]long [Bm]
+And soon I'll [Em7]hear  [A7]    old winter's [Dmaj7]song [Dmaj7]
 
 
 [Chorus]
-       C#m7b5          F#7     Bm      Bm
-But I miss you most of all, my darling
-     C#m7b5  F#7             Bm   Bm
-When autumn leaves start to fall
+But I m[C#m7b5]iss you most of [F#7]all, my [Bm]darling [Bm]
+When [C#m7b5]autumn l[F#7]eaves start to f[Bm]all [Bm]
 
-       C#m7b5           F#7     Bm      Bm
-Yes, I miss you most of all, my darling
-C#m7b5              F#7                     Bm   Bm
-       When autumn leaves ... start to ... fall
+Yes, I [C#m7b5]miss you most of [F#7]all, my [Bm]darling [Bm]
+[C#m7b5]       When autumn l[F#7]eaves ... start to ... f[Bm]all [Bm]
 
 
 [Outro Solo]
