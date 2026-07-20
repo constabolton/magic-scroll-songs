@@ -3,27 +3,17 @@ Song name: Davy Crockett - The Ballad Of Davy Crockett  by  Misc Television
 ----------------------------------------------------------------------
 The Ballad of Davy Crockett
 
-G                         C      G
-Born on a mountain top in Tennessee,
-G                       A          D
-Greenest state in the land of the free.
-G                         C          Am
-Raised in the woods so he knew every tree
-D7                                  G
-Killed him a "bar" when he was only three.
-G     C     G        D           D7    G
-Davy, Davy Crockett, king of the wild frontier.
+[G]Born on a mountain top in [C]Tenness[G]ee,
+[G]Greenest state in the la[A]nd of the f[D]ree.
+[G]Raised in the woods so he [C]knew every [Am]tree
+[D7]Killed him a "bar" when he was only [G]three.
+[G]Davy, [C]Davy C[G]rockett, [D]king of the [D7]wild f[G]rontier.
 
-G                                C      G
-Fought single-handed through the Indian war,
-G                                A            D
-Till the Creeks were whipped and peace was in store,
-  G                        C     Am
-While he was handling this risky chore,
-D7                           G
-made himself a legend forevermore.
-G     C     G        D           D7         G
-Davy, Davy Crockett, the man who don't know fear.
+[G]Fought single-handed through the [C]Indian [G]war,
+[G]Till the Creeks were whipped and [A]peace was in [D]store,
+Wh[G]ile he was handling this [C]risky [Am]chore,
+[D7]made himself a legend forever[G]more.
+[G]Davy, [C]Davy C[G]rockett, [D]the man who [D7]don't know [G]fear.
 
 (rest of lyrics, same chord pattern)
 He went off to Congress and served a spell,
