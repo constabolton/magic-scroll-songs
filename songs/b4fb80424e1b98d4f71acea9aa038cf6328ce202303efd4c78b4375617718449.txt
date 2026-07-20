@@ -2,103 +2,57 @@
 Song name: When The Red Red Robin Comes Bob Bob Bobbin Along  by  Al Jolson
 ----------------------------------------------------------------------
 [Verse]
-Am        Em        Am
-I heard a robin this morning
-           Em     Am
-I'm feeling happy today
-     C        Fdim       Am
-Gonna pack my cares in a whistle
-    Dm        E7  Am
-And blow them all away
-     Em             Am
-What if I've been unlucky
-        Em         Am
-Really I haven't a thing
-          C      Fdim        Am
-There's a time I always feel happy
-   D7         G7     Gdim G7
-As happy as a king
+[Am]I heard a [Em]robin this[Am] morning
+I'm feeling[Em] happy [Am]today
+Gonna[C] pack my [Fdim]cares in a [Am]whistle
+And [Dm]blow them [E7]all [Am]away
+What [Em]if I've been un[Am]lucky
+Really I[Em] haven't a [Am]thing
+There's a [C]time I [Fdim]always feel [Am]happy
+As [D7]happy as a [G7]king [Gdim] [G7]
 
 
 [Chorus]
-C
-When the red red robin comes
-G7              C    C7
-bob bob bobbin along, along
-C
-There'll be no more sobbin'
-     G7                      C          C7
-When he starts throbbin' his old, sweet song
-F
-Wake up, wake up you sleepy head
-C           Am
-Get up, get up get outta bed
-D7
-Cheer up, cheer up the sun is red
-G7    Gdim  G7
-Live, love, laugh and be happy
-C
-What if I've been blue
-G7                      C           C7
-Now I'm walking through fields, of flowers
-C                    G7                 C          C7
-Rain may glisten but still I listen for hours, and hours
-F
-I'm just a kid again
-Fm                    C           Cdim
-Doing what I did agian, signin' a song
-         C
-When the red red robin comes
-G7               C     E7
-Bob bob bobbin' along
+[C]When the red red robin comes
+[G7]bob bob bobbin a[C]long,[C7] along
+[C]There'll be no more sobbin'
+When [G7]he starts throbbin' his [C]old, sweet [C7]song
+[F]Wake up, wake up you sleepy head
+[C]Get up, get [Am]up get outta bed
+[D7]Cheer up, cheer up the sun is red
+[G7]Live, [Gdim]love, [G7]laugh and be happy
+[C]What if I've been blue
+[G7]Now I'm walking through [C]fields, of f[C7]lowers
+[C]Rain may glisten but [G7]still I listen for [C]hours, and [C7]hours
+[F]I'm just a kid again
+[Fm]Doing what I did agian[C], signin' a [Cdim]song
+When the [C]red red robin comes
+[G7]Bob bob bobbin' a[C]long [E7]
 
 
 [Verse 2]
-Am            Em          Am
-Tho' rain may fall in the evening
-             Em          Am
-And rain may fall in the night
-         C     Fdim         Am
-When the robin sings in the moring
-  Dm       E7     Am
-I know the sun is bright
-       Em           Am
-I keep still when I hear him
-        Em      Am
-Singin' up in a tree
-        C      Fdim     Am
-For the little angel of gladness
-       D7           G7     Gdim G7
-Brings happiness to me
+[Am]Tho' rain may [Em]fall in the [Am]evening
+And rain may [Em]fall in the [Am]night
+When the [C]robin [Fdim]sings in the [Am]moring
+I [Dm]know the [E7]sun is [Am]bright
+I keep [Em]still when I [Am]hear him
+Singin' [Em]up in a [Am]tree
+For the [C]little [Fdim]angel of [Am]gladness
+Brings [D7]happiness to [G7]me [Gdim] [G7]
 
 [Chorus]
-C
-When the red red robin comes
-G7              C    C7
-bob bob bobbin along, along
-C
-There'll be no more sobbin'
-     G7                      C          C7
-When he starts throbbin' his old, sweet song
-F
-Wake up, wake up you sleepy head
-C           Am
-Get up, get up get outta bed
-D7
-Cheer up, cheer up the sun is red
-G7    Gdim  G7
-Live, love, laugh and be happy
-C
-What if I've been blue
-G7                      C           C7
-Now I'm walking through fields, of flowers
-C                    G7                 C          C7
-Rain may glisten but still I listen for hours, and hours
-F
-I'm just a kid again
-Fm                    C           Cdim
-Doing what I did agian, signin' a song
-         C
-When the red red robin comes
-G7               C     C9
-Bob bob bobbin' along
+[C]When the red red robin comes
+[G7]bob bob bobbin a[C]long,[C7] along
+[C]There'll be no more sobbin'
+When [G7]he starts throbbin' his [C]old, sweet [C7]song
+[F]Wake up, wake up you sleepy head
+[C]Get up, get [Am]up get outta bed
+[D7]Cheer up, cheer up the sun is red
+[G7]Live, [Gdim]love, [G7]laugh and be happy
+[C]What if I've been blue
+[G7]Now I'm walking through [C]fields, of f[C7]lowers
+[C]Rain may glisten but [G7]still I listen for [C]hours, and [C7]hours
+[F]I'm just a kid again
+[Fm]Doing what I did agian[C], signin' a [Cdim]song
+When the [C]red red robin comes
+[G7]Bob bob bobbin' a[C]long [C9]
