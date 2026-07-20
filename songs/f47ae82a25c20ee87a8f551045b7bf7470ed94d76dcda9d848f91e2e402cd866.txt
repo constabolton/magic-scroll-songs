@@ -14,12 +14,9 @@ A|-----------|
 E|-----------|
 
 [Verse 1]
-   Dm                                       Am
-   I got a black magic woman, I got a black magic woman
-   Dm                                               Gm
-   Yes, I got a black magic woman, she got me so blind I can't see
-Gm7               Dm            C        A                 Dm
-   But she's a black magic woman, she's tryin' to make a devil out of me
+   [Dm]I got a black magic woman, I got a black [Am]magic woman
+   [Dm]Yes, I got a black magic woman, she got me so bli[Gm]nd I can't see
+[Gm7]   But she's a bla[Dm]ck magic woman[C], she's t[A]ryin' to make a de[Dm]vil out of me
 
 End each verse with this riff:
 e|--13-10--------------10----|
@@ -30,20 +27,14 @@ A|---------------------------|
 E|---------------------------|
 
 [Verse 2]
-                                               Dm               Am
-   Don't turn your back on me baby, don't turn your back on me baby
-                                   Dm                        Gm
-   Yes, don't turn your back on me, baby, don't mess around with your tricks
-Gm7                      Dm            C                  A              Dm
-   Don't turn your back on me, baby, you might just break up my magic sticks
+   Don't turn your back on me baby, don't turn [Dm]your back on me b[Am]aby
+   Yes, don't turn your back on me,[Dm] baby, don't mess around w[Gm]ith your tricks
+[Gm7]   Don't turn your back o[Dm]n me, baby, yo[C]u might just break [A]up my magic sti[Dm]cks
 
 [Verse 3]
 Guitar solo over verse
 
 [Verse 4]
-                                      Dm    Am
-   You put a spell on me baby, you got your spell on me, babe
-                                 Dm          Gm
-   Yes, you got your spell on me, baby, turnin' my heart into stone
-Gm7    Dm           C                 Bb   A                 Dm
-      I need you so bad, magic woman, I can't leave you alone
+   You put a spell on me baby, you got[Dm] your [Am]spell on me, babe
+   Yes, you got your spell on me,[Dm] baby, turni[Gm]n' my heart into stone
+[Gm7]      I[Dm] need you so [C]bad, magic woman, [Bb]I can[A]'t leave you alone[Dm]
