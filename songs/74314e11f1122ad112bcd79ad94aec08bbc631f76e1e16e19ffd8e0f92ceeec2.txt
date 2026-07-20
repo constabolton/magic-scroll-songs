@@ -1,0 +1,151 @@
+----------------------------------------------------------------------
+Song name: A Hard Days Night  by  The Beatles
+----------------------------------------------------------------------
+The Beatles
+A Hard Day's Night
+(Lennon/McCartney)
+
+From "A Hard Day's Night" (1964)
+
+---------------------------------------------------------------------------------------------
+
+EDIT April 2015
+Went through the comments section and tried to update this tab using the corrections there 
+as it is one of the versions on UG that are visited frequently.
+Some of the voicings are really  difficult to identify. There are several guitar tracks, 
+some of which might use differing voicings (maybe a 12-string, too?). Some options are
+suggested below. Choose whatever sounds good to you. Moreover, there is a special suggestion 
+made by the original submitter of this tab. Sounds nice, even though it might not be
+what is played on the Beatles' recording.
+
+EDIT May 2018
+Opening chord: Harrison arguably played an Fadd9 here. Playing alone on a single 6-string guitar, 
+however, there is no "correct" way to play the opening chord. What is heard on the Beatles' 
+recording is a blend of 6- and 12-string guitars, bass and piano(s ?). In order to recreate the 
+effect of this multi-layered sound impression, a G7sus4 is often suggested, which actually 
+sounds close. But the "a" is missing here. Another option may be Fadd9, but then the bass plays 
+"d", so maybe D7sus4 might be a good substitute, too (not enough bottom end, though, in my opinion).
+Experiment for yourself, play together with other guitarists and use different voicings in order to 
+create the big "Bang!".
+
+
+CHORDS / SPECIAL VOICINGS
+
+Opening Chord
+             E-A-D-G-B-e
+G7sus4/D     x-5-3-5-3-3  or  x-x-0-0-1-1
+D7sus4       x-x-0-2-1-3 (actually Fadd9/D)
+D7sus4/A     x-0-0-0-1-3 or x-0-0-2-1-3 (more bottom end than the regular D7sus4)
+Fadd9        x-x-3-2-1-3 or 1-0-3-2-1-3 or 1-3-3-0-1-1 (on a 12-string this voicing
+                                                        would include the high f AND g notes)
+F6add9/A     x-0-3-5-3-3
+F6add9/C     x-3-3-2-3-3
+(==> all voicings of Fadd9 or F6add9 miss out on the "d" in the bass, though)
+
+Another opening chord idea (using a different tuning)
+             D-G-D-G-B-e
+Fadd9/D      0-0-3-2-1-3
+
+Song
+             E-A-D-G-B-e
+Keep your pinky on the third fret of the high e-string for the first two lines of the verses 
+for the G, C, and F chords
+G            3-x-0-0-3-3
+C            x-3-2-0-1-3
+F            x-x-3-2-1-3 or 1-x-3-2-1-3 (actually Fadd9)
+
+D            x-x-0-2-3-2
+Bm           x-2-4-4-3-2
+Em           0-2-2-0-0-0
+C6           x-3-2-2-1-0
+D7sus4       x-x-0-2-1-3 (actually Fadd9/D)
+Dm7          x-x-0-2-1-1 (actually F/D)
+
+Another possibility which gives a special flavour in the verses is G - Cadd9 - F6add9.
+This is very easy to play; leave your pinky and ring finger in position.
+G            3-x-0-0-3-3
+Cadd9        x-3-2-0-3-3
+F6add9       x-x-3-2-3-3
+
+---------------------------------------------------------------------------------------------
+
+
+[Intro]
+
+G7sus4/D
+
+
+[Verse]
+
+            G    C     G                   F              G
+It's been a hard day's night and I've been working like a dog
+            G    C     G                  F               G
+It's been a hard day's night, I should be sleeping like a log
+           C                           D                                G    C   G
+But when I get home to you, I find the things that you do, will make me feel all right
+
+
+[Verse]
+
+           G    C   G              F                G
+You know I work all day to get you money to buy you things and
+     G                C        G                 F            G
+it's worth it just to hear you say, you're gonna give me everything
+          C                                 D                            G    C G
+So why on earth should I moan, cause when I get you alone, you know I'll feel O.K.
+
+
+[Middle 8]
+
+         Bm   Em                     Bm
+When I'm home everything seems to be right
+         G    Em                     C6     D
+When I'm home feeling you holding me tight, tight, yeah!
+
+
+[Verse]
+
+            G    C     G                   F              G
+It's been a hard day's night and I've been working like a dog
+            G    C     G                  F               G
+It's been a hard day's night, I should be sleeping like a log
+           C                           D                                G    C      G
+But when I get home to you, I find the things that you do, will make me feel all right
+
+
+[Solo]
+
+| G C | G | F | G |
+| G C | G | F | G |
+
+          C                                 D                            G    C G
+So why on earth should I moan, cause when I get you alone, you know I'll feel O.K.
+
+
+[Middle 8]
+
+         Bm   Em                     Bm
+When I'm home everything seems to be right
+         G    Em                     C6     D
+When I'm home feeling you holding me tight, tight, yeah!
+
+
+[Verse]
+
+            G    C     G                   F              G
+It's been a hard day's night and I've been working like a dog
+            G    C     G                  F               G
+It's been a hard day's night, I should be sleeping like a log
+           C                           D                                G    C   G
+But when I get home to you, I find the things that you do, will make me feel all right
+
+
+[Coda]
+
+C            G    C   G
+  You know I feel all right
+C            G    C   D7sus4 Dm7
+  You know I feel all right
+
+| D7sus4 Dm7 | D7sus4 Dm7 | D7sus4 Dm7 |
+                    (repeat and fade)
