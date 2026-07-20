@@ -22,53 +22,38 @@ Gm = 355333
 
 [Verse]
 
-D     Dsus4       Dadd9   D    Bm     D6add9   E
-Born a poor young country boy  Mother Nature's son
-A       Asus4    A               Asus4          D    Dm  G  D  Dm  G  D
-All day long I'm sitting singing songs for everyone
+[D]Born a[Dsus4] poor young [Dadd9]country [D]boy  [Bm]Mother [D6add9]Nature's [E]son
+[A]All day [Asus4]long I'm [A]sitting singing [Asus4]songs for every[D]one [Dm] [G] [D] [Dm] [G] [D]
 
-D    Dsus4   Dadd9    D       Bm      D6add9  E 
-Sit beside a mountain stream  See her waters rise
-A      Asus4  A               Asus4         D   Dm  G  D 
-Listen to the pretty sound of music as she flies
+[D]Sit b[Dsus4]eside a [Dadd9]mountain [D]stream  [Bm]See her [D6add9]waters r[E]ise
+[A]Listen [Asus4]to the [A]pretty sound of [Asus4]music as she f[D]lies[Dm] [G] [D]
 
 
 [Chorus]
 
-      D           G           D
-Do do do do do do do do do do do 
-D           G           D   Dmaj7  D7
-do do do do do do do do do 
-                  G     Gm
-Do do do do do do do do 
-            D
-Yeah yeah yeah
+Do do [D]do do do do [G]do do do do [D]do 
+[D]do do do do [G]do do do do [D]do [Dmaj7] [D7]
+Do do do do do do [G]do do [Gm]
+Yeah yeah ye[D]ah
 
 
 [Verse]
 
-D       Dsus4 Dadd9    D      Bm     D6add9   E
-Find me in my field of grass  Mother Nature's son
-A       Asus4   A           Asus4            D  Dm  G  D
-Swaying daisies sing a lazy song beneath the sun
+[D]Find me [Dsus4]in my [Dadd9]field of [D]grass  [Bm]Mother [D6add9]Nature's [E]son
+[A]Swaying [Asus4]daisies [A]sing a lazy [Asus4]song beneath the [D]sun[Dm] [G] [D]
 
 
 [Chorus]
 
-      D           G           D
-Do do do do do do do do do do do 
-D           G           D   Dmaj7  D7
-do do do do do do do do do 
-                  G     Gm
-Do do do do do do do do 
-            D
-Yeah yeah yeah
+Do do [D]do do do do [G]do do do do [D]do 
+[D]do do do do [G]do do do do [D]do [Dmaj7] [D7]
+Do do do do do do [G]do do [Gm]
+Yeah yeah ye[D]ah
 
 
 [Outro]
 (Hum a verse with correct chords)
 
-D  Dm   G              D7
-Oh    Mother Nature's Son
+[D]Oh [Dm]   Mo[G]ther Nature's S[D7]on
 
 *I ignore that part after the humming and end on the “D”, but whatever
