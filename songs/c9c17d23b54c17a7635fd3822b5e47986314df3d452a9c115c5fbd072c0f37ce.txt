@@ -3,92 +3,62 @@ Song name: Your Mother Should Know  by  The Beatles
 ----------------------------------------------------------------------
 [Intro]
 
-Am
-Oo-oo oo-oo oo-oo oo-oo o-oo oo-oo oo-oo oo-oo
+[Am]Oo-oo oo-oo oo-oo oo-oo o-oo oo-oo oo-oo oo-oo
 
 
 [Verse 1]
 
-Am                   Fmaj7
-Let's all get up and dance to a song
-           A7/E            Dm
-That was a hit before your mother was born.
-G                     C         C/B   A7
-Though she was born a long long time ago,
-                    D7        G7
-your mother should know (Your mother should...)
-                    C
-Your mother should know. (Aaah aah.)
-E7
-Sing it again.
+[Am]Let's all get up and [Fmaj7]dance to a song
+That was a [A7/E]hit before your [Dm]mother was born.
+[G]Though she was born a [C]long long [C/B]time a[A7]go,
+your mother should k[D7]now (Your [G7]mother should...)
+Your mother should k[C]now. (Aaah aah.)
+[E7]Sing it again.
 
-Am                   Fmaj7
-Let's all get up and dance to a song
-           A7/E             Dm
-That was a hit before your mother was born.
-G                     C         C/B   A7
-Though she was born a long long time ago,
-                   D7         G7
-your mother should know (Your mother should...)
-                   C
-Your mother should know. (Ahh ahh)
+[Am]Let's all get up and [Fmaj7]dance to a song
+That was a [A7/E]hit before your m[Dm]other was born.
+[G]Though she was born a [C]long long [C/B]time a[A7]go,
+your mother should [D7]know (Your [G7]mother should...)
+Your mother should [C]know. (Ahh ahh)
 
 
 [Bridge]
 
- E7        Am              Fmaj7     F6         Dm7/G     C         E7
-| / / / / | / / / / | / / | / / / / | / / / / | / / / / | / / / / | / / / / |
+|[E7] / / / / |[Am] / / / / | / / |[Fmaj7] / / / / |[F6] / / / / | [Dm7/G]/ / / / | [C]/ / / / | [E7]/ / / / |
  ahh
 
 
 [Verse 2]
 
-Am                      Fmaj7
-Lift up your hearts and sing me a song
-           A7/E             Dm
-That was a hit before your mother was born.
-G                     C         C/B   A7
-Though she was born a long long time ago,
-                   D7         G7
-your mother should know (Your mother should...)
-                   C              A7
-Your mother should know. (Ahh ahh ahh.)
-                   D7         G7
-your mother should know (Your mother should...)
-                   C
-Your mother should know. (Ahhh ahhh.)
+[Am]Lift up your hearts and [Fmaj7]sing me a song
+That was a [A7/E]hit before your m[Dm]other was born.
+[G]Though she was born a [C]long long [C/B]time a[A7]go,
+your mother should [D7]know (Your [G7]mother should...)
+Your mother should [C]know. (Ahh ahh [A7]ahh.)
+your mother should [D7]know (Your [G7]mother should...)
+Your mother should [C]know. (Ahhh ahhh.)
 
 
 [Bridge]
 
-  E7        Am              Fmaj7     F6        Dm7/G     C         E7
-| / / / / | / / / / | / / | / / / / | / / / / | / / / / | / / / / | / / / / |
+| [E7]/ / / / | [Am]/ / / / | / / | [Fmaj7]/ / / / | [F6]/ / / / | [Dm7/G]/ / / / | [C]/ / / / | [E7]/ / / / |
  ahh                                                                  Sing it again.
 
 
 [Verse 3]
 
-Am              Fmaj7             A7/E         Dm
-Da-da-da-da-da  Da-da-da-da-da-da da-da-da  Da da-da-da-da
-G7                    C         C/B   A7
-Though she was born a long long time ago,
-                   D7         G7
-your mother should know (Your mother should...)
-                   C                  A7
-Your mother should know. (Yeeah -eah -eah)
-                   D7         G7
-Your mother should know (Your mother should...)
-                   C                 A7
-Your mother should know. (Yeah -eah -eah.)
-                   D7         G7
-Your mother should know (Your mother should...)
-                         B     C
-Your mother should know, yeeah yeah
+[Am]Da-da-da-da-da  [Fmaj7]Da-da-da-da-da-da [A7/E]da-da-da  Da [Dm]da-da-da-da
+[G7]Though she was born a [C]long long [C/B]time a[A7]go,
+your mother should [D7]know (Your [G7]mother should...)
+Your mother should [C]know. (Yeeah -eah -[A7]eah)
+Your mother should [D7]know (Your [G7]mother should...)
+Your mother should [C]know. (Yeah -eah -[A7]eah.)
+Your mother should [D7]know (Your [G7]mother should...)
+Your mother should know, [B]yeeah [C]yeah
 
 
 Fmaj7    x33210
-F6       133231
-Dm7/G    3X0211
+[F6]Dm7/G    3X0211
 A7/E     002020
 C/B      x22010
 E7       020100
