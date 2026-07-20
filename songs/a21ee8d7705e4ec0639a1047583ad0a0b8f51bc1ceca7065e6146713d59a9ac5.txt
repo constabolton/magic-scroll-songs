@@ -11,56 +11,37 @@ LAY LADY LAY by Bob Dylan
 
 [Verse 1]
 
-A          C#m  G            Bm           A    C#m   G    Bm 
-  Lay lady lay,   lay across my big brass bed
-A          C#m   G             Bm            A    C#m   G   Bm  
-  Lay lady lay,     lay across my big brass bed
-E          F#m              A               Asus4 A
-  Whatever colours you have    in your mind 
-E                F#m     A                            Asus4 A
-  I'll show them to you      and you'll see them shine
-A          C#m  G            Bm           A    C#m    G    Bm
-  Lay lady lay,   lay across my big brass bed
+[A]  Lay lady [C#m]lay, [G]  lay across [Bm]my big brass [A]bed [C#m] [G] [Bm]
+[A]  Lay lady [C#m]lay,  [G]   lay across [Bm]my big brass b[A]ed [C#m] [G] [Bm]
+[E]  Whatever [F#m]colours you have [A]   in your mind [Asus4] [A]
+[E]  I'll show them [F#m]to you  [A]    and you'll see them shine[Asus4] [A]
+[A]  Lay lady [C#m]lay, [G]  lay across [Bm]my big brass [A]bed [C#m] [G] [Bm]
 
 
 [Verse 2]
 
-A             C#m    G                Bm         A   C#m   G   Bm
-  Stay, lady, stay,    stay with your man awhile
-A                    C#m   G             Bm                  A   C#m   G   Bm
-  Until the break of day,     let me see you make him smile
-E                 F#m           A                 Asus4 A
-  His clothes are dirty but his    hands are clean
-E                F#m                  A            Asus4 A
-  And you're the best thing that he's     ever seen
-A             C#m   G                Bm          A   C#m   G   Bm
-  Stay, lady, stay,   stay with your man awhile 
+[A]  Stay, lady, [C#m]stay,  [G]  stay with your [Bm]man awhile [A] [C#m] [G] [Bm]
+[A]  Until the break of [C#m]day,  [G]   let me see [Bm]you make him smile [A] [C#m] [G] [Bm]
+[E]  His clothes are [F#m]dirty but his [A]   hands are clean[Asus4] [A]
+[E]  And you're the [F#m]best thing that he's [A]    ever seen[Asus4] [A]
+[A]  Stay, lady, [C#m]stay, [G]  stay with your [Bm]man awhile [A] [C#m] [G] [Bm]
 
 
 [Bridge]
  
-C#m                            E     F#m    A  Asus4 A
-   Why wait any longer for the world to  begin
-C#m                                      A  Asus4 A
-   You can have your cake and eat it too
-C#m                            E   F#m A
-   Why wait any longer for the one you love
-             C#m                   Bm
-   When he's standing in front of you
+[C#m]   Why wait any longer for the [E]world [F#m]to  beg[A]in [Asus4] [A]
+[C#m]   You can have your cake and eat it too [A] [Asus4] [A]
+[C#m]   Why wait any longer for the [E]one [F#m]you [A]love
+   When he's [C#m]standing in front of y[Bm]ou
 
 
 [Verse 3]
 
-A              C#m   G             Bm           A     C#m     G    Bm
-   Lay, lady, lay,      lay across my big brass bed
-A              C#m   G                Bm               A     C#m     G    Bm
-   Stay, lady, stay,   stay while the night is still ahead
-E            F#m            A              Asus4 A
-   I long to see you in the   morning light
-E            F#m            A              Asus4 A
-   I long to reach for you    in the night
-A              C#m   G                Bm              A     C#m     G    Bm
-   Stay, lady, stay,   stay while the night is still ahead
+[A]   Lay, lady, l[C#m]ay,   [G]   lay across [Bm]my big brass [A]bed [C#m] [G] [Bm]
+[A]   Stay, lady, [C#m]stay, [G]  stay while the [Bm]night is still ah[A]ead [C#m] [G] [Bm]
+[E]   I long to [F#m]see you in the [A]  morning light[Asus4] [A]
+[E]   I long to [F#m]reach for you  [A]  in the night [Asus4] [A]
+[A]   Stay, lady, [C#m]stay, [G]  stay while the [Bm]night is still a[A]head [C#m] [G] [Bm]
 
 
 [Outro]
