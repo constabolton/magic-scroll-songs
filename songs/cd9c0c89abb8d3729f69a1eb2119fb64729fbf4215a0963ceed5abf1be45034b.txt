@@ -1,56 +1,40 @@
 ----------------------------------------------------------------------
 Song name: Two Sleepy People  by  Frank Sinatra
 ----------------------------------------------------------------------
-G       F#7  Am7          D9     D7
-Here we are, out of cigarettes,
+[G]Here we [F#7]are, [Am7]out of cigare[D9]ttes, [D7]
 
-G       G/F#       E7         C               Cdim
-Holding hands and yawning -- look how late it gets.
+[G]Holding [G/F#]hands and y[E7]awning -- l[C]ook how late it [Cdim]gets.
 
-Gmaj7 G6    E7         C     Am7    Cm7
-Two  sleepy people by dawn's early light,
+[Gmaj7]Two  s[G6]leepy [E7]people by d[C]awn's [Am7]early l[Cm7]ight,
 
-    G   Edim    Am7    Cdim       G    Am7 - D7
-And too much in love to say goodnight.
+And [G]too [Edim]much in [Am7]love to[Cdim] say goodni[G]ght. [Am7] [D7]
 
 
-G       F#7  Am7         D7
-Here we are, in the cozy chair,
+[G]Here we [F#7]are, [Am7]in the cozy [D7]chair,
 
-G             E7       C            Cdim
-Picking on a wishbone from the Frigidaire;
+[G]Picking on a w[E7]ishbone f[C]rom the Frigi[Cdim]daire;
 
-Gmaj7 G6    E7           C     Am7 Cm7
-Two  sleepy people with nothing to say,
+[Gmaj7]Two  s[G6]leepy [E7]people with n[C]othing[Am7] to [Cm7]say,
 
-     G  Edim    Am7     Cdim    G
-And too much in love to break away.
+And t[G]oo [Edim]much in [Am7]love to [Cdim]break aw[G]ay.
 
 
 
 (Bridge:)
 
-G  G9  G  C          D9       D7      G      G/F#    Em
-Do you remember the nights we used to linger in the hall?
+[G]Do [G9]you [G]rem[C]ember the n[D9]ights we [D7]used to [G]linger [G/F#]in the h[Em]all?
 
-Em7  C      C/B         D9 D7  G
-Your Father didn't like me at all.
+[Em7]Your [C]Father [C/B]didn't like [D9]me [D7]at a[G]ll.
 
-   D7     G          C     D9  D7  C     C/B Am7   G
-Do you remember the reason why we married in the fall?
+Do [D7]you rem[G]ember the r[C]eason [D9]why [D7]we m[C]arried[C/B] in [Am7]the fa[G]ll?
 
-   C                 E7       A7           D7
-To rent this little nest, and get a bit of rest.
+To [C]rent this little n[E7]est, and [A7]get a bit of [D7]rest.
 
 
-      G       F#7  Am7            D7
-Well, here we are, just about the same,
+Well, [G]here we [F#7]are, [Am7]just about the [D7]same,
 
-G             E7     C            Cdim
-Foggy little fella, drowsy little dame;
+[G]Foggy little f[E7]ella, d[C]rowsy little [Cdim]dame;
 
-Gmaj7 G6    E7         C     Am7    Cm7
-Two  sleepy people by dawn's early light,
+[Gmaj7]Two  s[G6]leepy [E7]people by d[C]awn's [Am7]early l[Cm7]ight,
 
-     G  Edim    Am7    Cdim      G     Am7  G
-And too much in love to say goodnight.
+And t[G]oo [Edim]much in [Am7]love to[Cdim] say goodn[G]ight. [Am7] [G]
