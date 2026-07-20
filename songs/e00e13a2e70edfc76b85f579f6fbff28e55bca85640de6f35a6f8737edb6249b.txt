@@ -2,63 +2,38 @@
 Song name: You Belong To Me  by  Patsy Cline
 ----------------------------------------------------------------------
 [Intro]
-C                F
-I'd be so alone without you
-Dm                       G
-Maybe you'd be lonesome too
- G7
-in blue
+[C]I'd be so alone w[F]ithout you
+[Dm]Maybe you'd be lonesome t[G]oo
+i[G7]n blue
 
 [Verse]
-C                 Em
-See the pyramids along the Nile
-F                        C
-Watch the sunrise from a tropic isle
-F                      Em       Am
-Just remember darling all the while
-Dm           G
-You belong to me
-C                       Em
-See the market place in old Algiers
-F                        C
-Send me photographs and souvenirs
-F                     Em    Am
-Just remember when a dream appears
-Dm            G
-You belong to me
+[C]See the pyramids a[Em]long the Nile
+[F]Watch the sunrise from a [C]tropic isle
+[F]Just remember darling a[Em]ll the wh[Am]ile
+[Dm]You belong to[G] me
+[C]See the market place in [Em]old Algiers
+[F]Send me photographs and s[C]ouvenirs
+[F]Just remember when a d[Em]ream a[Am]ppears
+[Dm]You belong to [G]me
 
 [Chorus]
-C                 F
-I'd be so alone without you
-Dm                       G
-Maybe you'd be lonesome too
- G7
-and blue
+[C]I'd be so alone wi[F]thout you
+[Dm]Maybe you'd be lonesome t[G]oo
+a[G7]nd blue
 
 [Verse]
-C                   Em
-Fly the ocean in a silver plane
-F                         C
-See the jungle when it's wet with rain
-F                          Em  Am
-Just remember till you're home again
-Dm    G     
-You belong to me
+[C]Fly the ocean in a s[Em]ilver plane
+[F]See the jungle when it's w[C]et with rain
+[F]Just remember till you're h[Em]ome [Am]again
+[Dm]You be[G]long to me
 
 [Chorus]
-C                      F
-I'm gonna be so alone without you
-        Dm                          G
-And I'm hoping maybe you'll be lonesome too
- G7
-and blue
+[C]I'm gonna be so alone w[F]ithout you
+And I'm [Dm]hoping maybe you'll be lones[G]ome too
+a[G7]nd blue
 
 [Verse]
-C                   Em
-Fly that ocean in a silver plane
-F                         C
-See the jungle when it's wet with rain
-F                          Em  Am
-Just remember till you're home again
-Dm    G       C
-You belong to me
+[C]Fly that ocean in a [Em]silver plane
+[F]See the jungle when it's w[C]et with rain
+[F]Just remember till you're h[Em]ome [Am]again
+[Dm]You be[G]long to [C]me
