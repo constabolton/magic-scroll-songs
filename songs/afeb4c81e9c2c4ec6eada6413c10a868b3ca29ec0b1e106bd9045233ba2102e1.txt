@@ -3,22 +3,13 @@ Song name: Happy Trails  by  Roy Rogers
 ----------------------------------------------------------------------
 HAPPY TRAILS - Dale Evans and Roy Rogers
 
-        F                   F#dim  C7
-Happy trails to you until we meet again
-        C7                         C7+   F
-Happy trails to you, keep smiling until then
-        F7                               Bb
-who cares about the clouds when we're together
-      D7                         G9    C7
-Just sing a song and bring the sunny weather
-        F       D7          Gm7  C7  F
-Happy trails to you till we meet a-gain
+Happy tr[F]ails to you until we[F#dim] meet a[C7]gain
+Happy tr[C7]ails to you, keep smiling u[C7+]ntil t[F]hen
+who care[F7]s about the clouds when we're tog[Bb]ether
+Just s[D7]ing a song and bring the su[G9]nny we[C7]ather
+Happy tr[F]ails to [D7]you till we [Gm7]meet [C7]a-ga[F]in
 
-F                 D7
-Some trails are happy ones
-Gm
-Others are blue
-         C7
-It's the way you ride the trail that counts
-                       F
-Here's a happy one for you
+[F]Some trails are ha[D7]ppy ones
+[Gm]Others are blue
+It's the [C7]way you ride the trail that counts
+Here's a happy one for [F]you
