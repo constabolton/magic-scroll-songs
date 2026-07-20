@@ -2,31 +2,20 @@
 Song name: Singin In The Rain  by  Gene Kelly
 ----------------------------------------------------------------------
 [Verse]
-C               Cmaj7          C               Cmaj7
-I'm singing in the rain, just singin' in the rain
-C               Cmaj7       Dm7       G7
-What a glorious feeling, I'm happy again
-Dm              G7         Dm       G7
-I'm laughing at clouds so dark up above
-Dm              G7                       C
-The sun's in my heart and I'm ready for love
+[C]I'm singing in t[Cmaj7]he rain, just s[C]ingin' in the ra[Cmaj7]in
+[C]What a glorious [Cmaj7]feeling, I'm[Dm7] happy aga[G7]in
+[Dm]I'm laughing at [G7]clouds so d[Dm]ark up ab[G7]ove
+[Dm]The sun's in my [G7]heart and I'm ready for l[C]ove
 
 
 [Verse]
-C                       Cmaj7    C            Cmaj7
-Let the stormy clouds chase everyone from the place
-C               Cmaj7          Dm7       G7
-Come on with the rain, I've a smile on my face
-Dm7             G7          Dm7      G7
-I walk down the lane with a happy refrain
-      Dm7     G7              C
-Just singin', singin' in the rain
+[C]Let the stormy clouds ch[Cmaj7]ase every[C]one from the [Cmaj7]place
+[C]Come on with the[Cmaj7] rain, I've a s[Dm7]mile on my[G7] face
+[Dm7]I walk down the [G7]lane with a [Dm7]happy ref[G7]rain
+Just s[Dm7]ingin', [G7]singin' in the r[C]ain
 
 
 [Verse]
-C               Cmaj7     C      Cmaj7
-Dancing in the rain, I'm happy again
-Dm7             G7              C
-I'm singin' and dancing in the rain
-Dm7             G7              C
-I'm dancing and singin' in the rain
+[C]Dancing in the r[Cmaj7]ain, I'm h[C]appy ag[Cmaj7]ain
+[Dm7]I'm singin' and [G7]dancing in the r[C]ain
+[Dm7]I'm dancing and [G7]singin' in the r[C]ain
