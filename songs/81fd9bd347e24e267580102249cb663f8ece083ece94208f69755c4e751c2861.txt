@@ -4,63 +4,38 @@ Song name: Let It Be Me  by  The Everly Brothers
 The Everly Brothers - Let It Be Me
 
 [Verse]
-G           D
-I bless the day I found you
-Em        Bm
-I want to stay around you
-C        G
-And so I beg you
-Am D         G
-   Let it be me
+[G]I bless the [D]day I found you
+[Em]I want to [Bm]stay around you
+[C]And so I [G]beg you
+[Am]   [D]Let it be [G]me
 
-G               D
-Don't take this heaven from one
-Em          Bm
-If you must cling to someone
-C       G
-Now and forever
-Am D         G
-   Let it be me
+[G]Don't take this [D]heaven from one
+[Em]If you must [Bm]cling to someone
+[C]Now and [G]forever
+[Am]   [D]Let it be [G]me
 
 [Chorus]
-C            Bm
-Each time we meet love
-C      G
-I find complete love
-Am           Bm
-Without your sweet love
-C                  B  D
-What would life be
+[C]Each time we [Bm]meet love
+[C]I find [G]complete love
+[Am]Without your [Bm]sweet love
+[C]What would life be [B] [D]
 
 [Verse]
-G        D
-So never leave me lonely
-Em          Bm
-Tell me you love me only
-C               G
-And that you'll always
-Am D         G
-   Let it be me
+[G]So never [D]leave me lonely
+[Em]Tell me you [Bm]love me only
+[C]And that you'll [G]always
+[Am]   [D]Let it be [G]me
 
 [Chorus]
-C            Bm
-Each time we meet love
-C      G
-I find complete love
-Am           Bm
-Without your sweet love
-C                  B  D
-What would life be
+[C]Each time we [Bm]meet love
+[C]I find [G]complete love
+[Am]Without your [Bm]sweet love
+[C]What would life be [B] [D]
 
 [Verse]
-G        D
-So never leave me lonely
-Em          Bm
-Tell me you love me only
-C               G
-And that you'll always
-Am D         G
-   Let it be me
+[G]So never [D]leave me lonely
+[Em]Tell me you [Bm]love me only
+[C]And that you'll [G]always
+[Am]   [D]Let it be [G]me
 
-Am D         G
-   Let it be me
+[Am]   [D]Let it be [G]me
