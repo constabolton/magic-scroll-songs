@@ -2,30 +2,20 @@
 Song name: The Wizard Of Oz - Somewhere Over The Rainbow  by  Misc Soundtrack
 ----------------------------------------------------------------------
 [Verse 1]
-C         Em               F     Fmaj7 C    Cmaj7
-Somewhere over the rainbow,  way up    high
-F         Fm C           Cmaj7   Dm          G7   C  Fmaj7
-  There's a  land that I heard of  once in a lullaby
+[C]Somewhere [Em]over the rainbow,[F]  way [Fmaj7]up    [C]high [Cmaj7]
+[F]  There's [Fm]a  [C]land that I [Cmaj7]heard of[Dm]  once in a [G7]lulla[C]by [Fmaj7]
 
 [Verse 2]
-C         Em               F       Fmaj7 C   Cmaj7
-Somewhere over the rainbow,  skies are   blue
-F     Fm  C               Cmaj7   Dm7          G7      C
-  And the dreams that you dare to dream really do come true
+[C]Somewhere [Em]over the rainbow,[F]  skies [Fmaj7]are   [C]blue[Cmaj7]
+[F]  And [Fm]the [C]dreams that you [Cmaj7]dare to [Dm7]dream really [G7]do come [C]true
 
 [Chorus]
-     C                             Csus4                              C6
-Some day I'll wish upon a star and wake up where the clouds are far behind me
-      C                               B7                                G
-Where troubles melt like lemon drops away upon the chimney tops, that's where
-       G7
-you'll find me
+Some [C]day I'll wish upon a star and [Csus4]wake up where the clouds are far be[C6]hind me
+Where [C]troubles melt like lemon drops a[B7]way upon the chimney tops, that's [G]where
+you'll [G7]find me
 
 [Verse 3]
-C         Em               F      Fmaj7 C   Cmaj7
-Somewhere over the rainbow,  blue birds fly
-F       Fm  C        Cmaj7    Dm           G7        C
-  Birds fly over the rainbow, why then, oh why can't I
+[C]Somewhere [Em]over the rainbow,[F]  blue [Fmaj7]birds [C]fly [Cmaj7]
+[F]  Birds [Fm]fly [C]over the [Cmaj7]rainbow, [Dm]why then, oh [G7]why can't [C]I
 
-   C                             G                        F   Fadd#11 C
-If happy little blue birds fly beyond the rainbow why, oh why can't   I
+If [C]happy little blue birds fly be[G]yond the rainbow why, oh [F]why [Fadd#11]can't   [C]I
