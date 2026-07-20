@@ -1,27 +1,18 @@
 ----------------------------------------------------------------------
 Song name: Its Only A Paper Moon  by  Harold Arlen
 ----------------------------------------------------------------------
-C           C#dim  Dm7   G7    Dm7         G7     C
-  Say, it's only a paper moon      sailing over a cardboard sea
-Gm7        C7          F      D7       G7              C   G7
-    But it wouldn't be make believe if you believed in me
+[C]  Say, it's [C#dim]only a [Dm7]paper [G7]moon  [Dm7]    sailing [G7]over a [C]cardboard sea
+[Gm7]    But it [C7]wouldn't be [F]make be[D7]lieve if [G7]you believed in [C]me [G7]
 
 
-C           C#dim  Dm7    G7   Dm7         G7     C
-  Yes, it's only a canvas sky      hanging over a muslin tree
-Gm7        C7          F      D7       G7              C   C7
-    But it wouldn't be make believe if you believed in me
+[C]  Yes, it's [C#dim]only a [Dm7]canvas [G7]sky  [Dm7]    hanging [G7]over a [C]muslin tree
+[Gm7]    But it [C7]wouldn't be [F]make be[D7]lieve if [G7]you believed in [C]me [C7]
 
 
-    F   F#dim   C   C6        Dm7   G7     C    C7
-Without your love,     it's a honky-tonk parade
-    F   F#dim   C   C6        Em7    A7          Dm7     G7
-Without your love,     it's a melody played in a penny arcade
+With[F]out [F#dim]your lov[C]e,  [C6]   it's a [Dm7]honky-[G7]tonk pa[C]rade [C7]
+With[F]out [F#dim]your lov[C]e,  [C6]   it's a [Em7]melody [A7]played in a [Dm7]penny ar[G7]cade
 
 
-C        C#dim      Dm7    G7     Dm7         G7       C
-  It's a Barnum and Bailey world,     just as phony as it can be
-Gm7        C7          F      D7       G7                G#7
-    But it wouldn't be make believe if you believed...if you believed...
-   G7         C           Bb   B   C
-If you...be...lieved...in me
+[C]  It's a [C#dim]Barnum and [Dm7]Bailey [G7]world, [Dm7]    just as [G7]phony as [C]it can be
+[Gm7]    But it [C7]wouldn't be [F]make be[D7]lieve if [G7]you believed...if [G#7]you believed...
+If [G7]you...be...[C]lieved...in [Bb]me [B] [C]
