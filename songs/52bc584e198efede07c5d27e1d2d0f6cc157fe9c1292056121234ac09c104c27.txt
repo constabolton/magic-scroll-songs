@@ -3,101 +3,61 @@ Song name: Both Sides Now  by  Joni Mitchell
 ----------------------------------------------------------------------
 [Verse 1]
 
- G         Am      C    G
-Rows and floes of angel hair
-       G       Gmaj7   C      G
-And ice cream castles in the air
-   G         C        Am
-And feather canyons everywhere
-     Am7                   D
-I've looked at clouds that way
-     G        Am    C        G
-But now they only block the sun
-      G      Gmaj7    C    G
-They rain and snow on everyone
-G          C      Am
-So many things I would have done
-     Am7             D
-But clouds got in my way
+R[G]ows and fl[Am]oes of a[C]ngel [G]hair
+And ice[G] cream c[Gmaj7]astles i[C]n the a[G]ir
+And[G] feather c[C]anyons ev[Am]erywhere
+I've [Am7]looked at clouds that [D]way
+But n[G]ow they o[Am]nly bl[C]ock the s[G]un
+They r[G]ain and[Gmaj7] snow on [C]every[G]one
+[G]So many thi[C]ngs I w[Am]ould have done
+But c[Am7]louds got in my [D]way
 
 [Chorus 1]
 
-      G                    C          G
-I've looked at clouds from both sides now
-     C      G           C       G
-From up and down, and still somehow
-     Bm      C       G
-It's cloud illusions I recall
-   C               D   D7      G    C  G C  G C  G C  G C  G
-I really don't know clouds at all
+I've l[G]ooked at clouds from [C]both sides [G]now
+From [C]up and [G]down, and st[C]ill some[G]how
+It's [Bm]cloud il[C]lusions [G]I recall
+I r[C]eally don't know[D] clo[D7]uds at a[G]ll [C] [G] [C] [G] [C] [G] [C] [G] [C] [G]
 
 [Verse 2]
 
- G         Am         C      G
-Moons and Junes and ferris wheels
-  G        Gmaj7    C       G
-The dizzy, dancing way you feel
-   G      C               Am
-As every fairy tale comes real
-     Am7                  D
-I've looked at love that way
+M[G]oons and J[Am]unes and fe[C]rris wh[G]eels
+Th[G]e dizzy, [Gmaj7]dancing w[C]ay you f[G]eel
+As [G]every f[C]airy tale comes [Am]real
+I've [Am7]looked at love that w[D]ay
 
-    G        Am    C       G
-But now it's just another show
-  G           Gmaj7    C        G
-You leave 'em laughing when you go
-G           C          Am
-And if you care don't let them know
-Am7                  D
-Don't give yourself away
+But [G]now it's [Am]just a[C]nother s[G]how
+Yo[G]u leave 'em [Gmaj7]laughing [C]when you [G]go
+[G]And if you c[C]are don't l[Am]et them know
+[Am7]Don't give yourself a[D]way
 
 [Chorus 2]
 
-      G                  C          G
-I've looked at love from both sides now
-     C         G        C       G
-From give and take and still somehow
-     Bm       C       G
-It's love's illusions I recall
-   C               D   D7      G    C  G C  G C  G C  G C  G
-I really don't know love at all
+I've l[G]ooked at love from [C]both sides [G]now
+From [C]give and t[G]ake and s[C]till som[G]ehow
+It's [Bm]love's il[C]lusions [G]I recall
+I r[C]eally don't know[D] lov[D7]e at all[G] [C] [G] [C] [G] [C] [G] [C] [G] [C] [G]
 
 [Verse 3]
 
-  G        Am       C       G
-Tears and fears and feeling proud
-   G         Gmaj7     C         G
-To say, "I love you" right out loud
-G              C              Am
-Dreams and schemes and circus crowds
-     Am7                  D
-I've looked at life that way
- G           Am           C       G
-But now old friends are acting strange
-     G           Gmaj7         C        G
-They shake their heads, they say I've changed
-     G           C        Am
-Well something's lost but something's gained
-Am7             D
-In living every day
+Te[G]ars and f[Am]ears and [C]feeling [G]proud
+To [G]say, "I lo[Gmaj7]ve you" ri[C]ght out lo[G]ud
+[G]Dreams and sche[C]mes and circus [Am]crowds
+I've [Am7]looked at life that w[D]ay
+B[G]ut now old f[Am]riends are ac[C]ting str[G]ange
+They [G]shake their [Gmaj7]heads, they sa[C]y I've ch[G]anged
+Well [G]something's [C]lost but [Am]something's gained
+[Am7]In living every [D]day
 
 [Chorus 3]
 
-      G                  C          G
-I've looked at life from both sides now
-     C        G       C        G
-From win and lose and still somehow
-     Bm       C       G
-It's life's illusions I recall
-   C               D   D7     G    C  G C  G C  G C  G C  G
-I really don't know life, at all
+I've l[G]ooked at life from [C]both sides [G]now
+From [C]win and l[G]ose and [C]still som[G]ehow
+It's [Bm]life's il[C]lusions [G]I recall
+I r[C]eally don't know[D] lif[D7]e, at a[G]ll [C] [G] [C] [G] [C] [G] [C] [G] [C] [G]
 
 [Extra Chorus]
-      G                  C          G
-I've looked at life from both sides now
-     C      G        C        G
-From up and down and still somehow
-     Bm       C       G
-It's life's illusions I recall
-   C               D   D7     G    C  G C  G C  G C  G C  G
-I really don't know life, at all
+I've l[G]ooked at life from [C]both sides [G]now
+From [C]up and [G]down and [C]still som[G]ehow
+It's [Bm]life's il[C]lusions [G]I recall
+I r[C]eally don't know[D] lif[D7]e, at a[G]ll [C] [G] [C] [G] [C] [G] [C] [G] [C] [G]
