@@ -14,34 +14,24 @@ E|-------|-----------|-------|------|
 
 [Verse 1]
 
-           F          F#dim7 F#dim7/A F#dim7
-There were bells on a hill
-       Gm              Bbm
-But I never heard them ringing
-      F     Am     Abm   Gm7
-No I never heard them at all
-C9             F  Gm  C9
-Till there was you
+There were [F]bells on a [F#dim7]hill [F#dim7/A] [F#dim7]
+But I n[Gm]ever heard them [Bbm]ringing
+No I n[F]ever h[Am]eard th[Abm]em at [Gm7]all
+[C9]Till there was [F]you[Gm] [C9]
 
 
 [Verse 2]
 
-            F             F#dim7 F#dim7/A F#dim7/C
-There were birds in the sky
-      Gm              Bbm
-But I never saw  them winging
-     F     Am   Abm     Gm7
-No I never saw  them at all
-C9             F  F9
-Till there was you
+There were b[F]irds in the sk[F#dim7]y [F#dim7/A] [F#dim7/C]
+But I [Gm]never saw  them [Bbm]winging
+No I [F]never [Am]saw  [Abm]them at [Gm7]all
+[C9]Till there was [F]you[F9]
 
 
 [Chorus]
 
-F9             Bb   Bbm              F
-Then there was music   and wonderful roses
-     D9           Gm  Gmmaj7     G7          C7 C9sus4/G C+/G#
-They  tell me in sweet  fragrant meadows of  dawn        and  dew
+[F9]Then there was [Bb]music[Bbm]   and wonderful [F]roses
+They [D9] tell me in s[Gm]weet[Gmmaj7]  fragrant [G7]meadows of  [C7]daw[C9sus4/G]n        [C+/G#]and  dew
 
                               e|-3-3-3-3-3-3-3-3-3-3-3-4-0-0-0-0-|
                               B|-6-3-6-3-6-3-5-5-3-3-3-1-1-3-1-1-|
@@ -52,14 +42,10 @@ They  tell me in sweet  fragrant meadows of  dawn        and  dew
 
 [Verse 3]
 
-          F         F#dim7 F#dim7/A
-There was love all around
-      Gm             Bbm
-But I never heard it singing
-     F     Am    Abm   Gm7
-No I never heard it at all
-C9             F Gm  C7b9
-Till there was you
+There was [F]love all a[F#dim7]round [F#dim7/A]
+But I [Gm]never heard it [Bbm]singing
+No I [F]never [Am]heard [Abm]it at [Gm7]all
+[C9]Till there was [F]yo[Gm]u [C7b9]
 
 
 [Solo]
@@ -90,12 +76,9 @@ D|---1-4-----|------------------|
 A|-3---------|------------------|
 E|-----------|------------------|
 
-   F9                         Bb
-               Then there was music
-   Bbm             F
-     and wonderful roses
-          D9     Gm   Gmmaj7      G7          C7 C9sus4/G C+/G#
-They  tell me in sweet  fragrant  meadows of  dawn      and dew
+   [F9]            Then there was [Bb]music
+   [Bbm]  and wonderful [F]roses
+They  tell[D9] me in [Gm]sweet[Gmmaj7]  fragrant  [G7]meadows of  [C7]daw[C9sus4/G]n      an[C+/G#]d dew
                                e|-3-3-3-3-3-3-3-3-3-3-3-4-0-0-0-0-|
                                B|-6-3-6-3-6-3-5-5-3-3-3-1-1-3-1-1-|
                                G|-4-4-4-4-4-4-3-3-3-3-3-1-1-1-1-1-|
@@ -105,22 +88,16 @@ They  tell me in sweet  fragrant  meadows of  dawn      and dew
 
 [Verse 3]
 
-           F        F#dim7 F#dim7/A F#dim7/C F#dim7/Eb
-There was love all around
-      Gm             Bbm6
-But I never heard it singing
-      F    Am   Abm    Gm7
-No I never heard it at all
-C9             F E+ F E+ F F
-Till there was you
+There was l[F]ove all a[F#dim7]round [F#dim7/A] [F#dim7/C] [F#dim7/Eb]
+But I [Gm]never heard it [Bbm6]singing
+No I n[F]ever [Am]heard[Abm] it at [Gm7]all
+[C9]Till there was [F]yo[E+]u [F] [E+] [F]
 
 
 [Outro]
 
-C/G  E7/B  C/G
-Tiiiiiilllll There was
-F F6 Db7 F E+ F E+ F  Fmaj7
-you
+[C/G]Tiiii[E7/B]iillll[C/G]l There was
+[F]yo[F6]u [Db7] [F] [E+] [F] [E+] [F] [Fmaj7]
 
 
 Some chords used in the 2009 remastered version in order of appearance.
