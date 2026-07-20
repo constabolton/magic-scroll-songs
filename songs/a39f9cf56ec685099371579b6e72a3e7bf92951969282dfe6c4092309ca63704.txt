@@ -1,0 +1,27 @@
+X:1
+T: Jazz Me Blues
+C: Tom Delaney
+M: 4/4
+L: 1/16
+K: G
+(3defg2(3gfed2BB2AG4|
+"G"B_B=BdedBGBc_d2=d4|
+B_B=Bcd2d_e"Am"=eA3"D7"A4|
+"G"B_B=BdedBGBc_d2=d4|
+(3defg2(3gfed2BB2AG4|
+"G"B_B=BdedBGBc_d2=d4|
+B_B=Bcd2d_e"Am"=eA3"D7"A4|
+"G"B_B=BdedBGBc_d2=d4|
+(3defg2(3gfed2BB2AG4|
+"D"dd2d-d4"A7"ee2e-e4|
+"D"fa2f"A"e2^d2"D"=d4"B7"^d4|
+"E7"e2e2B4e2eB-BBeB|
+"A7"e2e2A4e2eA-AAe=f|
+"D7"f2f2d4f2fd-ddef|
+"G"g2g2g3g"B7"f2f2f3f|
+"E7"e2e2B4e2eB-BBeB|
+"A7"e2e2A4e2eA-AAGA|
+"G"B6B2"G7"A2G2B2A2|
+"C"G4g4"C#dim"e2g6|
+"G"d2d2B2d2"E7"e2de-edBG|
+"Am"A2Ad-"D7"dBA2"G"G8|]
