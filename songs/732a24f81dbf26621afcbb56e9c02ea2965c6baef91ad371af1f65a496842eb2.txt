@@ -1,16 +1,12 @@
 intro: Dm Bb F C F
  
-Dm          Bb      F      C
-If you're going to San Francisco
+[Dm]If you're go[Bb]ing to S[F]an Fran[C]cisco
  
-Dm          Bb         F              C
-Be sure to wear some flowers in your hair
+[Dm]Be sure to w[Bb]ear some fl[F]owers in your h[C]air
  
-Dm          F   Am7 Bb     F
-If you're going to San Francisco
+[Dm]If you're go[F]ing [Am7]to S[Bb]an Fran[F]cisco
  
-Dm            Am        Dm7            C
-You're gonna meet some gentle people there
+[Dm]You're gonna m[Am]eet some g[Dm7]entle people th[C]ere
  
  
 For those who come to San Francisco
@@ -19,23 +15,17 @@ In the streets of San Francisco
 Gentle people with flowers in their hair
  
  
-Eb               Cm
-All across the nation
+[Eb]All across the na[Cm]tion
  
-Eb                Cm
-Such a strange vibration
+[Eb]Such a strange vib[Cm]ration
  
-   F        Dm
-People in motion
+Peo[F]ple in mo[Dm]tion
  
-  Eb                Cm
-There's a whole generation
+Th[Eb]ere's a whole gene[Cm]ration
  
- Eb                 Cm
-With some new explanation
+W[Eb]ith some new explan[Cm]ation
  
- F         Dm      Dm7       C
-People in motion, people in motion
+P[F]eople in m[Dm]otion, p[Dm7]eople in m[C]otion
  
  
 For those who come to San Francisco
@@ -43,8 +33,7 @@ Be sure to wear some flowers in your hair
 If you come to San Francisco
 Summertime will be a love-in there
  
-  Dm       Bb       F
-Mmm-m-m... San Francisco
+Mm[Dm]m-m-m... [Bb]San Franc[F]isco
  
  
 NOTE: May be transposed into an easier key to sing/play, depending
