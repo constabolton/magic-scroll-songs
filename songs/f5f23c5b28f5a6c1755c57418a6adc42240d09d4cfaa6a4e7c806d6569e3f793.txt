@@ -3,51 +3,36 @@ Song name: Helena  by  Nickel Creek
 ----------------------------------------------------------------------
 [Verse]
 
- C#m          E
-Helena, don't walk away
-           A               F#m 
-Before you give me back my heart
-           C#m               E
-If it were mine, it would be yours to take
-         A     A/G#    F#m
-'m sorry I let down my guard, oh Helena
+H[C#m]elena, don't [E]walk away
+Before you [A]give me back my [F#m]heart
+If it were [C#m]mine, it would be [E]yours to take
+'m sorry [A]I let [A/G#]down my [F#m]guard, oh Helena
 
 
 [Pre-Chorus]
 
-    A                G#m
-You looked so sweet, I should have seen
-            F#m                       Bsus4       B    
-While I was playing for fun, you were playing for keeps
+You [A]looked so sweet, [G#m]I should have seen
+While I was [F#m]playing for fun, you were [Bsus4]playing for [B]keeps
 
 
 [Verse]
 
-    C#m             E
-You win, I lose, is there some way
-        A        A/G#    F#m
-You can leave me in your debt
-                     C#m          E
-So my girl and I can live to die another day
-        A     A/G#     F#m
-On that day I won't forget you, Helena
+You [C#m]win, I lose, is [E]there some way
+You can [A]leave me [A/G#]in your [F#m]debt
+So my girl and I can [C#m]live to die a[E]nother day
+On that [A]day I [A/G#]won't for[F#m]get you, Helena
 
 [Pre-Chorus]
 
-A                 G#m               
-You look so sweet waiting for me
-        F#m                         D
-While I wait for her to give me any reason to leave
+[A]You look so sweet [G#m]waiting for me
+While I [F#m]wait for her to give me any [D]reason to leave
 
 
 [Chorus]
 
-      A                 Bm
-Don't waste your pretty sympathy
-      D           A                    Bm
-She's gonna be ju-ust fine and Helena, so will we
-        D              A
-So will everything in time, mmm
+Don't [A]waste your pretty [Bm]sympathy
+She's [D]gonna be ju-[A]ust fine and Helena, [Bm]so will we
+So will [D]everything in t[A]ime, mmm
 
 
 [Instrumental]
@@ -59,43 +44,30 @@ A   A/G#   F#m
 
 [Verse]
 
-C#m           E
-Helena, don't walk away
-        A        A/G#   F#m
-Did you hear one word I said? Oh well
-        C#m              E
-I never really liked her anyway
-         A        A/G#    F#m
-And I forgot her, I'll forget you, Helena
+[C#m]Helena, don't [E]walk away
+Did you [A]hear one [A/G#]word I [F#m]said? Oh well
+I never [C#m]really liked her [E]anyway
+And I for[A]got her, [A/G#]I'll for[F#m]get you, Helena
 
 
 [Pre-Chorus]
 
-       A                   G#m       
-You're not that sweet, and neither is she
-    F#m               D  
-Go ahead and tell her anything
+You're [A]not that sweet, and [G#m]neither is she
+Go a[F#m]head and tell her [D]anything
 
 
 [Chorus]
 
-A                         Bm                 D              A
-you want, 'cause, Helena, guys like me never sleep alone at night
-                  Bm                      
-I don't need your sympathy
-            D              A
-'cause I'll always be ju-ust fine
-           Bm             D
-Yeah, I'll always be ju-ust fine
+[A]you want, 'cause, Helena, [Bm]guys like me never [D]sleep alone at [A]night
+I don't need your [Bm]sympathy
+'cause I'll [D]always be ju-us[A]t fine
+Yeah, I'll [Bm]always be ju-us[D]t fine
 
 
 [Outro]
 
 A/E        Bm          D           A/E
 
-           Bm             D  
-Yeah, I'll always be ju-ust fine
-      A/E       Bm        D
-La la la, la la la, la la la
-      A/E       Bm        D      A/E
-La la la, la la la, la la la
+Yeah, I'll [Bm]always be ju-us[D]t fine
+La la [A/E]la, la la [Bm]la, la la [D]la
+La la [A/E]la, la la [Bm]la, la la [D]la [A/E]
