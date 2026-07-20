@@ -13,83 +13,47 @@ correct.
 Capo I
 
 
-C                   G
-If I had a hammer,
-G                 C
-I'd hammer in the morning
-C
-I'd hammer in the evening,
-C7            G
-All over this land.
-G              C        F
-I'd hammer out danger,
-F                C        Am
-I'd hammer out a warning,
-Am             C               F               G
-I'd hammer out love between my brothers and my sisters,
-C   G   F       G      C
-A - aa -all over this land.
+[C]If I had a hammer, [G]
+[G]I'd hammer in the [C]morning
+[C]I'd hammer in the evening,
+[C7]All over this [G]land.
+[G]I'd hammer out [C]danger, [F]
+[F]I'd hammer out a [C]warning, [Am]
+[Am]I'd hammer out [C]love between my [F]brothers and my [G]sisters,
+[C]A - [G]aa -[F]all over[G] this l[C]and.
 
 
-C                 G
-If I had a bell,
-G                  C
-I'd ring it in the morning,
-C
-I'd ring it in the evening,
-C7            G
-All over this land.
-G            C       F  
-I'd ring out danger,
-F              C       Am
-I'd ring out a warning
-Am           C               F               G
-I'd ring out love between my brothers and my sisters,
-C   G   F       G      C
-A - aa -all over this land.
+[C]If I had a bell, [G]
+[G]I'd ring it in the [C]morning,
+[C]I'd ring it in the evening,
+[C7]All over this [G]land.
+[G]I'd ring out [C]danger, [F]
+[F]I'd ring out a [C]warning [Am]
+[Am]I'd ring out [C]love between my [F]brothers and my [G]sisters,
+[C]A - [G]aa -[F]all over[G] this l[C]and.
 
 
-C                G
-If I had a song,
-G                  C
-I'd sing it in the morning,
-C           
-I'd sing it in the evening,
-C7            G
-All over this land.
-G            C       F
-I'd sing out danger,
-F              C       Am
-I'd sing out a warning
-Am           C               F               G
-I'd sing out love between my brothers and my sisters,
-C   G   F       G      C
-A - aa -all over this land.
+[C]If I had a song, [G]
+[G]I'd sing it in the [C]morning,
+[C]I'd sing it in the evening,
+[C7]All over this [G]land.
+[G]I'd sing out [C]danger, [F]
+[F]I'd sing out a [C]warning [Am]
+[Am]I'd sing out [C]love between my [F]brothers and my [G]sisters,
+[C]A - [G]aa -[F]all over[G] this l[C]and.
 
 
-C                     G
-Well I got a hammer,
-G           C
-And I got a bell,
-C
-And I got a song to sing, 
-C7            G
-All over this land.
-G                  C         F
-It's the hammer of Justice,
-F                C        Am
-It's the bell of Freedom,
-Am                  C               F               G
-It's the song about Love between my brothers and my sisters,
-C   G   F       G      C
-A - aa -all over this land.
+[C]Well I got a hammer, [G]
+[G]And I got a [C]bell,
+[C]And I got a song to sing, 
+[C7]All over this [G]land.
+[G]It's the hammer of [C]Justice, [F]
+[F]It's the bell of [C]Freedom, [Am]
+[Am]It's the song about [C]Love between my [F]brothers and my [G]sisters,
+[C]A - [G]aa -[F]all over[G] this l[C]and.
 
 
-G                  C         F
-It's the hammer of Justice,
-F                C        Am
-It's the bell of Freedom,
-Am                  C               F               G
-It's the song about Love between my brothers and my sisters,
-C   G   F       G      C
-A - aa -all over this land.
+[G]It's the hammer of [C]Justice, [F]
+[F]It's the bell of [C]Freedom, [Am]
+[Am]It's the song about [C]Love between my [F]brothers and my [G]sisters,
+[C]A - [G]aa -[F]all over[G] this l[C]and.
