@@ -1,8 +1,7 @@
 ----------------------------------------------------------------------
 Song name: The Witcher - Toss A Coin To Your Witcher  by  Misc Television
 ----------------------------------------------------------------------
-                           D              C
-Alternatively you can play    instead of     in Chorus, not like in original but sounds better imo.
+Alternatively you can play [D]   instead of  [C]   in Chorus, not like in original but sounds better imo.
 
 [Verse chord fingerpicking pattern]
 
@@ -25,60 +24,38 @@ E|-----------------|-----------------|
 
 
 [Verse 1]
-Am                   D
-   When a humble bard
-                Dm
- Graced a ride along
-                Em
- With Geralt of Rivia
-             Dsus2    Em  E
- Along came this song
+[Am]   When a humble bard[D]
+ Graced a ride a[Dm]long
+ With Geralt of [Em]Rivia
+ Along came t[Dsus2]his song [Em] [E]
 
 [Verse 2 - fingerpicking]
-Am                          D/F#
-   From when the White Wolf fought
-                  Dm
- A silver-tongued devil
-             G
- His army of elves
-                        D/F#   G  E/G#
- At his hooves did they  revel
+[Am]   From when the White Wolf [D/F#]fought
+ A silver-tongued [Dm]devil
+ His army of [G]elves
+ At his hooves did they [D/F#] revel [G] [E/G#]
 
 [Verse 3 - fingerpicking]
-Am                 D/F#
-   They came after me
-                  Dm
- With masterful deceit
-               G
- Broke down my lute
-          E7           Am
- And they kicked in my teeth
+[Am]   They came after [D/F#]me
+ With masterful de[Dm]ceit
+ Broke down my [G]lute
+ And they [E7]kicked in my [Am]teeth
 
 [Verse 4 - fingerpicking]
-Am                   D/F#
-   While the devil’s horns
-                   Dm
- Minced our tender meat
-                  G
- And so cried the Witcher
-             G      E7
- He can’t be bleat
+[Am]   While the devil’s [D/F#]horns
+ Minced our tender [Dm]meat
+ And so cried the [G]Witcher
+ He can’t be [G]bleat [E7]
 
 [Chorus]
-Am        E            C
-   Toss a coin to your Witcher
-    D             Am
- O’ Valley of Plenty
-    Am             Am
- O’ Valley of Plenty
+[Am]   Toss a [E]coin to your [C]Witcher
+ O’ [D]Valley of Plen[Am]ty
+ O’ [Am]Valley of Plent[Am]y
 
-Am
-Oh, oh, oh
+[Am]Oh, oh, oh
 
-Am        E            C
-   Toss a coin to Your Witcher
-    D         Esus4    E
- O’ Valley of Plenty
+[Am]   Toss a [E]coin to Your [C]Witcher
+ O’ [D]Valley of [Esus4]Plenty [E]
 
 [Fill]
 e|-----------------|
@@ -89,92 +66,58 @@ A|-----------------|
 E|-----------------|
 
 [Verse 5]
-Am                    D/F#
-   At the edge of the world
-                  Dm/F
- Fight the mighty horde
-                 G
- That bashes and breaks you
-                   D/F#    G   E/G#
- And brings you to mourn 
+[Am]   At the edge of the [D/F#]world
+ Fight the mighty [Dm/F]horde
+ That bashes and [G]breaks you
+ And brings you to [D/F#]mourn [G] [E/G#]
 
 [Verse 6]
-Am                 D/F#
-   He thrust every elf
-                 Dm/F
- Far back on the shelf
-                G
- High up on the mountain
-                D/F#   G E7
- From whence it came 
+[Am]   He thrust every [D/F#]elf
+ Far back on the [Dm/F]shelf
+ High up on the [G]mountain
+ From whence it [D/F#]came [G] [E7]
 
 [Verse 7]
-Am                   D/F#
-   He wiped out your pest
-                   Dm/F
- Got kicked in his chest
-                      G
- He’s a friend of humanity
-    E7           Am
- So give him the rest
+[Am]   He wiped out your [D/F#]pest
+ Got kicked in his [Dm/F]chest
+ He’s a friend of huma[G]nity
+ So [E7]give him the [Am]rest
 
 [Verse 8]
-Am                D/F#
-   That’s my epic tale
-                 Dm/F
- Our champion prevailed
-              G
- Defeated the villain
-                       G
- Now pour him some ale
+[Am]   That’s my epic [D/F#]tale
+ Our champion pre[Dm/F]vailed
+ Defeated the [G]villain
+ Now pour him some ale [G]
 
 [Chorus 2]
-Am        E            C
-   Toss a coin to your Witcher
-    D             Am
- O’ Valley of Plenty
-    Am             Am
- O’ Valley of Plenty
+[Am]   Toss a [E]coin to your [C]Witcher
+ O’ [D]Valley of Plen[Am]ty
+ O’ [Am]Valley of Plent[Am]y
 
-Am
-Oh, oh, oh
+[Am]Oh, oh, oh
 
-Am        E            C
-   Toss a coin to your Witcher
-   D         Esus4       E
- A friend of humanity
+[Am]   Toss a [E]coin to your [C]Witcher
+ A [D]friend of [Esus4]humanity [E]
 
 [Chorus 3]
-Am        E            C
-   Toss a coin to your Witcher
-    D             Am
- O’ Valley of Plenty
-    Am             Am
- O’ Valley of Plenty
+[Am]   Toss a [E]coin to your [C]Witcher
+ O’ [D]Valley of Plen[Am]ty
+ O’ [Am]Valley of Plent[Am]y
 
-Am
-Oh, oh, oh
+[Am]Oh, oh, oh
 
-Am        E            C
-   Toss a coin to your Witcher
-   D         Esus4       E
- A friend of humanity
+[Am]   Toss a [E]coin to your [C]Witcher
+ A [D]friend of [Esus4]humanity [E]
 
 [Chorus 4]
-Am        E            C
-   Toss a coin to your Witcher
-    D             Am
- O’ Valley of Plenty
-    Am            Am
- O’ Valley of Plenty
+[Am]   Toss a [E]coin to your [C]Witcher
+ O’ [D]Valley of Plen[Am]ty
+ O’ [Am]Valley of Plen[Am]ty
 
-Am
-Oh, oh, oh
+[Am]Oh, oh, oh
 
-Am        E            C
-   Toss a coin to your Witcher
-   D         Esus4       E
- A friend of humanity
+[Am]   Toss a [E]coin to your [C]Witcher
+ A [D]friend of [Esus4]humanity [E]
 
 [Outro]
 Am
