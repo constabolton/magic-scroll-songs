@@ -2,96 +2,64 @@
 Song name: I Want To Hold Your Hand  by  The Beatles
 ----------------------------------------------------------------------
 [Intro]
-C C D             C C D             C C D             D
-                                                    (Oh  yeah ...)
+[C]  [C]  [D]              [C]  [C]  [D]              [C]  [C]  [D]            (O[D]h  yeah ...)
 
 [Verse 1]
-         G             D
-Oh yeah, I'll tell you something
-Em                   B
- I think you'll understand
-     G          D
-When I say that something
-Em                 B7
- I wanna hold your hand
+Oh yeah, [G]I'll tell you [D]something
+[Em] I think you'll under[B]stand
+When [G]I say that [D]something
+[Em] I wanna hold your [B7]hand
 
 
 [Chorus]
-C        D         G     Em
- I wanna hold your hand
-C        D         G
- I wanna hold your hand
+[C] I wanna [D]hold your [G]hand [Em]
+[C] I wanna [D]hold your [G]hand
 
 
 [Verse 2]
-   G              D
-Oh please, say to me
-Em                     B
- You'll let me be your man
-    G              D
-And please, say to me
-Em                       B7
- You'll let me hold your hand
+Oh [G]please, say to [D]me
+[Em] You'll let me be your [B]man
+And [G]please, say to [D]me
+[Em] You'll let me hold your [B7]hand
 
 
 [Chorus]
-C           D         G  Em
- Now let me hold your hand
-C        D         G
- I wanna hold your hand
+[C] Now let me [D]hold your [G]han[Em]d
+[C] I wanna [D]hold your [G]hand
 
 
 [Bridge]
-Dm7         G                C       Am
- And when I touch you I feel happy inside
-Dm7          G               C
- It's such a feeling that my love
-C C     D      C C     D      C C     D
-I can't hide - I can't hide - I can't hide
+[Dm7] And when I [G]touch you I feel [C]happy in[Am]side
+[Dm7] It's such a [G]feeling that my [C]love
+[C]I [C]can't [D]hide - [C]I [C]can't [D]hide - [C]I [C]can't [D]hide
 
 
 [Verse 3]
-      G             D
-Yeah, you, got that something
-Em                    B
- I think you'll understand
-     G          D
-When I say that something
-Em                 B7
- I wanna hold your hand
+Yeah, [G]you, got that [D]something
+[Em] I think you'll unders[B]tand
+When [G]I say that [D]something
+[Em] I wanna hold your [B7]hand
 
 
 [Chorus]
-C        D         G   Em
- I wanna hold your hand
-C        D         G
- I wanna hold your hand
+[C] I wanna [D]hold your [G]hand[Em]
+[C] I wanna [D]hold your [G]hand
 
 
 [Bridge]
-Dm7         G                C       Am
- And when I touch you I feel happy inside
-Dm7          G               C
- It's such a feeling that my love
-C C     D      C C     D      C C     D
-I can't hide - I can't hide - I can't hide
+[Dm7] And when I [G]touch you I feel [C]happy in[Am]side
+[Dm7] It's such a [G]feeling that my [C]love
+[C]I [C]can't [D]hide - [C]I [C]can't [D]hide - [C]I [C]can't [D]hide
 
 
 [Verse 4]
-      G            D
-Yeah, you got that something,
-Em                   B
- I think you'll understand
-     G           D
-When I feel that something
-Em                 B7
- I wanna hold your hand
+Yeah, [G]you got that [D]something,
+[Em] I think you'll under[B]stand
+When [G]I feel that [D]something
+[Em] I wanna hold your [B7]hand
 
 
 [Chorus]
-C        D         G   Em
- I wanna hold your hand
-C        D         B7
- I wanna hold your hand
-C        D         C   G
- I wanna hold your ha--and
+[C] I wanna [D]hold your [G]hand[Em]
+[C] I wanna [D]hold your [B7]hand
+[C] I wanna [D]hold your [C]ha--[G]and
