@@ -10,13 +10,11 @@ NOTES:
 
 [Chords]
 F      133211
-G7     353433
-C7     x32310  or  x35353
+[G7]C7     x32310  or  x35353
 F7/A   x01211 (or just F7) 
 Bb     x13331
 Bbm    x13321
-Bb7    x13131
-Bdim7  x2313x
+[Bb7]Bdim7  x2313x
 
 [Intro]
                                    C7
@@ -29,99 +27,65 @@ E|---1---------2---------3---------x--x-x-----| x2
 
 
 [Verse 1]
-F      G7      C7
-I love coffee, I love tea
-                         F
-I love the java jive and it loves me
-F          F7/A        Bb       Bbm
-Coffee and tea and the java and me
-  F             C7            F    C7
-A cup, a cup, a cup, a cup, a cup, boy
+[F]I love [G7]coffee, [C7]I love tea
+I love the java jive and [F]it loves me
+[F]Coffee and [F7/A]tea and the [Bb]java and [Bbm]me
+A [F]cup, a cup, a [C7]cup, a cup, a [F]cup, [C7]boy
 
 
 [Verse 2]
-F      G7    C7
-I love java, sweet and hot
-                        F
-Whoops, Mr. Moto, I'm a coffee pot
-F            F7/A    Bb        Bbm
-Shoot me the pot now pour me a shot
-  F             C7            F
-A cup, a cup, a cup, a cup, a cup
+[F]I love [G7]java, [C7]sweet and hot
+Whoops, Mr. Moto, I'm a [F]coffee pot
+[F]Shoot me the [F7/A]pot now [Bb]pour me a [Bbm]shot
+A [F]cup, a cup, a [C7]cup, a cup, a [F]cup
 
 
 [Chorus]
-    Bb7
-Oh, slip me a slug from the wonderful mug
-                        F
-I'll cut a rug till I'm snug in a jug
-  F *
-A slice of onion and a raw one, draw one
+Oh, [Bb7]slip me a slug from the wonderful mug
+I'll cut a rug till I'm [F]snug in a jug
+A [F]slice of onion and a raw one, draw one
 N.C.
 Waiter, waiter, percolator
 
 
 [Verse 3]
-F      G7      C7
-I love coffee, I love tea
-                         F
-I love the java jive and it loves me
-F          F7/A        Bb       Bbm
-Coffee and tea and the java and me
-  F             C7            F   C7
-A cup, a cup, a cup, a cup, a cup
+[F]I love [G7]coffee, [C7]I love tea
+I love the java jive and [F]it loves me
+[F]Coffee and [F7/A]tea and the [Bb]java and [Bbm]me
+A [F]cup, a cup, a [C7]cup, a cup, a [F]cup [C7]
 
 
 [Bridge]
-    F             G7  C7
-Oh, Boston beans, soy beans (Yeah!)
-F            G7          C7
-Green beans, cabbage and greens (Home cooking!)
-F       F7/A        Bb    Bdim7
-I'm not keen enough for a bean
-  C7 *                                C7
-Unless that is a cheery, cheery bean, boy
+Oh, [F]Boston beans, [G7]soy [C7]beans (Yeah!)
+[F]Green beans, [G7]cabbage and [C7]greens (Home cooking!)
+[F]I'm not [F7/A]keen enough [Bb]for a [Bdim7]bean
+Un[C7]less that is a cheery, cheery bean, [C7]boy
 
 
 [Verse 4]
-F      G7      C7
-I love coffee, I love tea
-                         F
-I love the java jive and it loves me
-F              F7/A        Bb       Bbm
-Coffee and the tea and the java and me
-  F             C7            F    C7
-A cup, a cup, a cup, a cup, a cup, yeah
+[F]I love [G7]coffee, [C7]I love tea
+I love the java jive and [F]it loves me
+[F]Coffee and the [F7/A]tea and the [Bb]java and [Bbm]me
+A [F]cup, a cup, a [C7]cup, a cup, a [F]cup, [C7]yeah
 
 
 [Verse 5]
-F      G7    C7
-I love java, sweet and hot
-                        F
-Whoops, Mr. Moto, I'm a coffee pot
-F            F7/A    Bb        Bbm
-Shoot me the pot now pour me a shot
-  F      C7     F
-A cup, a cup, a cup (Yeah!)
+[F]I love [G7]java, [C7]sweet and hot
+Whoops, Mr. Moto, I'm a [F]coffee pot
+[F]Shoot me the [F7/A]pot now [Bb]pour me a [Bbm]shot
+A [F]cup, a [C7]cup, a [F]cup (Yeah!)
 
 
 [Chorus]
-    Bb7
-Oh, throw me that slug from the wonderful mug
-                            F
-And I'll cut a rug till I'm snug in the jug
-F *
- Drop a nickel in a pot, Joe, takin' it slow
+Oh, [Bb7]throw me that slug from the wonderful mug
+And I'll cut a rug till I'm [F]snug in the jug
+[F] Drop a nickel in a pot, Joe, takin' it slow
 N.C.
 Waiter, waiter, percolator
 
 
 [Verse 6]
-F      G7      C7
-I love coffee, I love tea
-C7                       F
-I love the java jive and it loves me
-F          F7/A        Bb       Bbm
-Coffee and tea and the java and me, yeah
-F *                                  F
-  A cup, a cup, a cup, a cup, a cup, boy
+[F]I love [G7]coffee, [C7]I love tea
+[C7]I love the java jive and [F]it loves me
+[F]Coffee and [F7/A]tea and the [Bb]java and [Bbm]me, yeah
+[F]  A cup, a cup, a cup, a cup, a cup, [F]boy
