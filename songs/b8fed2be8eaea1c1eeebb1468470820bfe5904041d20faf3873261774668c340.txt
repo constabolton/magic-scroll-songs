@@ -13,58 +13,39 @@ E|-------------------------------------|
 
 
 [Verse]
-D
-   Nibblin' on sponge cake, watchin' the sun bake
-                                   A
-All of those tourists covered with oil
-A
-   Strummin' my six string, on my front porch swing
-                                       D     D7
-Smell those shrimp they're beginnin' to boil
+[D]   Nibblin' on sponge cake, watchin' the sun bake
+All of those tourists covered with [A]oil
+[A]   Strummin' my six string, on my front porch swing
+Smell those shrimp they're beginnin' to[D] boil [D7]
 
 [Chorus]
-G           A                  D        D7   G                 A                D     D7
-   Wastin' away again in Margaritaville,        searchin' for my lost shaker of salt
-G              A                    D   A/C#  G           A                   D
-   Some people claim that there's a woman to blame, but I know, it's nobody's fault
+[G]   Wastin' a[A]way again in Margar[D]itaville,[D7]     [G]   searchin' for m[A]y lost shaker of [D]salt [D7]
+[G]   Some people [A]claim that there's a [D]woma[A/C#]n to b[G]lame, but I [A]know, it's nobody's [D]fault
 
 [Verse]
-D
-   Don't know the reason, I stayed here all season
-                                      A
-Nothin' to show but this brand new tattoo
-A
-   But it's a real beauty, a Mexican cutie
-                            D     D7
-How it got here I haven't a clue
+[D]   Don't know the reason, I stayed here all season
+Nothin' to show but this brand new tat[A]too
+[A]   But it's a real beauty, a Mexican cutie
+How it got here I haven't a [D]clue [D7]
 
 [Chorus]
-G           A                  D        D7   G                 A                D     D7
-   Wastin' away again in Margaritaville,        searchin' for my lost shaker of salt
-G              A                    D   A/C#  G           A                          D
-   Some people claim that there's a woman to blame, now I think, hell it could be my fault
+[G]   Wastin' a[A]way again in Margar[D]itaville,[D7]     [G]   searchin' for m[A]y lost shaker of [D]salt [D7]
+[G]   Some people [A]claim that there's a [D]woma[A/C#]n to b[G]lame, now I [A]think, hell it could be my [D]fault
 
 [Instrumental]
 D     A
 G A D A/C# G A D
 
 [Verse]
-D
-   I blew out my flip flop, stepped on a pop top
-                                  A
-Cut my heel had to cruise on back home
-A
-   But there's booze in the blender, and soon it will render
-                                        D     D7
-That frozen concoction that helps me hang on
+[D]   I blew out my flip flop, stepped on a pop top
+Cut my heel had to cruise on back [A]home
+[A]   But there's booze in the blender, and soon it will render
+That frozen concoction that helps me han[D]g on [D7]
 
 [Chorus]
-G           A                  D        D7   G                 A                D     D7
-   Wastin' away again in Margaritaville,        searchin' for my lost shaker of salt
-G              A                    D   A/C#   G          A                      D    D7
-   Some people claim that there's a woman to blame, but I know, it's my own damn fault
-         G             A                    D   A/C#  G           A                      D
-Yes and,   some people claim that there's a woman to blame, and I know, it's my own damn fault
+[G]   Wastin' a[A]way again in Margar[D]itaville,[D7]     [G]   searchin' for m[A]y lost shaker of [D]salt [D7]
+[G]   Some people [A]claim that there's a [D]woma[A/C#]n to bl[G]ame, but I [A]know, it's my own damn [D]fault[D7]
+Yes and, [G]  some people [A]claim that there's a [D]woma[A/C#]n to b[G]lame, and I [A]know, it's my own damn [D]fault
 
 [Outro]
 D  G  A  D
