@@ -7,8 +7,7 @@ Song name: Wouldnt It Be Nice  by  The Beach Boys
 
 [Intro]
 
-   A             F#m             Bm            D
-   v      v      v      v        v      v      v      v
+   [A]v      v      [F#m]v      v        [Bm]v      v      [D]v      v
 e|--------17-------------------|--------17--14--------14-----|
 B|-----14-----17-14--15-17--14-|-----15--------15--17-----15-|
 G|-14--------------------------|-14--------------------------|
@@ -16,8 +15,7 @@ D|-----------------------------|-----------------------------|
 A|-----------------------------|-----------------------------|
 E|-----------------------------|-----------------------------|
 
-   A            F#m              C
-   v      v      v      v        v      v      v      v
+   [A]v      v     [F#m] v      v        [C]v      v      v      v
 e|--------17-------------------|--------17-------------------|
 B|-----14-----17-14--15-17--14-|------------17-----15-17-----|
 G|-14--------------------------|-14------------17---------17-|
@@ -27,42 +25,29 @@ E|-----------------------------|-----------------------------|
 
 
 [Verse 1]
-               F
-Wouldn't it be nice if we were older
-                Bb              Gm7
-And we wouldn't have to wait so long
-    C7             F
-And wouldn't it be nice to live together
-               Bb               Gm7   C7
-In the kind of world where we belong
+Wouldn't it be [F]nice if we were older
+And we wouldn't [Bb]have to wait so [Gm7]long
+And [C7]wouldn't it be [F]nice to live together
+In the kind of [Bb]world where we be[Gm7]long [C7]
 
 
 [Bridge]
-Dm7/A                        Eb/F
- You know it's gonna make it that much better
-Dm7/A                          Am7    Gm7     C7
- When we can say goodnight and stay together
+[Dm7/A] You know it's gonna make it [Eb/F]that much better
+[Dm7/A] When we can say goodnight and [Am7]stay to[Gm7]gether [C7]
 
 
 [Verse 2]
-               F
-Wouldn't it be nice if we could wake up
-               Bb              Gm7
-In the morning when the day is new
-    C7           F
-And after having spent the day together
-                Bb                    Gm7      C7
-Hold each other close the whole night through
+Wouldn't it be [F]nice if we could wake up
+In the morning [Bb]when the day is [Gm7]new
+And [C7]after having [F]spent the day together
+Hold each other [Bb]close the whole night [Gm7]through [C7]
 
 
 [Bridge]
-Dm7/A                      Eb/F
- What happy times together we'd be spending
-Dm7/A                       Am7   Gm7     C7
- I wish that every kiss was never ending
+[Dm7/A] What happy times together [Eb/F]we'd be spending
+[Dm7/A] I wish that every kiss was [Am7]never [Gm7]ending [C7]
 
-                   F
-Oh, wouldn't it be nice
+Oh, wouldn't it be [F]nice
 
    v   v   v   v     v   v   v   v
 e|-----------------|---------------|
@@ -76,34 +61,25 @@ E|-----------------|---------------|
 [Middle 8] 
 (guitar repeats first two bars of intro)
 
-Dmaj7        Gmaj7                               F#m7            Bm7
- Maybe if we think and wish and hope and pray it might come true
-Dmaj7             Gmaj7                         F#m7        Bm7
- Baby, then there wouldn't be a single thing we couldn't do
-            F#m7                 Bm7
-We could be married (we could be married)
-                 F#m7                C7
-                 - last two bars of intro -
+[Dmaj7] Maybe if we [Gmaj7]think and wish and hope and pray it [F#m7]might come true [Bm7]
+[Dmaj7] Baby, then there [Gmaj7]wouldn't be a single thing we [F#m7]couldn't do [Bm7]
+We could be [F#m7]married (we could be [Bm7]married)
+                 [F#m7]- last two bars of i[C7]ntro -
 And then we'd be happy (then we'd be happy)
-                   F
-Oh, wouldn't it be nice
+Oh, wouldn't it be [F]nice
 
 
 [Coda]
 
 (slow down)
 
-Dm7/A                          Eb/F
- You know it seems the more we talk about it
-Dm7/A                      Am7     Gm7
- It only makes it worse to live without it
-          Am7   Gm7       C7
-But let's talk about it
+[Dm7/A] You know it seems the more we [Eb/F]talk about it
+[Dm7/A] It only makes it worse to [Am7]live wit[Gm7]hout it
+But let's [Am7]talk a[Gm7]bout it [C7]
 
 (resume original tempo)
 
-               F
-Wouldn't it be nice
+Wouldn't it be [F]nice
 
 Good night, baby
 Sleep tight, baby... (fade)
