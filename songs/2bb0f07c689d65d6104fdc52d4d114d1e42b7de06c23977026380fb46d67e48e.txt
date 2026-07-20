@@ -9,42 +9,31 @@ Song name: Why Do Fools Fall In Love  by  Frankie Lymon And The Teenagers
 
 Intro:
 
-F   Dm7  Gm7 C7   F  Dm7  Gm7 C7
- Oh wah, oh  wah, oh wah, oh  wah,
+[F] Oh [Dm7]wah, [Gm7]oh  [C7]wah, [F]oh [Dm7]wah, [Gm7]oh  [C7]wah,
 F   Dm7  Gm7 C7   F (n.C)
  Oh wah, oh  wah, why do fools fall in love?
 
 Verse 1:
 
-F       Dm7   Gm7  C7  F   Dm7
- Why do birds sing, so gay?
-    Gm7      C7       F        Dm7
-And lovers a-wait the break of day,
-Gm7          C7      F     Dm7  Gm7  C7
- Why do they fall in love?
+[F] Why do [Dm7]birds [Gm7]sing,[C7] so [F]gay?[Dm7]
+And [Gm7]lovers a-[C7]wait the [F]break of [Dm7]day,
+[Gm7] Why do they [C7]fall in [F]love? [Dm7] [Gm7] [C7]
 
 Verse 2:
 
-F    Dm7 Gm7      C7   F              Dm7
- Why...  does the rain fall from up a-bove?
-Gm7     C7     F       Dm7
- Why do fools, fall in love?
-Gm7          C7      F     A#  F
- Why do they fall in love?
+[F] Why.[Dm7]..  [Gm7]does the [C7]rain [F]fall from up a-[Dm7]bove?
+[Gm7] Why do [C7]fools, [F]fall in [Dm7]love?
+[Gm7] Why do they [C7]fall in [F]love? [A#] [F]
 
 Bridge 1:
 
-A#                      F             F7
- Love is a losing game, love can be a shame.
-A#                         G7       C7
- I know of a fool you see; for that fool is me.
+[A#] Love is a losing game, [F]love can be a [F7]shame.
+[A#] I know of a fool you see; [G7]for that [C7]fool is me.
 
 Verse 4:
 
-        F    Dm7  Gm7  C7, F  Dm7  Gm7  C7, F  Dm7  Gm7  C7
-Tell me why...
-        F   A#  F, C7
-Tell me why.
+Tell me [F]why..[Dm7]. [Gm7] [F] [Dm7] [Gm7] [F] [Dm7] [Gm7] [C7]
+Tell me [F]why.[A#] [C7]
 
 Interlude:
 
@@ -57,40 +46,29 @@ A#, F  F7, A#  G7  C7
 
 Verse 5:
 
-F#      D#m7  G#m7 C#7 F#  D#m7
- Why do birds sing, so gay?
-    G#m7     C#7      F#       D#m7
-And lovers a-wait the break of day,
-G#m7         C#7     F#    D#m7  G#m7  C#7
- Why do they fall in love?
+[F#] Why do [D#m7]birds [G#m7]sing,[C#7] so [F#]gay?[D#m7]
+And [G#m7]lovers a-[C#7]wait the [F#]break of [D#m7]day,
+[G#m7] Why do they [C#7]fall in [F#]love? [D#m7] [G#m7] [C#7]
 
 Verse 4:
 
-F#    D#m7 G#m7     C#7  F#             D#m7
- Why...    does the rain fall from up a-bove?
-G#m7    C#7    F#      D#m7
- Why do fools, fall in love?
-G#m7         C#7     F#    B  F#
- Why do they fall in love?
+[F#] Why..[D#m7].    [G#m7]does the [C#7]rain [F#]fall from up a-[D#m7]bove?
+[G#m7] Why do [C#7]fools, [F#]fall in [D#m7]love?
+[G#m7] Why do they [C#7]fall in [F#]love? [B] [F#]
 
 Bridge 2:
 
-B                   F#           F#7
- Why does my heart, skip a crazy beat?
-   B            G#7     C#7
-Be-fore I know, it will reach defeat!
+[B] Why does my heart, [F#]skip a crazy [F#7]beat?
+Be-[B]fore I know, [G#7]it will [C#7]reach defeat!
 
 Verse 5:
 
-        F#   D#m7  G#m7  C#7, F#  D#m7  G#m7  C#7, F#  D#m7  G#m7  C#7
-Tell me why...
-        F#  B  F#, C#7
-Tell me why,
+Tell me [F#]why..[D#m7]. [G#m7] [F#] [D#m7] [G#m7] [F#] [D#m7] [G#m7] [C#7]
+Tell me [F#]why,[B] [C#7]
 
 Coda:
 
-B          C#7              F#   D#m7  G#m7  C#7, F#  B, F#
- Why... do fools... fall in love?
+[B] Why... do [C#7]fools... fall in [F#]love?[D#m7] [G#m7] [F#]
 
 
 CHORD DIAGRAMS:
