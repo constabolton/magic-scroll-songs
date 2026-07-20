@@ -6,33 +6,21 @@ E | E | E | E |
 
 
 [Verse 1]
-E                        B
-Water dripping from the pipes down in the basement
-F#m             A
-Bare feet on a concrete floor
- E                         B
-Notches on the wall of my solitary cell
-D                  A
-Sweat dripping out of every pore
-    C                     B
-It feels like it takes forever
-       E                      A
-It's maybe five minutes on screen
-         E                          B
-But the horns will swell and the strings will sound
-F#m                    A
-When that flipped quarter hits the ground
+[E]Water dripping from the p[B]ipes down in the basement
+[F#m]Bare feet on a c[A]oncrete floor
+N[E]otches on the wall of my s[B]olitary cell
+[D]Sweat dripping out [A]of every pore
+It f[C]eels like it takes for[B]ever
+It's ma[E]ybe five minutes on scr[A]een
+But the h[E]orns will swell and the str[B]ings will sound
+[F#m]When that flipped quart[A]er hits the ground
 
 
 [Chorus]
-A                     E
-I'm doing this for revenge
-Esus4                            E
-I'm doing this to try and stay true
-Esus4                  C#m
-I'm doing this for the ones they had to leave behind
-                       A
-I'm doing this for you
+[A]I'm doing this for rev[E]enge
+[Esus4]I'm doing this to try and stay tr[E]ue
+[Esus4]I'm doing this for the [C#m]ones they had to leave behind
+I'm doing this for you [A]
 
 
 [Instrumental]
@@ -43,33 +31,21 @@ E | E | F#m | A |
 
 
 [Verse 2]
-E                       B
-Keep cool down in the quiet of the morning
-F#m                   A
-Sweat blood when the sun comes through
-E                  B
-Thick mist on the pond before the temple
-D                    A
-Headed down for the final rendezvous
-C                    B
-Everybody ready for justice
- E                    A
-Just another mile to go
-           E                       B
-But the strings will keen and the horns will cry
-F#m             A
-When it's just me against the sky
+[E]Keep cool down in the qu[B]iet of the morning
+[F#m]Sweat blood when the s[A]un comes through
+[E]Thick mist on the p[B]ond before the temple
+[D]Headed down for the f[A]inal rendezvous
+[C]Everybody ready for j[B]ustice
+J[E]ust another mile to g[A]o
+But the str[E]ings will keen and the h[B]orns will cry
+[F#m]When it's just m[A]e against the sky
 
 
 [Chorus]
-A                     E
-I'm doing this for revenge
-Esus4                            E
-I'm doing this to try and stay true
-Esus4                  C#m
-I'm doing this for the ones they left to twist in the wind
-                       A
-I'm doing this for you
+[A]I'm doing this for rev[E]enge
+[Esus4]I'm doing this to try and stay tr[E]ue
+[Esus4]I'm doing this for the [C#m]ones they left to twist in the wind
+I'm doing this for you [A]
 
 I'm doing this for you
 
@@ -82,18 +58,12 @@ E | E | F#m | A |
 
 
 [Chorus]
-A                     E
-I'm doing this for revenge
-Esus4                             E
-I am doing this to try and stay true
-Esus4                  C#m
-I'm doing this for the ones we had to leave behind
-                       A
-I'm doing this for you
-                       A
-I'm doing this for you
-                       A
-I'm doing this for you
+[A]I'm doing this for rev[E]enge
+[Esus4]I am doing this to try and stay tr[E]ue
+[Esus4]I'm doing this for the [C#m]ones we had to leave behind
+I'm doing this for you [A]
+I'm doing this for you [A]
+I'm doing this for you [A]
 
 
 [Outro]
