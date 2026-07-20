@@ -3,15 +3,12 @@ Song name: Oh Boy  by  Buddy Holly
 ----------------------------------------------------------------------
 [Verse]
 
-A                A                   A
-All of my love, all of my kissin, you don't know what you
+[A]All of my love, a[A]ll of my kissin, you[A] don't know what you
 been a missin
-D                D                     A
-Oh Boy! (Oh boy) When you're with me, Oh boy (Oh boy)
+[D]Oh Boy! (Oh boy) [D]When you're with me, O[A]h boy (Oh boy)
 The world can see
 
-         E7            D         A D A E
-that you were meant for me.
+that you [E7]were meant for[D] me. [A] [D] [A] [E]
 Repeat
 All of my life I been a-waitin' tonight there'll be no hesitatin'
 Oh Boy! (Oh boy) When you're with me, Oh boy (Oh boy)
@@ -19,11 +16,9 @@ The world can see that you were meant for me.
 
 [Bridge]
 
-E7                                   A
-Stars appear and a shadows a-fallin' You can hear my heart
+[E7]Stars appear and a shadows a-fallin' [A]You can hear my heart
 A-callin'
-D                                             E
-little bit of lovin' makes a-everything right, A-I'm gonna see my
+[D]little bit of lovin' makes a-everything right,[E] A-I'm gonna see my
 baby tonight
 
 All my love all my kissin' you don't know what you been mising
