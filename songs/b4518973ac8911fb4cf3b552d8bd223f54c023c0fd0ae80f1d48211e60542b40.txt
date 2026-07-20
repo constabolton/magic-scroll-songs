@@ -14,76 +14,51 @@ Am C E Am
 
 [Verse 1]
 
-Am                    C         Dm                    Am
-Never know how much I love you, never know how much I care
-Am                      C                 E                       Am
-When you put your arms around me, I get a fever that's so hard to bear
-            Am     C                 Dm                     Am
-You give me fever, when you kiss me, fever when you hold me tight
-Am     C               E                     Am
-Fever! In the morning, fever all through the night
+[Am]Never know how much I [C]love you, [Dm]never know how much I [Am]care
+[Am]When you put your arms a[C]round me, I get a [E]fever that's so hard to [Am]bear
+You give me [Am]fever, [C]when you kiss me, [Dm]fever when you hold me [Am]tight
+[Am]Fever! [C]In the morning, [E]fever all through the [Am]night
 
 [Verse 2]
 
-Am         C               Dm                 Am
-Sun lights up the daytime, moon lights up the night
-Am                  C                     E                        Am 
-I light up when you call my name, and you know I'm gonna treat you right
-            Am     C                 Dm                     Am
-You give me fever, when you kiss me, fever when you hold me tight
-Am     C               E                     Am
-Fever! In the morning, fever all through the night
+[Am]Sun lights [C]up the daytime, [Dm]moon lights up the [Am]night
+[Am]I light up when you [C]call my name, and you [E]know I'm gonna treat you [Am]right
+You give me [Am]fever, [C]when you kiss me, [Dm]fever when you hold me [Am]tight
+[Am]Fever! [C]In the morning, [E]fever all through the [Am]night
 
 
 [Bridge]
 
-Am          C              Dm                Am
-Everybody's got the fever, that is something you all know
-Am          C                 E                   Am
-Fever isn't such a new thing, fever started long ago
+[Am]Everybody's [C]got the fever, [Dm]that is something [Am]you all know
+[Am]Fever isn't [C]such a new thing, [E]fever started long a[Am]go
 
 [KEY CHANGE to Bbm]
 
 [Verse 3]
 
-Bbm         Db      Ebm                 Bbm
-Romeo loved Juliet, Juliet she felt the same
-Bbm                  Db                    F                      Bbm
-When he put his arms around her, he said, "Julie, baby, you're my flame”
-             Bbm    Db               Ebm                    Bbm
-"Thou giveth fever, when we kisseth, fever with thy flaming youth
-Bbm     Db         F                    Bbm
-“Fever! I'm afire, fever, yeah, I burn, forsooth.”            
+[Bbm]Romeo loved [Db]Juliet, [Ebm]Juliet she felt the [Bbm]same
+[Bbm]When he put his arms [Db]around her, he said, "[F]Julie, baby, you're my [Bbm]flame”
+"Thou giveth [Bbm]fever, [Db]when we kisseth, [Ebm]fever with thy flaming [Bbm]youth
+[Bbm]“Fever! [Db]I'm afire, [F]fever, yeah, I burn, [Bbm]forsooth.”            
 
 [KEY CHANGE to Bm]
 
 [Verse 4]
 
-Bm                D          Em             Bm
-Captain Smith and Pocahontas had a very mad affair
-Bm             D                            F#                    Bm
-When her daddy tried to kill him, she said, “Daddy, oh, don't you dare!”
-             Bm    D                Em                     Bm
-"He gives me fever with his kisses, fever when he holds me tight
-Bm      D                  F#                         Bm
-“Fever! I'm his missus, so Daddy, won't you treat him right?”
+[Bm]Captain Smith and [D]Pocahontas [Em]had a very mad [Bm]affair
+[Bm]When her daddy [D]tried to kill him, she said, [F#]“Daddy, oh, don't you [Bm]dare!”
+"He gives me [Bm]fever [D]with his kisses, [Em]fever when he holds me [Bm]tight
+[Bm]“Fever! [D]I'm his missus, so [F#]Daddy, won't you treat him [Bm]right?”
 
 [Verse 5]
 
-Bm                  D            Em                           Bm
-Now you've listened to my story, here's the point that I have made
-Bm               D                        F#                 Bm
-Chicks were born to give you fever, be it Fahrenheit or Centigrade
-              Bm     D                   Em                    Bm
-They give you fever, when you kiss them, fever if you live and learn
-Bm      D                F#                   Bm
-Fever! 'till you sizzle, what a lovely way to burn
+[Bm]Now you've listened [D]to my story, [Em]here's the point that I have [Bm]made
+[Bm]Chicks were born [D]to give you fever, be it [F#]Fahrenheit or Centi[Bm]grade
+They give you [Bm]fever, [D]when you kiss them, [Em]fever if you live and [Bm]learn
+[Bm]Fever! '[D]till you sizzle, [F#]what a lovely way to [Bm]burn
 
 [Outro]
 
-F#                   Bm
-what a lovely way to burn 
-F#                   Bm
-what a lovely way to burn 
-F#                   Bm
-what a lovely way to burn
+[F#]what a lovely way to [Bm]burn 
+[F#]what a lovely way to [Bm]burn 
+[F#]what a lovely way to [Bm]burn
