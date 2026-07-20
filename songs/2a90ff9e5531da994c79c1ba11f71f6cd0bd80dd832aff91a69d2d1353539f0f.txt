@@ -10,143 +10,94 @@ https://www.youtube.com/watch?v=ODGA7ssL-6g
 Chords   EADGBe
 G        320003
 Em7      020000
-C        x32010
-Eb7      xx1023
-C#dim7   x45353
-D7       xx0212
+[C]Eb7      xx1023
+[C#dim7]D7       xx0212
 G7/B     x20001
 C7       x32310
-Bb7      x13131
-D        xx0232
+[Bb7]D        xx0232
 
 ---------------------------------------------------------------------------
 [Intro]
 G  Em7  C    D
 
 [Chorus]
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-G          C#dim7    C          D7 
-Hooking up words and phases and clauses
-G           G7        C           Eb7  
-Conjunction Junction, how's that function?
-      G              C#dim7        C              D7 
-I got three favorite cars that get most of my job done
-G           G7        C            Eb7  
-Conjunction Junction, what's their function?
-      G                  C#dim7      C              D7 
-I got "and", "but", and "or" they'll get you pretty far
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+[G]Hooking up [C#dim7]words and [C]phases and [D7]clauses
+[G]Conjunction [G7]Junction, [C]how's that f[Eb7]unction?
+I got [G]three favorite [C#dim7]cars that get [C]most of my job [D7]done
+[G]Conjunction [G7]Junction, [C]what's their [Eb7]function?
+I got [G]"and", "but", and "[C#dim7]or" they'll [C]get you pretty [D7]far
 
 
 [Verse – Spoken]
-G             
-"And", That's an additive, like "this and that"
-C7
-"But", That's sort of the opposite, "Not this but that"
-         Bb7
-And then there's "or" O-R, when you have a choice like "This or that"
-D
-"And", "but", and "or", Get you pretty far
+[G]"And", That's an additive, like "this and that"
+[C7]"But", That's sort of the opposite, "Not this but that"
+And then [Bb7]there's "or" O-R, when you have a choice like "This or that"
+[D]"And", "but", and "or", Get you pretty far
 
 
 [Chorus]
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-G              C#dim7      C           D7 
-Hooking up two boxcars and making them run right
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+[G]Hooking up two [C#dim7]boxcars and [C]making them [D7]run right
 
 
 [Bridge]
-G                                 
-Milk and honey, bread and butter, 
-C7
-Peas and rice, Hey, that's nice!
-G
-Dirty but happy, digging and scratching
-C7
-Losing your shoe and a button or two
-     G
-He's poor but honest, sad but true
-C7
-Boo-hoo-hoo-hoo-hoo!
+[G]Milk and honey, bread and butter, 
+[C7]Peas and rice, Hey, that's nice!
+[G]Dirty but happy, digging and scratching
+[C7]Losing your shoe and a button or two
+He's [G]poor but honest, sad but true
+[C7]Boo-hoo-hoo-hoo-hoo!
 
 
 [Chorus]
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-G                      C#dim7           C                   D7 
-Hooking up two cars to one when you say something like this choice:
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+[G]Hooking up two cars to [C#dim7]one when you say [C]something like this [D7]choice:
 
 
 [Verse]
-G                     C7 Eb7  
-"Either now or later" Or no choice:
-G                       C7            Eb7  
-"Neither now nor ever"  Hey that's clever!
-    G
-Eat this or that, grow thin or fat
-      C7                  Eb7  
-Never mind, I wouldn't do that. I'm fat enough now!
+[G]"Either now or later" [C7]Or [Eb7]no choice:
+[G]"Neither now nor ever"  [C7]Hey that's cle[Eb7]ver!
+Eat [G]this or that, grow thin or fat
+Never [C7]mind, I wouldn't do [Eb7]that. I'm fat enough now!
 
 
 [Chorus]
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-G          C#dim7           C          D7 
-Hooking up phrases and clauses that balance, like:
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+[G]Hooking up [C#dim7]phrases and claus[C]es that bal[D7]ance, like:
 
 
 [Verse]
-G           G7            C             Eb7  
-Out of the frying pan and into the fire
-G                G7                  C                    Eb7  
-He cut loose the sandbags but the balloon wouldn't go any higher
-         G             G7       C           Eb7  
-Let's go up to the mountains or down to the sea
-           G           G7                C          Eb7  
-You should always say "thank you", or at least say "please"
+[G]Out of the f[G7]rying pan and [C]into the fire [Eb7]
+[G]He cut loose the [G7]sandbags but the bal[C]loon wouldn't go any [Eb7]higher
+Let's go [G]up to the moun[G7]tains or [C]down to the [Eb7]sea
+You should [G]always say "[G7]thank you", or at [C]least say "[Eb7]please"
 
 
 [Chorus]
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-G          C#dim7                           C          D7 
-Hooking up words and phrases and clauses in complex sentences like:
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+[G]Hooking up [C#dim7]words and phrases and clauses in [C]complex sen[D7]tences like:
 
 
 [Verse – Spoken]
-G
-"In the mornings, when I am usually wide awake
-                                          C7
-I love to take a walk through the gardens and down by the lake
+[G]"In the mornings, when I am usually wide awake
+I love to take a walk through the gardens [C7]and down by the lake
 
 Where I often see a duck and a drake
-Bb7
-And I wonder as I walk by
+[Bb7]And I wonder as I walk by
 
 Just what they'd say if they could speak
-D
-Although I know that's an absurd thought"
+[D]Although I know that's an absurd thought"
 
 
 [Chorus]
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-G          C#dim7      C           D7 
-Hooking up cars and making 'em function
-G           G7        C          Eb7  
-Conjunction Junction, how's that function?
-       G        C#dim7         C           D7 
-I like tying up words and phrases and clauses
-G           G7        C          Eb7  
-Conjunction Junction, watch that function
-G          C#dim7      C           D7 
-I'm going to get you there if you're very careful
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-             G       C#dim7          C    D7 
-I'm going to get you there if you're very careful
-G           G7        C           Eb7  
-Conjunction Junction, what's your function?
-             G       C#dim7          C    D7 
-I'm going to get you there if you're very careful
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+[G]Hooking up [C#dim7]cars and mak[C]ing 'em func[D7]tion
+[G]Conjunction [G7]Junction, [C]how's that [Eb7]function?
+I like [G]tying up [C#dim7]words and phras[C]es and claus[D7]es
+[G]Conjunction [G7]Junction, [C]watch that [Eb7]function
+[G]I'm going t[C#dim7]o get you th[C]ere if you'r[D7]e very careful
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+I'm going to [G]get you [C#dim7]there if you're [C]very [D7]careful
+[G]Conjunction [G7]Junction, [C]what's your [Eb7]function?
+I'm going to [G]get you [C#dim7]there if you're [C]very [D7]careful
