@@ -31,20 +31,13 @@ Tracks:
 
        A7   A7   C7   G7
 
-       G7                 A7
-It was twenty years ago today
-         C7                        G7
-Sergeant Pepper taught the band to play
-             G7                  A7
-They've been going in and out of style
-            C7                    G7
-But they're guaranteed to raise a smile
-   A7
-So may I introduce to you
-    C7
-The act you've known for all these years
-G7                C7                  G7
-Sergeant Pepper's Lonely Heart's Club Band
+It was [G7]twenty years ago to[A7]day
+Sergeant [C7]Pepper taught the band to [G7]play
+They've been [G7]going in and out of [A7]style
+But they're [C7]guaranteed to raise a [G7]smile
+So [A7]may I introduce to you
+The [C7]act you've known for all these years
+[G7]Sergeant Pepper's [C7]Lonely Heart's Club [G7]Band
 
 
 [Trumpet Solo]  
@@ -54,53 +47,33 @@ Sergeant Pepper's Lonely Heart's Club Band
 
 [Chorus]
 
-      G                 Bb       C7         G
-We're Sergeant Pepper's Lonely Heart's Club Band
-   C7                      G7     
-We hope you will enjoy the show
-G                 Bb       C7         G
-Sergeant Pepper's Lonely Heart's Club Band
-    A7                       D7
-Sit back and let the evening go
+We're [G]Sergeant Pepper's [Bb]Lonely He[C7]art's Club [G]Band
+We [C7]hope you will enjoy the [G7]show
+[G]Sergeant Pepper's [Bb]Lonely He[C7]art's Club [G]Band
+Sit [A7]back and let the evening [D7]go
 
 
 [Bridge]
 
-C7
-Sergeant Pepper's Lonely
-G7
-Sergeant Pepper's Lonely
-A7
-Sergeant Pepper's Lonely
-C7           G7
-Heart's Club Band
+[C7]Sergeant Pepper's Lonely
+[G7]Sergeant Pepper's Lonely
+[A7]Sergeant Pepper's Lonely
+[C7]Heart's Club [G7]Band
 
-     C7
-It's wonderful to be here
-     F7
-It's certainly a thrill
-       C7
-You're such a lovely audience
-      D7
-We'd  like to take you home with us
-     D7
-We'd love to take you home
+It's [C7]wonderful to be here
+It's [F7]certainly a thrill
+You're [C7]such a lovely audience
+We'd  [D7]like to take you home with us
+We'd [D7]love to take you home
         
 
-        G7                    A7
-I don't really wanna stop the show
-      C7                        G7
-But I thought you might like to know
-         G7                    A7
-That the singer's gonna sing a song
-       C7                     G7
-And he wants you all to sing along
-   A7
-So may I introduce to you
-    C7
-The one and only Billy Shears
-G7                C7                  G7
-Sergeant Pepper's Lonely Heart's Club Band
+I don't [G7]really wanna stop the [A7]show
+But I [C7]thought you might like to [G7]know
+That the [G7]singer's gonna sing a [A7]song
+And he [C7]wants you all to sing a[G7]long
+So [A7]may I introduce to you
+The [C7]one and only Billy Shears
+[G7]Sergeant Pepper's [C7]Lonely Heart's Club [G7]Band
 
 C7 (Switch into "With A Little Help")
 
@@ -108,107 +81,72 @@ C7 (Switch into "With A Little Help")
 
 ***With A Little Help From My Friends***
 
-C            D           E
-Billy--------------------Shears
+[C]Billy--------[D]------------[E]Shears
 
-E              B          F#m
-What would you think if I sang out of tune,
-          B                        E
-Would you stand up and walk out on me.
-E            B             F#m
-Lend me your ears and I'll sing you a song,
-         B                      E
-And I'll try not to sing out of key.
+[E]What would you [B]think if I [F#m]sang out of tune,
+Would you [B]stand up and walk out on [E]me.
+[E]Lend me your [B]ears and I'll [F#m]sing you a song,
+And I'll [B]try not to sing out of [E]key.
 
 
 [Chorus]
 
-      D                A            E
-I get by with a little help from my friends,
-      D                  A            E
-I get high with a little help from my friends,
-         D                 A            E
-Going to try with a little help from my friends.
+I get [D]by with a little [A]help from my [E]friends,
+I get [D]high with a little [A]help from my [E]friends,
+Going to [D]try with a little [A]help from my [E]friends.
 
 
-E         B           F#m
-What do I do when my love is away.
-         B               E
-(Does it worry you to be alone)
-E        B           F#m
-How do I feel by the end of the day
-         B                          E
-(Are you sad because you're on your own)
+[E]What do I [B]do when my l[F#m]ove is away.
+(Does it [B]worry you to be [E]alone)
+[E]How do I [B]feel by the [F#m]end of the day
+(Are you [B]sad because you're on your [E]own)
 
 
 [Chorus]
 
-      D                A            E
-I get by with a little help from my friends,
-      D                  A            E
-I get high with a little help from my friends,
-             D                 A            E
-Hm Gonna to try with a little help from my friends.
+I get [D]by with a little [A]help from my [E]friends,
+I get [D]high with a little [A]help from my [E]friends,
+Hm Gonna to t[D]ry with a little h[A]elp from my f[E]riends.
 
 
 [Bridge]
 
-       C#m     F#
-Do you need anybody,
-  E        D       A
-I need somebody to love.
-         C#m   F#
-Could it be anybody
-  E        D       A
-I want somebody to love.
+Do you [C#m]need any[F#]body,
+I [E]need some[D]body to [A]love.
+Could it [C#m]be any[F#]body
+I [E]want some[D]body to [A]love.
 
 
-E         B            F#m
-Would you believe in a love at first sight,
-         B                               E
-(Yes I'm certain that it happens all the time.)
-E           B            F#m
-What do you see when you turn out the light,
-         B                         E
-(I can't tell you, but I know it's mine.)
+[E]Would you [B]believe in a [F#m]love at first sight,
+(Yes I'm [B]certain that it happens all the [E]time.)
+[E]What do you [B]see when you [F#m]turn out the light,
+(I can't [B]tell you, but I know it's [E]mine.)
 
 
 [Chorus]
 
-      D                A            E
-I get by with a little help from my friends,
-      D                  A            E
-I get high with a little help from my friends,
-             D                 A            E
-Hm Gonna to try with a little help from my friends.
+I get [D]by with a little [A]help from my [E]friends,
+I get [D]high with a little [A]help from my [E]friends,
+Hm Gonna to t[D]ry with a little h[A]elp from my f[E]riends.
 
 
 [Bridge 2]
 
-       C#m     F#
-Do you need anybody,
-       E        D       A
-I just need somebody to love,
-         C#m   F#
-Could it be anybody,
-      E        D       A
-Oh I want somebody to love.
+Do you [C#m]need any[F#]body,
+I just [E]need some[D]body to [A]love,
+Could it [C#m]be any[F#]body,
+Oh I w[E]ant someb[D]ody to l[A]ove.
 
 
 [Chorus]
-          D                A            E
-Oh I get by with a little help from my friends,
-      D                 A            E
-Gonna try with a little help from my friends.
-          D                  A            E
-Oh I get high with a little help from my friends,
+Oh I get b[D]y with a little h[A]elp from my f[E]riends,
+Gonna [D]try with a little [A]help from my [E]friends.
+Oh I get h[D]igh with a little h[A]elp from my f[E]riends,
 
 
 [Outro]
-          D                             A
-Yes I get by with a little help from my friends, With a little help from my
-C           D           E
-frie------------------nds
+Yes I get [D]by with a little help from my [A]friends, With a little help from my
+[C]frie--------[D]----------nd[E]s
 
 -------------------------------------------------------------------------------------
 
@@ -218,86 +156,54 @@ frie------------------nds
 [Intro]
 A    A/G    A/F#   A/F
 
-A           A/G       A/F#      A/F
-Picture yourself in a boat on a river
-     A         A/G       A/F#      A/F
-with tangerine trees and marmalade skies
-A              A/G      A/F#         A/F
-Somebody calls you, you answer quite slowly,
-  A            A/G       Dm    
-a girl with kaleidoscope eyes.
+[A]Picture your[A/G]self in a [A/F#]boat on a [A/F]river
+with [A]tangerine [A/G]trees and [A/F#]marmalade [A/F]skies
+[A]Somebody calls [A/G]you, you [A/F#]answer quite [A/F]slowly,
+a [A]girl with kal[A/G]eidoscope [Dm]eyes.
 
-Bb                    C
-Cellophane flowers of yellow and green
-F                  Bb
-towering over your head.
-C                          G
-Look for the girl with the sun in her eyes,
-          D
-and she's gone
+[Bb]Cellophane flowers of [C]yellow and green
+[F]towering over your [Bb]head.
+[C]Look for the girl with the [G]sun in her eyes,
+and she's [D]gone
 
 
 [Chorus]
 
-G           C        D
-Lucy in the sky with diamonds,
-G           C        D
-Lucy in the sky with diamonds,
-G           C        D
-Lucy in the sky with diamonds. Ah.
+[G]Lucy in the [C]sky with [D]diamonds,
+[G]Lucy in the [C]sky with [D]diamonds,
+[G]Lucy in the [C]sky with [D]diamonds. Ah.
 
 
-A          A/G       A/F#        A/F
-Follow her down to a bridge by a fountain
-      A             A/G        A/F#        F
-where rocking horse people eat marshmallow pies.
-A        A/G           A/F#           A/F
-Everyone smiles as you drift past the flowers
-     A       A/G        F
-that grow so incredibly high.
+[A]Follow her [A/G]down to a [A/F#]bridge by a [A/F]fountain
+where [A]rocking horse [A/G]people eat [A/F#]marshmallow [F]pies.
+[A]Everyone [A/G]smiles as you [A/F#]drift past the [A/F]flowers
+that [A]grow so [A/G]incredibly [F]high.
 
-Bb                C
-Newspaper taxis appear on the shore,
-F                   Bb
-waiting to take you away.
-C                           G
-Climb in the back with your head in the clouds,
-           D
-and you're gone.
+[Bb]Newspaper taxis ap[C]pear on the shore,
+[F]waiting to take you [Bb]away.
+[C]Climb in the back with your [G]head in the clouds,
+and you're [D]gone.
 
 [Chorus]
 
-G           C        D
-Lucy in the sky with diamonds,
-G           C        D
-Lucy in the sky with diamonds,
-G           C        D
-Lucy in the sky with diamonds. Ah.
+[G]Lucy in the [C]sky with [D]diamonds,
+[G]Lucy in the [C]sky with [D]diamonds,
+[G]Lucy in the [C]sky with [D]diamonds. Ah.
 
-A          A/G       A/F#        A/F
-Picture yourself on a train in a station
-      A             A/G        A/F#        F
-With plasticine porters with looking glass ties
-A        A/G           A/F#           A/F
-Suddenly someone is there at the turnstile
-     A       A/G        F
-The girl with the kaleidoscope eyes
+[A]Picture you[A/G]rself on a[A/F#] train in a [A/F]station
+With p[A]lasticine port[A/G]ers with lo[A/F#]oking glass [F]ties
+[A]Suddenly [A/G]someone is the[A/F#]re at the turns[A/F]tile
+The g[A]irl with[A/G] the kaleid[F]oscope eyes
 
 
 [Chorus]
-G           C        D
-Lucy in the sky with diamonds,
-G           C        D
-Lucy in the sky with diamonds,
-G           C        D         A
-Lucy in the sky with diamonds. Ah.
+[G]Lucy in the [C]sky with [D]diamonds,
+[G]Lucy in the [C]sky with [D]diamonds,
+[G]Lucy in the [C]sky with [D]diamonds. [A]Ah.
 
-G           C        D
-Lucy in the sky with diamonds.
-G           C        D
-Lucy in the sky with diamonds.
-G           C        D         A
-Lucy in the sky with diamonds. Ah.
+[G]Lucy in the [C]sky with [D]diamonds.
+[G]Lucy in the [C]sky with [D]diamonds.
+[G]Lucy in the [C]sky with [D]diamonds. [A]Ah.
 
 ------------------------------------------------------------
 
@@ -305,127 +211,82 @@ Lucy in the sky with diamonds. Ah.
 
 [Intro] Fadd9 
 
-C                           F
-It's getting better all the time
-  G           C         G              
-I used to get mad at my school (No, I can't complain)
-    G             C                 G           
-The teachers that taught me weren't cool  (No, I can't complain)
-       G          C     G           C
-You're holding me down, turning me around
-G          C            G  
-Filling me up with your rules
+[C]It's getting better all the [F]time
+I [G]used to get [C]mad at my [G]school (No, I can't complain)
+The [G]teachers that [C]taught me weren't [G]cool  (No, I can't complain)
+You're [G]holding me [C]down, [G]turning me a[C]round
+[G]Filling me [C]up with your [G]rules
 
 
 [Chorus]
-     C                         F
-I've got to admit it's getting better
-         Em             F
-A little better all the time
-  C                          F
-I have to admit it's getting better
-             Em           F           G
-It's getting better since you've been mine 
+I've [C]got to admit it's getting [F]better
+A little [Em]better all the [F]time
+I [C]have to admit it's getting [F]better
+It's getting [Em]better since [F]you've been [G]mine 
 
-  G             C           G 
-I used to be an angry young man
-   G         C           G   
-Me hiding me head in the sand
-    G           C      G       C
-You gave me the word I finally heard
-    G         C           G
-I'm doing the best that I can 
+I [G]used to be an [C]angry young [G]man
+Me [G]hiding me [C]head in the [G]sand
+You [G]gave me the [C]word I [G]finally [C]heard
+I'm [G]doing the [C]best that I [G]can 
 
 
 [Chorus]
-     C                         F
-I've got to admit it's getting better
-         Em             F
-A little better all the time
-  C                          F
-I have to admit it's getting better
-             Em           F           G
-It's getting better since you've been mine 
+I've [C]got to admit it's getting [F]better
+A little [Em]better all the [F]time
+I [C]have to admit it's getting [F]better
+It's getting [Em]better since [F]you've been [G]mine 
 
-F   C   F  C    F  C   F   C   G
-Getting so much better all the time
-C                           F     Em              Fmaj7
-It's getting better all the time, better, better, better
-C                           F     Em              Fmaj7   G
-It's getting better all the time, better, better, better
+[F]Gett[C]ing [F]so [C]much [F]bet[C]ter [F]all [C]the [G]time
+[C]It's getting better all the [F]time, [Em]better, better, [Fmaj7]better
+[C]It's getting better all the [F]time, [Em]better, better, [Fmaj7]better [G]
 
-   G         C           G
-I used to be cruel to my woman   
-G              C                       G                                   
-I beat her and kept her apart from the things that she loved
-G         C            G           C
-Man I was mean but I'm changing my scene
-G                 C           G  
-And I'm doing the best that I can 
+I u[G]sed to be [C]cruel to my [G]woman   
+[G]I beat her and [C]kept her apart from the [G]things that she loved
+[G]Man I was [C]mean but I'm [G]changing my [C]scene
+[G]And I'm doing the [C]best that I [G]can 
  
-     C                         F
-I've got to admit it's getting better
-         Em             F
-A little better all the time (it can t get no worse)
-  C                          F
-I have to admit it's getting better
-             Em           F           G
-It's getting better since you've been mine 
+I've [C]got to admit it's getting [F]better
+A little [Em]better all the [F]time (it can t get no worse)
+I [C]have to admit it's getting [F]better
+It's getting [Em]better since [F]you've been [G]mine 
 
-F   C   F  C    F  C   F   C   G
-Getting so much better all the time
-C                           F     Em              Fmaj7
-It's getting better all the time, better, better, better
-C                           F     Em              Fmaj7   G
-It's getting better all the time, better, better, better
+[F]Gett[C]ing [F]so [C]much [F]bet[C]ter [F]all [C]the [G]time
+[C]It's getting better all the [F]time, [Em]better, better, [Fmaj7]better
+[C]It's getting better all the [F]time, [Em]better, better, [Fmaj7]better [G]
 
-F   C   F  C    F  C   F   C   G
-Getting so much better all the time
+[F]Gett[C]ing [F]so [C]much [F]bet[C]ter [F]all [C]the [G]time
 
 ----------------------------------------------------------------
 
 ***Fixing A Hole***
 
-    F        C              F         C
-I'm fixing a hole where the rain gets in and
+I'm [F]fixing a [C]hole where the [F]rain gets [C]in and
 Fm7                Fm6                 Fm7    Fm6  ( C G# F D# D )
 stops my mind from wandering  where it will-- go
 
-    F           C           F              C
-I'm filling the cracks that ran through the door and
+I'm [F]filling the [C]cracks that [F]ran through the[C] door and
 Fm7               Fm6                Fm7     Fm6  ( C G# F D# D )
 kept my mind from wandering where it will -- go                  And it
 
-F              C             F         C                F
-really doesn't matter if I'm wrong I'm right, where I belong
-          C         F
-I'm right where I belong
-C              G              C            G
-See the people standing there who disagree and never win and
-C               G               C
-wonder why they don't get in my door 
+[F]really doesn't [C]matter if I'm [F]wrong I'm [C]right, where I be[F]long
+I'm right [C]where I be[F]long
+[C]See the people [G]standing there [C]who disagree [G]and never win and
+[C]wonder why they [G]don't get in my [C]door 
 
-    F            C         F        C   
-I'm painting the room in a colorful way and 
+I'm [F]painting the [C]room in a [F]colorful [C]way and 
 Fm7               Fm6                 Fm7    Fm6  ( C G# F D# D )   
 when my mind from wandering, where it will go                    And it
 
-F              C             F         C                F
-really doesn't matter if I'm wrong I'm right, where I belong
-          C         F
-I'm right where I belong
-C            G              C            G     
-Silly people run around who worry me and never ask me
-C        G                 C
-why they don't get past my door 
+[F]really doesn't [C]matter if I'm [F]wrong I'm [C]right, where I be[F]long
+I'm right [C]where I be[F]long
+[C]Silly people [G]run around who [C]worry me and [G]never ask me
+[C]why they [G]don't get past my [C]door 
 
-    F          C          F         C        Fm7               
-I'm taking the time for a number of things that weren't important 
+I'm [F]taking the [C]time for a [F]number of [C]things th[Fm7]at weren't important 
 Fm6             Fm7      Fm6  (C-G#-F-D#-D)
 yesterday and I still   go
 
-    F        C               F        C   
-I'm fixing a hole where the rain gets in and 
+I'm [F]fixing a [C]hole where the r[F]ain gets [C]in and 
 Fm7               Fm6            Fm7        Fm6  ( C G# F D# D )  
 stops my mind from wandering, where it will go                  
 (Repeat until fade out)
@@ -434,76 +295,48 @@ stops my mind from wandering, where it will go
 
 ***She's Leaving Home***
 
-E         Bm         F#m                 C#m        
-Wednesday morning at five o'clock as the day begins 
-F#m                  A
-Silently closing her bedroom door
-F#m                       A
-Leaving the note that she hoped would say more
+[E]Wednesday [Bm]morning at [F#m]five o'clock as the [C#m]day begins 
+[F#m]Silently closing her [A]bedroom door
+[F#m]Leaving the note that she [A]hoped would say more
 
-         E   Bm            F#m                 C#m
-She goes downstairs to the kitchen clutching a handkerchief
-F#m                 A
-Quietly turning the backdoor key
-F#m                     A
-Stepping outside she is free
+She goes [E]down[Bm]stairs to the [F#m]kitchen clutching a [C#m]handkerchief
+[F#m]Quietly turning the [A]backdoor key
+[F#m]Stepping outside she is [A]free
 
 
 [Chorus]
-E
-She (we gave her most of our lives)
-E
-Is leaving (sacrificed most of our lives)
-E                  E7         E           C#m
-Home (We gave her everything money could buy)
-C#m                       F#m                 C#m
-She is leaving home after living alone for so many years
+[E]She (we gave her most of our lives)
+[E]Is leaving (sacrificed most of our lives)
+[E]Home (We gave her e[E7]verything m[E]oney could b[C#m]uy)
+[C#m]She is leaving home after [F#m]living alone for so [C#m]many years
 
-E      Bm            F#m                C#m
-Father snores as his wife gets into her dressing gown,
-F#m                        A
-Picks up the letter that's lying there.
-F#m                   A
-Standing alone at the top of the stairs,
+[E]Father [Bm]snores as his [F#m]wife gets into her [C#m]dressing gown,
+[F#m]Picks up the letter that's [A]lying there.
+[F#m]Standing alone at the [A]top of the stairs,
  
-           E        Bm           F#m                C#m
-She breaks down and cries to her husband Daddy our baby's gone.
-F#m                       A
-Why would she treat us so thoughtlessly?
-F#m                      A
-How could she do this to me?
+She breaks [E]down and [Bm]cries to her [F#m]husband Daddy our b[C#m]aby's gone.
+[F#m]Why would she treat us so [A]thoughtlessly?
+[F#m]How could she do this to [A]me?
 
 
 [Chorus 2]
-E
-She (we never thought of ourselves)
-E                     
-Is leaving (never a thought for ourselves)
-E                  E7           E            C#m
-Home (we struggled hard all our lives to get by)
-C#m                      F#m                 C#m
-She's leaving home after living alone for so many years
+[E]She (we never thought of ourselves)
+[E]Is leaving (never a thought for ourselves)
+[E]Home (we struggled [E7]hard all our [E]lives to get [C#m]by)
+[C#m]She's leaving home after [F#m]living alone for so [C#m]many years
 
-E      Bm         F#m                 C#m
-Friday morning at nine o'clock she is far away
-F#m                  A   
-Waiting to keep the appointment she made
-F#m       A6           A
-Meeting a man from the motor trade
+[E]Friday [Bm]morning at [F#m]nine o'clock she is [C#m]far away
+[F#m]Waiting to keep the a[A]ppointment she made
+[F#m]Meeting a [A6]man from the [A]motor trade
 
 
 [Chorus 3]
-E
-She (what did we do that was wrong?)
-E                    
-Is having - we didn't know it was wrong
-E               E7             E           C#m
-Fun (fun is the one thing that money can't buy)
-C#m                       F#m                  C#m      F#m
-Something inside that was always denied for so many years
+[E]She (what did we do that was wrong?)
+[E]Is having - we didn't know it was wrong
+[E]Fun (fun is the [E7]one thing that [E]money can't [C#m]buy)
+[C#m]Something inside that was [F#m]always denied for so [C#m]many year[F#m]s
 
-C#m           F#m        A    E
-She's leaving home, bye bye
+[C#m]She's leaving [F#m]home, bye b[A]ye [E]
 
 ----------------------------------------------------------------------
 
@@ -512,52 +345,31 @@ She's leaving home, bye bye
 
 [Intro] Bb A7 Dm G
 
-G7        Cm         G
-For - the benefit of Mr.Kite
-Bb              Dm              G
-There will be a show tonight on trampoline
-    Cm              G
-The Hendersons will all be there
-Bb            Dm            A
-Late of Pablo Fanques Fair- what a scene!
-     Dm             Dm/C          
-Over man and horses hoops and garters
-Bb               A7          Dm  
-Lastly through a hogshead of real fire!
-        Bb      A                     Dm    Gm  A7  Dm  G
-In this way Mr. K. will challenge the world!
+[G7]For - the [Cm]benefit of [G]Mr.Kite
+[Bb]There will be a [Dm]show tonight on [G]trampoline
+The [Cm]Hendersons will [G]all be there
+[Bb]Late of Pablo [Dm]Fanques Fair- [A]what a scene!
+Over [Dm]man and horses [Dm/C]hoops and garters
+[Bb]Lastly through a [A7]hogshead of [Dm]real fire!
+In this [Bb]way Mr. [A]K. will challenge the [Dm]world![Gm] [A7] [Dm] [G]
 
-    Cm         G
-The celebrated Mr. K.
-Bb                   Dm          G
-performs his feat on Saturday at Bishopsgate
-    Cm              G
-The Hendersons will dance and sing
-Bb               Dm                 A 
-As Mr. Kite flies through the ring- don't be late!
-Dm             Dm/C
-Messrs. K. and H. assure the public
-Bb    A7                  Dm 
-Their production will be second to none
-       Bb               A                Dm    
-And of course Henry The Horse dances the waltz!
+The [Cm]celebrated [G]Mr. K.
+[Bb]performs his feat on [Dm]Saturday at [G]Bishopsgate
+The [Cm]Hendersons will [G]dance and sing
+[Bb]As Mr. Kite flies[Dm] through the ring- [A]don't be late!
+[Dm]Messrs. K. and [Dm/C]H. assure the public
+[Bb]Their [A7]production will be s[Dm]econd to none
+And of [Bb]course Henry The [A]Horse dances the [Dm]waltz!
 
 F  C  A Dm F  C  B  Em   G
 
-    Cm             G    
-The band begins at ten to six
-Bb          Dm                   G
-When Mr. K. performs his tricks without a sound
-    Cm          G
-And Mr. H. will demonstrate
-Bb                   Dm           A
-Ten summersets he'll undertake on solid ground
-Dm                      Dm/C
-We've been some days in preparation
-Bb               A7               Dm
-A splendid time is guaranteed for all
-    Bb          A                   Dm
-And tonight Mr. Kite is topping the bill!
+The [Cm]band begins at [G]ten to six
+[Bb]When Mr. K. [Dm]performs his tricks w[G]ithout a sound
+And [Cm]Mr. H. will [G]demonstrate
+[Bb]Ten summersets he'll [Dm]undertake on [A]solid ground
+[Dm]We've been some days in [Dm/C]preparation
+[Bb]A splendid time i[A7]s guaranteed for [Dm]all
+And [Bb]tonight Mr. [A]Kite is topping the [Dm]bill!
 
 Dm  A  C  Em  A   Dm  A  C  Em B
 Em  Em/G  C  B7  Em   C  B  Em 
@@ -571,8 +383,7 @@ Em/G  C  B  Em  Em/G  C  B  Em
 There are sitar-translated tabs on UG, but acoustically, 
 I think it sounds better just strumming a C and singing over it.)
 
-C
-We were talking about the space between us all
+[C]We were talking about the space between us all
 And the people who hide themselves behind a wall of illusion
 Never glimpse the truth, then it's far too late, when they pass away
 We were talking about the love we all could share
@@ -611,127 +422,85 @@ D|--2--1--2-----2-----------------------------------------------|
 A|--------------------------------------------------------------|
 E|--------------------------------------------------------------|
 
-C
-When I get older losing my hair,
-                 G
-Many years from now,
+[C]When I get older losing my hair,
+Many years from n[G]ow,
 
 Will you still be sending me a valentine
 (G   A   Bb  B)    C
 Birthday greetings bottle of wine?
 
-C
-If I'd been out till quarter to three
-C7                 F
-Would you lock the door,
-F              Fm       C/G            A
-Will you still need me, will you still feed me,
-D        G7    C
-When I'm sixty-four?
+[C]If I'd been out till quarter to three
+[C7]Would you lock the [F]door,
+[F]Will you still [Fm]need me, [C/G]will you still [A]feed me,
+[D]When I'm [G7]sixty-[C]four?
 
-Am        G        Am   
-oo oo oo oooo oo oooo oo
-Am              E
-You'll be older too,
-Am                Dm
-(ah ah ah ah ah)
+[Am]oo oo oo o[G]ooo oo oo[Am]oo oo
+[Am]You'll be older [E]too,
+[Am](ah ah ah ah ah) [Dm]
        And if you say the word,
 F       G         C       G  ( G G G  G B D F )
 I could stay with you.
 
-C
-I could be handy mending a fuse
-                       G
-When your lights have gone.
+[C]I could be handy mending a fuse
+When your lights have g[G]one.
 
 You can knit a sweater by the fireside
 (G A   Bb B)    C
 Sunday mornings go for a ride.
 
-C
-Doing the garden, digging the weeds,
-C7                F
-Who could ask for more?
-F              Fm       C/G            A 
-Will you still need me, will you still feed me,
-D        G7    C
-When I'm sixty-four?
+[C]Doing the garden, digging the weeds,
+[C7]Who could ask for [F]more?
+[F]Will you still [Fm]need me, [C/G]will you still [A]feed me,
+[D]When I'm [G7]sixty-[C]four?
 
-Am                                                G 
-Every summer we can rent a cottage in the Isle of Wight,
-                Am   
-If it's not too dear
-Am                  E
-We shall scrimp and save
-Am                   Dm
-(ah ah)
+[Am]Every summer we can rent a cottage in the Isle of [G]Wight,
+If it's not too [Am]dear
+[Am]We shall scrimp and [E]save
+[Am](ah ah) [Dm]
       Grandchildren on your knee
 F     G          C       G   ( G G G  G B D F )
 Vera, Chuck, and Dave
 
-C
-Send me a postcard, drop me a line,
-                  G
-Stating point of view.
+[C]Send me a postcard, drop me a line,
+Stating point of v[G]iew.
 
 Indicate precisely what you mean to say
 (G    A  Bb  B)  C
 Yours sincerely, Wasting Away.
 
-C
-Give me your answer, fill in a form
-C7           F
-Mine for evermore
-F              Fm       C/G            A
-Will you still need me, will you still feed me,
-D        G7    C
-When I'm sixty-four?
+[C]Give me your answer, fill in a form
+[C7]Mine for ever[F]more
+[F]Will you still [Fm]need me, [C/G]will you still [A]feed me,
+[D]When I'm [G7]sixty-[C]four?
 
 --------------------------------------------------------------
 
 ***Lovely Rita***
 
-A           G           D           A
-Lovely Rita meter maid  Lovely Rita meter maid
+[A]Lovely Rita [G]meter maid  [D]Lovely Rita [A]meter maid
 
-D           C     G    D                  A
-Lovely Rita meter maid nothing can come between us
-Bm                  E7              A7
-When it gets dark I tow your heart away
+[D]Lovely Rita [C]meter [G]maid [D]nothing can come be[A]tween us
+[Bm]When it gets dark I [E7]tow your heart a[A7]way
 
-D             G              C               F
-Standing by a parking meter, when I caught a glimpse of Rita
-D                          A7
-filling in a ticket in her little white book
-D            G                  C            F
-In a cap she looked much older, and the bag across her shoulder
-D                             A7
-made her look a little like a military man
+[D]Standing by a [G]parking meter, [C]when I caught a [F]glimpse of Rita
+[D]filling in a ticket in her [A7]little white book
+[D]In a cap she [G]looked much older, [C]and the bag a[F]cross her shoulder
+[D]made her look a little like a [A7]military man
 
-D           C     G    D               A
-Lovely Rita meter maid may I enquire discreetly
-Bm                   E7                 A7
-When are you free to take some tea with me?
+[D]Lovely Rita [C]meter [G]maid [D]may I enquire di[A]screetly
+[Bm]When are you free to [E7]take some tea with [A7]me?
 
-A           G           D           A
-Lovely Rita meter maid  Lovely Rita meter maid
+[A]Lovely Rita [G]meter maid  [D]Lovely Rita [A]meter maid
 
-D                G                 C                F
-Took her out and tried to win her, had a laugh, and over dinner
-D                               A7
-told her I would really like to see her again
-D                G             C                F
-Got the bill and Rita paid it, took her home, I nearly made it,
-D                          A7
-sitting on the sofa with a sister or two
+[D]Took her out and [G]tried to win her, [C]had a laugh, and [F]over dinner
+[D]told her I would really like to [A7]see her again
+[D]Got the bill and [G]Rita paid it, [C]took her home, I [F]nearly made it,
+[D]sitting on the sofa with a [A7]sister or two
 
-    D            C     G     D                    A
-Oh, lovely Rita, meter maid, where would I be without you?
-Bm                 E7               A7
-Give us a wink and make me think of you
+Oh, [D]lovely Rita, [C]meter [G]maid, [D]where would I be with[A]out you?
+[Bm]Give us a wink and [E7]make me think of [A7]you
 
-A           G           D           A
-Lovely Rita meter maid  Lovely Rita meter maid
+[A]Lovely Rita [G]meter maid  [D]Lovely Rita [A]meter maid
 
 -----------------------------------------------------------
 
@@ -739,66 +508,39 @@ Lovely Rita meter maid  Lovely Rita meter maid
 
 A  D
 
-     A             D             A             D             A         E
-Good morning, good morning, good morning, good morning, good morning ah
+Good [A]morning, good [D]morning, good [A]morning, good [D]morning, good [A]morning ah[E]
 
-A          A7    G                           A
-Nothing to do to save his life call his wife in
-A          A7       G                          A
-Nothing to say but "What a day, how's your boy been?"
-D                        E
-Nothing to do, its up to you
-E7       A          A7      G
-I've got nothing to say but it s okay
-     A             D             A
-Good Morning, good morning, good morning ah
+[A]Nothing to [A7]do to [G]save his life call his wife [A]in
+[A]Nothing to [A7]say but "[G]What a day, how's your boy [A]been?"
+[D]Nothing to do, its up to [E]you
+[E7]I've got [A]nothing to [A7]say but [G]it s okay
+Good [A]Morning, good [D]morning, good [A]morning ah
 
-A        A7          G                      A
-Going to work, don't want to go feeling low down
-            A7       G                            A   D   A
-Heading for home you start to roam when you're in town
+[A]Going to [A7]work, don't [G]want to go feeling low [A]down
+Heading for [A7]home you [G]start to roam when you're in [A]town[D] [A]
 
-          D                     A
-Everybody knows there's nothing doing
-             D                   A
-Everything's closed, it's like a ruin
-             D            A
-Everyone you see is half asleep
-                   D                 A
-And you're on your own you're in the street
+Everybody [D]knows there's nothing [A]doing
+Everything's [D]closed, it's like a [A]ruin
+Everyone you [D]see is half a[A]sleep
+And you're on your [D]own you're in the [A]street
 
-A       A7        G                            A
-After a while you start to smile, now you feel cool
-A         A7       G                      A       
-Then you decide to take a walk by the old school
-D                                  E
-Nothing had changed it's still the same
-         A          A7      G
-I've got nothing to say but it's okay
-     A             D             A
-Good morning, good morning, good morning ah
+[A]After a [A7]while you [G]start to smile, now you feel [A]cool
+[A]Then you d[A7]ecide to [G]take a walk by the old [A]school
+[D]Nothing had changed it's still the [E]same
+I've got [A]nothing to [A7]say but [G]it's okay
+Good [A]morning, good [D]morning, good [A]morning ah
 
-               D                 A
-People running round it's five o'clock
-              D               A
-Everywhere in town is getting dark
-             D              A
-Everyone you see is full of life
-              D                A
-It's time for tea and meet the wife
+People running [D]round it's five o'[A]clock
+Everywhere in [D]town is getting [A]dark
+Everyone you [D]see is full of [A]life
+It's time for [D]tea and meet the [A]wife
 
-A        A7       G                            A
-Somebody needs to know the time, glad that I'm here
-A            A7         G                             A
-Watching the skirts you start to flirt, now you're in gear
-D                         E
-Go to a show you hope she goes
-         A          A7       G
-I've got nothing to say, but it's okay
-     A             D        A   D
-Good morning, good morning, good
-     A             D        A   D
-Good morning, good morning, good  (7x)
+[A]Somebody [A7]needs to [G]know the time, glad that I'm [A]here
+[A]Watching the [A7]skirts you [G]start to flirt, now you're in [A]gear
+[D]Go to a show you hope she [E]goes
+I've got [A]nothing to [A7]say, but [G]it's okay
+Good [A]morning, good [D]morning, [A]good[D]
+Good [A]morning, good [D]morning, [A]good[D]  (7x)
 
 ---------------------------------------------------------------
 
@@ -806,35 +548,22 @@ Good morning, good morning, good  (7x)
 
 [Intro] F
 
-      F                 G#         Bb         F
-We're Sergeant Pepper's Lonely Hearts Club Band,
-   Bb                           F
-We hope you have enjoyed the show
-F                 G#         Bb         F
-Sergeant Pepper's Lonely Hearts Club Band
-      G                        C     
-We're sorry, but it's time to go
+We're [F]Sergeant Pepper's [G#]Lonely Hear[Bb]ts Club Ban[F]d,
+We [Bb]hope you have enjoyed the sho[F]w
+[F]Sergeant Pepper's [G#]Lonely Hear[Bb]ts Club Ban[F]d
+We're [G]sorry, but it's time to g[C]o
 
-  Bb                        F                        
-Sergeant Pepper's Lonely, Sergeant Pepper's Lonely,
-  G7                        D
-Sergeant Pepper's Lonely, Sergeant Pepper's Lonely,
+Se[Bb]rgeant Pepper's Lonely, Se[F]rgeant Pepper's Lonely,
+Se[G7]rgeant Pepper's Lonely, Se[D]rgeant Pepper's Lonely,
 
-G                 Bb         C          G
-Sergeant Pepper's Lonely Hearts Club Band
-     C                            G
-We'd like to thank you once again
-                  Bb           C                  G
-Sergeant Pepper's one and only Lonely Hearts Club Band
-     Am                      D
-It's getting very near the end
+[G]Sergeant Pepper's [Bb]Lonely Hear[C]ts Club Ban[G]d
+We'd [C]like to thank you once again [G]
+Sergeant Pepper's [Bb]one and only [C]Lonely Hearts Club [G]Band
+It's [Am]getting very near the en[D]d
 
-  C                         G
-Sergeant Pepper's Lonely, Sergeant Pepper's Lonely 
-  A7                     C                
-Sergeant Pepper's Lonely Hearts--- Club---
-G       
-Band--- 
+Se[C]rgeant Pepper's Lonely, Se[G]rgeant Pepper's Lonely 
+Se[A7]rgeant Pepper's Lonely [C]Hearts--- Club---
+[G]Band--- 
 
 Bb   C   G (switch into "A Day In The Life")
 
@@ -846,77 +575,48 @@ Bb   C   G (switch into "A Day In The Life")
 [Intro]
 G  Bm  Em  Em7   C   C 
 
-G          Bm            Em    Em7
-I read the news today oh boy
-C        C/B          Asus2
-About a lucky man who made the grade
-G              Bm              Em   Em7
-And though the news was rather sad
-C           F       Em    Em7
-Well I just had to laugh
-C         F       Em   C
-I saw the photograph
+[G]I read the [Bm]news today oh [Em]boy [Em7]
+[C]About a l[C/B]ucky man who [Asus2]made the grade
+[G]And though the [Bm]news was rather [Em]sad [Em7]
+[C]Well I just [F]had to l[Em]augh [Em7]
+[C]I saw the [F]photogra[Em]ph [C]
 
-G           Bm            Em   Em7
-He blew his mind out in a car
-C         C/B              Asus2
-He didn't notice that the lights had changed
-G          Bm               Em      Em7
-A crowd of people stood and stared
-C               F
-They'd seen his face before
-Em
-Nobody was really sure
-   Em7                      C
-If he was from the House of Lords
+[G]He blew his [Bm]mind out in a [Em]car [Em7]
+[C]He didn't [C/B]notice that the l[Asus2]ights had changed
+[G]A crowd of [Bm]people stood and [Em]stared [Em7]
+[C]They'd seen his [F]face before
+[Em]Nobody was really sure
+If [Em7]he was from the House of [C]Lords
 
-G       Bm            Em   Em7
-I saw a film today oh boy
-C           C/B           Asus2
-The English Army had just won the war
-G          Bm            Em   Em7
-A crowd of people turned away
-C          F          Em
-But I just had to look
-       Em7      C
-Having read the book
+[G]I saw a [Bm]film today oh [Em]boy [Em7]
+[C]The English [C/B]Army had just [Asus2]won the war
+[G]A crowd of [Bm]people turned [Em]away [Em7]
+[C]But I just [F]had to look[Em]
+Having [Em7]read the [C]book
             
 I'd love to turn you on
 
 
 
-E
-Woke up, fell out of bed
-                         Dsus2
-Dragged a comb across my head
-         E                  B7sus4
-Found my way downstairs and drank a cup
+[E]Woke up, fell out of bed
+Dragged a comb across my [Dsus2]head
+Found my [E]way downstairs and [B7sus4]drank a cup
     E            B7sus4             (B7)
 And looking up I noticed I was late (ha ha ha.)
-         E
-Found my coat and grabbed my hat
-                        Dsus2
-Made the bus in seconds flat
-         E                B7sus4
-Found my way upstairs and had a smoke
-    E                         B7sus4
-And somebody spoke and I went into a dream.
+Found my [E]coat and grabbed my hat
+Made the bus in seconds [Dsus2]flat
+Found my [E]way upstairs and [B7sus4]had a smoke
+And [E]somebody spoke and I went [B7sus4]into a dream.
 
 
 [Interlude]
-C   G   D   A   E   C   G   D   A    E D C D
-Aaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhh
+[C]Aaaa[G]aaaa[D]aaaa[A]aaaa[E]aaah[C]hhhh[G]hhhh[D]hhhh[A]hhh [E] [D] [C] [D]
 
-G          Bm            Em  Em7
-I read the news today oh boy
-C             C/B                 Asus2
-Four thousand holes in Blackburn, Lancashire
-G              Bm                Em    Em7
-And though the holes were rather small
-C           F
-They had to count them all
-Em                              Em7                      C
-Now they know how many holes it takes to fill the Albert Hall
+[G]I read the [Bm]news today oh [Em]boy [Em7]
+[C]Four thousand [C/B]holes in Blackburn, [Asus2]Lancashire
+[G]And though the [Bm]holes were rather [Em]small [Em7]
+[C]They had to [F]count them all
+[Em]Now they know how many holes it [Em7]takes to fill the Albert [C]Hall
              
 I'd love to turn you on.
 
