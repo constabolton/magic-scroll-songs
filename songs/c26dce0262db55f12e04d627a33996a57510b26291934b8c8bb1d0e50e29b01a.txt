@@ -16,15 +16,11 @@ written by Jerry Leiber and Mike Stoller
 performed by Dion
 tab transcribed by Collins Crapo <roxtar@srv.net>
 
-E / / / 2 / /
-I said I love a girl and-a Ruby is her name
+[E]I said I love a girl and-a Ruby is her name
 This girl doesn't love me but I love her just the same
-          A
-Wo oh oh,  Ruby, Ruby, how I want you
-E
- Like a ghost I'm-a gonna haunt you
-B7            A                  E
-  Ruby, Ruby, Ruby, won't you be mine?
+Wo oh oh, [A] Ruby, Ruby, how I want you
+[E] Like a ghost I'm-a gonna haunt you
+[B7]  Ruby, Ruby, [A]Ruby, won't you be [E]mine?
 (Ruby, Ruby, Ruby, baby)
 Sometime
 
@@ -60,8 +56,7 @@ Gonna catch you sometime
 
 (interlude)
 
-E
-A-listen, listen, listen, now
+[E]A-listen, listen, listen, now
 Ruby, Ruby, Ruby, Ruby, won't you be mine?
 (Ruby, Ruby, Ruby, baby)
 ...and fade
