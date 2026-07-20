@@ -8,8 +8,7 @@ Song name: Fun Fun Fun  by  The Beach Boys
 Tabbed by: Jim BlenderBR
  - Give your rating and help others users to find the best versions of the songs - 
 
-* G7      ( 3 2 0 0 0 1 )
-* G7*     ( 3 2 3 0 0 1 ) 
+* [G7]G7*     ( 3 2 3 0 0 1 ) 
   G/B     ( x 2 0 0 0 3 )
   C/E     ( 0 3 2 0 1 0 )
 
@@ -25,56 +24,38 @@ F F C C G F G
 
 Verse 1
 
-     C
-Well she got her daddy's car
-                                           F
-And she's cruisin' through the hamburger stand now
-             C
-Seems she forgot all about the library
-                       G7      G7 *
-Like she told her old man now
-         C
-And with the radio blasting
-                                  F
-Goes cruising just as fast as she can now
+Well [C]she got her daddy's car
+And she's cruisin' through the hamburger st[F]and now
+Seems she for[C]got all about the library
+Like she told her old m[G7]an now [G7]
+And with [C]the radio blasting
+Goes cruising just as fast as she [F]can now
 
 
 Chorus
 
-                C       G/B
-And she'll have fun fun fun
-         F               G
-'Til her daddy takes the T-Bird away
- C       F            C/E             G
-(Fun fun fun 'til her daddy takes the T-Bird away)
+And she'll have [C]fun fun [G/B]fun
+'Til her [F]daddy takes the [G]T-Bird away
+([C]Fun fun [F]fun 'til her [C/E]daddy takes the [G]T-Bird away)
 
 
 Verse 2
 
-         C
-Well the girls can't stand her
-                                          F
-'Cause she walks looks and drives like an ace now
+Well the [C]girls can't stand her
+'Cause she walks looks and drives like an [F]ace now
 (You walk like an ace now you walk like an ace)
-              C                                  G7         
-She makes the Indy 500 look like a Roman chariot race now
-                          G7 *
-(You look like an ace now you look like an ace)
-        C
-A lotta guys try to catch her
-                                   F
-But she leads them on a wild goose chase now
+She makes the [C]Indy 500 look like a Roman chariot [G7]race now
+(You look like an ace now [G7]you look like an ace)
+A lotta [C]guys try to catch her
+But she leads them on a wild goose [F]chase now
 (You drive like an ace now you drive like an ace)
 
 
 Chorus
 
-                C       G/B
-And she'll have fun fun fun
-         F               G
-'Til her daddy takes the T-Bird away
- C       F            C/E             G
-(Fun fun fun 'til her daddy takes the T-Bird away)
+And she'll have [C]fun fun [G/B]fun
+'Til her [F]daddy takes the [G]T-Bird away
+([C]Fun fun [F]fun 'til her [C/E]daddy takes the [G]T-Bird away)
 
 
 Intrumental/Solo
@@ -83,45 +64,30 @@ G G D G7
 
 
 Verse 3
-         C
-Well you knew all along
-                                 F
-That your dad was gettin' wise to you now
+Well you [C]knew all along
+That your dad was gettin' wise to[F] you now
 (You shouldn't have lied now you shouldn't have lied)
-             C
-And since he took your set of keys
-                                             G7  
-You've been thinking that your fun is all through now
-                            G7 *
-(You shouldn't have lied now you shouldn't have lied)
-        C
-But you can come along with me
-                                   F
-'Cause we gotta a lot of things to do now
+And since he [C]took your set of keys
+You've been thinking that your fun is all thr[G7]ough now
+(You shouldn't have lied now[G7] you shouldn't have lied)
+But you [C]can come along with me
+'Cause we gotta a lot of things to [F]do now
 (You shouldn't have lied now you shouldn't have lied)
 
 
 Chorus
 
-               C       G/B          F              G
-And we'll have fun fun fun now that daddy took the T-Bird away
- C       F            C/E            G      [ C ]
-(Fun fun fun now that daddy took the T-Bird away)
-C       G/B          F              G
-Fun fun fun now that daddy took the T-Bird away
- C       F            C/E            G
-(Fun fun fun now that daddy took the T-Bird away)
+And we'll have [C]fun fun [G/B]fun now that [F]daddy took the [G]T-Bird away
+([C]Fun fun [F]fun now that [C/E]daddy took the [G]T-Bird aw[C]ay)
+[C]Fun fun [G/B]fun now that [F]daddy took the [G]T-Bird away
+([C]Fun fun [F]fun now that [C/E]daddy took the [G]T-Bird away)
 
 
 Outro
 
- G                                      [ C ]
-(fun fun now that daddy took the T-Bird away)
- C                 F                    [ G ]
- (fun fun now that daddy took the T-Bird away)
- G                                      [ C ]
-(fun fun now that daddy took the T-Bird away)
- C                 F                    [ G ]
- (fun fun now that daddy took the T-Bird away)
+([G]fun fun now that daddy took the T-Bird aw[C]ay)
+ [C](fun fun now that [F]daddy took the T-Bird a[G]way)
+([G]fun fun now that daddy took the T-Bird aw[C]ay)
+ [C](fun fun now that [F]daddy took the T-Bird a[G]way)
 
 (repeat and fade)
