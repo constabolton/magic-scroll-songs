@@ -16,69 +16,48 @@ E|-----------------------------|
 A       D     A       D
 
 [Verse]
-A                  F#m        Bm                 E
-Why   are  there   so many    songs      about   rainbows
-A                    F#m         Bm              E
-And what's on the    oth - er    side?
-A                  F#m            Bm               E
-Rain - bows  are   visions,   but on - ly   ill -  us  - ions
-A                  F#m                Bm           E
-And rainbows have  nothing      to    hide
+[A]Why   are  there   [F#m]so many    [Bm]songs      about   [E]rainbows
+[A]And what's on the    [F#m]oth - er    [Bm]side? [E]
+[A]Rain - bows  are   [F#m]visions,   but [Bm]on - ly   ill -  [E]us  - ions
+[A]And rainbows have  [F#m]nothing      to    [Bm]hide [E]
 
 Dmaj7 (xx0222)
   So   we've  been   told,  and  some  choose   to   be -  lieve it
-G#m7  (464444)
-  I    know they're  wrong,  wait  and  see
+[G#m7]  I    know they're  wrong,  wait  and  see
 
 [Chorus]
 Bm                 E                  C#m7 (042100)      F#7 (xx4320)
 Some - day  we'll  find   it,    the  rain - bow  con -  nection
-Bm                E                  A       D     A       D
-The lovers, the   dreamers,    and   me  [repeat intro]
+[Bm]The lovers, the   [E]dreamers,    and   [A]me  [rep[D]eat in[A]tro] [D]
 
 [Verse]
-A             F#m              Bm           E
-Who said that every wish would be heard and answered
-A              F#m         Bm               E
-When wished on the morning star?
-A        F#m              Bm          E
-Somebody thought of that, and someone believed it
-A                  F#m     Bm         E
-And look what it's done so far
+[A]Who said that [F#m]every wish would [Bm]be heard and [E]answered
+[A]When wished on [F#m]the morning [Bm]star? [E]
+[A]Somebody [F#m]thought of that, [Bm]and someone [E]believed it
+[A]And look what it's [F#m]done so [Bm]far [E]
 
 Dmaj7 (xx0222)
 What's so amazing that keeps us stargazing
-G#m7  (464444)
-And what do we think we might see?
+[G#m7]And what do we think we might see?
 
 [Chorus]
 Bm                 E                C#m7 (042100)        F#7 (xx4320)
 Some - day  we'll  find   it,    the  rain - bow  con -  nection
-Bm                   E                  A
-The lovers,    the   dreamers,    and   me,
-E         A            /
-All of us under its spell.
-   D              A          E    F
-We know that it's pro-ba-bly ma - gic.
+[Bm]The lovers,    the   [E]dreamers,    and   [A]me,
+[E]All of us [A]under its spell.
+We [D]know that it's [A]pro-ba-bly [E]ma - [F]gic.
 
 [Verse]
-Bb            Gm              Cm             F
-Have you been half asleep and have you heard voices?
-Bb              Gm         Cm      F
-I've heard them calling my name.
-Bb          Gm               Cm              F
-Is this the sweet sound that calls the young sailors?
-    Bb             Gm          Cm        F
-The voice might be one and the same.
+[Bb]Have you been [Gm]half asleep and [Cm]have you heard [F]voices?
+[Bb]I've heard them [Gm]calling my [Cm]name. [F]
+[Bb]Is this the [Gm]sweet sound that [Cm]calls the young [F]sailors?
+The [Bb]voice might be [Gm]one and the [Cm]same. [F]
 
 Ebmaj7 (xx1333)
 I've heard it too many times to ignore it.
-Dm
-It's something that I'm supposed to be.
+[Dm]It's something that I'm supposed to be.
 
 [Chorus]
-Cm            F            Dm      G
-Someday we'll find it, the rainbow connection,
-Cm              F            Bb
-the lovers, the dreamers and me.
+[Cm]Someday we'll [F]find it, the [Dm]rainbow [G]connection,
+[Cm]the lovers, the [F]dreamers and [Bb]me.
 F        Gm        Bb       Eb         F            Bb
