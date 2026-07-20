@@ -4,22 +4,16 @@ Song name: You Really Got A Hold On Me  by  The Beatles
 You Really Got a Hold On Me
 Beatles
 
-                        A                 F#m   A                 F#m 
-[Bass: E E F# A B A F# A    C#   C#   B A    B F# A C# C B A B  F#]
+[Bass: E E F# A B A F# A[A]    C#   C#   B A [F#m]   B F[A]# A C# C B A B  F#[F#m]]
 
 
 [Verse 1]
 
- A        
-I don't like you, but I love you
- F#m 
-Seems that I'm always thinking of you
- A    A7              D                 B7 
-Oh,oh,oh, you treat me badly, I love you madly,
-      E7         A 
-you really got a hold on me (you really got a hold on me )
-      F#m 
-you really got a hold on me (you really got a hold on me ) baby,
+I[A] don't like you, but I love you
+S[F#m]eems that I'm always thinking of you
+O[A]h,oh,[A7]oh, you treat me[D] badly, I love you[B7] madly,
+you re[E7]ally got a [A]hold on me (you really got a hold on me )
+you re[F#m]ally got a hold on me (you really got a hold on me ) baby,
 
 
 [Verse 2]
@@ -29,15 +23,11 @@ Don't wanna kiss you, but I need to
 Oh, oh, oh, you do me wrong now, my love is strong now,
 you really got a hold on me (you really got a hold on me )
 you really got a hold on me (you really got a hold on me ) baby,
- A      A7           D 
-I love you and all I want you to do is just
- A                          E7 
-Hold me, hold me, hold me, hold me...
+I[A] love y[A7]ou and all I [D]want you to do is just
+H[A]old me, hold me, hold me, h[E7]old me...
 
-                        A        A/F#     F#m E  A  
-[Bass: E E   F#   A   B   A   F#   A   E   C#   F#  E   C#   F#  E A] tighter
-                        A        A/F#     F#m E  A  
-[Bass:  E   E   F#   A   B   A   F#   A   E   C#   F#  E   C#   F#  E A] tighter
+[Bass: E E   F#   A   B [A]  A   F# [A/F#]  A   E  [F#m] C# [E]  F[A]#  E   C#   F#  E A] tighter
+[Bass:  E   E   F#   A  [A] B   A   [A/F#]F#   A   [F#m]E   [E]C# [A]  F#  E   C#   F#  E A] tighter
 
 
 [Verse 3]
@@ -46,14 +36,10 @@ I wanna leave you, don't wanna stay here
 Don't wanna spend another day here
 Oh, oh, oh, I wanna split now, I just can't quit now
 you really got a hold on me (you really got a hold on me )
-                  F#m 
-you really got a hold on me (you really got a hold on me ) baby,
+you really got a h[F#m]old on me (you really got a hold on me ) baby,
 I love you and all I want you to do is just
 Hold me please, hold me squeeze, hold me, hold me...
 
-      A 
-You really got a hold on me (you really got a hold on me )
-      F#m 
-You really got a hold on me (you really got a hold on me )
- A                               A6 
-[Bass: ...  A   F#   E   A   F#   E  A]
+You re[A]ally got a hold on me (you really got a hold on me )
+You re[F#m]ally got a hold on me (you really got a hold on me )
+[[A]Bass: ...  A   F#   E   A   F#  [A6] E  A]
