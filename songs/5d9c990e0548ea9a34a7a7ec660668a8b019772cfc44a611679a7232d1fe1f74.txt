@@ -4,8 +4,7 @@ Song name: Farewell  by  Bob Dylan
 Capo 2th fret (sounding key B major)
 
 [Chords]
-A     x02220
-D     xx0232
+[A]D     xx0232
 E     022100
 D/F#  200232
 
@@ -15,108 +14,63 @@ A
 
 
 [Verse 1]
-        A                 D       A
-Oh it's fare thee well my darlin' true,
-    A              D                 E
-I'm leavin' in the first hour of the morn.
-    A                        D   A
-I'm bound off for the bay of Mexico
-   A         E            A
-Or maybe the coast of Californ.
-        E                 D/F#     A
-So it's fare thee well my own true love,
-      A     D      A            E
-We'll meet another day, another time.
-             A
-It ain't the leavin'
-         D        A
-That's a-grievin' me
-       A               E               A
-But my true love who's bound to stay behind.
+Oh it's [A]fare thee well my [D]darlin' [A]true,
+I'm [A]leavin' in the [D]first hour of the [E]morn.
+I'm [A]bound off for the bay of [D]Mexi[A]co
+Or [A]maybe the [E]coast of Cali[A]forn.
+So it's [E]fare thee well my [D/F#]own true [A]love,
+We'll [A]meet a[D]nother [A]day, another [E]time.
+It ain't the [A]leavin'
+That's a-[D]grievin' [A]me
+But my [A]true love who's [E]bound to stay be[A]hind.
 
 
 [Verse 2]
-       A                             D          A
-Oh the weather is against me and the wind blows hard
-        A            D            E
-And the rain she's a-turnin' into hail.
-   A                               D             A
-I still might strike it lucky on a highway goin' west,
-           A              E           A
-Though I'm travelin' on a path beaten trail.
-        E                 D/F#     A
-So it's fare thee well my own true love,
-      A     D      A            E
-We'll meet another day, another time.
-             A
-It ain't the leavin'
-         D        A
-That's a-grievin' me
-       A               E               A
-But my true love who's bound to stay behind.
+Oh the [A]weather is against me and the [D]wind blows [A]hard
+And the [A]rain she's a-[D]turnin' into [E]hail.
+I s[A]till might strike it lucky on a [D]highway goin' [A]west,
+Though I'm [A]travelin' on a [E]path beaten [A]trail.
+So it's [E]fare thee well my [D/F#]own true [A]love,
+We'll [A]meet a[D]nother [A]day, another [E]time.
+It ain't the [A]leavin'
+That's a-[D]grievin' [A]me
+But my [A]true love who's [E]bound to stay be[A]hind.
 
 
 [Verse 3]
-       A                       D       A
-I will write you a letter from time to time,
-       A                D              E
-As I'm ramblin' you can travel with me too.
-        A                     D         A
-With my head, my heart and my hands, my love,
-       A           E                  A
-I will send what I learn back home to you.
-        E                 D/F#     A
-So it's fare thee well my own true love,
-      A      D     A            E
-We'll meet another day, another time.
-             A
-It ain't the leavin'
-         D        A
-That's a-grievin' me
-       A               E               A
-But my true love who's bound to stay behind.
+I will [A]write you a letter from [D]time to [A]time,
+As I'm [A]ramblin' you can [D]travel with me [E]too.
+With my [A]head, my heart and my [D]hands, my [A]love,
+I will [A]send what I [E]learn back home to [A]you.
+So it's [E]fare thee well my [D/F#]own true [A]love,
+We'll [A]meet an[D]other [A]day, another [E]time.
+It ain't the [A]leavin'
+That's a-[D]grievin' [A]me
+But my [A]true love who's [E]bound to stay be[A]hind.
 
 
 [Verse 4]
-       A                            D      A
-I will tell you of the laughter and'of troubles,
-   A             D            E
-Be them somebody else's or my own.
-        A                          D           A
-With my hands in my pockets and my coat collar high,
-       A        E             A
-I will travel unnoticed and unknown.
-        E                 D/F#     A
-So it's fare thee well my own true love,
-      A      D     A            E
-We'll meet another day, another time.
-             A
-It ain't the leavin'
-         D        A
-That's a-grievin' me
-       A               E               A
-But my true love who's bound to stay behind.
+I will [A]tell you of the laughter and'[D]of trou[A]bles,
+Be [A]them somebody [D]else's or my [E]own.
+With my [A]hands in my pockets and my [D]coat collar [A]high,
+I will [A]travel un[E]noticed and un[A]known.
+So it's [E]fare thee well my [D/F#]own true [A]love,
+We'll [A]meet an[D]other [A]day, another [E]time.
+It ain't the [A]leavin'
+That's a-[D]grievin' [A]me
+But my [A]true love who's [E]bound to stay be[A]hind.
 
 
 [Verse 5]
-           A                      D                A
-I've heard tell of a town where I might as well be bound,
-     A               D           E
-It's down around the old Mexican plains.
-     A                           D        A
-They say that the people are all friendly there
-    A        E          A
-And all they ask of you is your name.
-        E                 D/F#     A
-So it's fare thee well my own true love,
-      A     D      A            E
-We'll meet another day, another time.
-             A
-It ain't the leavin'
-         D        A
-That's a-grievin' me
-       A               E               A
-But my true love who's bound to stay behind.
+I've heard [A]tell of a town where I [D]might as well be [A]bound,
+It's [A]down around the [D]old Mexican [E]plains.
+They [A]say that the people are all [D]friendly [A]there
+And [A]all they [E]ask of you [A]is your name.
+So it's [E]fare thee well my [D/F#]own true [A]love,
+We'll [A]meet a[D]nother [A]day, another [E]time.
+It ain't the [A]leavin'
+That's a-[D]grievin' [A]me
+But my [A]true love who's [E]bound to stay be[A]hind.
 
 
 Alternative using barre chords:
@@ -132,21 +86,12 @@ D/F#  200232
 A
 
 [Verse 1]
-        A                 D/A     A
-Oh it's fare thee well my darlin' true,
-    A              D/A               E
-I'm leavin' in the first hour of the morn.
-    A                        D/A A
-I'm bound off for the bay of Mexico
-   A         E            A
-Or maybe the coast of Californ.
-        E                 D/F#     A
-So it's fare thee well my own true love,
-      A     D/A    A            E
-We'll meet another day, another time.
-             A
-It ain't the leavin'
-         D/A      A
-That's a-grievin' me
-       A               E               A
-But my true love who's bound to stay behind.
+Oh it's [A]fare thee well my [D/A]darlin' [A]true,
+I'm [A]leavin' in the [D/A]first hour of the [E]morn.
+I'm [A]bound off for the bay of [D/A]Mexi[A]co
+Or [A]maybe the [E]coast of Cali[A]forn.
+So it's [E]fare thee well my [D/F#]own true [A]love,
+We'll [A]meet a[D/A]nother [A]day, another [E]time.
+It ain't the [A]leavin'
+That's a-[D/A]grievin' [A]me
+But my [A]true love who's [E]bound to stay be[A]hind.
