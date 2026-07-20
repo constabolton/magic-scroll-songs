@@ -22,8 +22,7 @@ Am7      = x02010
 [Intro]
 
 G/D       G/D   G*    G*  G*
-Em / F#m  Dadd4 Dadd4 G7  G7
-(slide up)
+[Em](slid[F#m]e up)[Dadd4] [G7]
 
 
 [Instrumental]
@@ -33,14 +32,10 @@ G  Cadd9  x3
 
 [Verse 1]
 
-G    Cadd9 G/B Am          Em7              D    Dsus4 D Dsus4
- I'm look--ing through you,   where did you go
-G  Cadd9   G/B Am       Em7           D      Dsus4 D Dsus4
- I thought I   knew you,   what did I know
-Em7               A7sus4 Am7      G   Cadd9 D            Dsus4
-   You don't look differ-ent, but you have changed
-G    Cadd9 G/B Am           Cadd9             G
- I'm look--ing through you,  you're not the same
+[G] I'm [Cadd9]look--[G/B]ing [Am]through you,[Em7]   where did you [D]go [Dsus4] [D] [Dsus4]
+[G] I [Cadd9]thought [G/B]I   [Am]knew you,[Em7]   what did I [D]know [Dsus4] [D] [Dsus4]
+[Em7]   You don't look [A7sus4]differ-[Am7]ent, but [G]you [Cadd9]have c[D]hanged [Dsus4]
+[G] I'm [Cadd9]look--[G/B]ing [Am]through you, [Cadd9] you're not the sa[G]me
 
 
 [Instrumental]
@@ -51,14 +46,10 @@ G    Cadd9 G/B Am           Cadd9             G
 
 [Verse 2]
 
-G     Cadd9 G/B Am     Em7         D       Dsus4 D Dsus4
- Your lips  are moving,   I cannot hear
-G     Cadd9 G/B Am       Em7                     D        Dsus4 D Dsus4
- Your voice is  soothing,   but the words aren't clear
-Em7                A7sus4 Am7       G       Cadd9 D               Dsus4
-   You don't sound differ-ent, I've learned the   game
-G    Cadd9 G/B Am           Cadd9             G
- I'm look--ing through you,  you're not the same
+[G] Your [Cadd9]lips  [G/B]are [Am]moving,[Em7]   I cannot [D]hear [Dsus4] [D] [Dsus4]
+[G] Your [Cadd9]voice [G/B]is  [Am]soothing,[Em7]   but the words aren't [D]clear [Dsus4] [D] [Dsus4]
+[Em7]   You don't sound [A7sus4]differ-[Am7]ent, I've [G]learned [Cadd9]the   [D]game [Dsus4]
+[G] I'm [Cadd9]look--[G/B]ing [Am]through you, [Cadd9] you're not the sa[G]me
 
 
 [Instrumental]
@@ -71,22 +62,16 @@ G    Cadd9 G/B Am           Cadd9             G
 
 | G |
 
-Cadd9                         G
-Why, tell me why, did you not treat me right
-Cadd9                     Dsus4        D
-Love has a nasty habit of disappearing overnight
+[Cadd9]Why, tell me why, did you not [G]treat me right
+[Cadd9]Love has a nasty habit of [Dsus4]disappearing [D]overnight
 
 
 [Verse 3]
 
-G       Cadd9 G/B Am    Em7             D        Dsus4 D Dsus4
- You're think-ing of me,   the same old way
-G    Cadd9 G/B Am      Em7          D         Dsus4 D Dsus4
- You were  a - bove me,   but not today
-Em7         A7sus4 Am7     G      Cadd9 D                Dsus4
-   The only differ-ence is you're down  there
-G    Cadd9 G/B Am          Cadd9          G
- I'm look--ing through you, and you're nowhere
+[G] You're [Cadd9]think-[G/B]ing [Am]of me,[Em7]   the same old [D]way [Dsus4] [D] [Dsus4]
+[G] You [Cadd9]were  [G/B]a - [Am]bove me,[Em7]   but not to[D]day [Dsus4] [D] [Dsus4]
+[Em7]   The only [A7sus4]differ-[Am7]ence is [G]you're [Cadd9]down  [D]there [Dsus4]
+[G] I'm [Cadd9]look--[G/B]ing [Am]through you,[Cadd9] and you're now[G]here
 
 
 [Instrumental]
@@ -99,31 +84,22 @@ G    Cadd9 G/B Am          Cadd9          G
 
 | G |
 
-Cadd9                         G
-Why, tell me why, did you not treat me right
-Cadd9                     Dsus4        D
-Love has a nasty habit of disappearing overnight
+[Cadd9]Why, tell me why, did you not [G]treat me right
+[Cadd9]Love has a nasty habit of [Dsus4]disappearing [D]overnight
 
 
 [Verse 4]
 
-G    Cadd9 G/B Am          Em7              D    Dsus4 D Dsus4
- I'm look--ing through you,   where did you go
-G  Cadd9   G/B Am       Em7           D      Dsus4 D Dsus4
- I thought I   knew you,   what did I know
-Em7               A7sus4 Am7      G   Cadd9 D            Dsus4
-   You don't look differ-ent, but you have changed
-G    Cadd9 G/B Am           Cadd9             G
- I'm look--ing through you,  you're not the same
+[G] I'm [Cadd9]look--[G/B]ing [Am]through you,[Em7]   where did you [D]go [Dsus4] [D] [Dsus4]
+[G] I [Cadd9]thought [G/B]I   [Am]knew you,[Em7]   what did I [D]know [Dsus4] [D] [Dsus4]
+[Em7]   You don't look [A7sus4]differ-[Am7]ent, but [G]you [Cadd9]have c[D]hanged [Dsus4]
+[G] I'm [Cadd9]look--[G/B]ing [Am]through you, [Cadd9] you're not the sa[G]me
 
 
 [Outro]
 
 (G)  Cadd9
-G           Cadd9        G       Cadd9
-Yeah, well, baby, you've changed
-G    Cadd9        G       Cadd9
- Ah,  I'm looking through you
-G    Cadd9        G       Cadd9
-Yeah, I'm looking through you
+[G]Yeah, well, [Cadd9]baby, you've [G]changed [Cadd9]
+[G] Ah, [Cadd9] I'm looking [G]through [Cadd9]you
+[G]Yeah,[Cadd9] I'm looking [G]through [Cadd9]you
 G    Cadd9    G   Cadd9  G  (Fade)
