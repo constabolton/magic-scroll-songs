@@ -8,46 +8,32 @@ Song name: Youre No Good  by  Linda Ronstadt
 
 [Verse]
 
-Am         D   Am             D
-Feeling better now that we're through
-Am         D          Am        D
-Feeling better 'cause I'm over you
-  F          G          C           C B Bb
-I learned my lesson, it left a scar
-Am    D           E      E7
-Now I see how you really are
+[Am]Feeling bet[D]ter [Am]now that we're [D]through
+[Am]Feeling bet[D]ter 'cause [Am]I'm over y[D]ou
+I [F]learned my [G]lesson, it [C]left a scar [C] [B] [Bb]
+[Am]Now I [D]see how you [E]really [E7]are
 
 
 [Chorus]
 
-          Am                  D                Am           D        Am    D
-You're no good     You're no good   You're no good  Baby, you're no good
-           Am     D
-I'm gonna say it again
-          Am              D                Am            D        Am  D    Am  D
-You're no good  You're no good   You're no good  Baby, you're no good
+You're no [Am]good     You're no g[D]ood   You're no g[Am]ood  Baby, yo[D]u're no g[Am]ood [D]
+I'm gonna s[Am]ay it a[D]gain
+You're no [Am]good  You're no [D]good   You're no [Am]good  Baby, yo[D]u're no g[Am]ood [D] [Am] [D]
 
 
 [Verse]
 
-    Am      D           Am         D
-I broke a heart that's gentle and true
-       Am       D          Am           D
-Well I broke a heart over someone like you
-     F          G          C          C B Bb
-I'll beg his forgiveness on bended knee
-Am         D               E       E7
-I wouldn't blame him if he said to me
+I br[Am]oke a he[D]art that's g[Am]entle and t[D]rue
+Well I [Am]broke a h[D]eart over s[Am]omeone like y[D]ou
+I'll [F]beg his for[G]giveness on[C] bended kne[C]e [B] [Bb]
+[Am]I wouldn't [D]blame him if he [E]said to [E7]me
 
 
 [Chorus]
 
-           Am               D                Am          D        Am    D
-You're no good   You're no good   You're no good  Baby, you're no good
-          Am      D
-I'm gonna say it again
-           Am              D              Am           D         Am
-You're no good  You're no good You're no good   Baby, you're no good
+You're no g[Am]ood   You're no g[D]ood   You're no g[Am]ood  Baby, y[D]ou're no [Am]good [D]
+I'm gonna [Am]say it a[D]gain
+You're no g[Am]ood  You're no g[D]ood You're no g[Am]ood   Baby, y[D]ou're no g[Am]ood
 
 
 [Instrumental]
@@ -65,26 +51,19 @@ E|--------------------------|--------------------------|
 
 [Verse]
 
-            Am      D             Am      D
-I'm telling you now baby and I'm going my way
-   Am              D                 Am       D
-Forget about you baby 'cause I'm leaving to stay
+I'm telling [Am]you now [D]baby and I'm g[Am]oing my [D]way
+For[Am]get about you ba[D]by 'cause I'm leav[Am]ing to st[D]ay
 
 
 [Chorus]
 
-          Am               D               Am           D        Am     D
-You're no good  You're no good  You're no good  Baby, you're no good
-           Am      D
-I'm gonna say it again
-           Am              D             Am            D      Am
-You're no good You're no good You're no good  Baby, you're no good
-D   Am  D
-Oh, oh no
+You're no [Am]good  You're no g[D]ood  You're no g[Am]ood  Baby, yo[D]u're no g[Am]ood [D]
+I'm gonna s[Am]ay it ag[D]ain
+You're no g[Am]ood You're no go[D]od You're no g[Am]ood  Baby, you[D]'re no [Am]good
+[D]Oh, [Am]oh n[D]o
 
 (A cappella)
 You're no good You're no good You're no good Baby you're no good
 
 
-Am   C    D   x8
-(to fade)
+[Am](to f[C]ade) [D]
