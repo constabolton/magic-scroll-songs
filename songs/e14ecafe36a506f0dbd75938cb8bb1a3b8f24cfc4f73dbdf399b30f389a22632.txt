@@ -2,43 +2,29 @@
 G  G  G  G
 
 [Verse 1]
-G            Bm
-Comes a time,  when you’re driftin’
-D                        Am7         C
-  Comes a time, when you settle down
-G               Bm
-  Comes a light,  feelings liftin’
-D                         Am7            C
-  Lift that baby right up off the ground
+[G]Comes a time,[Bm]  when you’re driftin’
+[D]  Comes a time, when you [Am7]settle down [C]
+[G]  Comes a light,[Bm]  feelings liftin’
+[D]  Lift that baby right up [Am7]off the ground [C]
 
 
 [Chorus]
-G   F         C          G
-Oh, this old world keeps spinnin’ ‘round
-       F           C           G
-It’s a wonder tall trees ain’t laying down
-               Dm7    G
-There comes a time
+[G]Oh, [F]this old w[C]orld keeps [G]spinnin’ ‘round
+It’s a [F]wonder tall [C]trees ain’t [G]laying down
+There comes a t[Dm7]ime [G]
 
 
 [Verse 2]
-G         Bm
-You and I,  we were captured
-D                           Am7       C
-  We took our souls, and we flew away
-G               Bm
-  We were right,  we were giving
-D                            Am7       C
-  That’s how we kept what we gave away
+[G]You and I,[Bm]  we were captured
+[D]  We took our souls, and we [Am7]flew away [C]
+[G]  We were right,[Bm]  we were giving
+[D]  That’s how we kept what we [Am7]gave away [C]
 
 
 [Chorus]
-G   F         C          G
-Oh, this old world keeps spinnin’ ‘round
-       F           C           G
-It’s a wonder tall trees ain’t laying down
-               Dm7    G
-There comes a time
+[G]Oh, [F]this old w[C]orld keeps [G]spinnin’ ‘round
+It’s a [F]wonder tall [C]trees ain’t [G]laying down
+There comes a t[Dm7]ime [G]
 
 
 [Instrumental]
@@ -47,28 +33,19 @@ G    Bm    D    Am7  C
 
 
 [Chorus]
-G   F         C          G
-Oh, this old world keeps spinnin’ ‘round
-       F           C           G
-It’s a wonder tall trees ain’t laying down
-               Dm7    G
-There comes a time
+[G]Oh, [F]this old w[C]orld keeps [G]spinnin’ ‘round
+It’s a [F]wonder tall [C]trees ain’t [G]laying down
+There comes a t[Dm7]ime [G]
 
 
 [Outro]
 (G)            Dm7    G
 There comes a time
-         Dm7          G
-Comes a time, comes a time
-         Dm7    G
-Comes a time
-         Dm7    G
-Comes a time
-         Dm7    G
-Comes a time
-         Dm7    G
-Comes a time
-         Dm7
-Comes a time
+Comes a t[Dm7]ime, comes a [G]time
+Comes a t[Dm7]ime [G]
+Comes a t[Dm7]ime [G]
+Comes a t[Dm7]ime [G]
+Comes a t[Dm7]ime [G]
+Comes a t[Dm7]ime
 
 (fade out)
