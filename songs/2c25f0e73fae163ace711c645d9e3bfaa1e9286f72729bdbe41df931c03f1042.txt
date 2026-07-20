@@ -2,8 +2,7 @@
 Song name: I Am A Child  by  Neil Young
 ----------------------------------------------------------------------
 [Intro Chords]
-Dmaj7   Em7/D
-xx0675  xx0453
+[Dmaj7]xx0675  [Em7/D]xx0453
 
 
 [Intro] (harmonica solo)
@@ -11,54 +10,34 @@ Dmaj7     Em7/D   D
 G         D
 
 [Verse 1]
-Dm     C     Am           F
-I am a child, I'll last a while.
-Dm           F            C              Em
-You can't conceive of the pleasure in my smile.
-Dm          C    Am           F
-You hold my hand, rough up my hair,
-Dm           Dm7             D
-It's lots of fun to have you there.
+[Dm]I am a [C]child,[Am] I'll last a [F]while.
+[Dm]You can't con[F]ceive of the [C]pleasure in my [Em]smile.
+[Dm]You hold my [C]hand,[Am] rough up my [F]hair,
+[Dm]It's lots of [Dm7]fun to have you [D]there.
 
 [Chorus]
-Dmaj7              Em7/D       D
-I gave to you, now you give to me,
-G                            D
-I'd like to know what you've learned.
-Dmaj7               Em7/D     D
-The sky is blue and so is the sea.
-Am7               C
-What is the color, when black is burned?
-Am7                 D
-What is the color?
+[Dmaj7]I gave to you, now [Em7/D]you give to [D]me,
+[G]I'd like to know what you've [D]learned.
+[Dmaj7]The sky is blue and [Em7/D]so is the [D]sea.
+[Am7]What is the color,[C] when black is burned?
+[Am7]What is the color? [D]
 
 [Verse 2]
-Dm        C   Am          F
-You are a man, you understand.
-Dm          F          C            Em
-You pick me up and you lay me down again.
-Dm           C     Am              F
-You make the rules, you say what's fair,
-Dm           Dm7             D
-It's lots of fun to have you there.
+[Dm]You are a [C]man,[Am] you underst[F]and.
+[Dm]You pick me [F]up and you [C]lay me down a[Em]gain.
+[Dm]You make the [C]rules,[Am] you say what's [F]fair,
+[Dm]It's lots of [Dm7]fun to have you [D]there.
 
 [Chorus]
-Dmaj7              Em7/D       D
-I gave to you, now you give to me,
-G                            D
-I'd like to know what you've learned.
-Dmaj7               Em7/D     D
-The sky is blue and so is the sea.
-Am7               C
-What is the color, when black is burned?
-Am7                 D
-What is the color?
+[Dmaj7]I gave to you, now [Em7/D]you give to [D]me,
+[G]I'd like to know what you've [D]learned.
+[Dmaj7]The sky is blue and [Em7/D]so is the [D]sea.
+[Am7]What is the color,[C] when black is burned?
+[Am7]What is the color? [D]
 
 [Instrumental]
 Dmaj7  Em7/D  D   G   D
 
 [Verse 3]
-Dm     C     Am           F
-I am a child, I'll last a while.
-Dm           F            C              Em
-You can't conceive of the pleasure in my smile.
+[Dm]I am a [C]child,[Am] I'll last a [F]while.
+[Dm]You can't con[F]ceive of the [C]pleasure in my [Em]smile.
