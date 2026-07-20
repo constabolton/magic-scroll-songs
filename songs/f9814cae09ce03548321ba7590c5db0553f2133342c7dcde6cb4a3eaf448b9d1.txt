@@ -3,56 +3,37 @@ Song name: Take Me Home Country Roads  by  John Denver
 ----------------------------------------------------------------------
 [Verse 1]
 
-G             Em             D                         C         G
- Almost Heaven; West Virginia, Blue Ridge Mountains, Shenandoah River.
-G                   Em                     D
- Life is old there, older than the trees, younger than the mountains,
-  C              G
-Growin' like a breeze.
+[G] Almost Heaven[Em]; West Virginia[D], Blue Ridge Mountains, Sh[C]enandoah R[G]iver.
+[G] Life is old there, [Em]older than the trees, y[D]ounger than the mountains,
+Gr[C]owin' like a br[G]eeze.
 
 [Chorus]
 
-         G              D            Em         C
-Country Roads, take me home, to the place, I belong,
-         G               D             C             G
-West Virginia, mountain mama, take me home, country roads.
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
 
 [Verse 2]
 
-G               Em                 D                 C              G
- All my memories gather 'round her, miner's lady, stranger to blue water.
-G                 Em                  D
- Dark and dusty, painted on the sky, misty taste of moonshine,
-  C            G
-Teardrop in my eye.
+[G] All my memories[Em] gather 'round her,[D] miner's lady, str[C]anger to blue w[G]ater.
+[G] Dark and dusty, p[Em]ainted on the sky, m[D]isty taste of moonshine,
+Te[C]ardrop in my [G]eye.
 
 [Chorus]
 
-         G              D            Em         C
-Country Roads, take me home, to the place, I belong,
-         G               D             C             G
-West Virginia, mountain mama, take me home, country roads.
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
 
 [Bridge]
 
-Em             D            G
-   I hear her voice in the morning hour she calls me,
-    C        G             D
-The radio reminds me of my home far away.
-    Em                F            C
-And driving down the road I get a feeling
-       G                     D                 D7
-That I should have been home yesterday, yesterday.
+[Em]   I hear her v[D]oice in the m[G]orning hour she calls me,
+The [C]radio rem[G]inds me of my [D]home far away.
+And [Em]driving down the r[F]oad I get a f[C]eeling
+That I [G]should have been home [D]yesterday, yesterd[D7]ay.
 
 [Chorus]
 
-N.C.     G              D            Em         C
-Country Roads, take me home, to the place, I belong,
-         G               D             C             G
-West Virginia, mountain mama, take me home, country roads.
-         G              D            Em         C
-Country Roads, take me home, to the place, I belong,
-         G               D             C             G
-West Virginia, mountain mama, take me home, country roads.
-         D                  G              D                  G
-Take me home, down country roads; take me home, down country roads
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
+Country R[G]oads, take me h[D]ome, to the p[Em]lace, I bel[C]ong,
+West Virg[G]inia, mountain m[D]ama, take me h[C]ome, country r[G]oads.
+Take me h[D]ome, down country r[G]oads; take me h[D]ome, down country r[G]oads
