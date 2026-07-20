@@ -33,104 +33,63 @@ Please take a second to scroll down to the bottom of
 the page and select a star rating for my tab, thanks
 =====================================================
 [Intro]
-   G
-|  /  /  /  /  |  /  /  /  /  |
+|  [G]/  /  /  /  |  /  /  /  /  |
 
 [Verse 1]
-G         C/G                               G
-Come, and talk about the things we did to - day,
-G         C/G                          G
-Hear, and laugh about our funny little ways,
-         C    G/B    Am         G
-While we have a  few minutes to breathe,
-      C    G/B       Am            G
-And I know that it's time you must leave
+[G]Come, and [C/G]talk about the things we did to - [G]day,
+[G]Hear, and [C/G]laugh about our funny little [G]ways,
+While we [C]have [G/B]a  few [Am]minutes to [G]breathe,
+And I [C]know [G/B]that it's [Am]time you must [G]leave
 
 [Chorus]
-    Csus4            C       Csus4 
-But darling, be home soon, I couldn't bear to wait..
-            G
-...An extra minute if you dawdled,
-   Csus4            C
-My darling, be home soon,
-     Csus4              C
-It's not just these few hours,
-              G
-But I've been waiting since I toddled,
-        C          G/B     Am7    D7     G
-For the great re - lief of having you to talk to
+But [Csus4]darling, be home [C]soon, I [Csus4]couldn't bear to wait..
+...An extra [G]minute if you dawdled,
+My [Csus4]darling, be home [C]soon,
+It's [Csus4]not just these few [C]hours,
+But I've been [G]waiting since I toddled,
+For the [C]great re - [G/B]lief of [Am7]having [D7]you to [G]talk to
 
 [Verse 2]
-    G        C/G                          G
-And now... a quarter of my life is almost past,
-  G                  C/G            G
-I think I've come to see myself, at last,
-      C   G/B      Am               G
-And I see that the time spent con - fused,
-        C    G/B    Am            G
-Was the time that I spent without you,
-      C    G/B  Am   Am/G D
-And I feel my - self in   blue
+And [G]now... a [C/G]quarter of my life is almost [G]past,
+I [G]think I've come to [C/G]see myself, at [G]last,
+And I [C]see [G/B]that the [Am]time spent con - [G]fused,
+Was the [C]time [G/B]that I [Am]spent without [G]you,
+And I [C]feel [G/B]my - [Am]self [Am/G]in   [D]blue
 
 [Chorus]
-    Csus4            C       Csus4 
-But darling, be home soon, I couldn't bear to wait..
-            G
-...An extra minute if you dawdled,
-   Csus4            C
-My darling, be home soon,
-     Csus4              C
-It's not just these few hours,
-              G
-But I've been waiting since I toddled,
-        C          G/B     Am7    D7     G
-For the great re - lief of having you to talk to
+But [Csus4]darling, be home [C]soon, I [Csus4]couldn't bear to wait..
+...An extra [G]minute if you dawdled,
+My [Csus4]darling, be home [C]soon,
+It's [Csus4]not just these few [C]hours,
+But I've been [G]waiting since I toddled,
+For the [C]great re - [G/B]lief of [Am7]having [D7]you to [G]talk to
 
 [Brass Break]
-  G            C/G          G
-| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
-  C/G          G           C G/B Am Am/G D7
-| /  /  /  / | /  /  /  / | /  /  /  / | /  /  /  / |
+| [G]/  /  /  / | [C/G]/  /  /  / | [G]/  /  /  / | /  /  /  / |
+| [C/G]/  /  /  / | [G]/  /  /  / |[C] /[G/B]  / [Am] / [Am/G] / | [D7]/  /  /  / |
 
 [Chorus]
-    D7            Csus4            C     Csus2 C
-So, darling ...my darling, be home soon,
-  Csus4            C
-I couldn't bear to wait...
-            G
-...An extra minute if you dawdled,
-   Csus4            C     Csus2 C
-My darling, be home soon,
-     Csus4              C
-It's not just these few hours,
-              G
-But I've been waiting since I toddled,
-        C          G/B     Am7    D7     G       D7
-For the great re - lief of having you to talk to
+So, [D7]darling ...my [Csus4]darling, be home [C]soon, [Csus2] [C]
+I [Csus4]couldn't bear to [C]wait...
+...An extra [G]minute if you dawdled,
+My [Csus4]darling, be home [C]soon, [Csus2] [C]
+It's [Csus4]not just these few [C]hours,
+But I've been [G]waiting since I toddled,
+For the [C]great re - [G/B]lief of [Am7]having [D7]you to [G]talk to [D7]
 
 [Verse 3]
-G       C/G                              G
-Go, and beat your crazy head against the sky,
-G          C/G                            G
-Try... and see beyond the houses and your eyes,
-         C    G/B    Am    Am/G     D
-It's o - kay...   to shoot...   the moon
+[G]Go, and [C/G]beat your crazy head against the [G]sky,
+[G]Try... and [C/G]see beyond the houses and your [G]eyes,
+It's o - [C]kay..[G/B].   to [Am]shoot.[Am/G]..   the [D]moon
 
 [Chorus]
-Csus4            C      Csus2 C
-Darling, be home soon,
-  Csus4            C
-I couldn't bear to wait...
-         G
-An extra minute if you dawdled,
-   Csus4            C      Csus2 C
-My darling, be home soon,
-     Csus4              C
-It's not just these few hours,
-              G
-But I've been waiting since I toddled,
-        C          G/B     Am7    D7     G       G
-For the great re - lief of having you to talk... to
+[Csus4]Darling, be home [C]soon, [Csus2] [C]
+I [Csus4]couldn't bear to [C]wait...
+An extra [G]minute if you dawdled,
+My [Csus4]darling, be home [C]soon, [Csus2] [C]
+It's [Csus4]not just these few [C]hours,
+But I've been [G]waiting since I toddled,
+For the [C]great re - [G/B]lief of [Am7]having [D7]you to [G]talk... [G]to
 
 =====================================================
 For the GUITAR chord box diagrams to match my
@@ -142,5 +101,4 @@ first option and don't need any reselecting.
 As long as you are logged into your account,
 these choices will be saved automatically for every
 time you view this tab
-   C/G        Csus4
-<12 of 18>  <2 of 18>
+<12[C/G] of 18>  <2[Csus4] of 18>
