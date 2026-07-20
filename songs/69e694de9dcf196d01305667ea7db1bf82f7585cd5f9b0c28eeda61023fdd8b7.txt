@@ -2,22 +2,13 @@
 Song name: Cinderella - A Dream Is A Wish Your Heart Makes  by  Misc Cartoons
 ----------------------------------------------------------------------
 [Verse]
-G            D         G
-A dream is a wish your heart makes
-G           B7    C       E7     
-When you're fast asleep
-   Am               E7       Am7
-In dreams you will lose your heartache
-    D7       D             G       Am7    D7       
-Whatever you wish for you keep
+[G]A dream is a [D]wish your [G]heart makes
+[G]When you're [B7]fast a[C]sleep [E7]
+In [Am]dreams you will l[E7]ose your [Am7]heartache
+What[D7]ever you [D]wish for you k[G]eep [Am7] [D7]
 
-     G             D          G
-Have faith in your dreams and someday
-      Dm7              G7       C
-Your rainbow will come smiling through
-          Am7                Cm
-No matter how your heart is grieving
-    G             A7
-If you keep on believing
-     Am7            D7             G
-the dream that you wish will come true
+Have [G]faith in your [D]dreams and [G]someday
+Your r[Dm7]ainbow will come [G7]smiling t[C]hrough
+No matter [Am7]how your heart is g[Cm]rieving
+If y[G]ou keep on bel[A7]ieving
+the d[Am7]ream that you w[D7]ish will come t[G]rue
