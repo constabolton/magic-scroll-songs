@@ -39,34 +39,22 @@ A|-----------------|-----------------|
 E|-----------------|-----------------|
 
 [Verse]
-D                   A          Bm              G             Bm
-I often take these night shift walks when the foreman's not around.
-   G                   D                                A
-I turn my back on the cooling stacks and make for open ground.
-    D               A         Bm              G                  Bm
-Far out beyond the tank farm fence where the gas flare makes no sound,
-   G                      D                A        G      D
-I forget the stink and I always think back to that Eastern town.
+[D]I often take these n[A]ight shift [Bm]walks when the f[G]oreman's not a[Bm]round.
+I t[G]urn my back on the c[D]ooling stacks and make for open g[A]round.
+Far [D]out beyond the t[A]ank farm f[Bm]ence where the g[G]as flare makes no s[Bm]ound,
+I f[G]orget the stink and I a[D]lways think back [A]to that E[G]astern [D]town.
 
 [Verse]
-D                    A     Bm        G             Bm
-I remember back six years ago, this Western life I chose.
-      G              D                                    A
-And every day, the news would say some factory's going to close.
-         D                    A       Bm         G              Bm
-Well, I could have stayed to take the Dole, but I'm not one of those.
-        G                 D                A     G   D
-I take nothing free, and that makes me an idiot, I suppose.
+[D]I remember back six y[A]ears a[Bm]go, this W[G]estern life I [Bm]chose.
+And ev[G]ery day, the ne[D]ws would say some factory's going to [A]close.
+Well, I c[D]ould have stayed to t[A]ake the [Bm]Dole, but I[G]'m not one of t[Bm]hose.
+I take n[G]othing free, and t[D]hat makes me an i[A]diot, [G]I su[D]ppose.
 
 [Chorus]
-      G                   D              D/A             A
-So I bid farewell to the Eastern town I never more will see;
-     G               D                          A
-But work I must so I eat this dust and breathe refinery.
-      D                       A        Bm            G                 Bm
-Oh I miss the green and the woods and streams and I don't like cowboy clothes;
-       G                   D                A         D
-But I like being free and that makes me an idiot I suppose.
+So I b[G]id farewell to the E[D]astern town I n[D/A]ever more will s[A]ee;
+But w[G]ork I must so I [D]eat this dust and breathe r[A]efinery.
+Oh I m[D]iss the green and the wo[A]ods and s[Bm]treams and I d[G]on't like cowboy c[Bm]lothes;
+But I l[G]ike being free and t[D]hat makes me an i[A]diot I sup[D]pose.
 
 [Break] (same as verse with a fiddle playing the melody)
 D         A     Bm      G             Bm
@@ -75,21 +63,13 @@ D         A     Bm      G             Bm
 G         D             A             D
 
 [Verse]
-    D                       Bm                   G             Bm
-So come all you fine young 'fellers who've been beaten to the ground.
-      G                   D                                  A
-This western life's no paradise, but it's better than lying down.
-         D                                 A       Bm             G               Bm
-Oh, the streets aren't clean, and there's nothing green, and the hills are dirty brown,
-         G                    D                  A                  D
-But the government Dole will rot your soul back there in your home town.
+So c[D]ome all you fine young '[Bm]fellers who've been b[G]eaten to the g[Bm]round.
+This w[G]estern life's no par[D]adise, but it's better than lying d[A]own.
+Oh, the s[D]treets aren't clean, and there's n[A]othing g[Bm]reen, and the h[G]ills are dirty b[Bm]rown,
+But the g[G]overnment Dole will r[D]ot your soul back t[A]here in your home t[D]own.
 
 [Chorus]
-    G                   D                D/A             A
-So bid farewell to the Eastern town you never more will see.
-         G                   D                         A
-There's self-respect and a steady cheque in this refinery.
-          D                     A        Bm                G                   Bm
-You will miss the green and the woods and streams and the dust will fill your nose.
-      G                  D                A          D
-But you'll be free, and just like me, an idiot, I suppose
+So b[G]id farewell to the E[D]astern town you n[D/A]ever more will s[A]ee.
+There's s[G]elf-respect and a st[D]eady cheque in this refine[A]ry.
+You will m[D]iss the green and the [A]woods and[Bm] streams and the d[G]ust will fill your n[Bm]ose.
+But yo[G]u'll be free, and j[D]ust like me, an i[A]diot, I sup[D]pose
