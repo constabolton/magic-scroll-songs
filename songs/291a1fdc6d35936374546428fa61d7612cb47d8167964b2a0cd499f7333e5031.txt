@@ -21,10 +21,8 @@ D / / / 2 / / / 3 / / / 4 / / /
 
 CHORUS:
 Chains, my baby's got me locked up in chains
-                   G9                D
-And they ain't the kind that you can see
-            A9           G9                D        A7
-Wo oh these chains of lo--ve got a hold on me, yeah
+And they ain't the [G9]kind that you can [D]see
+Wo oh these [A9]chains of lo-[G9]-ve got a hold on [D]me, yeah [A7]
 
 (same pattern as chorus):
 Chains, no I can't break away from these chains
@@ -32,10 +30,8 @@ Can't run around 'cause I'm not free
 Wo oh these chains of love won't let me be, yeah
 
 Verse 1:
-G                               D
- Now believe me when I tell you, I think you're fine
-G                          A
- I'd like to love you, but darling, I'm imprisoned by these...
+[G] Now believe me when I tell you,[D] I think you're fine
+[G] I'd like to love you, but [A]darling, I'm imprisoned by these...
 
 (chorus)
 
@@ -45,6 +41,5 @@ I'd like to kiss them, but I can't break away from all of these...
 
 (chorus)
 
-D
-Chains, chains of love, chains of love
+[D]Chains, chains of love, chains of love
 ...and fade
