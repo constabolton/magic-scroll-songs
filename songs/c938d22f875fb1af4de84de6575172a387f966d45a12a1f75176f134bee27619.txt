@@ -22,47 +22,31 @@ E|----------------|
 ---------------------------------------------------------------------------
 
 [Intro]
-| E | G#m | F#m | B | 
-                [LINK]
+  [E]    [G#m]      [F#m]    [L[B]INK]
 
 [Verse 1]
-E                G#m7
-   I'll remember you
-F#m7          B            E         C#7  
-   Long after this endless summer is gone
-F#m7                Am
-   I'll be lonely,  -  oh, so lonely
-F#m         B       E            G#m7  F#m  | B7 |
-   Living only to remember you              [LINK]
+[E]   I'll remember [G#m7]you
+[F#m7]   Long after [B]this endless [E]summer is [C#7]gone
+[F#m7]   I'll be lonely,  [Am]-  oh, so lonely
+[F#m]   Living on[B]ly to re[E]member you   [G#m7]      [F#m]     [L[B7]INK]
 
 [Verse 2]
-E                G#m
-   I'll remember you
-A                B           E           C#7
-   Your voice as soft as the warm summer breeze
-F#m7                     Am
-   Your sweet laughter  -  mornings after
-F#m           B       E
-   Ever after, I'll remember you
+[E]   I'll remember [G#m]you
+[A]   Your voice as [B]soft as the [E]warm summer [C#7]breeze
+[F#m7]   Your sweet laughter  -[Am]  mornings after
+[F#m]   Ever after,[B] I'll re[E]member you
 
 [Middle 8]
-E7             A
-   To your arms someday
-F#7               B
-   I'll return to stay
-        B              
-   Till then 
+[E7]   To your arms[A] someday
+[F#7]   I'll return to [B]stay
+   Till [B]then 
       (break)
 
 [Verse 3]
-         E      G#m7
-I will remember too
-A                B           E           C#7
-   Ev'ry bright star we made wishes -- upon
-F#m7              Am
-   Love me always - promise always
-F#m                B           [  E  ]
-   Ooh ooh ooh ooh ooh  you'll remember too
+I will re[E]member [G#m7]too
+[A]   Ev'ry bright s[B]tar we made [E]wishes -- up[C#7]on
+[F#m7]   Love me always [Am]- promise always
+[F#m]   Ooh ooh ooh ooh [B]ooh  you'll rem[E]ember too
 
 [Solo]
 | E | G#m7 | A | B | 
@@ -70,23 +54,16 @@ F#m                B           [  E  ]
 | F#m | B | E | 
 
 [Middle 8]
-E7              A
-   To your arms someday
-F#7               B             B
-   I'll return to stay ... till then
+[E7]   To your arms [A]someday
+[F#7]   I'll return to [B]stay ... till [B]then
                 (break)       (break)
 
 [Verse 4]
-C#7              F#     A#m
-I ... will ... remember too
-B6              C#7          F#          D#7
-   Ev'ry bright star we made wishes -- upon
-G#m               Bm
-   Love me always - promise always
-G#m                C#7                 [ E9 ]
-   Ooh ooh ooh ooh ooh  you'll remember too
+[C#7]I ... will ... re[F#]member [A#m]too
+[B6]   Ev'ry bright [C#7]star we made [F#]wishes -- up[D#7]on
+[G#m]   Love me always [Bm]- promise always
+[G#m]   Ooh ooh ooh ooh [C#7]ooh  you'll remember t[E9]oo
 
 [Coda]
- E9   E9   E9    E9  F#                   F#       F#maj7
-                            I'll remember you
+ [E9]     [E9]     [E9]      [E9]    [F#]       I'll remember [F#]you [F#maj7]
 (I'll re – mem - ber you)
