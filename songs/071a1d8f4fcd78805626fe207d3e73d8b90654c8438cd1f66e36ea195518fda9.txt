@@ -13,8 +13,7 @@ B6      7x687x
 B7      7x787x
 Bm7     7X777X
 D6      x5443x
-D6add9  554455
-Db7     x4342x
+[D6add9]Db7     x4342x
 Dbm7b5  9x998x
 Dmaj7   x5767x
 Dmaj7/A 55767x
@@ -36,50 +35,31 @@ A|---------------------------|
 E|---------------------6--5--|
 
 [Verse]
-Dmaj7     Bm7             G6        A7
-A country dance was being held in a garden
-Dmaj7    Bm7                Em7          Dbm7b5 Gb7
-I felt a bump and heard an "Oh, beg your par    don"
-Bm7        Gm6
-Suddenly I saw
-Dmaj7/A        A6   Ab6
-polka dots and moon beams
-G6          A7        Gbm7   Bm7 Em7 A7
-All around a pug-nosed dream
+[Dmaj7]A country [Bm7]dance was being [G6]held in a [A7]garden
+[Dmaj7]I felt a [Bm7]bump and heard an "[Em7]Oh, beg your [Dbm7b5]par    [Gb7]don"
+[Bm7]Suddenly I [Gm6]saw
+[Dmaj7/A]polka dots and [A6]moon [Ab6]beams
+[G6]All around a[A7] pug-nosed[Gbm7] dream [Bm7] [Em7] [A7]
 
 [Verse]
-Dmaj7     Bm7             G6        A7
-The music started and was I the perplexed one
-Dmaj7     Bm7                  Em7        Dbm7b5 Gb7
-I held my breath and said "May I have the next   one?"
-Bm7              Gm6
-In my frightened arms,
-Dmaj7/A        A6   Ab6
-polka dots and moon beams
-G6            A7        Gbm7   Bm7 Em7 A7
-Sparkled on a pug-nosed dream
+[Dmaj7]The music [Bm7]started and was [G6]I the perp[A7]lexed one
+[Dmaj7]I held my [Bm7]breath and said "May [Em7]I have the [Dbm7b5]next   [Gb7]one?"
+[Bm7]In my frightened [Gm6]arms,
+[Dmaj7/A]polka dots and [A6]moon [Ab6]beams
+[G6]Sparkled on a [A7]pug-nosed [Gbm7]dream [Bm7] [Em7] [A7]
 
 [Bridge]
-Db7        Gbmaj7    Gdim   Abm7          Db7
-There were questions in the eyes of other dancers
-Gbmaj7        Ebm7     B6
-As we floated over the floor
-Db7        Gbmaj7    Gdim   Abm7               Db7
-There were questions but my heart knew all the answers
-Gb7    B7     Em7        A7
-And perhaps a few things more
+[Db7]There were [Gbmaj7]questions [Gdim]in the [Abm7]eyes of other [Db7]dancers
+[Gbmaj7]As we floated [Ebm7]over the [B6]floor
+[Db7]There were [Gbmaj7]questions [Gdim]but my [Abm7]heart knew all the [Db7]answers
+[Gb7]And per[B7]haps a [Em7]few things [A7]more
 
 [Verse]
-Dmaj7     Bm7             G6          A7
-Now in a cottage built of lilacs and laughter
-Dmaj7      Bm7            Em7         Dbm7b5 Gb7
-I know the meaning of the words "Ever af     ter"
-Bm7             Gm6
-And I'll always see
-Dmaj7/A        A6   Ab6
-polka dots and moon beams
-G6              A7  Gbm7  Bm7 Em7 A7
-When I kiss the pug-nosed dream
+[Dmaj7]Now in a c[Bm7]ottage built of [G6]lilacs and l[A7]aughter
+[Dmaj7]I know the [Bm7]meaning of the [Em7]words "Ever [Dbm7b5]af     [Gb7]ter"
+[Bm7]And I'll always [Gm6]see
+[Dmaj7/A]polka dots and [A6]moon [Ab6]beams
+[G6]When I kiss the [A7]pug-[Gbm7]nosed [Bm7]drea[Em7]m [A7]
 
 [Instrumental]
 Dmaj7 Bm7  G6 A7
@@ -89,24 +69,15 @@ Dmaj7/A A6 Ab6
 G6  A7 Gbm7 Bm7 Em7 A7
 
 [Bridge]
-Db7        Gbmaj7    Gdim   Abm7          Db7
-There were questions in the eyes of other dancers
-Gbmaj7        Ebm7     B6
-As we floated over the floor
-Db7        Gbmaj7    Gdim   Abm7               Db7
-There were questions but my heart knew all the answers
-Gb7    B7     Em7        A7
-And perhaps a few things more
+[Db7]There were [Gbmaj7]questions [Gdim]in the [Abm7]eyes of other [Db7]dancers
+[Gbmaj7]As we floated [Ebm7]over the [B6]floor
+[Db7]There were [Gbmaj7]questions [Gdim]but my [Abm7]heart knew all the [Db7]answers
+[Gb7]And per[B7]haps a [Em7]few things [A7]more
 
 
 [Verse]
-Dmaj7     Bm7             G6          A7
-Now in a cottage built of lilacs and laughter
-Dmaj7      Bm7            Em7         Dbm7b5 Gb7
-I know the meaning of the words "Ever af     ter"
-Bm7             Gm6
-And I'll always see
-Dmaj7/A        A6   Ab6
-polka dots and moon beams
-G6    Em7             A7        D6     Em7  A7  D6add9
-When, When I kiss the pug-nosed dream
+[Dmaj7]Now in a c[Bm7]ottage built of [G6]lilacs and l[A7]aughter
+[Dmaj7]I know the [Bm7]meaning of the [Em7]words "Ever [Dbm7b5]af     [Gb7]ter"
+[Bm7]And I'll always [Gm6]see
+[Dmaj7/A]polka dots and [A6]moon [Ab6]beams
+[G6]When, [Em7]When I kiss the [A7]pug-nosed [D6]dream [Em7] [A7] [D6add9]
