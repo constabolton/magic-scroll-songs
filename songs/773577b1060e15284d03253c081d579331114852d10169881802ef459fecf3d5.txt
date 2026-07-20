@@ -23,32 +23,25 @@ WILLIN' by Little Feat
 G  D* (see notes) Em  C  G  C  C* (see notes)  C  G  x2
 
 [Verse 1]
-G
-I've been warped by the rain
+[G]I've been warped by the rain
 D*
 Driven by the snow
-Em                C
-Drunk and dirty - don't you know
+[Em]Drunk and dirty - [C]don't you know
         G      C  C*  C   G
 But I'm still..         ..willin
 
 [Verse 2]
-            G
-(And I was) Out on the road
+(And I was) [G]Out on the road
 D*
 Late at night
-Em                      C
-Seen my pretty Alice in every headlight
+[Em]Seen my pretty Alice in [C]every headlight
 G       C  C*  C   G
 Alice..          ..Dallas Alice
 
 [Chorus]
-G                C         D
-And I been from  Tucson to Tucumcari
-D            G
-Tehachapi to Tonopah
-G                                         C
-Driven every kind of rig that's ever been made
+[G]And I been from  [C]Tucson to [D]Tucumcari
+[D]Tehachapi to [G]Tonopah
+[G]Driven every kind of rig that's ever been [C]made
 C                                       D        D**
 Driven the back roads so I wouldn't get weighed
 
@@ -57,14 +50,12 @@ And if you give me
 (No chords again but I use a stepping C)
 C  step down to  G
 Weed, Whites and wine
-G                 D
-And you show me a sign
+[G]And you show me a [D]sign
 D       G       C C* C       G
 I'll be willin'        to be movin'
 
 [Verse 3]
-G
-Kicked by the wind
+[G]Kicked by the wind
 D*
 Robbed by the sleet
 D*     Em                     C
@@ -75,20 +66,15 @@ And I'm still ....    in a whole lot of trouble
 [Verse 4]
 G                                   D*
 Smuggled some smokes and folks from Mexico
-Em
-Baked by the sun
-C                  G
-Every time I go to Mexico
+[Em]Baked by the sun
+[C]Every time I go to [G]Mexico
 C C* C           G
          And I'm still....
 
 [Chorus]
-G                C         D
-And I been from  Tucson to Tucumcari
-D            G
-Tehachapi to Tonopah
-G                                         C
-Driven every kind of rig that's ever been made
+[G]And I been from  [C]Tucson to [D]Tucumcari
+[D]Tehachapi to [G]Tonopah
+[G]Driven every kind of rig that's ever been [C]made
 C                                       D        D**
 Driven the back roads so I wouldn't get weighed
 
@@ -97,8 +83,7 @@ And if you give me
 (No chords again but I use a stepping C)
 C  step down to  G
 Weed, Whites and wine
-G                 D
-And you show me a sign
+[G]And you show me a [D]sign
 D       G       C C* C       G
 I'll be willin'        to be movin'
 
