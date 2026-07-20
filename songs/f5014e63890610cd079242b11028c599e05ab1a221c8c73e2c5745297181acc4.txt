@@ -3,52 +3,35 @@ much any variation of each chord that you want and it still sounds great.
 
 [Verse 1]
 
-C#m        G#        A          B
-  She came in on the red-eye to Dallas-Fort Worth.
-E         G#       A         B
-  All the way from sunny Taipei.
-C#m        G#         A        B
-  Skin the color of a walnut shell,
-      E           G#       A                B
-And a baseball cap holding down her black hair.
-             A             B 
-And she came here after midnight.
-E                          A
-  The hot weather made her feel right at home.
+[C#m]  She came [G#]in on the [A]red-eye to [B]Dallas-Fort Worth.
+[E]  All the [G#]way from [A]sunny Taip[B]ei.
+[C#m]  Skin the [G#]color of a [A]walnut sh[B]ell,
+And a [E]baseball cap[G#] holding [A]down her black ha[B]ir.
+And she came [A]here after mid[B]night.
+[E]  The hot weather made her [A]feel right at home.
 
 
 [Chorus]
 
-        E      A
-Come on in, we haven't slept for weeks.
-                   E          A                B
-Drink some of this, it'll put color in your cheeks.
+Come on [E]in, we [A]haven't slept for weeks.
+Drink some of this,[E] it'll put [A]color in your che[B]eks.
 
 
 [Verse 2]
 
-C#m        G#          A    B
-  He drove in from Mexicali no worse for wear.
-E          G#   A        B
-  Money to burn, time to kill, but
-C#m    G#      A              B
-  Five minutes looking in his eyes and 
-         E              G#             A          B              A
-  We all knew he was broken pretty bad, so we gave him what we had.
-                              B
-We cleared a space for him to sleep in,
-               E
-And we let the silence that's our trademark
-A
-Make its presence felt.
+[C#m]  He drove [G#]in from Mexi[A]cali [B]no worse for wear.
+[E]  Money to [G#]burn,[A] time to [B]kill, but
+[C#m]  Five [G#]minutes [A]looking in his [B]eyes and 
+  We all [E]knew he was bro[G#]ken pretty bad,[A] so we gave[B] him what we ha[A]d.
+We cleared a space for him to [B]sleep in,
+And we let the [E]silence that's our trademark
+[A]Make its presence felt.
 
 
 [Chorus]
 
-        E      A
-Come on in, we haven't slept for weeks.
-                   E          A                B
-Drink some of this, it'll put color in your cheeks.
+Come on [E]in, we [A]haven't slept for weeks.
+Drink some of this,[E] it'll put [A]color in your che[B]eks.
 
 
 [Interlude]
@@ -59,28 +42,19 @@ E           B
 
 [Verse 3]
 
-C#m         G#        A       B              E
-  They came in by the dozens, walking or crawling.
-                G#      A
-Some were bright-eyed,
-          B
-Some were dead on their feet.
-E          G#           A              B          E
-  And they came from Zimbabwe, Or from Soviet Georgia,
-           G#             A                 B               A
-East Saint Louis, or from Paris, or they lived across the street.
-                               B
-But they came, and when they'd finally made it here,
-           E                         A                   
-It was the least that we could do to make our welcome clear.
+[C#m]  They came [G#]in by the [A]dozens, [B]walking or craw[E]ling.
+Some were bright[G#]-eyed, [A]
+Some were [B]dead on their feet.
+[E]  And they [G#]came from Zim[A]babwe, Or from [B]Soviet Geor[E]gia,
+East Saint [G#]Louis, or from [A]Paris, or they liv[B]ed across the st[A]reet.
+But they came, and when they'd [B]finally made it here,
+It was the [E]least that we could do to [A]make our welcome clear.
 
 
 [Chorus]
 
-        E      A    
-Come on in, we haven't slept for weeks.
-                   E            A                B
-Drink some of this, this'll put color in your cheeks.
+Come on [E]in, we [A]haven't slept for weeks.
+Drink some of this,[E] this'll put [A]color in your che[B]eks.
 
 
 [Outro]
