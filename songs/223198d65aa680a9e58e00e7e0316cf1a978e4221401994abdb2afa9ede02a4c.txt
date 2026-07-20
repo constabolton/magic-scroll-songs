@@ -13,59 +13,37 @@ C   C#dim   Dm7   G7
 
 [Verse 1]
 
-C                         D7
-Yesterday I heard a lover sigh,
-G7                 C
-"Goodbye oh me, oh my"
-C                         Dm7   G7  
-Seven times he got aboard his   train
-G7                 Dm7   G7        C       Ebdim            Dm7             G7 
-And seven times    he    hurried   back to kiss    his love again, and tell her:
+[C]Yesterday I heard a lover [D7]sigh,
+[G7]"Goodbye oh me, oh [C]my"
+[C]Seven times he got aboard [Dm7]his   [G7]train
+[G7]And seven times    [Dm7]he    [G7]hurried   [C]back to [Ebdim]kiss    his love [Dm7]again, and tell [G7]her:
 
 [Verse 2]
 
-C                          D7
-"Toot, toot, Tootsie, Goo' Bye!
-G7                         C
-Toot, toot, Tootsie, don't cry,
-C                        Dm7   G7
-The choo choo train that takes me,
-G7        Dm7    G7   C         Ebdim    Dm7        G7
-Away from you    no   words can tell     how sad it makes me,
+[C]"Toot, toot, Tootsie, Goo' [D7]Bye!
+[G7]Toot, toot, Tootsie, don't [C]cry,
+[C]The choo choo train that [Dm7]takes [G7]me,
+[G7]Away from [Dm7]you    [G7]no   [C]words can [Ebdim]tell     [Dm7]how sad it [G7]makes me,
 
 [Chorus 1]
 
-C                     D7
-Kiss me, Tootsie, and then,
-G7           C    C7
-Do it over again
-      F
-Watch for the mail, I'll never fail,
-                   C
-If you don't get a letter then you'll know I'm in jail,
-C                        D7
-Tut, tut, Tootsie, don't cry,
-      G7                  C
-Toot, toot, Tootsie, Goo' Bye!"
+[C]Kiss me, Tootsie, and [D7]then,
+[G7]Do it over ag[C]ain [C7]
+Watch [F]for the mail, I'll never fail,
+If you don't get a [C]letter then you'll know I'm in jail,
+[C]Tut, tut, Tootsie, don't [D7]cry,
+Toot, [G7]toot, Tootsie, Goo' [C]Bye!"
 
 [Verse 3]
-C                             D7
-When somebody says goodbye to me,
-G7                C
-I'm sad as I' can be,
-C                   Dm7   G7               
-Not so with this loving   Romeo,
+[C]When somebody says goodbye to [D7]me,
+[G7]I'm sad as I' can [C]be,
+[C]Not so with this lov[Dm7]ing   [G7]Romeo,
 
-G7                  Dm7    G7    C           Ebdim               Dm7       G7
-He seemed to take a lot    of    pleasure saying      bye bye to his treasure:
+[G7]He seemed to take a [Dm7]lot    [G7]of    [C]pleasure say[Ebdim]ing      bye bye to [Dm7]his treasu[G7]re:
 
 [Verse 4]
 
-C                          D7
-"Toot, toot, Tootsie, Goo' Bye!
-G7                         C
-Toot, toot, Tootsie, don't cry,
-C                        Dm7   G7
-The choo choo train that takes me,
-G7        Dm7    G7   C         Ebdim    Dm7        G7
-Away from you    no   words can tell     how sad it makes me,
+[C]"Toot, toot, Tootsie, Goo' [D7]Bye!
+[G7]Toot, toot, Tootsie, don't [C]cry,
+[C]The choo choo train that [Dm7]takes [G7]me,
+[G7]Away from [Dm7]you    [G7]no   [C]words can [Ebdim]tell     [Dm7]how sad it [G7]makes me,
