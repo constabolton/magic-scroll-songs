@@ -9,99 +9,60 @@ F#m7   242222
 | E   | A   | A   | A   | A
 
 [Verse 1]
-A                           E
-Desmond has a barrow in the market place,
-E7                       A
-Molly is a singer in the band.
-A7                             D
-Desmond says to Molly, girl, I like your face
-          A                E                A
-And Molly says this as she takes him by the hand,
+[A]Desmond has a barrow in the [E]market place,
+[E7]Molly is a singer in the [A]band.
+[A7]Desmond says to Molly, girl, I [D]like your face
+And Molly [A]says this as she [E]takes him by the [A]hand,
 
 [Chorus]
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
 
 [Verse 2]
-A                              E
-Desmond takes a trolley to the jeweller's store.
-E7                         A
-Buys a twenty carat golden ring.
-A7                             D
-Takes it back to Molly waiting at the door.
-          A               E             A
-And as he gives it to her she begins to sing,
+[A]Desmond takes a trolley to the [E]jeweller's store.
+[E7]Buys a twenty carat golden [A]ring.
+[A7]Takes it back to Molly waiting [D]at the door.
+And as he [A]gives it to her [E]she begins to [A]sing,
 
 [Chorus]
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
 
 [Bridge]
-D                                                      A Asus2 A A7
-In a couple of years they have built a home sweet home.
-D
-With a couple of kids running in the yard,
-   A/E               E
-Of Desmond and Molly Jones. (ha ha ha ha)
+[D]In a couple of years they have built a home sweet home.[A] [Asus2] [A] [A7]
+[D]With a couple of kids running in the yard,
+Of [A/E]Desmond and Molly [E]Jones. (ha ha ha ha)
 
 [Verse 3]
-A                       E
-Happy ever after in the market place,
-E7                               A
-Desmond lets the children lend a hand.
-A7                               D
-Molly stays at home and does her pretty face
-           A                 E                 A
-And in the evening she still sings it with the band.
+[A]Happy ever after in the [E]market place,
+[E7]Desmond lets the children lend a [A]hand.
+[A7]Molly stays at home and does her [D]pretty face
+And in the [A]evening she still [E]sings it with the [A]band.
 
 [Chorus]
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
 
 [Bridge]
-D                                                      A Asus2 A A7
-In a couple of years they have built a home sweet home.
-D
-With a couple of kids running in the yard,
-   A/E               E
-Of Desmond and Molly Jones. (ha ha ha ha)
+[D]In a couple of years they have built a home sweet home.[A] [Asus2] [A] [A7]
+[D]With a couple of kids running in the yard,
+Of [A/E]Desmond and Molly [E]Jones. (ha ha ha ha)
 
 [Verse 4]
-A                       E
-Happy ever after in the market place,
-E7                             A
-Molly lets the children lend a hand.
-A7                                 D
-Desmond stays at home and does his pretty face
-           A               E               A
-And in the evening she's a singer with the band.
+[A]Happy ever after in the [E]market place,
+[E7]Molly lets the children lend a [A]hand.
+[A7]Desmond stays at home and does his [D]pretty face
+And in the [A]evening she's a [E]singer with the [A]band.
 
 [Outro]
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         A
-La-la how their life goes on.
-A                             E    F#m7
-Ob-La-Di, Ob-La-Da, life goes on.. bra.
-A               E         F#m
-La-la how their life goes on.
-                               E            A
-And if you want some fun, take Ob-La-Di-Bla-Da
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [A]on.
+[A]Ob-La-Di, Ob-La-Da, life goes [E]on.. [F#m7]bra.
+[A]La-la how their [E]life goes [F#m]on.
+And if you want some fun, take [E]Ob-La-Di-Bla-[A]Da
