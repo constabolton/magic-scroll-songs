@@ -18,10 +18,8 @@ INTRO
 
 VERSE 1
 
-Bm         C#7                F#m              F#7
-I run the numbers through the floor
-Bm             C#7               F#m                F#7
-Here's how it goes, I crack the codes, I crack the codes that end the war
+[Bm]I run the n[C#7]umbers through the [F#m]floor [F#7]
+[Bm]Here's how it g[C#7]oes, I crack the c[F#m]odes, I crack the c[F#7]odes that end the war
 
 (Fig. 1)
 
@@ -43,70 +41,44 @@ D|-----------------------------3--4------|
 A|---2---2--5--5----4---4---4------------|
 E|---------------------------------------|
 
-    Bm
-The hour
-    F#m
-The hour
-    Bm
-The hour
-    F#m
-The hour
+The [Bm]hour
+The [F#m]hour
+The [Bm]hour
+The [F#m]hour
 
 VERSE 2- Fig.1 and Fig.2 throughout
 
-Bm         C#7            F#m           F#7
-I pushed a note under your door
-Bm             C#7                 F#m                   F#7  
-Here's how it goes, things come to blows, but we don't want this anymore
-Bm             C#7                 F#m                   F#7
-                                      No we don't want this anymore
-Bm             C#7                 F#m                   F#7
-                                         We don't want this anymore
-Bm             C#7                 F#m                              
-                                      I crack the codes you end the war
+[Bm]I pushed a [C#7]note under your[F#m] door [F#7]
+[Bm]Here's how it g[C#7]oes, things come to [F#m]blows, but we don't wa[F#7]nt this anymore
+[Bm]               [C#7]                    [F#m]   No we don't want th[F#7]is anymore
+[Bm]               [C#7]                    [F#m]      We don't want th[F#7]is anymore
+[Bm]               [C#7]                    [F#m]   I crack the codes you end the war
 
 
 A        C#         D         F#          
 
-A                            C#
-I hear the clockwork in your core
-D                                F#
-Time strips the gears till you forget what they were for
-A                               C#
-I push the numbers through your pores
-D                              F#
-I crack the codes I crack the codes that end the war
+[A]I hear the clockwork in your [C#]core
+[D]Time strips the gears till you fo[F#]rget what they were for
+[A]I push the numbers through your [C#]pores
+[D]I crack the codes I crack the c[F#]odes that end the war
 
-F#maj7   G#    C#  
-How's    my    living  
-F#maj7   G#    C#
-You      can   call
-F#maj7   G#    C#
-Encrypted      numbers on
-F#maj7   G#    C#
-Bathroom       stalls,     there's
-F#maj7   G#    C#
-Something      burning,    it
-F#maj7   G#    C#
-Casts    a     pall,       it's
-F#maj7   G#    C#
-Melting      numbers       right
-F#maj7   G#    C#
-Off      the   wall
+[F#maj7]How's    [G#]my    [C#]living  
+[F#maj7]You      [G#]can   [C#]call
+[F#maj7]Encrypted[G#]      [C#]numbers on
+[F#maj7]Bathroom [G#]      [C#]stalls,     there's
+[F#maj7]Something[G#]      [C#]burning,    it
+[F#maj7]Casts    [G#]a     [C#]pall,       it's
+[F#maj7]Melting  [G#]    nu[C#]mbers       right
+[F#maj7]Off      [G#]the   [C#]wall
 
 
 INTERLUDE-     Bm       F#       
 
-Bm                            F#
-I run the numbers through the floor
-Bm                              F#                               
-Here's how it goes, I crack the codes, I crack the codes, you end
-    Bm        F#
-The war
+[Bm]I run the numbers through the [F#]floor
+[Bm]Here's how it goes, I crack the [F#]codes, I crack the codes, you end
+The [Bm]war [F#]
      
 OUTRO- Repeat and fade
 
-    Bm
-The hour, the hour, the hour, the hour,
-    F#
-The hour, the hour, the hour, the hour...
+The [Bm]hour, the hour, the hour, the hour,
+The [F#]hour, the hour, the hour, the hour...
