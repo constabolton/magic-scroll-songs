@@ -5,37 +5,21 @@ Song name: My Kind Of Town  by  Frank Sinatra
 
 G6 Fdim D Edim Bm E C#m7b5 E7 A9 Cdim A9 
 
-D   C#7 Cdim B7  Cdim     B7 
-My kind  of town, Chicago is 
-Em Cdim A7  D  Fdim  D7    F#7 
-My kind of town, Chicago is 
-G6 Fdim    D Edim  Bm  E C#m7b5 E7   A9  Cdim A9 
-My kind of people, too, people  who smile at  you 
-C#7  D   C#7 Cdim B7  Cdim     B7 
-And each time I  roam, Chicago is  
-Em Cdim A7  D Fdim D7 F#7 
-Calling me home, Chicago is 
-Gdim        Fdim       D    D7       C7  
-One  town that won't let you down  
+[D]My k[C#7]ind [Cdim] of t[B7]own,[Cdim] Chicago [B7]is 
+[Em]My [Cdim]kind [A7]of t[D]own[Fdim], Chic[D7]ago is[F#7] 
+[G6]My [Fdim]kind of [D]pe[Edim]ople, [Bm]too,[E] p[C#m7b5]eople  [E7]who s[A9]mile[Cdim] at  [A9]you 
+[C#7]And e[D]ach [C#7]time[Cdim] I  r[B7]oam,[Cdim] Chicago [B7]is  
+[Em]Cal[Cdim]ling [A7]me h[D]om[Fdim]e, Ch[D7]ica[F#7]go is 
+[Gdim]One  town th[Fdim]at won't le[D]t you[D7] down  [C7]
 B7   E7  A7  A7/6  D   Fdim  A7   A7b13 
 It's my kind  of  town 
-D   C#7 Cdim B7   Cdim     B7 
-My kind  of town, Chicago is 
-Em Cdim A7  D Fdim D7 F#7 
-My kind of town, Chicago is 
-G6 Fdim     D Edim  Bm  E C#m7b5 E7 A9 Cdim  A9 
-My kind of razzmatazz and  it  has all that jazz 
-C#7  D   C#7 Cdim B7   Cdim     B7 
-And each time I  leave, Chicago is 
-Em Cdim  A7 D Fdim  D7 F#7 
-Tuggin' my sleeve, Chicago is 
-G6  Gdim  Fdim  D Fdim   D    D7 F#7 
-The Wrigley Building, Chicago is  
-G6 Gdim  Fdim  D Fdim D   D7 F#7 
-The Union Stockyard, Chicago is 
-G6 Gdim Fdim D Fdim D D7 F#7 
-The windy  city, Chicago is 
-G6  Gdim Fdim   D   D7      C7 
-One town that won't let you down  
-B7  Em7 A7b9     D6 
-It's my kind of town.
+[D]My k[C#7]ind [Cdim] of t[B7]own, [Cdim]Chicago i[B7]s 
+[Em]My [Cdim]kind [A7]of t[D]ow[Fdim]n, Ch[D7]ica[F#7]go is 
+[G6]My [Fdim]kind of r[D]az[Edim]zmataz[Bm]z an[E]d [C#m7b5] it  ha[E7]s a[A9]ll [Cdim]that j[A9]azz 
+[C#7]And e[D]ach [C#7]time[Cdim] I  l[B7]eave,[Cdim] Chicago [B7]is 
+[Em]Tug[Cdim]gin' m[A7]y s[D]le[Fdim]eve, C[D7]hic[F#7]ago is 
+[G6]The [Gdim]Wrigle[Fdim]y Buil[D]di[Fdim]ng, Chi[D]cago [D7]is [F#7] 
+[G6]The[Gdim] Union[Fdim] Stock[D]ya[Fdim]rd, C[D]hica[D7]go [F#7]is 
+[G6]The[Gdim] wind[Fdim]y  ci[D]ty[Fdim], Chi[D]ca[D7]go [F#7]is 
+[G6]One [Gdim]town [Fdim]that wo[D]n't [D7]let you [C7]down  
+[B7]It's[Em7] my [A7b9]kind of t[D6]own.
