@@ -8,36 +8,24 @@ Dm  Dmmaj7 Dm7 Dm6  Gm6   A7 -riff
 
 [Verse]
 
-   Dm           Dmmaj7    Dm7    Dm6
-If I could save time in a bottle
-    Gm6                          A7
-The first thing that I'd like to do   - play riff in reg time
-      Dm         Dm7      Bb       Gm7    Dm
-Is to save every day till eternity passes away
-        Gm              A7
-Just to spend them with you.
+If [Dm]I could save [Dmmaj7]time in a [Dm7]bottle [Dm6]
+The [Gm6]first thing that I'd like to [A7]do   - play riff in reg time
+Is to [Dm]save every [Dm7]day till [Bb]eternity [Gm7]passes [Dm]away
+Just to [Gm]spend them with [A7]you.
 
 
-   Dm           Dmmaj7    Dm7    Dm6
-If I could make days last forever
-    Gm6                          A7
-If words could make wishes come true
-      Dm         Dm7      Bb       Gm7    Dm
-I'd save every day like a treasure and then
-        Gm              A7
-Again, I would spend them with you.
+If [Dm]I could make [Dmmaj7]days last [Dm7]forever[Dm6]
+If w[Gm6]ords could make wishes come t[A7]rue
+I'd sa[Dm]ve every da[Dm7]y like a [Bb]treasure [Gm7]and the[Dm]n
+Again, I[Gm] would spend the[A7]m with you.
 
 
 [Chorus]
 
-          D              Dmaj7
-But there never seems to be enough time
-   D6                D                   G       Gmaj7   Em7  A7
-To do the things you want to do Once you find them
-     D             Dmaj7
-I've looked around enough to know
-     D6               D                  G         Gmaj7 Em7 A7
-That you're the one I want to go through time with.
+But there [D]never seems to [Dmaj7]be enough time
+To [D6]do the things you [D]want to do Once you [G]find the[Gmaj7]m [Em7] [A7]
+I've [D]looked around [Dmaj7]enough to know
+That [D6]you're the one I [D]want to go through [G]time with.[Gmaj7] [Em7] [A7]
 
 
 Dm  Dmmaj7 Dm7 Dm6  Gm6   A7 -riff
@@ -45,26 +33,18 @@ Dm  Dmmaj7 Dm7 Dm6  Gm6   A7 -riff
 
 [Verse]
 
-   Dm          Dmmaj7   Dm7    Dm6
-If I had a box just for wishes
-    Gm6                        A7
-And dreams that had never come true
-    Dm           Dm7   Bb             Gm7    Dm
-The box would be empty except for the memory
-        Gm             A7
-Of how they were answered by you
+If [Dm]I had a box [Dmmaj7]just for [Dm7]wishes [Dm6]
+And [Gm6]dreams that had never come [A7]true
+The [Dm]box would be [Dm7]empty [Bb]except for the [Gm7]memory [Dm]
+Of how t[Gm]hey were answer[A7]ed by you
 
 
 [Chorus]
 
-          D              Dmaj7
-But there never seems to be enough time
-   D6                D                   G       Gmaj7   Em7  A7
-To do the things you want to do Once you find them
-     D             Dmaj7
-I've looked around enough to know
-     D6               D                  G         Gmaj7 Em7 A7
-That you're the one I want to go through time with.
+But there [D]never seems to [Dmaj7]be enough time
+To [D6]do the things you [D]want to do Once you [G]find the[Gmaj7]m [Em7] [A7]
+I've [D]looked around [Dmaj7]enough to know
+That [D6]you're the one I [D]want to go through [G]time with.[Gmaj7] [Em7] [A7]
 
 
 Intro Riff again
@@ -72,24 +52,15 @@ Intro Riff again
 
 [Verse]
 
-   Dm           Dmmaj7    Dm7    Dm6
-If I could save time in a bottle
-    Gm6                          A7
-The first thing that I'd like to do   - play riff in reg time
-      Dm         Dm7      Bb       Gm7    Dm
-Is to save every day till eternity passes away
-        Gm              A7
-Just to spend them with you
-            D           Dmaj7
-But there never seems to be enough time
-   D6                D                   G       Gmaj7
-To do the things you want to do once you find them
-   Em7       A7             D            Dmaj7
-[1 bar]   [3/4 bar] I've looked around enough to know
-      D6               D                  G
-That you're the one I want to go through time with.
-    Gmaj7        Em7         A7
-   [1 bar]      [1 bar]   [1 bar]
+If [Dm]I could save [Dmmaj7]time in a [Dm7]bottle [Dm6]
+The [Gm6]first thing that I'd like to [A7]do   - play riff in reg time
+Is to [Dm]save every [Dm7]day till [Bb]eternity [Gm7]passes [Dm]away
+Just to [Gm]spend them with [A7]you
+But there ne[D]ver seems to[Dmaj7] be enough time
+To [D6]do the things you [D]want to do once you [G]find the[Gmaj7]m
+[1 [Em7]bar]   [3/[A7]4 bar] I've loo[D]ked around en[Dmaj7]ough to know
+That y[D6]ou're the one I w[D]ant to go through t[G]ime with.
+   [[Gmaj7]1 bar]      [[Em7]1 bar]   [1 [A7]bar]
 
 
 On the last go 'round, play and hold Dm.
