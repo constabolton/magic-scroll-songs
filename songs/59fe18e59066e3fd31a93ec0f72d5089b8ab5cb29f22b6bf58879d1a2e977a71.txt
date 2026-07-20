@@ -3,49 +3,29 @@ Song name: The Way You Look Tonight  by  Jerome Kern
 ----------------------------------------------------------------------
 A7 D Bm7 Em7 A7
 
-D    Bm7  Em7              A7
-Some day, when I'm awfully low,
-F#m7              B7
-When the world is cold,
-Em7           A7                 D7 Bm7
-I will feel a glow just thinking of you
-Em7             A7   D7 Bm Em A7
-And the way you look tonight.
+[D]Some [Bm7]day, [Em7]when I'm awfully [A7]low,
+[F#m7]When the world is [B7]cold,
+[Em7]I will feel a [A7]glow just thinking [D7]of [Bm7]you
+[Em7]And the way you [A7]look [D7]ton[Bm]igh[Em]t. [A7]
 
 
-               D       Bm7 Em7                A7
-Oh, but you're love  - ly, with your smile so warm
-F#m7                B7
-And your cheeks so soft,
-Em7              A7            D7   Bm7
-There is nothing for me but to love you,
-Em7              A7     D - Em - A - A/B B
-Just the way you look tonight.
+Oh, but you're [D]love  - [Bm7]ly, [Em7]with your smile so [A7]warm
+[F#m7]And your cheeks so s[B7]oft,
+[Em7]There is nothing [A7]for me but to [D7]love [Bm7]you,
+[Em7]Just the way you [A7]look to[D]nigh[Em]t. [A] [A/B] [B]
 
 
-F             F/D   Gm/D       Csus4 C
-With each word your tenderness grows,
-F/C        F/A  E/Ab Gm C
-Tearing my fear a----part...
-F/C      E/Ab       Gm            C
-And each laugh that wrinkles your nose,
-F          Bb      Asus4 A
-Touches my foolish heart.
+[F]With each word[F/D] your [Gm/D]tenderness [Csus4]grows,[C]
+[F/C]Tearing my [F/A]fear [E/Ab]a----[Gm]par[C]t...
+[F/C]And each [E/Ab]laugh that [Gm]wrinkles your [C]nose,
+[F]Touches my [Bb]foolish [Asus4]heart.[A]
 
 
-D       Bm7 Em7         A7
-Love  - ly, Never, ever change.
-F#m7                 B7
-Keep that breathless charm.
-Em7              A7                    D7   Bm7
-Won't you please arrange it ? 'Cause I love you ...
-Em7              A7       D7 Bm
-Just the way you look tonight.
-Em7 A7           D7
-    Never, never change,
-Bm                   Em
-Keep that breathless charm,
-  A7                Am   Bm
-Arrange it 'cause I love you,
-Em7              E   A7 D
-Just the way you look tonight
+[D]Love  - [Bm7]ly, [Em7]Never, ever [A7]change.
+[F#m7]Keep that breathless [B7]charm.
+[Em7]Won't you please [A7]arrange it ? 'Cause I [D7]love [Bm7]you ...
+[Em7]Just the way you [A7]look toni[D7]ght[Bm].
+[Em7]    [A7]Never, never [D7]change,
+[Bm]Keep that breathless [Em]charm,
+Ar[A7]range it 'cause I [Am]love [Bm]you,
+[Em7]Just the way you [E]look[A7] to[D]night
