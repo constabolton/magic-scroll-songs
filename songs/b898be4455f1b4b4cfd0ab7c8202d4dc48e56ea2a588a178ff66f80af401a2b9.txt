@@ -1,0 +1,22 @@
+X:1
+T: Wade in the Water
+C: Traditional Spiritual
+M: 4/4
+L: 1/16
+K: C
+|:A12c2A2|
+c6A2A8|
+e12g2e2|
+a4g4e2d2c4|
+A12c2A2|
+c6A2z8|
+A4A2A2A2A4E2|
+^G6A2A8:|
+|:e2e2c4e2e2c4|
+e4f4f2e2e4|
+A4A2A2A2A4E2|
+^G6A2A4z2e2|
+g4f2f2e4c2d2|
+e6d2c2A2A4|
+A4A2A2A2A4E2|
+^G6A2A8:|
