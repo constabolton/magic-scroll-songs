@@ -5,72 +5,45 @@ Song name: Something Biblical  by  Andrew Bird
 F      C  (x4)
 
 [Chorus]
-             F               C
-  Take your apples from the earth
-           F                    C
-  And your fingerlings from the air
-          F                     D7
-  If you cried when you were born
-G                   E7
-  'Cause it ain't fair
-      F                        G
-  You got nothing, nothing to wear
+  Take your a[F]pples from the e[C]arth
+  And your [F]fingerlings from the [C]air
+  If you c[F]ried when you were bor[D7]n
+[G]  'Cause it ain't fa[E7]ir
+  You [F]got nothing, nothing to w[G]ear
 
 [Verse 1]
-Dm                                    C
-   And there's a drink that we're all needing
-G                            Dm
-   A need to weep but we have tried
-F                                   Am
-   And though the clouds we keep on seeding
-E7                           F
-   Still the county remains dry
-                      Am    G
-   The county remains dry
-F                     C     E7
-   The county remains dry
+[Dm]   And there's a drink that we're all [C]needing
+[G]   A need to weep but we have[Dm] tried
+[F]   And though the clouds we keep on [Am]seeding
+[E7]   Still the county remains d[F]ry
+   The county remains [Am]dry [G]
+[F]   The county remains [C]dry [E7]
 
 [Solo]
 F      C  (x3)
 F      D7    G    E7    F    G
 
 [Verse 2]
-Dm                                C
-   I see your coat, that it needs sewing
-G                                         Dm
-   And these seeds will sow the corn silk brides
-F                                Am
-   But in your absence nothing's growing
-E7                           F
-   Still the county remains dry
-                      Am    G
-   The county remains dry
-F                     Am    G
-   The county remains dry
-F                     C     E7
-   The county remains dry
+[Dm]   I see your coat, that it needs [C]sewing
+[G]   And these seeds will sow the corn silk [Dm]brides
+[F]   But in your absence nothing's [Am]growing
+[E7]   Still the county remains d[F]ry
+   The county remains [Am]dry [G]
+[F]   The county remains [Am]dry [G]
+[F]   The county remains [C]dry [E7]
 
 [Bridge]
-F                C
-Still we keep on dreaming
-        F            C
-Of that fifty-year flood
-   F          C
-Of oceans of plasma
-     F         C
-And rivers of blood
+[F]Still we keep on [C]dreaming
+Of that [F]fifty-year fl[C]ood
+Of [F]oceans of p[C]lasma
+And r[F]ivers of b[C]lood
 
 [Chorus]
-             F               C
-  Take your apples from the earth
-           F                    C
-  And your fingerlings from the air
-          F                     D7
-  If you cried when you were born
-G                   E7
-  'Cause it ain't fair
-      F                        G
-  You got nothing, nothing to wear
+  Take your a[F]pples from the e[C]arth
+  And your [F]fingerlings from the [C]air
+  If you c[F]ried when you were bor[D7]n
+[G]  'Cause it ain't fa[E7]ir
+  You [F]got nothing, nothing to w[G]ear
 
 [Outro]
 Dm   C    G    Dm
