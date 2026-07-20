@@ -11,79 +11,50 @@ A6/B:    x22222
 Em   Am7    x6
 
 [Verse 1]
-E                  G
-  See the curtains hanging in the window
-D                     A           E   Am7
-  in the evening on a Friday ni-i-iii-iiight
-E                  G
-  A little light a-shining through the window
-D                   A                E
-  lets me know everything's all ri-i-ight
+[E]  See the curtains [G]hanging in the window
+[D]  in the evening on a [A]Friday ni-i-[E]iii-[Am7]iiight
+[E]  A little light a-[G]shining through the window
+[D]  lets me know every[A]thing's all ri-i-[E]ight
 
 [Chorus]
-Am7                Bm7
-    Summer breeze, makes me feel fine
-Am7                               G  F6sus2  Em7  G
-Blowin' through the jasmine in my mi-ind
-Am7                Bm7
-    Summer breeze, makes me feel fine
-Am7                               G  F6sus2  Em7  G
-Blowin' through the jasmine in my mi-ind
+[Am7]    Summer breeze, [Bm7]makes me feel fine
+[Am7]Blowin' through the jasmine in my [G]mi-[F6sus2]ind [Em7] [G]
+[Am7]    Summer breeze, [Bm7]makes me feel fine
+[Am7]Blowin' through the jasmine in my [G]mi-[F6sus2]ind [Em7] [G]
 
 [Instrumental]
 Em   Am7    x4
 
 [Verse 2]
-E               G
-  See the paper laying on the sidewalk
-D                         A               E   Am7
-  A little music from the house next do-o-ooo-ooor
-E              G
-  So I walk on up to the doorstep
-D                         A               E
-  through the screen and across the flo-o-ooo-ooor
+[E]  See the paper [G]laying on the sidewalk
+[D]  A little music from the [A]house next do-o-[E]ooo-[Am7]ooor
+[E]  So I walk on [G]up to the doorstep
+[D]  through the screen and a[A]cross the flo-o-[E]ooo-ooor
 
 [Chorus]
-Am7                Bm7
-    Summer breeze, makes me feel fine
-Am7                               G  F6sus2  Em7  G
-Blowin' through the jasmine in my mi-ind
-Am7                Bm7
-    Summer breeze, makes me feel fine
-Am7                               G  F6sus2  Em7  G
-Blowin' through the jasmine in my mi-ind
+[Am7]    Summer breeze, [Bm7]makes me feel fine
+[Am7]Blowin' through the jasmine in my [G]mi-[F6sus2]ind [Em7] [G]
+[Am7]    Summer breeze, [Bm7]makes me feel fine
+[Am7]Blowin' through the jasmine in my [G]mi-[F6sus2]ind [Em7] [G]
 
 [Bridge]
-Em            Am7         Em           Am7
-Sweet days of summer, the jasmine's in bloom
-Em      Am7            Em          Am7
-July is dressed up and playing her tune
-           Am7/D         Bm7/E
-And I come home, from a hard day's work
-           Am7/D                 Bm7/E
-And you're waiting there, not a care
-       Amaj7/B  A6/B
-In the wor  -  orld
+[Em]Sweet days of [Am7]summer, the [Em]jasmine's in [Am7]bloom
+[Em]July is [Am7]dressed up and [Em]playing her [Am7]tune
+And I come [Am7/D]home, from a h[Bm7/E]ard day's work
+And you're [Am7/D]waiting there, not a c[Bm7/E]are
+In the [Amaj7/B]wor  -  o[A6/B]rld
 
 [Verse 3]
-E                G
-  See the smile awaiting in the kitchen
-D                      A                 E   Am7
-  Food cooking and the plates for two-oo-ooo-ooo
-E                    G
-  Feel the arms that reach out to hold me
-D                         A                    E
-  In the evening when the day is through-oo-oo-ooo-ooo
+[E]  See the smile a[G]waiting in the kitchen
+[D]  Food cooking and the [A]plates for two-oo-[E]ooo-[Am7]ooo
+[E]  Feel the arms that [G]reach out to hold me
+[D]  In the evening when the [A]day is through-oo-oo-[E]ooo-ooo
 
 [Chorus]
-Am7                Bm7
-    Summer breeze, makes me feel fine
-Am7                               G  F6sus2  Em7  G
-Blowin' through the jasmine in my mi-ind
-Am7                Bm7
-    Summer breeze, makes me feel fine
-Am7                               G  F6sus2  Em7  G
-Blowin' through the jasmine in my mi-ind
+[Am7]    Summer breeze, [Bm7]makes me feel fine
+[Am7]Blowin' through the jasmine in my [G]mi-[F6sus2]ind [Em7] [G]
+[Am7]    Summer breeze, [Bm7]makes me feel fine
+[Am7]Blowin' through the jasmine in my [G]mi-[F6sus2]ind [Em7] [G]
 
 [Outro]
 Em   Am7    x8
