@@ -23,106 +23,69 @@ Cadd9 Cadd9* Cadd9 | Cadd9 D/F#
 
 [Verse]
 
-C                  G/D          Em
-Come out Virginia, don't let me wait
-    C                     D       G
-You Catholic girls start much too late
-    C                   G/D          Em
-But sooner or later it comes down to fate
-  C                    D
-I might as well be the one
+[C]Come out Virginia, [G/D]don't let me [Em]wait
+You [C]Catholic girls start m[D]uch too [G]late
+But [C]sooner or later it c[G/D]omes down to [Em]fate
+I [C]might as well be the [D]one
 
-           C                    G/D         Em
-Well, they showed you a statue, told you to pray
-     C                       D         G
-They built you a temple and locked you away
-    C                       G/D            Em
-But they never told you the price that you pay
-    C                          D
-For things that you might have done
+Well, they [C]showed you a statue, [G/D]told you to [Em]pray
+They [C]built you a temple and l[D]ocked you [G]away
+But [C]they never told you the [G/D]price that you [Em]pay
+For [C]things that you might have [D]done
 
 
 [Chorus]
 
-                  G   C
-Only the good die young
-                  D  G
-That's what I said
-              G   C
-Only the good die young
-              D        G
-Only the good die young
+Only the good die [G]youn[C]g
+That's what I said[D] [G]
+Only the good [G]die [C]young
+Only the good [D]die young[G]
 
 
 [Verse]
 
-               C                  G/D       Em
-You might have heard I run with a dangerous crowd
-   C                    D         G
-We ain't too pretty, we ain't too proud
-   C                   G/D     Em
-We might be laughing a bit too loud
-    C                  D
-But that never hurt no one
+You might have [C]heard I run with a [G/D]dangerous [Em]crowd
+We [C]ain't too pretty, we [D]ain't too [G]proud
+We [C]might be laughing a [G/D]bit too [Em]loud
+But [C]that never hurt no [D]one
 
-        C              G/D     Em
-So come on Virginia, show me a sign
-C                      D             G
-Send up a signal, I'll throw you the line
-    C                            G/D      Em
-The stained-glass curtain you're hiding behind
-C                 D
-Never lets in the sun
+So come [C]on Virginia, sh[G/D]ow me a [Em]sign
+[C]Send up a signal, I'll [D]throw you the [G]line
+The [C]stained-glass curtain you're [G/D]hiding be[Em]hind
+[C]Never lets in the [D]sun
 
 
 [Chorus]
 
-                           G     C
-Darlin', only the good die young
-                         D   G
-Whoa, whoa, whoa, whoa, whoa
-                        G   C
-I tell ya only the good die young
-              D        G
-Only the good die young
+Darlin', only the good die [G]young [C]
+Whoa, whoa, whoa, whoa, w[D]hoa [G]
+I tell ya only the good [G]die [C]young
+Only the good [D]die young[G]
 
 
 [Bridge]
 
-          D                      C                     G
-You got a nice white dress and a party on your confirmation
-          A                       C
-You got a brand new soul, and a cross of gold
-       D                           C                  G
-But Virginia they didn't give you quite enough information
-            A                                         C
-You didn't count on me when you were counting on your rosary
-D  C    G/B
-Oh woah woah
+You got a [D]nice white dress and a [C]party on your confirma[G]tion
+You got a [A]brand new soul, and a cr[C]oss of gold
+But Vir[D]ginia they didn't give you q[C]uite enough informa[G]tion
+You didn't c[A]ount on me when you were counting on your [C]rosary
+[D]Oh [C]woah [G/B]woah
 
 
 [Verse]
 
-     C                        G/D            Em
-They say there's a heaven for those who will wait
-C                        D        G
-Some say it's better but I say it ain't
-           C                           G/D          Em
-I'd rather laugh with the sinners than cry with the saints
-    C                     D
-The sinners are much more fun
+They [C]say there's a heaven for [G/D]those who will [Em]wait
+[C]Some say it's better but [D]I say it [G]ain't
+I'd rather [C]laugh with the sinners than [G/D]cry with the [Em]saints
+The [C]sinners are much more [D]fun
 
 
 [Chorus]
 
-                                G     C
-You know that only the good die young
-            D   G
-Oh woah, baby
-                        G   C
-I tell ya only the good die young
-              D       G
-Only the good die young
+You know that only the good die [G]young [C]
+Oh woah, bab[D]y [G]
+I tell ya only the good [G]die [C]young
+Only the good [D]die youn[G]g
 
 
 [Instrumental]
@@ -132,28 +95,19 @@ D  C  G    A    C
 
 [Bridge]
 
-             D                                C                  G
-You say your mother told you all that I could give you was a reputation
-               A
-Aww, she never cared for me
-                       C
-But did she ever say a prayer for me?
-D  C    G/B
-Oh woah woah
+You say your [D]mother told you all that I could [C]give you was a repu[G]tation
+Aww, she never [A]cared for me
+But did she ever say a [C]prayer for me?
+[D]Oh [C]woah [G/B]woah
 
 
 [Verse]
 
-       C                        G/D          Em
-Come out, come out, come out Virginia, don't let me wait,
-C              D           G
-  You Catholic girls start much too late
-C                   G/D           Em
- Sooner or later it comes down to fate
-  C                    D
-I might as well be the one
-                                 G     C
-You know that only the good die young
+Come ou[C]t, come out, come out Vir[G/D]ginia, don't [Em]let me wait,
+[C]  You Catholic [D]girls start [G]much too late
+[C] Sooner or later it [G/D]comes down to [Em]fate
+I [C]might as well be the [D]one
+You know that only the good die y[G]oung [C]
 
 
 [Outro]
