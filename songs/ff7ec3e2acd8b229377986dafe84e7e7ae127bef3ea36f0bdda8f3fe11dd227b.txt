@@ -10,64 +10,38 @@ Intro:
 |B7        |B7        |
 
 
-Em           Am7
-The moment I wake up 
-Am7          D7    G
-Before I put on my makeup 
-  F#m7                    B7
-I say a little prayer for you 
-Em               Am7
-While combing my hair, now 
-Am7                D7       G
-And wondering what dress to wear, now 
-  F#m7                    B7
-I say a little prayer for you 
+[Em]The moment I [Am7]wake up 
+[Am7]Before I put [D7]on my [G]makeup 
+I [F#m7]say a little prayer for [B7]you 
+[Em]While combing my [Am7]hair, now 
+[Am7]And wondering what [D7]dress to [G]wear, now 
+I [F#m7]say a little prayer for [B7]you 
 
 
-Cmaj7    D7/C          B7
-Forever, forever,      you'll stay in my heart 
-    D/G G  D/G  G      
-And I will love you 
-Cmaj7    D7/C          B7
-Forever, forever,   we never will part 
-    D/G G    D/G  G
-Oh, how I'll love you 
-Cmaj7     D7/C             B7
-Together, together, that's how it must be 
-    D/G G   D/G G
-To live without you 
-      Cmaj7   D7/C           B7
-Would only be heartbreak for me 
+[Cmaj7]Forever, [D7/C]forever,      [B7]you'll stay in my heart 
+And [D/G]I wi[G]ll [D/G]love [G]you 
+[Cmaj7]Forever, [D7/C]forever,   we [B7]never will part 
+Oh, [D/G]how [G]I'll [D/G]love [G]you 
+[Cmaj7]Together, [D7/C]together, that's [B7]how it must be 
+To l[D/G]ive [G]with[D/G]out [G]you 
+Would [Cmaj7]only be [D7/C]heartbreak for [B7]me 
 
 
-Em            Am7
-I run for the bus, dear 
-Am7            D7       G
-While riding I think of us, dear 
-  F#m7                    B7
-I say a little prayer for you 
-Em              Am7
-At work, I just take time 
-Am7                D7     G
-And all through my coffee break-time 
-  F#m7                    B7 
-I say a little prayer for you 
+[Em]I run for the [Am7]bus, dear 
+[Am7]While riding I [D7]think of [G]us, dear 
+I [F#m7]say a little prayer for [B7]you 
+[Em]At work, I just [Am7]take time 
+[Am7]And all through my [D7]coffee [G]break-time 
+I [F#m7]say a little prayer for [B7]you 
 
 
-Cmaj7    D7/C          B7
-Forever, forever,      you'll stay in my heart 
-    D/G G  D/G  G      
-And I will love you 
-Cmaj7    D7/C          B7
-Forever, forever,   we never will part 
-    D/G G    D/G  G
-Oh, how I'll love you 
-Cmaj7     D7/C             B7
-Together, together, that's how it must be 
-    D/G G   D/G G
-To live without you 
-      Cmaj7   D7/C           B7
-Would only be heartbreak for me 
+[Cmaj7]Forever, [D7/C]forever,      [B7]you'll stay in my heart 
+And [D/G]I wi[G]ll [D/G]love [G]you 
+[Cmaj7]Forever, [D7/C]forever,   we [B7]never will part 
+Oh, [D/G]how [G]I'll [D/G]love [G]you 
+[Cmaj7]Together, [D7/C]together, that's [B7]how it must be 
+To l[D/G]ive [G]with[D/G]out [G]you 
+Would [Cmaj7]only be [D7/C]heartbreak for [B7]me 
 
 
 Instrumental break: 
@@ -77,28 +51,20 @@ Instrumental break:
 |G        |F#m7     |B7        |
 
 
-Cmaj7    D7/C          B7
-Forever, forever,      you'll stay in my heart 
-    D/G G  D/G  G      
-And I will love you 
-Cmaj7    D7/C          B7
-Forever, forever,   we never will part 
-    D/G G    D/G  G
-Oh, how I'll love you 
-Cmaj7     D7/C             B7
-Together, together, that's how it must be 
-    D/G G   D/G G
-To live without you 
-      Cmaj7   D7/C           B7
-Would only be heartbreak for me 
+[Cmaj7]Forever, [D7/C]forever,      [B7]you'll stay in my heart 
+And [D/G]I wi[G]ll [D/G]love [G]you 
+[Cmaj7]Forever, [D7/C]forever,   we [B7]never will part 
+Oh, [D/G]how [G]I'll [D/G]love [G]you 
+[Cmaj7]Together, [D7/C]together, that's [B7]how it must be 
+To l[D/G]ive [G]with[D/G]out [G]you 
+Would [Cmaj7]only be [D7/C]heartbreak for [B7]me 
 
 
 Coda:
 |Em             |Am7          |Am7             |D7              |
  My darling,  believe me        For me there is no one
 
-|D7             |Gmaj7        |Gmaj7    D7       |Gmaj7         |
-            But  you                Please love me too
+            But  you                Plea[D7]se love me too
 
 
 |D7                          |Gmaj7       |D7            |Gmaj7           |
