@@ -20,14 +20,10 @@ E|-0---------0-2-0-|-------------4-2-|-0-------0-------|
 (Either Johnny or his guitarist continues the two-note shuffle while the chords are):
 
 [Verse 1]
-         B7                           E
-I keep a close watch on this heart of mine
-          B7                     E
-I keep my eyes wide open all the time
-           A                         E
-I keep the ends out for the tie that binds
-               B7               E
-Because you're mine, I walk the line
+I keep a [B7]close watch on this heart of [E]mine
+I keep my [B7]eyes wide open all the [E]time
+I keep the [A]ends out for the tie that [E]binds
+Because you're [B7]mine, I walk the [E]line
 
 (Then walk up to A)
 A
@@ -39,14 +35,10 @@ A|-------0-|
 E|-0-2-4---|
 
 [Verse 2]
-          E                     A
-I find it very, very easy to be true
-         E                           A
-I find myself alone when each day is through
-            D                       A
-Yes, I'll admit that I'm a fool for you
-               E                A
-Because you're mine, I walk the line
+I find it [E]very, very easy to be [A]true
+I find my[E]self alone when each day is [A]through
+Yes, I'll ad[D]mit that I'm a fool for [A]you
+Because you're [E]mine, I walk the [A]line
 
 (Then walk up to D)
 D
@@ -58,14 +50,10 @@ A|-0-2-4---|
 E|---------|
 
 [Verse 3]
-           A                        D
-As sure as night is dark and day is light
-           A                       D
-I keep you on my mind both day and night
-         G                                D
-And happiness I've known proves that it's right
-               A                D
-Because you're mine, I walk the line
+As sure as [A]night is dark and day is [D]light
+I keep you [A]on my mind both day and [D]night
+And happi[G]ness I've known proves that it's [D]right
+Because you're [A]mine, I walk the [D]line
 
 (Back down to A)
 A
@@ -77,14 +65,10 @@ A|---4-2-0-|
 E|---------|
 
 [Verse 4]
-             E                      A
-You've got a way to keep me on your side
-            E                           A
-You give me cause for love that I can't hide
-          D                             A
-For you I know I'd even try to turn the tide
-               E                A
-Because you're mine, I walk the line
+You've got a [E]way to keep me on your [A]side
+You give me [E]cause for love that I can't [A]hide
+For you I [D]know I'd even try to turn the [A]tide
+Because you're [E]mine, I walk the [A]line
 
 (And back to E again)
 E
@@ -96,14 +80,10 @@ A|-0-------|
 E|---4-2-0-|
 
 [Verse 5]
-         B7                           E
-I keep a close watch on this heart of mine
-          B7                     E
-I keep my eyes wide open all the time
-           A                         E
-I keep the ends out for the tie that binds
-               B7               E
-Because you're mine, I walk the line
+I keep a [B7]close watch on this heart of [E]mine
+I keep my [B7]eyes wide open all the [E]time
+I keep the [A]ends out for the tie that [E]binds
+Because you're [B7]mine, I walk the [E]line
 
 [Outro]
    E
