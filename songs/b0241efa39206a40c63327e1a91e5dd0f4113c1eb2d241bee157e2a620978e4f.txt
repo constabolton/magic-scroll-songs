@@ -2,24 +2,16 @@
 Song name: Keep On The Sunny Side  by  The Carter Family
 ----------------------------------------------------------------------
 [Verse 1]
-D         G              D
-There's a dark and a troubled side of life
-D                         A
-There's a bright, there's a sunny side, too
-A                     D
-Tho' we meet with the darkness and strife
-A                   D
-The sunny side we also may view
+[D]There's a [G]dark and a trou[D]bled side of life
+[D]There's a bright, there's [A]a sunny side, too
+[A]Tho' we meet with the [D]darkness and strife
+[A]The sunny side we al[D]so may view
 
 [Chorus]
-D                       G
-Keep on the sunny side, always on the sunny side
-D                      A
-Keep on the sunny side of life
-D                          G
-It will help us every day, it will brighten all the way 
-D                A              D
-If we'll keep on the sunny side of life
+[D]Keep on the sunny side, [G]always on the sunny side
+[D]Keep on the sunny side [A]of life
+[D]It will help us every day, [G]it will brighten all the way 
+[D]If we'll keep on [A]the sunny side [D]of life
 
 [Verse 2]
 The storm and its fury broke today
@@ -28,14 +20,10 @@ Clouds and storms will, in time, pass away
 The sun again will shine bright and clear
 
 [Chorus]
-D                       G
-Keep on the sunny side, always on the sunny side
-D                      A
-Keep on the sunny side of life
-D                          G
-It will help us every day, it will brighten all the way 
-D                A              D
-If we'll keep on the sunny side of life
+[D]Keep on the sunny side, [G]always on the sunny side
+[D]Keep on the sunny side [A]of life
+[D]It will help us every day, [G]it will brighten all the way 
+[D]If we'll keep on [A]the sunny side [D]of life
 
 [Verse 3]
 Let us greet with the song of hope each day
@@ -44,11 +32,7 @@ Let us trust in our Saviour always
 Who keepeth everyone in His care
 
 [Chorus]
-D                       G
-Keep on the sunny side, always on the sunny side
-D                      A
-Keep on the sunny side of life
-D                          G
-It will help us every day, it will brighten all the way 
-D                A              D
-If we'll keep on the sunny side of life
+[D]Keep on the sunny side, [G]always on the sunny side
+[D]Keep on the sunny side [A]of life
+[D]It will help us every day, [G]it will brighten all the way 
+[D]If we'll keep on [A]the sunny side [D]of life
