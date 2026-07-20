@@ -1,0 +1,51 @@
+X:1
+T: New York City
+C: Huddie Ledbetter, Woody Guthrie, & the Almanac Singers
+M: 4/4
+L: 1/16
+K: D
+z8z4"D"D4|
+z8z4"D"D4|
+"D"D4z4z8|
+z4z4z4z4|
+"G"G2G2A4G4A4|
+G4A2G2-G8|
+"D"F2F2G4F4G4|
+F4G2F2-F8|
+"A7"A2A2B4A4B4|
+A4B2A2-A8|
+z2"D"d2=c2d2_A2=A2=F2^F2|
+D4B,2D2-D8|
+|:D4z4z4"D"D4|
+z8z4"D"D4|
+"D"D4z4z8|
+z16|
+"G"G2G2A4G4A4|
+G4A2G2-G8|
+"D"F2F2G4F4G4|
+F4G2F2-F8|
+"A7"A2A2B4A4B4|
+A4B2A2-A8|
+z2"D"d2=c2d2_A2=A2=F2^F2|
+D4B,2D2-D8:|
+|:"D"D4D4D4D4|
+F4F4F4F4|
+A4A4A4A4|
+=c4c4c4c4|
+z16|
+z16|
+z16|
+z16|
+z16|
+z16|
+z16|
+z16:|
+z16|
+"G"G4A2G2-G8|
+z16|
+"D"F4G2F2-F8|
+z16|
+"A7"A4B2A2-A8|
+z2"D"d2=c2d2_A2=A2=F2^F2|
+D4B,2D2-D4z4|
+D4z4z8|]
