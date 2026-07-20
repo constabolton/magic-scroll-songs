@@ -4,25 +4,17 @@ Song name: Sweet Sue  by  Django Reinhardt
 Key of G  Tuning EADGBE
 
 [Verse 1]
-      Am7         D7        Am7      D7
-Every star above  Knows the one I love
-D7    G   Am7  D7  G
-Sweet Sue     just you
+Every [Am7]star above  [D7]Knows the [Am7]one I lov[D7]e
+[D7]Sweet [G]Sue [Am7]    j[D7]ust [G]you
 
 
 [Verse 2]
- G       Am7          D7         Am7    D7
-And the moon on high  Knows the reason why
-D7    G   Am7  D7    G
-Sweet Sue      just you
+A[G]nd the m[Am7]oon on high  [D7]Knows the r[Am7]eason w[D7]hy
+[D7]Sweet [G]Sue [Am7]     [D7]just y[G]ou
 
 
 [Verse 3]
-   G7           F#7       F7         E7
-No one else it seems ever shares my dreams
-E7       Am7                                    Cm6
-and  without you dear I don't know what I would do
-   Am7                D7            Am7      D7
-In this heart of mine  you live all the time
-D7    G       C7 G
-Sweet Sue just you
+No [G7]one else it s[F#7]eems ever [F7]shares my d[E7]reams
+[E7]and  with[Am7]out you dear I don't know what I would [Cm6]do
+In [Am7]this heart of mine [D7] you live all [Am7]the time [D7]
+[D7]Sweet [G]Sue just[C7] yo[G]u
