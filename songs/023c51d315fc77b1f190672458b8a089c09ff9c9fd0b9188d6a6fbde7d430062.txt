@@ -1,74 +1,49 @@
 ----------------------------------------------------------------------
 Song name: Frankie And Johnny  by  Misc Traditional
 ----------------------------------------------------------------------
-C
-Frankie and Johnny were lovers
-C                          C7
-Oh lord how they could love
-F
-They swore to be true to each other
-F                   Cdim7 C
-Just as true as the stars above
+[C]Frankie and Johnny were lovers
+[C]Oh lord how they could love[C7]
+[F]They swore to be true to each other
+[F]Just as true as the [Cdim7]stars [C]above
 
-A7          D7  G7
-He was her man
+[A7]He was her m[D7]an [G7]
                 C ( C7 F Fm C ) G7
 But he did her wrong
 
-C
-Frankie went down to the bar room
-C                        C7
-To buy her Johnny a beer
-F
-Said to the bartender
-F                  Cdim7  C
-Has my ever-lovin' Johnny been here?
+[C]Frankie went down to the bar room
+[C]To buy her Johnny a beer [C7]
+[F]Said to the bartender
+[F]Has my ever-lovin' [Cdim7]Johnny [C]been here?
 
-A7        D7  G7
-He is my man 
+[A7]He is my m[D7]an [G7]
                    C ( C7 F Fm C ) G7    
 But he's doin' me wrong.
 
-C
-I cannot tell you no story 
-C                       C7
-I cannot tell you no lie
-F
-Johnny left about an hour ago
-F                Cdim7  C
-With a gal named Nellie Bly
+[C]I cannot tell you no story 
+[C]I cannot tell you no lie[C7]
+[F]Johnny left about an hour ago
+[F]With a gal named [Cdim7]Nellie [C]Bly
 
-A7          D7  G7 
-He is your man
+[A7]He is your m[D7]an [G7]
                     C ( C7 F Fm C ) G7
 But he's doin' you wrong.
 
 
-C
-Frankie went down The Broadway
-C                            C7
-With a forty four in her hand
-F
-Said "Stand aside all you chorus gals
-F             Cdim7  C        
-I'm a-lookin' for my man!"
+[C]Frankie went down The Broadway
+[C]With a forty four in her hand[C7]
+[F]Said "Stand aside all you chorus gals
+[F]I'm a-lookin' [Cdim7]for my [C]man!"
 
-A7        D7  G7
-He is my man
+[A7]He is my m[D7]an [G7]
                    C ( C7 F Fm C ) G7
 But he's doin' me wrong.
 
-C
-The first time she shot him he staggered
-C                                 C7
-The next time she shot him he fell
-F
-The last time she shot him oh lord
-F                       Cdim7   C   
-There was another man's face in hell
+[C]The first time she shot him he staggered
+[C]The next time she shot him he fell[C7]
+[F]The last time she shot him oh lord
+[F]There was another man's [Cdim7]face in [C]hell
 
-A7          D7  G7
-He was her man 
+[A7]He was her m[D7]an [G7]
                 C ( C7 F Fm C ) G7
 But he did her wrong.
 
