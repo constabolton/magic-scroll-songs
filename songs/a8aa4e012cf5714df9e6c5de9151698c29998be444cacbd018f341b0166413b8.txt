@@ -1,24 +1,14 @@
 ----------------------------------------------------------------------
 Song name: Happy Trails  by  Dale Evans
 ----------------------------------------------------------------------
-C                            C#dim   G7
-Happy trails to you until we meet again
-                                 G7#5     C
-Happy trails to you keep smiling until then
-                                        F
-Who cares about the clouds when we're together
-     A7                              D7  G7
-Just sing a song and bring the sunny weather
-      C         A7          Dm  G7  C
-Happy trails to you till we meet a-gain
+[C]Happy trails to you until we [C#dim]meet aga[G7]in
+Happy trails to you keep smiling [G7#5]until the[C]n
+Who cares about the clouds when we're to[F]gether
+Just [A7]sing a song and bring the sunny [D7]weat[G7]her
+Happy [C]trails to [A7]you till we [Dm]meet[G7] a-g[C]ain
 
-C                            C#dim   G7
-Happy trails to you until we meet again
-                                 G7#5     C
-Happy trails to you keep smiling until then
-                                        F
-Who cares about the clouds when we're together
-     A7                              D7  G7
-Just sing a song and bring the sunny weather
-      C         A7          Dm  G7  C
-Happy trails to you till we meet a-gain
+[C]Happy trails to you until we [C#dim]meet aga[G7]in
+Happy trails to you keep smiling [G7#5]until the[C]n
+Who cares about the clouds when we're to[F]gether
+Just [A7]sing a song and bring the sunny [D7]weat[G7]her
+Happy [C]trails to [A7]you till we [Dm]meet[G7] a-g[C]ain
