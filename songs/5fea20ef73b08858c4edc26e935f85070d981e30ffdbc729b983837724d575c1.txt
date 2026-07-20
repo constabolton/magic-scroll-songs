@@ -32,79 +32,49 @@ Am   Bm11/E   Am7   Bm7
 
 
 [Verse 1]
-              Am        Bm11/E      Am7     Bm7
-Well, it's a marvelous night for a moondance with the
-  Am       Bm11/E       Am7   Bm7
-Stars up above in your eyes
-      Am      Bm11/E         Am7     Bm7
-A fantabulous night to make romance 'neath the
- Am      Bm11/E    Am7     Bm7
-Color of October skies
-         Am           Bm11/E     Am7    Bm7
-All the leaves on the trees are falling to the
-Am           Bm11/E          Am7    Bm7
-Sounds of the breezes that blow
-         Am       Bm11/E        Am7    Bm7
-And I'm trying to place to the calling of your
- Am             Bm11/E          Am7    Bm7
-Heartstrings that play soft and low
-              Dm7 G  Am7    G13
-You know the night's magic seems to
-Dm7  G      Am7  G13
-Whisper and hush …you know the
-Dm7  G   Am7       G13           Dm7
-So - ft moonlight seems to shine
+Well, it's a m[Am]arvelous n[Bm11/E]ight for a m[Am7]oondance[Bm7] with the
+St[Am]ars up ab[Bm11/E]ove in your e[Am7]yes [Bm7]
+A fant[Am]abulous [Bm11/E]night to make r[Am7]omance '[Bm7]neath the
+C[Am]olor of [Bm11/E]October sk[Am7]ies [Bm7]
+All the l[Am]eaves on the [Bm11/E]trees are f[Am7]alling [Bm7]to the
+[Am]Sounds of the[Bm11/E] breezes that bl[Am7]ow [Bm7]
+And I'm t[Am]rying to [Bm11/E]place to the c[Am7]alling [Bm7]of your
+H[Am]eartstrings tha[Bm11/E]t play soft and [Am7]low [Bm7]
+You know the n[Dm7]ight[G]'s [Am7]magic s[G13]eems to
+[Dm7]Whisp[G]er and [Am7]hush [G13]…you know the
+[Dm7]So - [G]ft m[Am7]oonlight s[G13]eems to shine [Dm7]
               E7#9*
 In your blush
 
 
 [Chorus]
-    Am     Dm7      Am        Dm7
-Can I just have one more moondance with
- Am  Dm7        Am  Dm7
-You........my love
-    Am      Dm7       Am     Dm7
-Can I just make some more romance with
- Am  Dm7         Am    E7
-You.........my love
+Can [Am]I just [Dm7]have one [Am]more moond[Dm7]ance with
+Y[Am]ou..[Dm7]......my lo[Am]ve [Dm7]
+Can [Am]I just m[Dm7]ake some m[Am]ore rom[Dm7]ance with
+Y[Am]ou..[Dm7].......my lo[Am]ve [E7]
 
 
 [Verse 2]
-          Am        Bm11/E       Am7     Bm7
-Well, I want to make love to you tonight
-         Am         Bm11/E         Am7     Bm7
-I can't wait 'til the morning has come
-       Am         Bm11/E       Am7     Bm7
-And I know now the time is just right
-             Am      Bm11/E        Am7     Bm7
-And straight into my arms you will run
-          Am      Bm11/E        Am7     Bm7
-When you come my heart will be waiting
-         Am             Bm11/E   Am7     Bm7
-To make sure that you're never alone
-           Am        Bm11/E             Am7     Bm7
-There and then all my dreams will come true dear
-           Am        Bm11/E       Am7     Bm7
-There and then I will make you my own
-           Dm7         Am7
-And every time I touch you, you just
-  Dm7      Am7
-Tremble inside
-             Dm7         Am7          Dm7
-Then I know how much you want me, that
+Well, I wa[Am]nt to make[Bm11/E] love to you [Am7]tonight [Bm7]
+I can't w[Am]ait 'til th[Bm11/E]e morning has c[Am7]ome [Bm7]
+And I k[Am]now now the[Bm11/E] time is just[Am7] right [Bm7]
+And straight [Am]into my [Bm11/E]arms you will [Am7]run [Bm7]
+When you c[Am]ome my h[Bm11/E]eart will be w[Am7]aiting [Bm7]
+To make s[Am]ure that you're[Bm11/E] never al[Am7]one [Bm7]
+There and t[Am]hen all my[Bm11/E] dreams will come t[Am7]rue dear[Bm7]
+There and t[Am]hen I will[Bm11/E] make you my [Am7]own [Bm7]
+And every t[Dm7]ime I touch [Am7]you, you just
+Tr[Dm7]emble ins[Am7]ide
+Then I know h[Dm7]ow much you [Am7]want me, that[Dm7]
                E7#9*
 You can't hide
 
 
 [Chorus]
-    Am     Dm7      Am        Dm7
-Can I just have one more moondance with
- Am  Dm7        Am  Dm7
-You........my love
-    Am      Dm7       Am     Dm7
-Can I just make some more romance with
- Am  Dm7         Am    E7
-You.........my love
+Can [Am]I just [Dm7]have one [Am]more moond[Dm7]ance with
+Y[Am]ou..[Dm7]......my lo[Am]ve [Dm7]
+Can [Am]I just m[Dm7]ake some m[Am]ore rom[Dm7]ance with
+Y[Am]ou..[Dm7].......my lo[Am]ve [E7]
 
 
 [Solo]
@@ -118,8 +88,7 @@ Am    Bm11/E   Am7    Bm7
 Am    Bm11/E   Am7    Bm7
 Dm7   G        Am7    G13
 Dm7   G        Am7    G13
-Dm7   G        Am7    G13
-Dm7            E7#9*  E7
+[Dm7]Dm7   [G]         [Am7]E7#9*  [G13]E7
 Am    Dm7      Am     Dm7
 Am    Dm7      Am     Dm7
 Am    Dm7      Am     Dm7
@@ -127,60 +96,38 @@ Am    Dm7      Am     E7
 
 
 [Verse 3]
-              Am        Bm11/E      Am7     Bm7
-Well, it's a marvelous night for a moondance with the
-  Am       Bm11/E       Am7   Bm7
-Stars up above in your eyes
-      Am      Bm11/E         Am7     Bm7
-A fantabulous night to make romance 'neath the
- Am      Bm11/E    Am7     Bm7
-Color of October skies
-         Am           Bm11/E     Am7    Bm7
-All the leaves on the trees are falling to the
-Am           Bm11/E          Am7    Bm7
-Sounds of the breezes that blow
-         Am       Bm11/E        Am7    Bm7
-And I'm trying to place to the calling of your
- Am             Bm11/E          Am7    Bm7
-Heartstrings that play soft and low
-              Dm7 G  Am7    G13
-You know the night's magic seems to
-Dm7  G      Am7  G13
-Whisper and hush …you know the
-Dm7  G   Am7       G13           Dm7
-So - ft moonlight seems to shine
+Well, it's a m[Am]arvelous n[Bm11/E]ight for a m[Am7]oondance[Bm7] with the
+St[Am]ars up ab[Bm11/E]ove in your e[Am7]yes [Bm7]
+A fant[Am]abulous [Bm11/E]night to make r[Am7]omance '[Bm7]neath the
+C[Am]olor of [Bm11/E]October sk[Am7]ies [Bm7]
+All the l[Am]eaves on the [Bm11/E]trees are f[Am7]alling [Bm7]to the
+[Am]Sounds of the[Bm11/E] breezes that bl[Am7]ow [Bm7]
+And I'm t[Am]rying to [Bm11/E]place to the c[Am7]alling [Bm7]of your
+H[Am]eartstrings tha[Bm11/E]t play soft and [Am7]low [Bm7]
+You know the n[Dm7]ight[G]'s [Am7]magic s[G13]eems to
+[Dm7]Whisp[G]er and [Am7]hush [G13]…you know the
+[Dm7]So - [G]ft m[Am7]oonlight s[G13]eems to shine [Dm7]
               E7#9*
 In your blush
 
 
 [Chorus]
-    Am     Dm7      Am        Dm7
-Can I just have one more moondance with
- Am  Dm7        Am  Dm7
-You........my love
-    Am      Dm7       Am     Dm7
-Can I just make some more romance with
- Am  Dm7         Am    E7
-You.........my love
+Can [Am]I just [Dm7]have one [Am]more moond[Dm7]ance with
+Y[Am]ou..[Dm7]......my lo[Am]ve [Dm7]
+Can [Am]I just m[Dm7]ake some m[Am]ore rom[Dm7]ance with
+Y[Am]ou..[Dm7].......my lo[Am]ve [E7]
 
 
 [Verse 3]
-     Am     Bm11/E      Am7     Bm7
-One more moondance with you
-        Am     Bm11/E      Am7     Bm7
-In the moonlight
-     Am       Bm11/E      Am7     Bm7
-On a magic night
-     Am     Bm11/E      Am7     Bm7
-La la la la la la
-        Am     Bm11/E      Am7     Bm7
-In the moonlight…
-     Am     Bm11/E      Am7     Bm7
-On a magic night
+One m[Am]ore moo[Bm11/E]ndance with [Am7]you [Bm7]
+In the m[Am]oonligh[Bm11/E]t [Am7] [Bm7]
+On a [Am]magic nig[Bm11/E]ht [Am7] [Bm7]
+La la[Am] la la [Bm11/E]la la [Am7] [Bm7]
+In the m[Am]oonligh[Bm11/E]t… [Am7] [Bm7]
+On a [Am]magic n[Bm11/E]ight [Am7] [Bm7]
 
 
 [Outro]
     Am7   G13       F13          Em        Dm (open)
 Can I... just have... one more... moondance with you…
-           Am7
-My love
+My love [Am7]
