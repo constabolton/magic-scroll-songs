@@ -8,50 +8,36 @@ Written by Norman Whitfield and Barrett Strong
 
 
 [Intro]
-C       F       C       F
-/ / / / / / / / / / / / / / / /
-C       F       C       F
-Ooo ooo ooooo,  ooooooo / / / /
+[C]/ / / / [F]/ / / / [C]/ / / / [F]/ / / /
+[C]Ooo ooo [F]ooooo,  [C]ooooooo [F]/ / / /
 
 
 [Verse]
 
-C                            F                      C  F
-Each day through my window I watch up as she passes by / / / /
-C                       F            C   F
-I say to myself, You're such a lucky guy / / / /
-C                   F              C          F
-To have a girl like her is truly a dream come true
-       C                     F            C            F
-Out of all the fellas in the world, she belongs to you / / /
+[C]Each day through my window I [F]watch up as she passes [C]by [F]/ / / /
+[C]I say to myself, You're [F]such a lucky [C]guy [F]/ / / /
+[C]To have a girl like [F]her is truly a [C]dream come [F]true
+Out of [C]all the fellas in the [F]world, she be[C]longs to you [F]/ / /
 
 
 [Chorus]
 
-           C                   F       C                    F
-But it was just my 'magination / / / / runnin' away with me / /
-       C              F            C            F
-It was just my 'magination runnin' away with me / / / /
+But it was [C]just my 'magination [F]/ / / / [C]runnin' away with me [F]/ /
+It was [C]just my 'magina[F]tion runnin' [C]away with me [F]/ / / /
 
 
 [Verse]
 
-C                    F                   C          F
-(Soon) Soon we'll be married and raise a family (wo yeah)
-  C                    F                        C                     F
-A cozy little home out in the country, with two children, maybe three / / /
-            C   F           C           F
-I tell you, I------can visualize it all / / / /
-     C                    F                  C      F
-This couldn't be a dream, for too real it all seems  / / / /
+[C](Soon) Soon we'll be [F]married and raise a [C]family (wo [F]yeah)
+A [C]cozy little home out [F]in the country, with two [C]children, maybe three [F]/ / /
+I tell you, [C]I---[F]---can visua[C]lize it all [F]/ / / /
+This [C]couldn't be a dream, [F]for too real it all[C] seems [F] / / / /
 
 
 [Chorus]
 
-           C                   F          C                    F
-But it was just my 'magination once again runnin' away with me / /
-                 C              F            C
-Tell you, it was just my 'magination runnin' away with me 1 / / / 2
+But it was [C]just my 'magination [F]once again [C]runnin' away with me [F]/ /
+Tell you, it was [C]just my 'magina[F]tion runnin' [C]away with me 1 / / / 2
 
 
 [Bridge]
@@ -59,10 +45,8 @@ Tell you, it was just my 'magination runnin' away with me 1 / / / 2
 Every night, on my knees, I pray
 Dear Lord, hear my plea
 Don't ever let another take her love from me
-           G7
-Or I would surely die / / /
-            C
-Her love is heavenly
+Or I would [G7]surely die / / /
+Her love is [C]heavenly
 When her arms enfold me
 I hear a tender rhapsody
 But in reality, she doesn't even know me
@@ -72,7 +56,5 @@ But in reality, she doesn't even know me
 
 (Repeat and fade)
 
-C                   F          C                     F
-Just my 'magination once again runnin' away with me, oh
-                 C              F            C            F
-Tell you, it was just my 'magination runnin' away with me / / / /
+[C]Just my 'magination [F]once again [C]runnin' away with me, [F]oh
+Tell you, it was [C]just my 'magina[F]tion runnin' [C]away with me [F]/ / / /
