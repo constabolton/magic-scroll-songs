@@ -9,26 +9,18 @@ Song name: The Great Pretender  by  The Platters
 
 [Verse 1]
 
-    |G            C        |G        G7
-O-h, yes  I'm the great  pre-tender, (ooh, ooh).
-   |C                       |G      G7
-Pre-tending  that I'm  doing well, (ooh, ooh).
-  |C        D          |G         C
-My need  is such  I pre-tend  too much.
-   |G           D7         |G    D
-I'm lonely  but no  one can tell.
+O-h, yes  I'm the [C]great  pre-tender, [G7](ooh, ooh).
+Pre-tending  that I'm  doing well, ([G7]ooh, ooh).
+My need  is [D]such  I pre-tend  too [C]much.
+I'm lonely  but [D7]no  one can tell.[D]
 
 
 [Verse 2]
 
-    |G            C        |G        G7
-O-h, yes  I'm the great  pre-tender, (ooh, ooh).
- |C                       |G     G7
-A-drift  in a world  of my own, (ooh, ooh).
- |C         D           |G        C
-I play  the game  but to my  real shame.
-      |G           D7          |G      G7
-You've left me  to dream  all a-lone, (ooh, ooh).
+O-h, yes  I'm the [C]great  pre-tender, [G7](ooh, ooh).
+A-drift  in a world  of my own, ([G7]ooh, ooh).
+I play  the [D]game  but to my  real [C]shame.
+You've left me  to [D7]dream  all a-lone, ([G7]ooh, ooh).
 
 
 [Chorus]
@@ -42,16 +34,11 @@ Too real  when I feel  what my heart  can't con-ceal.
 
 
 [Verse 3]
-                |G            C         |G        G7
-(O-h, o-h, o-h), yes  I'm the great  pre-tender, (ooh, ooh).
-    |C                        |G       G7
-Just laugh-ing and gay  like a clown, (ooh, ooh).
- |C        D           |G        C
-I seem  to be  what I'm not  you see.
-   |G           D            |B
-I'm wearing  my heart  like a crown.
-   |G             D              |G       G7
-Pre-tending  that you're  still a-round, (ooh, ooh).
+(O-h, o-h, o-h), yes  I'm the [C]great  pre-tender, ([G7]ooh, ooh).
+Just laugh-ing and gay  like a clown, ([G7]ooh, ooh).
+I seem  to [D]be  what I'm not  you [C]see.
+I'm wearing  my [D]heart  like a crown.
+Pre-tending  that [D]you're  still a-round, ([G7]ooh, ooh).
 
 
 [Chorus]
@@ -66,21 +53,16 @@ Too real  when I feel  what my heart  can't con-cea - l.
 
 [Verse/Outro]
 
-                |G            C         |G        G7
-(O-h, o-h, o-h), yes  I'm the great  pre-tender, (ooh, ooh).
-    |C                        |G       G7
-Just laugh-ing and gay  like a clown, (ooh, ooh).
- |C        D           |G        C
-I seem  to be  what I'm not  you see.
+(O-h, o-h, o-h), yes  I'm the [C]great  pre-tender, ([G7]ooh, ooh).
+Just laugh-ing and gay  like a clown, ([G7]ooh, ooh).
+I seem  to [D]be  what I'm not  you [C]see.
 
                               / (break)
-   |G           D            |B
-I'm wearing  my heart  like a crown.
+I'm wearing  my [D]heart  like a crown.
 
                   / (break)
    |n.c.          D       |n.c. (slow >)  |
 Pre-tending  that you're   still  a-rou-nd,
 
  /        /              / (breaks)
- C            |G        |G
-(sti-ll   a - rou  -  nd).
+([C]sti-ll   a - rou  -  nd).
