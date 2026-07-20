@@ -8,8 +8,7 @@ Based on Harvest Moon unplugged version.
 
 
 [Intro] (x4)
-   D       D6       Dmaj7
-   1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+   [D]1 + 2 + [D6]3 + 4 +  [Dmaj7]1 + 2 + 3 + 4 +
 e |----0---0-------|9-9---9---9-9---|
 B |---10--12-------|1010--10--1010--|
 G |---11--11-------|1111--11--1111--|
@@ -26,8 +25,7 @@ D |----------h12---------|
 A |-------------h7-------|
 D |----------------------|
 
-Em7    220000
-G6     5x0000
+[Em7]G6     5x0000
 Alternate voicings for the D chords (verse)
 Dmaj7  000222
 D6     000432
@@ -42,34 +40,22 @@ D6     000432
 
 [Verse 1]
 
-Em7
-Come a little bit closer
-                   | D D6 | Dmaj7 | D D6 | Dmaj7 |
-Hear what I have to say
-Em7
-Just like children sleepin'
-                          | D D6 | Dmaj7 | D D6 | Dmaj7 |
-We could dream this night away
-G6
-But there's a full moon risin'
-                        | D D6 | Dmaj7 | D D6 | Dmaj7 |
-Let's go dancin' in the light
-G6
-We know where the music's playin'
-                          | D D6 | Dmaj7 | D D6 | Dmaj7 |
-Let's go out and feel the night
+[Em7]Come a little bit closer
+Hear what I have to s[D]ay[D6] [Dmaj7] [D] [D6] [Dmaj7]
+[Em7]Just like children sleepin'
+We could dream this night aw[D]ay[D6] [Dmaj7] [D] [D6] [Dmaj7]
+[G6]But there's a full moon risin'
+Let's go dancin' in the li[D]gh[D6]t [Dmaj7] [D] [D6] [Dmaj7]
+[G6]We know where the music's playin'
+Let's go out and feel the ni[D]gh[D6]t [Dmaj7] [D] [D6] [Dmaj7]
 
 
 [Chorus]
 
-        A7sus4                          A7
-        Because I'm still in love with you
-                                A7sus4
-        I wanna see you dance again
-                                       A
-        Because I'm still in love with you
-                        [ D ]
-        On this harvest moon
+        [A7sus4]Because I'm still in love with y[A7]ou
+        I wanna see you dance ag[A7sus4]ain
+        Because I'm still in love with [A]you
+        On this harvest mo[D]on
 
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
@@ -77,34 +63,22 @@ Let's go out and feel the night
 
 [Verse 2]
 
-Em7
-When we were strangers
-                   | D D6 | Dmaj7 | D D6 | Dmaj7 |
-I watched you from afar
-Em7
-And when we were lovers
-                         | D D6 | Dmaj7 | D D6 | Dmaj7 |
-I loved you with all my heart
-G6
-But now it's gettin' late
-                          | D D6 | Dmaj7 | D D6 | Dmaj7 |
-And the moon is climbin' high
-G6
-I want to celebrate
-                      | D D6 | Dmaj7 | D D6 | Dmaj7 |
-See it shinin' in your eye
+[Em7]When we were strangers
+I watched you from af[D]ar[D6] [Dmaj7] [D] [D6] [Dmaj7]
+[Em7]And when we were lovers
+I loved you with all my hea[D]rt[D6] [Dmaj7] [D] [D6] [Dmaj7]
+[G6]But now it's gettin' late
+And the moon is climbin' hig[D]h [D6] [Dmaj7] [D] [D6] [Dmaj7]
+[G6]I want to celebrate
+See it shinin' in your e[D]ye[D6] [Dmaj7] [D] [D6] [Dmaj7]
 
 
 [Chorus]
 
-        A7sus4                          A7
-        Because I'm still in love with you
-                                A7sus4
-        I wanna see you dance again
-                                       A
-        Because I'm still in love with you
-                        [ D ]
-        On this harvest moon
+        [A7sus4]Because I'm still in love with y[A7]ou
+        I wanna see you dance ag[A7sus4]ain
+        Because I'm still in love with [A]you
+        On this harvest mo[D]on
 
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
 | D D6 | Dmaj7 | D D6 | Dmaj7 |
@@ -120,14 +94,10 @@ See it shinin' in your eye
 
 [Chorus]
 
-        A7                             A7
-        Because I'm still in love with you
-                                A7sus4
-        I wanna see you dance again
-                                       A
-        Because I'm still in love with you
-                        [ D ]
-        On this harvest moon
+        [A7]Because I'm still in love with [A7]you
+        I wanna see you dance ag[A7sus4]ain
+        Because I'm still in love with [A]you
+        On this harvest mo[D]on
 
 
 [Outro]
