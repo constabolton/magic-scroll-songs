@@ -16,40 +16,30 @@ C Cmaj7 Cadd9 C Asus2 Asus4 Am Asus2
 Cadd9 C Cmaj7 Cadd9 Am Asus2 Asus4 Am
 
 [Verse 1]
-  C     G/B Am  G           Dm7           Am              G/B
-I close my eyes only for a moment and the moment's gone.
-C   G/B Am    G              Dm7        Am
-All my dreams pass before my eyes a curiosity.
+I [C]close [G/B]my e[Am]yes [G]only for a m[Dm7]oment and the [Am]moment's gone. [G/B]
+[C]All [G/B]my d[Am]reams [G]pass before my [Dm7]eyes a curi[Am]osity.
 
 [Chorus]
-D/F#    G        Am    D/F#          G           Am     G/B
-     Dust in the wind, all we are is dust in the wind.
+[D/F#]     Dus[G]t in the [Am]wind, [D/F#]all we are is [G]dust in the [Am]wind. [G/B]
 
 [Verse 2]
-C    G/B Am    G              Dm7         Am            G/B
-Same old song, just a drop of water in an endless sea.
-C   G/B Am  G               Dm7                Am
-All we do,  crumbles to the ground though we refuse to see.
+[C]Same [G/B]old [Am]song, [G]just a drop of [Dm7]water in an [Am]endless sea. [G/B]
+[C]All [G/B]we d[Am]o,  [G]crumbles to the [Dm7]ground though we re[Am]fuse to see.
 
 [Chorus]
-D/F#    G        Am    D/F#          G           Am
-     Dust in the wind, all we are is dust in the wind.
+[D/F#]     Dus[G]t in the [Am]wind, [D/F#]all we are is [G]dust in the [Am]wind.
 
 [Instrumental]
 C Cmaj7 Cadd9 C Asus2 Asus4 Am Asus2
 Cadd9 C Cmaj7 Cadd9 Am Asus2 Asus4 Am
 
 [Verse 3]
-     C     G/B  Am  G                Dm7           Am
-Now, don't hang on, nothing lasts forever but the earth and sky.
-   C     G/B Am      G              Dm7           Am
-It slips a - way and all your money won't another minute buy.
+Now, [C]don't [G/B]hang [Am]on, [G]nothing lasts for[Dm7]ever but the e[Am]arth and sky.
+It [C]slips [G/B]a - [Am]way and [G]all your money [Dm7]won't another [Am]minute buy.
 
 [Chorus]
-D/F#    G        Am    D/F#          G           Am
-     Dust in the wind, all we are is dust in the wind.
-D/F#    G        Am    D/F#          G           Am
-     Dust in the wind, everything is dust in the wind.
+[D/F#]     Dus[G]t in the [Am]wind, [D/F#]all we are is [G]dust in the [Am]wind.
+[D/F#]     Dus[G]t in the [Am]wind, [D/F#]everything is [G]dust in the [Am]wind.
 
 [Outro]
 Am Asus2 Asus4 Am Asus2 Asus4  x3
