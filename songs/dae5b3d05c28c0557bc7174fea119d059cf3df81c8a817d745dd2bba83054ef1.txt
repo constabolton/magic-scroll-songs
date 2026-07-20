@@ -5,60 +5,41 @@ Song name: In My Room  by  The Beach Boys
 
         (arpeggiated guitar w/tremolo; harp enters on F#)
 
-         B             G#m7          C#m7           F#
-        [x2444x]     [4x444x]      [x464x0]      [244322]
+        [[B]x2444x]     [4[G#m7]x444x]      [x[C#m7]464x0]      [24[F#]4322]
 
 
 [Verse 1]
 
-          B
-        There's a world where I can go
-                     A      B   G#m7
-        And tell my secrets to
-              C#m7   A    F#
-        In my roo    oo   oom
-               B     A     B      
-        In my room ( in my room )
+        Th[B]ere's a world where I can go
+        And tell my s[A]ecrets [B]to [G#m7]
+        In my [C#m7]roo    [A]oo   [F#]oom
+        In my r[B]oom ( [A]in my [B]room )
 
 
 [Verse 2]
-        B
-        In this world I lock out all my
-                A      B     G#m7
-        Worries and my fears
-              C#m7   A    F#
-        In my roo    oo   oom
-              B      A     B
-        In my room ( in my room )
+        [B]In this world I lock out all my
+        Worries [A]and my [B]fears [G#m7]
+        In my [C#m7]roo    [A]oo   [F#]oom
+        In my [B]room ( [A]in my [B]room )
 
 
 [Bridge]
 
-        G#m            F#
-        Do my dreaming and my scheming,
-        G#m   F#  G#m   F#   B
-        Lie   a   wake  and  pray
-        G#m          F#
-        Do my crying and my sighing,
-        C#m7                F#
-        Laugh at yesterday -ay
+        [G#m]Do my dreaming [F#]and my scheming,
+        [G#m]Lie   [F#]a   [G#m]wake  [F#]and  [B]pray
+        [G#m]Do my crying [F#]and my sighing,
+        [C#m7]Laugh at yesterday -[F#]ay
 
 
 [Verse 3]
-        B
-        Now it's dark and I'm alone, but
-                A    B      G#m7
-        I won't be a fraid
-              C#m7  A   F#
-        In my roo   oo  oom
-              B      A     B
-        In my room ( in my room )
+        [B]Now it's dark and I'm alone, but
+        I won't [A]be a [B]fraid [G#m7]
+        In my [C#m7]roo   [A]oo  [F#]oom
+        In my [B]room ( [A]in my [B]room )
 
 
 [Outro]
 
-        A     B      A     B
-        In my room ( in my room )
+        [A]In my [B]room ( [A]in my [B]room )
 
-         A     B      A    B
-        In my room ( in my room ) fade ....
+        I[A]n my r[B]oom ( i[A]n my [B]room ) fade ....
