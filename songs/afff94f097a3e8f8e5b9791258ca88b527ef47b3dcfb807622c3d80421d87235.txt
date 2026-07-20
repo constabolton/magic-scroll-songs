@@ -1,0 +1,21 @@
+%%abc-charset utf-8
+
+X:1
+T: Goddesses
+R: Reel
+C: The Dancing Master, Playford, 1651
+M: 4/4
+L: 1/8
+K: Am
+P: Worshop version
+"Am"A2A2 c2BA|"G"B2B2 d2cB|"F"A2A2 c2BA|"D"e4 e2e2:|
+"C"g2e2 c2e2|"G"d2B2 G2AB|"F"c2c2 "G"B2B2|"Am"A4 A2A2:|
+P: Original Playford
+"Am"A2A2 c2BA|"G"B2B2 d2cB|"Am"A2A2 c2BA|"Em"e2e2 e4:|
+"C"g2e2 c3e|"G"d2B2 G3A|"Am"c2A2 "G"G3B|"Am"A2A2 A4:|
+P: Later Playford
+"Am"A2AB c2BA|"G"B2Bc d2cB|"Am"A2AB c2BA|"Em"e2 e2 e4:|
+"C"g2ed c3e|"G"d2BA G3B|"Am"c2BA "E"^GAB2|"Am"A2A2 A4:|
+P: Paul James version
+G2GA _B2AG|A2A_B c2_BA|G2GA _B2AG|d2d2 d4:|
+f2dc _B2d2|c2AG F2A2|_B2AG ^F2GA|G2G2 G4:|

@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Barham Down
+C: Playford, Dancing Master, 1701
+R: Triple Hornpipe
+M: 3/2
+L: 1/8
+K: D
+"D"A2GF E2D2 A2d2|"D"A2GF "A7"G2A2 "A"E4|"D"A2GF E2D2 "A"A2c2|
+|1"D"d2ef "A"gfec "D"d4:|2"D"d2ef "A"gfec "D"d2||
+|:"(A7)"fg|"D"a2f2 d2a2 f2d2|"Em"g2B2 e2B2 "A"c4|"D"d2cB AGFE FGAF|
+|1"G"B2cd "A"cdec "D"d2:|2"G"B2cd "A"cdec "D"d4||

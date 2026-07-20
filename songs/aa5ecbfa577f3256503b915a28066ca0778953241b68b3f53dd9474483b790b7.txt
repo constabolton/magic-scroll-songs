@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Black Dance, The
+C: Traditional, Scotland and England
+R: Polka
+L: 1/16
+M: 2/4
+K: D
+AF|"D"D2D2 "Em"EFGE|"A"ABAG "D"F2AF|"D"D2D2 "Em"EFGE|"A"A6|
+AF|"D"D2D2 "Em"EFGE|"A"ABAG "D"F2AF|"D"D2D2 "Em"EFGE|"D"A6||
+Bc|"G"d2d2d2 cB|"D"A2A2A2 GF|"Em"E2EF "G"G2GA|"Bm"B2A2 "D"A2|
+Bc|"G"d2d2d2 cB|"D"A2A2A2 GF|"Em"E2EF "A7"G2FE|"D"D2D2D2|]

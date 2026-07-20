@@ -1,0 +1,13 @@
+%%abc-charset utf-8
+
+X:1
+T: Young May Moon, The
+C: Traditional, England and Scotland
+R: Jig
+M: 6/8
+L: 1/8
+K: D
+Bc|"D"d2A d2A|"D"BAG FGA|"D"d2d "A"ede|"Bm"f2 dd|
+ef|"G"g2gf2d|"Em"efd cBA|"G"BAG FGA|"A"B2AA:|
+fg|"D"a2a afd|"G"b2b afd|"Bm"b2b afd|f2"A"ee|
+fa|"G"b2b a2f|"Bm"fed "Am"cBA|"Em"BAG "F#m"FGA|"G"B2 AA:|

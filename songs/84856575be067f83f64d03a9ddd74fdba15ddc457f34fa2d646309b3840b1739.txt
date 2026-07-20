@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: Leaving Uist
+C: Fred Morrison
+R: Waltz
+M: 3/4
+L: 1/8
+K: Em
+ed|"Em"B3A AG|"Em"AGE3G|"D"A2B2d2|"Em"e3e "D/F#"de|
+"G"g3a "C"ag|"G"edB3A|1"G"G3B AG|"Em"E4:|2"G"G3B de|"Am"A4||
+a2|"Am"a4 "Bm"b2|"C"age2eB|"D"d3eg2|"G"g4ag|"Em"de ga ed|
+"Em"AB de AG|"Em"EG2B AG|"C"E4ed|"Em"B3A AG|"Em"AGE3G|
+"D"A2B2d2|"Em"e3e "D/F#"de|"G"g3a "C"ag|"G"edB3A|"G"G3B de|"Am"A4|]

@@ -1,0 +1,11 @@
+%%abc-charset utf-8
+
+X:1
+T: In Dulci Jubilo
+C: Traditional, Germany, 1300s, via Pearsall and Mike Oldfield
+R: Jig
+M: 6/8
+L: 1/8
+K: G
+D|"G"G2G B2c|"Em7"d2e d2B|"G"G2G B2c|"Em7"d2e d3|"G"d2e d2c|
+"Em"B3 G2G|"D"A2A B2A|"G"G2A B2c|"G"d2e "D"d2c|"G"B3 "Em"G2G|"Am"A2A "D"B2A|"G"G2A BAG|"C"E2E "D"FEF|"G"G3 d2c|"Em"B2B "D"ABA|"G"(G3 G2) |]

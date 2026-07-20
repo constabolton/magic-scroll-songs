@@ -1,0 +1,19 @@
+%%abc-charset utf-8
+
+X:1
+T: Holly Bears a Berry, The
+R: Waltz
+C: Traditional, England, Arranged for dance by John Waterworth
+M: 3/4
+L: 1/8
+K: G
+P: 40 bars - 32 bars with 8 bar waltz on
+GB|"G"d2d2dc|"G"B2G2B2|"C"c2"D"A2F2|"G"G4 GB|"G"d2d2dc|
+"G"B2G2B2|"C"c2"D"A2F2|"G"G4Bc||"G"d2"Em"d2ef|"G"g2d2Bc|"G"d2"Em"d2Ac|
+"G"B4GB|"G"d2d2dc|"G"B2G2B2|"C"c2"D"A2F2|"G"G4:|
+G2|"D"A4A2|"G"B4G2|"D"A4A2|"G"B4GB|"G"d2d2dc|"G"B2G2B2|"C"c2 "D"A2F2|"G"G4|]
+P: 32 bars
+GB|"G"d2d2dc|"G"B2G2B2|"C"c2"D"A2F2|"G"G4 GB|"G"d2d2dc|
+"G"B2G2B2|"C"c2"D"A2F2|"G"G4Bc||"G"d2"Em"d2ef|"G"g2d2Bc|"G"d2"Em"d2Ac|
+"G"B4GB|"G"d2d2dc|"G"B2G2B2|"C"c2"D"A2F2|"G"G4||
+|:G2|"D"A4A2|"G"B4G2|"D"A4A2|"G"B4GB|"G"d2d2dc|"G"B2G2B2|"C"c2 "D"A2F2|"G"G4:|

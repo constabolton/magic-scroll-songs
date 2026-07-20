@@ -1,0 +1,12 @@
+%%abc-charset utf-8
+
+X:1
+T: Bonny Miller, The
+C: Traditional, England, Northumbria, William Vickers Manuscript, 1770
+R: Triple Hornpipe
+M: 3/2
+L: 1/8
+K: Bm
+"G"G2B2 B2g2 f4|G2B2 -B2"A"e2 c2A2|"G"G2B2 B2g2 f4|"A"e2A2 -A2e2 c2A2:|
+"D"fga2 f2d2 "G/D"g4|"D"fga2 f2d2 "A/D"e2A2|"D"fga2 f2d2 "G/D"g2>f2|"A"e2A2 -A2e2 c2A2:|
+"Bm"d2B2 f2B2 a2B2|f2B2 -B2"A"e2 c2A2|"G"d2B2 f2B2 a2B2|"A"e2A2 -A2e2 c2A2:|

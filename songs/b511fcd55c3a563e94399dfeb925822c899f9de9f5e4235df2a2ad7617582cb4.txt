@@ -1,0 +1,15 @@
+%%abc-charset utf-8
+
+X:1
+T: Midnight on the Water
+C: Luke Thomasson
+M: 3/4
+L: 1/8
+R: Waltz
+K: D
+DE|"D"F2 F2 FE|"Bm"F2 F2 FE|"D"F2<A2 "G"AB|"D"AF ED|
+DE|"D"F2d2 "G"Bd|"D"A2>F2 DE|"A"F2F2 EF|"D"D4:|
+Bc|"D"d2d2>e2|"Bm"dc BA Bc|"D" d2>B2 AF |"D" D4|
+d2 |"Em" e2e2>f2 |"Em7" e2>d2 ed |"Bm" f2>g2 fe |"F#m7" dc BA|
+Bc |"G" d2>c2 de |"G" dc BA Bc |"D" d2>B2 AF |"D" D4|
+DE |"D" F2d2 "G" Bd |"D" A2>F2 DE |"A" F2 AF EF |"D" D4 |]

@@ -1,0 +1,14 @@
+%%abc-charset utf-8
+
+X:1
+T: I'm Going to Speke
+C: Joe Scurfield
+R: Jig
+L: 1/8
+M: 6/8
+K: D
+c|"D"dfd "A"ecA|"G"BdB "A"AFE|"D"DED FDG|"D"DAD BD|
+c|"D"dfd "A"ecA|"G"BdB "A"AFE|"D"DED FDG|"A"AFE "D"D2:|
+K: Bmin
+A|"Bm"BFA BFA|"Bm"Bde fed|"G"BFA BFA|"A"cBA FAc|
+"Bm"BFA BFA|"Bm"Bde fed|"G"B2B cBA|"A"FAc "Bm"B2:|
