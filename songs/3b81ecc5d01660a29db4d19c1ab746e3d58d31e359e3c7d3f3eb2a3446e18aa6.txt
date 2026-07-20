@@ -8,82 +8,53 @@ https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song)
 
 [Intro]
 
-A              Amaj7
-I'll light the fire
-F#m           A              D
-You place the flowers in the vase
-         A        D   D  E
-That you bought today
+[A]I'll light the [Amaj7]fire
+[F#m]You place the [A]flowers in the [D]vase
+That you [A]bought to[D]day [D] [E]
 
 [Verse 1]
 
-A              Amaj7
-Staring at the fire
-    F#m       A
-For hours and hours
-        D      A      D         E
-While I listen to you play your love songs
-D         E        A Amaj7
-All night long for me
-F#m      A D   F
-Only for me
+[A]Staring at the [Amaj7]fire
+For [F#m]hours and [A]hours
+While I [D]listen [A]to you [D]play your [E]love songs
+[D]All night [E]long for [A]me[Amaj7]
+[F#m]Only for [A]me[D] [F]
 
 [Verse 2]
 
-A          Amaj7
-Come to me now
-    F#m                A
-And rest your head for just five minutes
-D    A        D  E
-Everything is done
-A           Amaj7
-Such a cozy room
-    F#m           A
-The windows are illuminated
-D      A       D        E
-By the evening sunshine through them
-D     E        A  Amaj7
-Fiery gems for you
-F#m      A D  F
-Only for you
+[A]Come to me [Amaj7]now
+And [F#m]rest your head for [A]just five minutes
+[D]Every[A]thing is [D]don[E]e
+[A]Such a cozy [Amaj7]room
+The [F#m]windows are il[A]luminated
+[D]By the [A]evening [D]sunshine [E]through them
+[D]Fiery [E]gems for [A]you[Amaj7]
+[F#m]Only for [A]yo[D]u [F]
 
 [Chorus]
 
-A   Amaj7       F#m                   A
-Our house, is a very, very, very fine house
-     D               A
-With two cats in the yard
-     D             A
-Life used to be so hard
-    D             A              D      Bm  D
-Now everything is easy 'cause of you    and I
+[A]Our [Amaj7]house, is a [F#m]very, very, very fine [A]house
+With [D]two cats in the [A]yard
+Life [D]used to be so [A]hard
+Now [D]everything is [A]easy 'cause of [D]you    [Bm]and [D]I
 
 [Bridge]
 
-A  Amaj7  F#m  A   D  A   D  E  E7
-La la la...
-A  Amaj7  F#m  A   D  F
-La la la...
+[A]La [Amaj7]la la..[F#m]. [A] [D] [A] [D] [E] [E7]
+[A]La [Amaj7]la la..[F#m]. [A] [D] [F]
 
 [Chorus]
 
-A   Amaj7       F#m                   A
-Our house, is a very, very, very fine house
-     D               A
-With two cats in the yard
-     D             A
-Life used to be so hard
-    D             A              D   Bm  D
-Now everything is easy 'cause of you
+[A]Our [Amaj7]house, is a [F#m]very, very, very fine [A]house
+With [D]two cats in the [A]yard
+Life [D]used to be so [A]hard
+Now [D]everything is [A]easy 'cause of [D]you [Bm] [D]
 
 [Outro]
 
-A              Amaj7
-I'll light the fire
-      F#m           A              D
-While you place the flowers in the vase
-         F        A  A
-That you bought today
+[A]I'll light the [Amaj7]fire
+While [F#m]you place the [A]flowers in the [D]vase
+That you [F]bought to[A]day[A]
 
 * Alternates:
 
