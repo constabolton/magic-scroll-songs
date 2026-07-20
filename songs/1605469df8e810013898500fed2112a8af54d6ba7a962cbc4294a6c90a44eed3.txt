@@ -1,0 +1,24 @@
+X:1
+T: Creole Belles
+C: J. Bodewalt Lampe and George Sidney
+M: 4/4
+L: 1/16
+K: C
+"Em"E2^F2G2A2BB2GB4|
+"C"cc2ce2c2"D7"dd^d2e2^f2|
+z"G"g2ag2e2dd2ed^c=c2|
+B3B-B4-B2GABAG2|
+"D7"A3A-A4-A2ABcBA2|
+d2D2^d2^D2e2E2^f2^F2|
+z"G"g2ag2e2dd2ed^c=c2|
+B3B-B4-B2GABAG2|
+"D7"A3A-A4-A2ABcBA2|
+"G"G8-G2GABAG2|
+"C"E8-E2GABAG2|
+"G"D8-DG3^F2E2|
+"D7"D3^F-F2A2e6^c2|
+"G"d8-d2GABAG2|
+"C"E8-E2GABAG2|
+"G"D8-DG3^F2E2|
+"D7"D4^D4E4^F4|
+"G"G4d4e4^f4|]
