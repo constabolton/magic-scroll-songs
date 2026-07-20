@@ -6,23 +6,16 @@ RAMBLIN' MAN (Dickey Betts)
 Intro: || G5            | A7            | C     -  D7       | G    |
                Original:|D7              |
 CHORUS:
-||G         | Fmaj7             |G    - G7sus     | G             |        
-Lord, I was born a ramblin' man,
-|G                       |C               | D7    |  */*  |       
-try to make a living and doing the best I can 
-|C                  | G          | Em           |C(maj7)    
-But when it's time for leaving, I hope you'll understand,
-|G               |D7                  | G   - G7sus | G         ||
-That I was born a ramblin' man.
+Lord, I was bo[Fmaj7]rn a ramblin' man, [G7sus] [G]
+try to make a living and doing the best I ca[D7]n 
+But when it's time for[G] leaving, I h[Em]ope you'll understand,
+That I was born a ramblin' man. [G] [G7sus] [G]
 
-||G            | Fmaj7         |G   -  G7sus | G    |       
-My father was a gambler down in Georgia,
-  | G             |C             |D7   |  */*  | 
-He wound up on the wrong end of a gun. 
+My father was a g[Fmaj7]ambler down in Georgia[G7sus], [G]
+He w[G]ound up on the wrong end of a gun. 
    | C               | G       |Em    |Cmaj7)|                              
 And I was born in the back seat of a .. Greyhound  bus,  
-| G             | D7           |G  -  G7sus  |G            ||
-   Rolling down   highway forty-one.
+  [G] Rolling down   [D7]highway forty-one. [G7sus]
 
 CHORUS +  Intro + Solo over het schema.
 
