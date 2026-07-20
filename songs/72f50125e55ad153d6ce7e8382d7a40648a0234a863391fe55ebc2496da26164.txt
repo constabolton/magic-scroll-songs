@@ -14,94 +14,56 @@ E|---------------------------------------------------------|
 C     Em F    x4
 
 [Verse 1]
-C               Em
-  Here we stand   like an Adam and an Eve
-Dm            G
-  Waterfalls,   the Garden of Eden
-C                   Em
-  Two fools in love   so beautiful and strong
-Dm                       G
-  The birds in the trees   are smiling upon them
-B                     Em                  B          Em
-  From the age of the dinosaurs cars have run on gasoline
-   C     Em                    F       G
-Where, where have they gone? Now, it's nothing but flowers
+[C]  Here we stand [Em]  like an Adam and an Eve
+[Dm]  Waterfalls, [G]  the Garden of Eden
+[C]  Two fools in love [Em]  so beautiful and strong
+[Dm]  The birds in the trees [G]  are smiling upon them
+[B]  From the age of the [Em]dinosaurs cars have [B]run on gaso[Em]line
+Whe[C]re, wh[Em]ere have they gone? No[F]w, it's [G]nothing but flowers
 
 [Chorus 1]
-C                     G               F             C
-  There was a factory,  now there are mountains and rivers
-G             F
-  You got it,   you got it
-C                          G               F             C
-  We caught a rattlesnake,   now we've got something for dinner
-G             F
-  You got it,   you got it
-D                            A              G            D
-  There was a shopping mall,   now it's all covered with flowers
-A             G
-  You got it,   you got it
-D                      A          G        D
-  If this is paradise,   I wish I had a lawnmower
-A             G
-  You got it,   you got it
+[C]  There was a factory,[G]  now there are [F]mountains and [C]rivers
+[G]  You got it, [F]  you got it
+[C]  We caught a rattlesnake, [G]  now we've got [F]something for [C]dinner
+[G]  You got it, [F]  you got it
+[D]  There was a shopping mall, [A]  now it's all [G]covered with [D]flowers
+[A]  You got it, [G]  you got it
+[D]  If this is paradise, [A]  I wish I [G]had a law[D]nmower
+[A]  You got it, [G]  you got it
 
 [Link]
 C     Em F    x2
 
 [Verse 2] 
-C           Em
-  Years ago   I was an angry young man
-Dm            G
-  I'd pretend   that I was a billboard
-C               Em
-  Standing tall   by the side of the road
-Dm               G
-  I fell in love   with the beautiful highway
-B                 Em                    B               Em
-  This used to be real estate, now it's only fields and trees
-  C     Em                 F        G
-Where, where is the town? Now, it's nothing but flowers
+[C]  Years ago [Em]  I was an angry young man
+[Dm]  I'd pretend [G]  that I was a billboard
+[C]  Standing tall [Em]  by the side of the road
+[Dm]  I fell in love [G]  with the beautiful highway
+[B]  This used to be [Em]real estate, now it's [B]only fields and [Em]trees
+Wh[C]ere, w[Em]here is the town? N[F]ow, it's [G]nothing but flowers
 
 [Bridge 1]
-Dm                   A       Dm             A
-  The highways and cars were sacrificed for agriculture
-Fm                          C      Fm                   G
-  I thought that we'd start o-over,   but I guess I was wrong
+[Dm]  The highways and ca[A]rs were [Dm]sacrificed for [A]agriculture
+[Fm]  I thought that we'd start [C]o-over,[Fm]   but I guess I was [G]wrong
 
 [Chorus 2]
-C                               G            F         C
-  Once there were parking lots,   now it's a peaceful oasis
-G             F
-  You got it,   you got it
-C                       G              F            C
-  This was a Pizza Hut,   now it's all covered with daisies
-G             F
-  You got it,   you got it
-D                         A                G   D
-  I miss the Honky Tonks, Dairy Queens and 7-Elevens
-A             G
-  You got it,   you got it
-D                           A          G         D
-  And as things fell apart,   nobody payed much attention
-A             G
-  You got it,   you got it
+[C]  Once there were parking lots, [G]  now it's a [F]peaceful o[C]asis
+[G]  You got it, [F]  you got it
+[C]  This was a Pizza Hut, [G]  now it's all [F]covered with [C]daisies
+[G]  You got it, [F]  you got it
+[D]  I miss the Honky Tonks, [A]Dairy Queens and [G]7-El[D]evens
+[A]  You got it, [G]  you got it
+[D]  And as things fell apart, [A]  nobody pa[G]yed much a[D]ttention
+[A]  You got it, [G]  you got it
 
 [Instrumental]
-D     A  A/G 
-(x 18 bars)
+[D](x 18 [A]bar[A/G]s)
 
 [Chorus 3]
-D                         A              G              D
-  I dream of cherry pies, candy bars and chocolate chip cookies
-A             G
-  You got it,   you got it
-D                       A             G            D
-  We used to microwave,   now we just eat nuts and berries
-A             G
-  You got it,   you got it
-D                            A               G      D
-  This was a discount store, now it's turned into a cornfield
-A             G
-  You got it,   you got it
-D                               A             G            D
-  Don't leave me stranded here,   I can't get used to this lifestyle
+[D]  I dream of cherry pies, [A]candy bars and [G]chocolate chip [D]cookies
+[A]  You got it, [G]  you got it
+[D]  We used to microwave, [A]  now we just [G]eat nuts and [D]berries
+[A]  You got it, [G]  you got it
+[D]  This was a discount store, [A]now it's turned [G]into a [D]cornfield
+[A]  You got it, [G]  you got it
+[D]  Don't leave me stranded here, [A]  I can't get [G]used to this [D]lifestyle
