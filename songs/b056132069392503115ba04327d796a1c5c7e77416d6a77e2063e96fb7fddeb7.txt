@@ -21,10 +21,8 @@ FM7       D Dsus4 D
 
 [Chorus]
 
-FM7                                         D
-   Old man, look at my life, I'm a lot like you were
-FM7                                         D
-   Old man, look at my life, I'm a lot like you were
+[FM7]   Old man, look at my life, I'm a lot like [D]you were
+[FM7]   Old man, look at my life, I'm a lot like [D]you were
 
 
 [Instrumental]
@@ -35,26 +33,18 @@ D F C F
 
 [Verse 1]
 
-D          F
-  Old man, look at my life
-C                         G
-  Twenty four and there's so much more
-D                 F
-  Live alone in a paradise
-     C                  F
-That makes me think of two
+[D]  Old man, [F]look at my life
+[C]  Twenty four and there's [G]so much more
+[D]  Live alone in a [F]paradise
+That [C]makes me think of t[F]wo
 
 
 [Verse 2]
 
-D            F
-  Love lost, such a cost
-C                     G
-  Give me things that don't get lost
-D                  C
-  Like a coin that won't get tossed
-F                 G
-Rollin' home to you
+[D]  Love lost, [F]such a cost
+[C]  Give me things that [G]don't get lost
+[D]  Like a coin that [C]won't get tossed
+[F]Rollin' home to yo[G]u
 
 
 [Link]
@@ -67,12 +57,9 @@ D   Am7 Em7 G D/F#
 
 [Chorus]
 
-D                                       Am7      Em7  G
-  Old man, take a look at my life I'm a lot like you
-D                               Am7       Em7      G
-  I need someone to love me the whole day through
-D                                     Am7         Em7
-  Oh, one look in my eyes and you can tell that's true
+[D]  Old man, take a look at my life I'm a [Am7]lot like [Em7]you [G]
+[D]  I need someone to love me the [Am7]whole day [Em7]through [G]
+[D]  Oh, one look in my eyes and you can [Am7]tell that's [Em7]true
 
 
 [Instrumental]
@@ -83,26 +70,18 @@ D F C F
 
 [Verse 3]
 
-D            F
-  Lullabies, look in your eyes
-C                G
-  Run around the same old town
-D                   F
-  Doesn't mean that much to me
-   C                   F
-To mean that much to you
+[D]  Lullabies, [F]look in your eyes
+[C]  Run around the [G]same old town
+[D]  Doesn't mean that [F]much to me
+To [C]mean that much to yo[F]u
 
 
 [Verse 4]
 
-D           F
-  I've been first and last
-C                 G
-  Look at how the time goes past
-D              C
-  But I'm all alone at last
-F                 G
-Rolling home to you
+[D]  I've been [F]first and last
+[C]  Look at how the [G]time goes past
+[D]  But I'm all a[C]lone at last
+[F]Rolling home to yo[G]u
 
 
 [Link]
@@ -112,20 +91,15 @@ D   Am7 Em7 G D/F#
 
 [Chorus]
 
-D                                       Am7      Em7  G
-  Old man, take a look at my life I'm a lot like you
-D                               Am7       Em7      G
-  I need someone to love me the whole day through
-D                                     Am7         Em7
-  Oh, one look in my eyes and you can tell that's true
+[D]  Old man, take a look at my life I'm a [Am7]lot like [Em7]you [G]
+[D]  I need someone to love me the [Am7]whole day [Em7]through [G]
+[D]  Oh, one look in my eyes and you can [Am7]tell that's [Em7]true
 
 
 [Outro]
 
-FM7                                         D    Dsus4  D
-   Old man, look at my life, I'm a lot like you were
-FM7                                         D
-   Old man, look at my life, I'm a lot like you were
+[FM7]   Old man, look at my life, I'm a lot like [D]you w[Dsus4]ere [D]
+[FM7]   Old man, look at my life, I'm a lot like [D]you were
 
 D F C G
 D
