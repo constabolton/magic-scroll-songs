@@ -14,14 +14,10 @@ E|--------------------------------------------|
 
 [Verse 1]
 
-          G      D      Em     G7/F       C   Cm         G
-There are places I'll remember     all my li--ife though some have changed,
-        G    D       Em    G7/F            C   Cm      G
-Some forever not for better,    some have go--one and some remain.
-          Em               C             F                    G
-All these places had their moments, with lovers and friends I still can recall,
-         Em                A          Cm           G    
-Some are dead and some are living, in my life I've loved them all.
+There are [G]places [D]I'll re[Em]member [G7/F]    all my [C]li--[Cm]ife though [G]some have changed,
+Some for[G]ever [D]not for [Em]better[G7/F],    some have g[C]o--o[Cm]ne and s[G]ome remain.
+All these [Em]places had their [C]moments, with [F]lovers and friends I [G]still can recall,
+Some are [Em]dead and some are [A]living, in [Cm]my life I've [G]loved them all.
 
 
     G              D                   
@@ -35,14 +31,10 @@ E|-----------------------|
 
 [Verse 2]
 
-       G         D           Em     G7/F          C  Cm     G
-But of all these friends and lovers,     there is no one compares with you,
-          G        D          Em      G7/F         C        Cm      G
-And these memories lose their meaning,      when I think of love as something new.
-         Em                    C            F                      G
-Though I know I'll never lose affection for people and things that went before,
-  Em                              A7            Cm           G   
-I know I'll often stop and think about them, in my life I'll love you more.
+But of [G]all these [D]friends and [Em]lovers,[G7/F]     there is [C]no [Cm]one com[G]pares with you,
+And these [G]memories [D]lose their [Em]meaning,[G7/F]      when I [C]think of [Cm]love as [G]something new.
+Though I [Em]know I'll never lose a[C]ffection for [F]people and things that [G]went before,
+I [Em]know I'll often stop and think a[A7]bout them, in [Cm]my life I'll [G]love you more.
 
 
 [Piano Solo]
@@ -54,10 +46,8 @@ I know I'll often stop and think about them, in my life I'll love you more.
 
 [Verse 3]
 
-         Em                    C            F                      G
-Though I know I'll never lose affection for people and things that went before,
-  Em                              A7            Cm           G   
-I know I'll often stop and think about them, in my life I'll love you more.
+Though I [Em]know I'll never lose a[C]ffection for [F]people and things that [G]went before,
+I [Em]know I'll often stop and think a[A7]bout them, in [Cm]my life I'll [G]love you more.
 
    G               D                   
 E|-----3-----------2-----|
@@ -67,8 +57,7 @@ D|-----------------------|
 A|-----------------------|
 E|-----------------------|
 
-   Cm                          
-In my life I'll love you
+In [Cm]my life I'll love you
  
    G               D      D7     G      
 E|-----3-----------2------2-0-2--3-------|
