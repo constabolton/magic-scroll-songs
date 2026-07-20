@@ -10,46 +10,30 @@ INTRO:
 D D7
 
 #1.
-G     Em      Bm        C       D7        G   E7
-Where.....the boys are, someone waits for me..
-Am        D7      G      Em         C#m
-a smiling face, a warm embrace..two arms 
-   F#            Bm  D7
-to hold me tenderly.
+[G]Where.[Em]....the [Bm]boys are, [C]someone [D7]waits for [G]me..[E7]
+[Am]a smiling [D7]face, a [G]warm em[Em]brace..two [C#m]arms 
+to [F#]hold me tender[Bm]ly. [D7]
 
 #2.
-G     Em      Bm        C       D7        G  E7
-Where.....the boys are, my true love will be.
-Am           D7         G         Em
-He's walking down, some street in town..
-      Am        D                 G  C G
-and I know he's looking there for me.
+[G]Where.[Em]....the [Bm]boys are, [C]my true [D7]love will [G]be.[E7]
+[Am]He's walking [D7]down, some [G]street in [Em]town..
+and I [Am]know he's [D]looking there for [G]me.[C] [G]
 
 CHORUS:
-Am     D7         G       Em      Am    D7
-In the crowd of a million people..I'll find 
-        G    E7
-my Valentine.
-    Am         D7          G       Em
-And then I'll climb to the highest steeple..
-A            A7         Cm   D7
-and tell the world he's mine.
+[Am]In the [D7]crowd of a [G]million [Em]people..[Am]I'll f[D7]ind 
+my Valen[G]tine.[E7]
+And [Am]then I'll c[D7]limb to the [G]highest [Em]steeple..
+[A]and tell the [A7]world he's [Cm]mine.[D7]
 
 #3.
-G    Em     Bm             C      D7       Fdim7 E7
-Till.....he holds me, I'll wait impatient..ly.
-          Am                  Bm
-Where the boys are, where the boys are..
-          C         D7                G   Eb7
-where the boys are, someone waits for me.
+[G]Till.[Em]....he [Bm]holds me, I'll [C]wait im[D7]patient..[Fdim7]ly. [E7]
+Where the [Am]boys are, where the [Bm]boys are..
+where the [C]boys are, [D7]someone waits for [G]me. [Eb7]
 
 OUTRO:
-Ab   Fm     Cm             Db     Eb7      Gbdim7 F7
-Till.....he holds me, I'll wait impatient..ly.
-          Bbm                 Cm
-Where the boys are, where the boys are..
-          Db        Eb7               Ab  Fm Db Gbmaj7 Ab
-where the boys are, someone waits for me.
+[Ab]Till.[Fm]....he [Cm]holds me, I'll [Db]wait im[Eb7]patient..[Gbdim7]ly. [F7]
+Where the [Bbm]boys are, where the [Cm]boys are..
+where the [Db]boys are, [Eb7]someone waits for [Ab]me. [Fm] [Db] [Gbmaj7] [Ab]
 
 
 A sixties smash from Kraziekhat.
