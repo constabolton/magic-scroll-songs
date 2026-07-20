@@ -13,8 +13,7 @@ F#m7 might be played as 2-x-2-2-1(0) = F#m7(b5)
 
 
 Guitar line in the second part of the Middle 8:
-  Gm               Cm      D7     [ G ]
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+  [Gm]1 + 2 + 3 + 4 +  [Cm]1 + 2 + [D7]3 + 4 + [G]
 e|----------------|----3-----------|
 B|--3-4-5-6-5-4-3-|4-6---4-1-1-3-4-|3
 G|--3-------------|5-------2-------|4
@@ -23,8 +22,7 @@ A|5---------------|3---------------|
 E|3---------------|----------------|
 
 or (just the line without chords)
-  Gm               Cm      D7     [ G ]
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+  [Gm]1 + 2 + 3 + 4 +  [Cm]1 + 2 + [D7]3 + 4 + [G]
 e|----------------|----------------|
 B|----------------|----8-----------|
 G|--7-8-9-109-8-7-|8-10--8-----7-8-|7
@@ -35,68 +33,46 @@ E|----------------|----------------|
 --------------------------------------------------------------------------------
 
 [Intro]
-G           Bm
-  To lead a better life,
-Bb                     Am7  D7
-  I need my love to be here
+[G]  To lead a [Bm]better life,
+[Bb]  I need my love to be [Am7]here [D7]
 
 
 [Verse 1]
-G     Am   Bm          C          G     Am
-Here,      making each day of the year
-Bm          C           F#m7        B7
-Changing my life with a wave of her hand
-F#m7    B7   Em              Am         Am7   D7
-Nobody can deny that there's something there
+[G]Here, [Am]     [Bm]making each [C]day of the [G]year [Am]
+[Bm]Changing my [C]life with a [F#m7]wave of her [B7]hand
+[F#m7]Nobody c[B7]an de[Em]ny that there's [Am]something t[Am7]here [D7]
 
 
 [Verse 2]
-G     Am   Bm         C                 G     Am
-There,     running my hands through her hair
-Bm         C            F#m7        B7
-Both of us thinking how good it can be
-F#m7       B7            Em          Am         Am7   D7
-Someone is speaking, but she doesn't know he's there
+[G]There,[Am]     [Bm]running my [C]hands through her [G]hair [Am]
+[Bm]Both of us [C]thinking how [F#m7]good it can [B7]be
+[F#m7]Someone is [B7]speaking, but [Em]she doesn't [Am]know he's t[Am7]here [D7]
 
 
 [Middle 8]
-  F        Bb         Gm
-I want her everywhere
-       Cm              D7            Gm
-And if she's beside me I know I need never care
-Cm              D7
-But to love her is to need her
+I [F]want her [Bb]everywhere [Gm]
+And if [Cm]she's beside me [D7]I know I need [Gm]never care
+[Cm]But to love her [D7]is to need her
 
 
 [Verse 3]
-G         Am   Bm           C           G     Am
-everywhere     knowing that love is to share
-Bm         C            F#m7        B7
-Each one believing that love never dies
-F#m7         B7        Em         Am      Am7   D7
-Watching her eyes, and hoping I'm always there
+[G]everywhere[Am]     [Bm]knowing that [C]love is to s[G]hare [Am]
+[Bm]Each one be[C]lieving that [F#m7]love never d[B7]ies
+[F#m7]Watching her [B7]eyes, and [Em]hoping I'm [Am]always t[Am7]here [D7]
 
 
 [Middle 8]
-  F        Bb         Gm
-I want her everywhere
-       Cm              D7            Gm
-And if she's beside me I know I need never care
-Cm              D7
-But to love her is to need her
+I [F]want her [Bb]everywhere [Gm]
+And if [Cm]she's beside me [D7]I know I need [Gm]never care
+[Cm]But to love her [D7]is to need her
 
 
 [Verse 4]
-G         Am   Bm           C           G     Am
-everywhere     knowing that love is to share
-Bm         C            F#m7        B7
-Each one believing that love never dies
-F#m7         B7        Em         Am      Am7   D7
-Watching her eyes, and hoping I'm always there
+[G]everywhere[Am]     [Bm]knowing that [C]love is to s[G]hare [Am]
+[Bm]Each one be[C]lieving that [F#m7]love never d[B7]ies
+[F#m7]Watching her [B7]eyes, and [Em]hoping I'm [Am]always t[Am7]here [D7]
 
 
 [Coda]
-          G     Am      Bm     C
-I will be there,    and everywhere
-G     Am         Bm    C     G
-Here, there, and everywhere
+I will be [G]there,[Am]    and [Bm]everywh[C]ere
+[G]Here, [Am]there, and [Bm]everyw[C]here [G]
