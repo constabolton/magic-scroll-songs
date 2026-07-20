@@ -19,16 +19,11 @@ E|---------3------------------------3-------------------------------------------
 
 [Verse 1]
 
-                G              D
-Do you see particles in the air?
-              G              D
-Unguided particles in the air
-           Em               Bm          
-Do you see particles in the air?
-            Em              D 
-Nobody know notices, nobody cares, oh
-D                                D
-Don't try to tell her she's less feline than human
+Do you see parti[G]cles in the air[D]?
+Unguided parti[G]cles in the air[D]
+Do you see [Em]particles in the [Bm]air?
+Nobody know [Em]notices, nobody [D]cares, oh
+[D]Don't try to tell her she's less [D]feline than human
 
 
 
@@ -45,22 +40,16 @@ E|------------------------------------------------------------------------------
 
 [Pre-Chorus]
 
-D              Eb                        Bb              D
-Cause it gives rise to the rumor she’s a girl, and not a puma
-        Eb                         Bb                 D
-And the light that shines is not a pearl, it's just a tumor
+[D]Cause it gives [Eb]rise to the rumor she’s a [Bb]girl, and not a [D]puma
+And the [Eb]light that shines is not a [Bb]pearl, it's just a [D]tumor
 
 
 [Chorus]
 
-             G                    D
-She was radioactive for seven days
-                   G                  D
-How I wanted to be holding her anyways
-                      Em               Bm
-But the doctors, they told me to stay away
-                 Em                   D 
-Due to flying neutrinos and the gamma rays, oh
+She was radio[G]active for seven days[D]
+How I wanted to be [G]holding her anyways[D]
+But the doctors, they [Em]told me to stay a[Bm]way
+Due to flying neu[Em]trinos and the gamma [D]rays, oh
 
 
 [Guitar/Violin Fill 2]
@@ -92,14 +81,10 @@ E|--------0---------------------------------------------------------------------
 
 (play bridge fill or chords)
 
-                G        D
-Do you see particles?
-            G         D
-Unguided particles
-     Em    Bm     Em    D 
-Particles
-D                                D
-Don't try to tell her she's less feline than human
+Do you see parti[G]cles? [D]
+Unguided par[G]ticles [D]
+Parti[Em]cles [Bm] [Em] [D]
+[D]Don't try to tell her she's less [D]feline than human
 
 
 [Guitar/Violin Fill 1]
@@ -115,30 +100,20 @@ E|------------------------------------------------------------------------------
 
 [Pre-Chorus]
 
-D              Eb                        Bb              D
-Cause it gives rise to the rumor she’s a girl, and not a puma
-Eb                            Bb                  D
-Don't try to tell her she's a girl, that's just a rumor
+[D]Cause it gives [Eb]rise to the rumor she’s a [Bb]girl, and not a [D]puma
+[Eb]Don't try to tell her she's a [Bb]girl, that's just a [D]rumor
 
 
 [Chorus]
 
-             G                    D
-She was radioactive for seven days
-                   G                  D
-How I wanted to be holding her anyways
-                      Em               Bm
-But the doctors, they told me to stay away
-                 Em                   C# 
-Due to flying neutrinos and the gamma rays, oh
-             G                    D
-She was radioactive for seven days
-                   G                  D
-How I wanted to be holding her anyways
-                      Em               Bm
-But the doctors, they told me to stay away
-                 Em                   D 
-Due to flying neutrinos and the gamma rays, oh
+She was radio[G]active for seven days[D]
+How I wanted to be [G]holding her anyways[D]
+But the doctors, they [Em]told me to stay a[Bm]way
+Due to flying neu[Em]trinos and the gamma [C#]rays, oh
+She was radio[G]active for seven days[D]
+How I wanted to be [G]holding her anyways[D]
+But the doctors, they [Em]told me to stay a[Bm]way
+Due to flying neu[Em]trinos and the gamma [D]rays, oh
 
 
 [Guitar/Violin Outro]
