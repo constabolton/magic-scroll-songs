@@ -15,25 +15,18 @@ or: B7 A G B7
 
 [Verse]
 
-Em                 Am            Em
-People are strange when you're a stranger,
-Am         Em   B7           Em
-Faces look ugly when you're alone.
-Em                Am            Em
-Women seem wicked when you're unwanted,
-Am            Em   B7          Em
-Streets are uneven when you're down.
+[Em]People are strange [Am]when you're a [Em]stranger,
+[Am]Faces look [Em]ugly [B7]when you're a[Em]lone.
+[Em]Women seem wicked [Am]when you're un[Em]wanted,
+[Am]Streets are un[Em]even [B7]when you're [Em]down.
 
 [Chorus]
 
-B7          **
-When you're strange
-G                     B7
-Faces come out of the rain.
+[B7]When you're strange
+[G]Faces come out of the [B7]rain.
             
 When you're strange
-G                     B7
-No one remembers your name
+[G]No one remembers your [B7]name
 
 When you're strange,
 
@@ -43,25 +36,18 @@ When you're strange.
 
 [Verse]
 
-Em                 Am            Em
-People are strange when you're a stranger,
-Am         Em   B7           Em
-Faces look ugly when you're alone.
-Em                Am            Em
-Women seem wicked when you're unwanted,
-Am            Em   B7          Em
-Streets are uneven when you're down.
+[Em]People are strange [Am]when you're a [Em]stranger,
+[Am]Faces look [Em]ugly [B7]when you're a[Em]lone.
+[Em]Women seem wicked [Am]when you're un[Em]wanted,
+[Am]Streets are un[Em]even [B7]when you're [Em]down.
 
 [Chorus]
 
-B7
-When you're strange
-G                     B7
-Faces come out of the rain.
+[B7]When you're strange
+[G]Faces come out of the [B7]rain.
             
 When you're strange
-G                     B7
-No one remembers your name
+[G]No one remembers your [B7]name
 
 When you're strange,
 
@@ -73,14 +59,11 @@ Alright, yeh..
 
 Em  Am Em  Am Em  B7 Em x2
 
-B7
-When you're strange
-G                     B7
-Faces come out of the rain.
+[B7]When you're strange
+[G]Faces come out of the [B7]rain.
             
 When you're strange
-G                     B7
-No one remembers your name
+[G]No one remembers your [B7]name
 
 When you're strange,
 
