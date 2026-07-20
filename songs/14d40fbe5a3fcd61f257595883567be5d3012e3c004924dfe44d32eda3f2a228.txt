@@ -6,33 +6,23 @@ Key: [A/D
 | D | % | % | % |
 
 [Chorus]
-D                   G                        D
-Mull of Kintyre, oh mist rolling in from the sea
-             G
-My desire is always to be here
-  [  D  ]
-Oh Mull of Kintyre
+[D]Mull of Kintyre, oh [G]mist rolling in from the [D]sea
+My desire is [G]always to be here
+Oh Mu[D]ll of Kintyre
 
 [Interlude]
 | D | % | % | 
 
 [Verse 1]
-D
-Far have I traveled and much have I seen
-G                           D
-Dark distant mountains with valleys of green
-D
-Past painted deserts the sun sets on fire
-      G                      A          D 
-As he carries me home to the Mull of Kintyre
+[D]Far have I traveled and much have I seen
+[G]Dark distant mountains with [D]valleys of green
+[D]Past painted deserts the sun sets on fire
+As he [G]carries me home to the [A]Mull of Kin[D]tyre
 
 [Chorus]
-D                   G                        D
-Mull of Kintyre, oh mist rolling in from the sea
-             G
-My desire is always to be here
-  [  D  ]
-Oh Mull of Kintyre
+[D]Mull of Kintyre, oh [G]mist rolling in from the [D]sea
+My desire is [G]always to be here
+Oh Mu[D]ll of Kintyre
 
 [Interlude]
 (builds up to solo)
@@ -46,24 +36,17 @@ Oh Mull of Kintyre
 | G | % | % | % |
 
 [Verse 2]
-G
-Sweep through the heather like deer in the glen
-C                    G
-Carry me back to the days I knew then
+[G]Sweep through the heather like deer in the glen
+[C]Carry me back to the [G]days I knew then
                         [break]     
-G                          G 
-Nights when we sang like a heavenly choir
+[G]Nights when we sang like a [G]heavenly choir
                                           [break]     
-       C                         D        | G | % |
-Of the life and the times of the Mull of Kintyre
+Of the [C]life and the times of the [D]Mull of Kin[G]tyre
 
 [Chorus]
-G                   C                        G
-Mull of Kintyre, oh mist rolling in from the sea
-             C
-My desire is always to be here
-  | G | % | 
-Oh Mull of Kintyre
+[G]Mull of Kintyre, oh [C]mist rolling in from the [G]sea
+My desire is [C]always to be here
+Oh M[G]ull of Kintyre
 
 [Interlude]
 (bagpipes)
@@ -71,44 +54,30 @@ Oh Mull of Kintyre
 | G | % | D | % |
 
 [Verse 3]
-D
-Smiles in the sunshine and tears in the rain
-G                           D
-Still take me back where my memories remain
-D
-Flickering embers go higher and higher
+[D]Smiles in the sunshine and tears in the rain
+[G]Still take me back where my [D]memories remain
+[D]Flickering embers go higher and higher
      
-        G                    A        | D  | % |
-As they carry me back to the Mull of Kintyre
+As they [G]carry me back to the [A]Mull of Kin[D]tyre
                                       [break]
 [Chorus]
-D                   G                        D
-Mull of Kintyre, oh mist rolling in from the sea
-             G
-My desire is always to be here
-  [  D  ]
-Oh Mull of Kintyre
+[D]Mull of Kintyre, oh [G]mist rolling in from the [D]sea
+My desire is [G]always to be here
+Oh Mu[D]ll of Kintyre
 
 [Interlude]
 | D | % | % | % |
 
 [Chorus]
-G                   C                        G
-Mull of Kintyre, oh mist rolling in from the sea
-             C
-My desire is always to be here
-  | G  | % | % | % | 
-Oh Mull of Kintyre
+[G]Mull of Kintyre, oh [C]mist rolling in from the [G]sea
+My desire is [C]always to be here
+Oh M[G]ull of Kintyre
  [break] (only drums in the break)
 
 [Outro]
-G           G
-La, la, la, la
-D          D
-Mull of Kintyre
-G           G
-La, la, la, la
-D          D
-Mull of Kintyre
+[G]La, la, la, [G]la
+[D]Mull of Kin[D]tyre
+[G]La, la, la, [G]la
+[D]Mull of Kin[D]tyre
 
 (repeat and fade)
