@@ -7,22 +7,16 @@ Song name: Man Of Constant Sorrow  by  Misc Traditional
 | G   | G   | A   | A   |
 | D   | D
 
-             A                      D
-(In constant sorrow all through his days)
+(In constant [A]sorrow all through his [D]days)
 
 
 [Verse 1]
 
-D      D7              G
-I am a man of constant sorrow
-G         A              D
-I've seen trouble all my day
-D         D7           G
-I bid farewell to ole Kentucky
-G               A              D
-The place where I was born and raised
- D               A               D
-(The place where he was born and raised)
+[D]I am a [D7]man of constant [G]sorrow
+[G]I've seen [A]trouble all my [D]day
+[D]I bid fare[D7]well to ole K[G]entucky
+[G]The place where [A]I was born and [D]raised
+([D]The place where [A]he was born and [D]raised)
 
 
 [Instrumental]
@@ -33,16 +27,11 @@ The place where I was born and raised
 
 [Verse 2]
 
-D            D7                 G
-For six long years I've been in trouble
-G            A                  D
-No pleasures here on earth I've found
-D           D7                 G
-For in this world I'm bound to ramble
-G          A                 D
-I have no friends to help me now
- D         A                   D
-(He has no friends to help him now)
+[D]For six long [D7]years I've been in [G]trouble
+[G]No pleasures [A]here on earth I've [D]found
+[D]For in this [D7]world I'm bound to [G]ramble
+[G]I have no f[A]riends to help me [D]now
+([D]He has no [A]friends to help him [D]now)
 
 
 [Instrumental]
@@ -54,16 +43,11 @@ I have no friends to help me now
 
 [Verse 3]
 
-D              D7               G
-It's fare thee well my old true lover
-G         A                D
-I never expect to see her again
-D                D7                 G
-For I'm bound to ride that northern railroad
-G             A            D
-Perhaps I'll die upon this train
- D             A             D
-(Perhaps he'll die upon this train)
+[D]It's fare thee [D7]well my old true [G]lover
+[G]I never ex[A]pect to see her a[D]gain
+[D]For I'm bound to [D7]ride that northern [G]railroad
+[G]Perhaps I'll d[A]ie upon this [D]train
+([D]Perhaps he'll [A]die upon this [D]train)
 
 
 [Instrumental]
@@ -75,16 +59,11 @@ Perhaps I'll die upon this train
 
 [Verse 4]
 
-D            D7              G
-You can bury me in some deep valley
-G        A                 D
-For many years where I may lay
-D            D7             G
-Then you may learn to love another
-G           A              D
-While I am sleeping in my grave
- D           A               D
-(While he is sleeping in his grave)
+[D]You can bury [D7]me in some deep [G]valley
+[G]For many [A]years where I may [D]lay
+[D]Then you may [D7]learn to love a[G]nother
+[G]While I am s[A]leeping in my g[D]rave
+([D]While he is [A]sleeping in his [D]grave)
 
 
 [Instrumental]
@@ -96,13 +75,8 @@ While I am sleeping in my grave
 
 [Verse 5]
 
-D                  D7               G
-Maybe your friends think I'm just a stranger
-G              A            D
-My face you'll never see no more
-D                D7              G
-But there is one promise that is given
-G             A               D
-I'll meet you on God's golden shore
-D               A               D
-(He'll meet you on God's golden shore)
+[D]Maybe your friends [D7]think I'm just a [G]stranger
+[G]My face you'll [A]never see no [D]more
+[D]But there is one [D7]promise that is [G]given
+[G]I'll meet you [A]on God's golden [D]shore
+[D](He'll meet you [A]on God's golden [D]shore)
