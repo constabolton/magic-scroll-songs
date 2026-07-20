@@ -5,18 +5,13 @@ Song name: Happy Birthday  by  Misc Traditional
 
 A      x02220
 E      022100
-A7     x02020
-D      xx0232
+[A7]D      xx0232
 
 
-      A           E
-Happy Birthday to you
-      E           A
-Happy Birthday to you
-      A7            D
-Happy Birthday dear (name)
-      A        E    A
-Happy Birthday to you
+Happy [A]Birthday to [E]you
+Happy [E]Birthday to [A]you
+Happy [A7]Birthday dear [D](name)
+Happy [A]Birthday [E]to yo[A]u
 
 
 (If you find the key hard to sing you can either use a capo or the transpose function.)
