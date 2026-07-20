@@ -4,59 +4,34 @@ Song name: Sing  by  Carpenters
 D   Dmaj7   G/D
 D   Dmaj7   G/D   Dmaj9
 
-D            G/D
-Sing, sing a song
-         Dmaj7
-Sing out loud
-         Am7/D    D7
-Sing out strong
-G         Em          A       D
-  Sing of good things    not bad
-Bm     Bm/A     G#m7b5     Em      A
-  Sing       of happy, not sad
+[D]Sing, sing a [G/D]song
+Sing out [Dmaj7]loud
+Sing out [Am7/D]strong [D7]
+[G]  Sing of [Em]good things [A]   not b[D]ad
+[Bm]  Sing [Bm/A]      of [G#m7b5]happy, not [Em]sad [A]
 
-D            G/D
-Sing, sing a song
-        Dmaj7
-Make it simple to last
-                Am7/D   D7
-Your whole life long
-      Gmaj7
-Don't worry that it's not
-F#sus4      F#aug     Bm      Bm/A    G#m7b5
-Good      e nough for anyone  else to hear
-     D/A   G/A          D
-Just sing,     sing a song
+[D]Sing, sing a [G/D]song
+Make it [Dmaj7]simple to last
+Your whole life [Am7/D]long [D7]
+Don't [Gmaj7]worry that it's not
+[F#sus4]Good      e [F#aug]nough for [Bm]anyone  [Bm/A]else to [G#m7b5]hear
+Just [D/A]sing, [G/A]    sing a so[D]ng
 
 D   Dmaj7   G/D
 
-B     Bmaj7   C#m    F#
-Lala.....
-B            E/B
-Sing, sing a song
-        Bmaj7       F#m7/B   B7
-Let the world sing along
-E        C#m        F#      B
-Sing of love there  could be
-G#m     G#m7   C#7         C#m     G/A
-   Sing    for you and for me
+[B]Lala..[Bmaj7]... [C#m] [F#]
+[B]Sing, sing a [E/B]song
+Let the [Bmaj7]world sing a[F#m7/B]long [B7]
+[E]Sing of l[C#m]ove there  [F#]could be[B]
+[G#m]   Sing [G#m7]   for [C#7]you and for [C#m]me [G/A]
 
-D            G/D
-Sing, sing a song
-         Dmaj7
-Make it simple to last
-                Am7/D      D7
-Your whole life long
-      Gmaj7
-Don't worry that it's not
-F#sus4     F#aug     Bm     Bm/A    G#m7b5
-Good     e nough for anyone else to hear
-D/A       A          D       Dmaj7
-Just sing     sing a song
-     Em    A        D        Dmaj7
-Just sing    sing a song
-     Em    A        D
-Just sing    sing a song
+[D]Sing, sing a [G/D]song
+Make it s[Dmaj7]imple to last
+Your whole life [Am7/D]long [D7]
+Don't [Gmaj7]worry that it's not
+[F#sus4]Good     e [F#aug]nough for [Bm]anyone [Bm/A]else to [G#m7b5]hear
+[D/A]Just sing [A]    sing a [D]song [Dmaj7]
+Just [Em]sing  [A]  sing a [D]song [Dmaj7]
+Just [Em]sing  [A]  sing a [D]song
 
-D   Dmaj7   G/D
-(repeat till fade)
+[D](rep[Dmaj7]eat till[G/D] fade)
