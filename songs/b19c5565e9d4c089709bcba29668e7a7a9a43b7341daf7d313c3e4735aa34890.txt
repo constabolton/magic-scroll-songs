@@ -1,36 +1,21 @@
 ----------------------------------------------------------------------
 Song name: Stand By Your Man  by  Tammy Wynette
 ----------------------------------------------------------------------
-G                           D
-Sometimes it's hard to be a woman,
-Am              D7               G  G7
-giving all your love to just one man.
-C                            G
-You'll have bad times, and he'll have good times,
-A                 A7             D     D7
-doing things that you don't understand.
+[G]Sometimes it's hard to be a [D]woman,
+[Am]giving all your [D7]love to just one [G]man[G7].
+[C]You'll have bad times, and he[G]'ll have good times,
+[A]doing things that [A7]you don't under[D]stand.[D7]
 
-G                             D
-But if you love him you'll forgive him,
-Am               D7           G      G7
-even though he's hard to understand.
-C                    G           C       
-And if you love him, oh be proud of him,
-G            D                G    C G D
-'cause after all he's just a man.
+[G]But if you love him you'll for[D]give him,
+[Am]even though he's [D7]hard to under[G]stand. [G7]
+[C]And if you love him, [G]oh be proud [C]of him,
+[G]'cause after [D]all he's just a m[G]an. [C] [G] [D]
 
-G             B7   C
-Stand by your man, give him two arms to cling to,
-G             E
-and something warm to come to,
-A               D7
-when nights are cold and lonely.
-G             B7   C
-Stand by your man, and tell the world you love him,
-G           D7               B7  E C     D       G    C G D
-keep giving all the love you can.  Stand by your man.
+[G]Stand by your [B7]man, [C]give him two arms to cling to,
+[G]and something [E]warm to come to,
+[A]when nights are [D7]cold and lonely.
+[G]Stand by your [B7]man, [C]and tell the world you love him,
+[G]keep giving [D7]all the love you [B7]can.[E]  [C]Stand [D]by your [G]man. [C] [G] [D]
 
-G             B7   C
-Stand by your man, and tell the world you love him,
-G           D7               B7  E C     D       G
-keep giving all the love you can.  Stand by your man.
+[G]Stand by your [B7]man, [C]and tell the world you love him,
+[G]keep giving [D7]all the love you [B7]can.[E]  [C]Stand [D]by your [G]man.
