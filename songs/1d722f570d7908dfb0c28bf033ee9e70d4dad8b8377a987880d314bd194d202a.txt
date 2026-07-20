@@ -8,90 +8,58 @@ C  Cmaj7  x4
 
 [Verse 1]
 
-C              Cmaj7
-   Everybody's talkin' at me
-C                 C7
-   I don't hear a word they're sayin'
-Dm          G            C       Cmaj7
-   Only the echoes of my mind
+[C]   Everybody's [Cmaj7]talkin' at me
+[C]   I don't hear a [C7]word they're sayin'
+[Dm]   Only the [G]echoes of my [C]mind [Cmaj7]
 
-C         Cmaj7
-   People stop and starin'
-C          C7
-   I can't see their faces
-Dm          G                C        Cmaj7
-   Only the shadows of their eyes
+[C]   People [Cmaj7]stop and starin'
+[C]   I can't [C7]see their faces
+[Dm]   Only the [G]shadows of their [C]eyes [Cmaj7]
 
 
 [Chorus]
 
-Dm                     G
-   I'm goin' where the sun keeps shinin'
-C                      C7
-  Through the pourin' rain
-Dm                 G
-   Goin' where the weather
-         C    C7
-Suits my clothes…
-Dm                    G
-   Banking off of the northeast winds
-C                      C7
- Sailin' on a summer breeze
-Dm                       G
-  And skippin' over the o-cean
-        C  Cmaj7  C7  C6
-Like a stone
+[Dm]   I'm goin' where the [G]sun keeps shinin'
+[C]  Through the pourin' r[C7]ain
+[Dm]   Goin' where the [G]weather
+Suits my [C]cloth[C7]es…
+[Dm]   Banking off of the [G]northeast winds
+[C] Sailin' on a summer br[C7]eeze
+[Dm]  And skippin' over the o[G]-cean
+Like a s[C]ton[Cmaj7]e [C7] [C6]
 
 
 [Verse 2]
 
-C         Cmaj7
-Who-o-o-a whoa-whoa-whoa-whoa
-C                   C7
-Whoa-whoa whoa-whoa whoa-whoa-whoa
-Dm     G       C      Cmaj7
-Who-o-o-o-o-o-o-o-o-a
+[C]Who-o-o-a [Cmaj7]whoa-whoa-whoa-whoa
+[C]Whoa-whoa whoa-whoa [C7]whoa-whoa-whoa
+[Dm]Who-o-o[G]-o-o-o-o[C]-o-o-a [Cmaj7]
 
 
 [Chorus]
 
-Dm                     G
-   I'm goin' where the sun keeps shinin'
-C                      C7
-  Through the pourin' rain
-Dm                 G
-   Goin' where the weather
-         C    C7
-Suits my clothes…
-Dm                    G
-   Banking off of the northeast winds
-C                      C7
- Sailin' on a summer breeze
-Dm                       G
-  And skippin' over the o-cean
-        C  Cmaj7  C7  C6
-Like a stone
+[Dm]   I'm goin' where the [G]sun keeps shinin'
+[C]  Through the pourin' r[C7]ain
+[Dm]   Goin' where the [G]weather
+Suits my [C]cloth[C7]es…
+[Dm]   Banking off of the [G]northeast winds
+[C] Sailin' on a summer br[C7]eeze
+[Dm]  And skippin' over the o[G]-cean
+Like a s[C]ton[Cmaj7]e [C7] [C6]
 
 
 [Verse 3]
 
-C              Cmaj7
-   Everybody's talkin' at me
-C                 C7
-   I can't hear a word they're sayin'
-Dm          G            C       Cmaj7
-   Only the echoes of my mind
+[C]   Everybody's [Cmaj7]talkin' at me
+[C]   I can't hear a [C7]word they're sayin'
+[Dm]   Only the [G]echoes of my [C]mind [Cmaj7]
 
 
 [Outro]
 
-Dm              G               C
-I won't let you leave my love behind
-    Dm               G      C
-No, I won't let you leave…
-Dm     G        C
-Whoa…  whoa-aah-aaaah
-Dm              G               C
-I won't let you leave my love behind
+[Dm]I won't let you [G]leave my love be[C]hind
+No, [Dm]I won't let you l[G]eave… [C]
+[Dm]Whoa…  [G]whoa-aah-[C]aaaah
+[Dm]I won't let you [G]leave my love be[C]hind
 
 (fade out)
