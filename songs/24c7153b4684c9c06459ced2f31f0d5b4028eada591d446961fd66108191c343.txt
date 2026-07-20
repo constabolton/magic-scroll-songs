@@ -2,51 +2,33 @@
 Song name: Do I Ever Cross Your Mind  by  Dolly Parton
 ----------------------------------------------------------------------
 [Intro]
-D
-  Mmm mm mm mm-mm
-D
-  Mmm mm mm mm-mm
-D
-  Mmm mm mm mm-mm
-D           D
-        Oh hoh
+[D]  Mmm mm mm mm-mm
+[D]  Mmm mm mm mm-mm
+[D]  Mmm mm mm mm-mm
+[D]        Oh h[D]oh
 
 
 [Verse 1]
-        D
-Oh, sometimes I go walkin' through fields where we walked
-      G                       D
-Long ago in the sweet used to be
-        D
-And the flowers still grow but they don't smell as sweet
-        D            A               D
-As they did when you picked them for me
+Oh, some[D]times I go walkin' through fields where we walked
+Long a[G]go in the sweet used to [D]be
+And the [D]flowers still grow but they don't smell as sweet
+As they [D]did when you [A]picked them for [D]me
 
 
 [Chorus]
-         Bm         D           Bm
-And when I think of you and the love we once knew
-D     G                        D
-How I wish we could go back in time
-       D
-Do you   ever think back on old mem'ries like that
-     D       A          D
-Or do I ever cross your mind?
+And when [Bm]I think of [D]you and the [Bm]love we once knew
+[D]How I [G]wish we could go back in [D]time
+Do you [D]  ever think back on old mem'ries like that
+Or do[D] I ever [A]cross your [D]mind?
 
 
 [Bridge]
-       G
-Do you ever wake up lonely in the middle of the night because you
-D
-Miss me, do you Darling?
-        A                              G                           D
-Oh, and do your mem'ries ever take you back into another place and time?
-        G
-Oh, and do you ever miss the feelings and the love we shared when you were
-D
-With me, do you Darling?
-       D           A          D
-I just wonder do I cross your mind?
+Do you [G]ever wake up lonely in the middle of the night because you
+[D]Miss me, do you Darling?
+Oh, and [A]do your mem'ries ever take you [G]back into another place and [D]time?
+Oh, and [G]do you ever miss the feelings and the love we shared when you were
+[D]With me, do you Darling?
+I just [D]wonder do I [A]cross your [D]mind?
 
 
 [Instrumental]
@@ -55,58 +37,36 @@ I just wonder do I cross your mind?
 
 
 [Verse 2]
-        D
-Oh, how often I wish that again I could kiss
-           G                     D
-Your sweet lips like I did long ago
-        D
-And how often I long for those two lovin' arms
-          D          A          D
-That once held me so gentle and close
+Oh, how [D]often I wish that again I could kiss
+Your sweet [G]lips like I did long a[D]go
+And how [D]often I long for those two lovin' arms
+That once [D]held me so [A]gentle and [D]close
 
 
 [Chorus]
-         Bm         D           Bm
-And when I think of you and the love we once knew
-D     G                        D
-How I wish we could go back in time (go back in time)
-       D
-Do you   ever recall these old mem'ries at all
-     D       A          D
-Or do I ever cross your mind?
+And when [Bm]I think of [D]you and the [Bm]love we once knew
+[D]How I [G]wish we could go back in [D]time (go back in time)
+Do you [D]  ever recall these old mem'ries at all
+Or do[D] I ever [A]cross your [D]mind?
 
 
 [Bridge]
-       G
-Do you ever wake up lonely in the middle of the night because you
-D
-Miss me, do you Darling?
-        A                              G                           D
-Oh, and do your mem'ries ever take you back into another place and time?
-        G
-Oh, and do you ever miss the feelin's and the love we shared when you were
-D
-With me, do you Darling?
-       D           A          Bm   G
-I just wonder do I cross your mind?
-       D      A          D
-Oh, do I ever cross your mind?
+Do you [G]ever wake up lonely in the middle of the night because you
+[D]Miss me, do you Darling?
+Oh, and [A]do your mem'ries ever take you [G]back into another place and [D]time?
+Oh, and [G]do you ever miss the feelin's and the love we shared when you were
+[D]With me, do you Darling?
+I just [D]wonder do I [A]cross your [Bm]mind?[G]
+Oh, do [D]I ever [A]cross your [D]mind?
 
 
 [Outro]
-D
-  Mmm mm mm mm-mm
-D
-  Mmm mm mm mm-mm
-D
-  Mmm mm mm mm-mm
-D
-      Oh oh oh, tell me
-D
-  Do I ever, do I?  Do I ever, do I?  Do I ever cross your mind?
-D
-      Oh hoh, Darlin'
-D
-  Do I ever, do I?  Do I ever, do I?  Do I ever cross your mind?
+[D]  Mmm mm mm mm-mm
+[D]  Mmm mm mm mm-mm
+[D]  Mmm mm mm mm-mm
+[D]      Oh oh oh, tell me
+[D]  Do I ever, do I?  Do I ever, do I?  Do I ever cross your mind?
+[D]      Oh hoh, Darlin'
+[D]  Do I ever, do I?  Do I ever, do I?  Do I ever cross your mind?
 
 (fade out)
