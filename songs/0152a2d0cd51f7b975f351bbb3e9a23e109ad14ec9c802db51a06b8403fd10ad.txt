@@ -6,45 +6,27 @@ G  D  C  D
 
 
 [Verse]
-G           D        G
-  I've been throwing horseshoes
-C              D
-  Over my left shoulder
-C               G
-  I've spent most all my life
-A7                   D
-  Searching for that four-leafed clover
-G    D       G
-  If you run with me,
-C            D
-  Chasing my rainbows
-C          G
-  Honey, I love you, too
-D                     G
-  That's the way love goes.
+[G]  I've been [D]throwing [G]horseshoes
+[C]  Over my left [D]shoulder
+[C]  I've spent mos[G]t all my life
+[A7]  Searching for that [D]four-leafed clover
+[G]  If [D]you run [G]with me,
+[C]  Chasing my [D]rainbows
+[C]  Honey, I [G]love you, too
+[D]  That's the way love [G]goes.
 
 
 [Chorus]
-G                     Dm    G7
-  That's the way love goes, babe
-C                  D
-  That's the music God made
-C                    G
-  For the whole wide world to sing
-A7 N.C.             D7 N.C.
-  It never gets old   it only grows
-G                 Dm G7
-  Losing makes me sorry
-C                       D
-  You say, Honey, don't worry.
-C          G
-  Honey, I love you, too
-D                     G
-  That's the way love goes.
+[G]  That's the way love [Dm]goes, [G7]babe
+[C]  That's the music [D]God made
+[C]  For the whole wide [G]world to sing
+[A7]  It never gets old [D7]  it only grows
+[G]  Losing makes me [Dm]sor[G7]ry
+[C]  You say, Honey, don't [D]worry.
+[C]  Honey, I [G]love you, too
+[D]  That's the way love [G]goes.
 
 
 [Outro]
-C          G
-  Honey, I love you, too
-D                     G    C  G
-  That's the way love goes.
+[C]  Honey, I [G]love you, too
+[D]  That's the way love [G]goes.[C] [G]
