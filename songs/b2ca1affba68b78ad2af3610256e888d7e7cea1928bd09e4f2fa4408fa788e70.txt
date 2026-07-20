@@ -11,31 +11,20 @@ E A E  E B E D E
 
 
 [Verse 1]
-E                  B           E
-I once had a girl, or should I say
-A            E
-she once had me.
-E
-She showed me her room, isn't it good?
-D         E
-Norwegian wood.
-    Em                                     A
-She asked me to stay and told me to sit anywhere,
-    Em        B           Em
-So, I looked around and I noticed there wasn't
-  F#m   B
-a chair.
+[E]I once had a girl, [B]or should I [E]say
+[A]she once had [E]me.
+[E]She showed me her room, isn't it good?
+[D]Norwegian [E]wood.
+She [Em]asked me to stay and told me to sit any[A]where,
+So, [Em]I looked a[B]round and I [Em]noticed there wasn't
+a [F#m]chair.[B]
 
 
 [Verse 2]
-E
-I sat on a rug, biding my time,
-D            E
-drinking her wine.
-E                    B            E
-We talked until two, and then she said,
-D             E
-It's time for bed.
+[E]I sat on a rug, biding my time,
+[D]drinking her [E]wine.
+[E]We talked until two, [B]and then she [E]said,
+[D]It's time for [E]bed.
 
 
 [Interlude]
@@ -43,21 +32,15 @@ E D E  E D E
 
 
 [Bridge]
-         Em
-She told me she worked in the morning and started
-   A     A7
-to laugh.
-  Em         B       A   Em
-I told her I didn't, and crawled off to sleep in
-    F#m  B
-the bath.
+She told [Em]me she worked in the morning and started
+to [A]laugh.[A7]
+I [Em]told her I [B]didn't, [A]and [Em]crawled off to sleep in
+the [F#m]bath.[B]
 
 
 [Verse 3]
-E
-And when I awoke, I was alone, this bird has flown.
-                                 D         E
-So, I lit a fire, isn't it good, Norwegian wood.
+[E]And when I awoke, I was alone, this bird has flown.
+So, I lit a fire, isn't it good, [D]Norwegian [E]wood.
 
 
 [Outro]
