@@ -2,8 +2,7 @@
 Song name: Oh Darling  by  The Beatles
 ----------------------------------------------------------------------
 [Chords used]
- E7#5      A       E      F#m      D      Bm7      E7      A7      F7      B7     Bb7
-e|-8-|  e|-0-|  e|-0-|  e|-2-|  e|-2-|  e|-2-|  e|-0-|  e|-0-|  e|-1-|  e|-2-|  e|-4-|
+e[E7#5]|-8-|  e|-[A]0-|  e|-[E]0-|  e|[F#m]-2-|  e|-[D]2-|  e|[Bm7]-2-|  e|-[E7]0-|  e|-[A7]0-|  e|-[F7]1-|  e|-[B7]2-|  e|[Bb7]-4-|
 B|-9-|  B|-2-|  B|-0-|  B|-2-|  B|-3-|  B|-3-|  B|-0-|  B|-2-|  B|-1-|  B|-0-|  B|-3-|
 G|-9-|  G|-2-|  G|-1-|  G|-2-|  G|-2-|  G|-2-|  G|-1-|  G|-0-|  G|-2-|  G|-2-|  G|-3-|
 D|-0-|  D|-2-|  D|-2-|  D|-4-|  D|-0-|  D|-2-|  D|-0-|  D|-2-|  D|-1-|  D|-1-|  D|-3-|
@@ -13,68 +12,44 @@ E|-0-|  E|-x-|  E|-0-|  E|-x-|  E|-x-|  E|-x-|  E|-0-|  E|-x-|  E|-x-|  E|-x-|  
 
 
 [Verse 1]
-E7#5      A                 E
-       Oh darling, please believe me
-F#m                  D
-I'll never do you no harm
-  Bm7             E7
-Believe me when I tell you
-Bm7        E7        A    D    A    E
-I'll never do you no harm
+[E7#5]       Oh [A]darling, please be[E]lieve me
+[F#m]I'll never do you no [D]harm
+Be[Bm7]lieve me when I [E7]tell you
+[Bm7]I'll never [E7]do you no [A]harm [D] [A] [E]
 
 
 [Verse 2]
-   A               E
-Oh darling, if you leave me
-F#m                 D
-I'll never make it alone
-  Bm7             E7
-Believe me when I beg you, oooo!
-Bm7        E7        A      D    A   A7
-Don't ever leave me alone
+Oh [A]darling, if you [E]leave me
+[F#m]I'll never make it a[D]lone
+Be[Bm7]lieve me when I [E7]beg you, oooo!
+[Bm7]Don't ever [E7]leave me a[A]lone [D] [A] [A7]
 
 
 [Chorus]
-         D                  F7
-When you told me you didn't need me anymore
-          A
-Well, you know I nearly broke down and cried
-         B7
-When you told me you didn't need me anymore
-          E7            F7            E7             E7#5
-Well, you know I nearly fell down and die -ie -ie-ie-ied
+When you [D]told me you didn't [F7]need me anymore
+Well, you [A]know I nearly broke down and cried
+When you [B7]told me you didn't need me anymore
+Well, you [E7]know I nearly [F7]fell down and [E7]die -ie -ie-ie-[E7#5]ied
 
 
 [Verse 3]
-   A               E
-Oh darling, if you leave me
-F#m                 D
-I'll never make it alone
-  Bm7             E7
-Believe me when I tell you
-Bm7        E7        A     D    A                   A7
-I'll never do you no harm         believe me darlin'
+Oh [A]darling, if you [E]leave me
+[F#m]I'll never make it a[D]lone
+Be[Bm7]lieve me when I [E7]tell you
+[Bm7]I'll never [E7]do you no [A]harm  [D]     [A]  believe me darlin'[A7]
 
 
 [Chorus]
-         D                  F7
-When you told me you didn't need me anymore
-          A
-Well, you know I nearly broke down and cried
-         B7
-When you told me you didn't need me anymore
-          E7            F7            E7             E7#5
-Well, you know I nearly fell down and die -ie -ie-ie-ied
+When you [D]told me you didn't [F7]need me anymore
+Well, you [A]know I nearly broke down and cried
+When you [B7]told me you didn't need me anymore
+Well, you [E7]know I nearly [F7]fell down and [E7]die -ie -ie-ie-[E7#5]ied
 
 
 [Verse 4]
-   A                 E
-Oh darling, please believe me
-F#m                D
-I'll never let you down
+Oh [A]darling, please be[E]lieve me
+[F#m]I'll never let you [D]down
 
 (spoken) Oh, believe me, darling
-  Bm7             E7
-Believe me when I tell you, oooooo!
-Bm7        E7        A           D     A          Bb7   A7
-I'll never do you no ha-a-a-arm
+Be[Bm7]lieve me when I [E7]tell you, oooooo!
+[Bm7]I'll never [E7]do you no [A]ha-a-a-arm [D] [A] [Bb7] [A7]
