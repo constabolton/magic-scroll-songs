@@ -2,61 +2,40 @@
 Song name: Itsy Bitsy Spider  by  Misc Children
 ----------------------------------------------------------------------
 [Intro]
-G
-The itsy-bitsy spider
-D7                G
-Went up the water spout.
-G
-Down came the rain and
-C                 G
-Washed the spider out.
+[G]The itsy-bitsy spider
+[D7]Went up the water [G]spout.
+[G]Down came the rain and
+[C]Washed the spider [G]out.
 
 [Verse 1]
-G
-Out came the sun and
-D7               G
-Dried up all the rain
+[G]Out came the sun and
+[D7]Dried up all the [G]rain
 
 And the itsy-bitsy spider
-D7                 G
-Went up the spout again.
+[D7]Went up the spout a[G]gain.
 
 [Verse 2]
-G
-The itsy-bitsy spider
-D7            G
-Spun a spiral web
-G
-Caught a grasshopper
-C                   G
-Whose life began to ebb
+[G]The itsy-bitsy spider
+[D7]Spun a spiral [G]web
+[G]Caught a grasshopper
+[C]Whose life began to [G]ebb
 
 [Verse 3]
-G
-Sucked up the juices
-D7              G
-And grew a size that day
+[G]Sucked up the juices
+[D7]And grew a size [G]that day
 
 So the itsy-bitsy spider
-D7              G
-Rebuilt the web array
+[D7]Rebuilt the web [G]array
 
 [Verse 4]
-G
-The itsy bitsy spider
-D7               G
-Laid a clutch of eggs
-G
-Out hatched the spiderlings
-C               G
-Each with all 8 legs
+[G]The itsy bitsy spider
+[D7]Laid a clutch of [G]eggs
+[G]Out hatched the spiderlings
+[C]Each with all 8 [G]legs
 
 [Verse 5]
-G
-Spun a little web
-D7                      G
-And ballooned into the sky
+[G]Spun a little web
+[D7]And ballooned into the s[G]ky
 
 So the itsy bitsy spider
-D7                G
-Was happy then to die
+[D7]Was happy then to [G]die
