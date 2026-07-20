@@ -8,41 +8,25 @@ Girl From Ipanema: Stan Getz.
 
 
 [Verse]
-FM7
-Tall and tan and young and lovely,
-    G7
-the girl from Ipanema goes walking
-    Gm7                   Eaug                    FM7   F#7
-and when she passes, each one she passes goes...'aaaah.'
-FM7
-When she walks, she's like a Samba
-     G7
-that swings so cool and sways so gentle,
-     Gm7                   F#7                    FM7
-that when she passes, each one she passes goes...'aaaah.'
+[FM7]Tall and tan and young and lovely,
+the [G7]girl from Ipanema goes walking
+and [Gm7]when she passes, each [Eaug]one she passes goes...'a[FM7]aaah.'[F#7]
+[FM7]When she walks, she's like a Samba
+that [G7]swings so cool and sways so gentle,
+that [Gm7]when she passes, each [F#7]one she passes goes...'[FM7]aaaah.'
 
 
 [Chorus]
-F#maj7                 B9
-Oh, but I watch her so sadly,
-F#m7                 D9
-how can I tell her I love her?
-Gm                         Eb9
-Yes, I would give my heart gladly...
-         Am7                        Dm7b5
-But each day, when she walks to the sea,
-    Gm7                          F#
-she looks straight ahead, not at me.
-FM7
-Tall, and tan, and young, and lovely,
-    G7
-the girl from Ipanema goes walking,
-    Gm7                F#7                     FM7
-and when she passes, I smile...but she doesn't see.
-F#7                              FM7  F#7
-No, she doesn't see, she doesn't see.
-                 FM7
-She just doesn't see.
+[F#maj7]Oh, but I watch her so [B9]sadly,
+[F#m7]how can I tell her I [D9]love her?
+[Gm]Yes, I would give my heart [Eb9]gladly...
+But each [Am7]day, when she walks to the [Dm7b5]sea,
+she [Gm7]looks straight ahead, not at [F#]me.
+[FM7]Tall, and tan, and young, and lovely,
+the [G7]girl from Ipanema goes walking,
+and [Gm7]when she passes, I [F#7]smile...but she doesn't [FM7]see.
+[F#7]No, she doesn't see, she doesn't [FM7]see. [F#7]
+She just doesn't [FM7]see.
 
 
 A sixties smash from Kraziekhat.
