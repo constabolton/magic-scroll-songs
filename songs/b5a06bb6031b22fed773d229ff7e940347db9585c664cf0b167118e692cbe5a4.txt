@@ -14,32 +14,24 @@ Song name: Underlands  by  Andrew Bird
 
 [Verse 1]
 
-   Em          A
-Oh I can’t get over this moon
-    Em7           A
-And all creatures under the sun
-Am                 D         G     G/F# Em  E
-Move through their days in a state of oblivion
+Oh [Em]I can’t get [A]over this moon
+And [Em7]all creatures [A]under the sun
+[Am]Move through their [D]days in a [G]state [G/F#]of ob[Em]livi[E]on
 
 
 [Chorus]
 
-                    Am7      D
-Stars don’t owe you anything
-                             Am      D
-Don’t give a damn about your nations
-                           Am    D
-Or feel the slightest obligation
+Stars don’t owe you [Am7]anything [D]
+Don’t give a damn about your [Am]nations [D]
+Or feel the slightest oblig[Am]ation [D]
 
 
 [Post-Chorus]
 
 (D)
   I mean, listen
-G                 G/F#   Am7                  D7
-  What if the world goes spinning off its axis?
-G                  G/F#          Am7              D7 | D7 |
-  And what if the moon begins to wane before it waxes?
+[G]  What if the worl[G/F#]d goes [Am7]spinning off its axis[D7]?
+[G]  And what if the m[G/F#]oon begins to [Am7]wane before it wa[D7]xes? [D7]
 
 
 [Instrumental Break]
@@ -51,52 +43,34 @@ G                  G/F#          Am7              D7 | D7 |
 
 [Bridge 1]
 
-Gm                    F#
-  Wrapped in darkness, you take my hand
-A#                        C
-  Through all the chambers of the underland
-D#                       A#
-  Like this penny on the railroad track
-A                                 D              D7
-  If you go too far, you know you can't go back
+[Gm]  Wrapped in darkness,[F#] you take my hand
+[A#]  Through all the chambers[C] of the underland
+[D#]  Like this penny on the [A#]railroad track
+[A]  If you go too far, you know you [D]can't go back [D7]
 
 
 [Verse]
 
-    Em7        A
-Oh, I've never been here before
-Em7           A
-  Deep inside earth's molten core
-Am7         D              G   G/F# Em E
-No need for clothes or for eyes to see
+Oh, [Em7]I've never [A]been here before
+[Em7]  Deep inside [A]earth's molten core
+[Am7]No need for [D]clothes or for [G]eyes[G/F#] to s[Em]ee [E]
 
-   E7              Am7          D
-So find yourself a pair of ears
-                       Am7        D
-Gonna be down here for many years
-                         Am7                   D
-Just listen out for that subterranean river of tears
+So [E7]find yourself a [Am7]pair of ears [D]
+Gonna be down here for [Am7]many years [D]
+Just listen out for that [Am7]subterranean river of [D]tears
 
-G                   G/F#
-  Well, not exactly hell
-Am7            D7
-More like a nocturnal paradise
-G                  G/F#
-Not exactly heaven either
-     Am7      D7           D7
-I’d say 'bout half as nice
+[G]  Well, not exactly [G/F#]hell
+[Am7]More like a noc[D7]turnal paradise
+[G]Not exactly heaven [G/F#]either
+I’d s[Am7]ay 'bout [D7]half as nice [D7]
 
 
 [Bridge 2]
 
-Gm                    F#
-  We're at the end now, you've run aground
-A#                                 C
-  And all the sound waves have gone underground
-Cm                                A#
-  There's a threshold between the here and hereafter
-A                                     D             D7
-  To cross a river, you know you gotta take a raft.. there
+[Gm]  We're at the end now[F#], you've run aground
+[A#]  And all the sound waves have gone[C] underground
+[Cm]  There's a threshold between the [A#]here and hereafter
+[A]  To cross a river, you know you gotta[D] take a raft..[D7] there
 
 
 [Instrumental Break]
@@ -106,23 +80,17 @@ A                                     D             D7
 
 
 [Chorus]
-                    Am7      D
-Stars don’t owe you anything
-                             Am      D
-Don’t give a damn about your nations
-                           Am    D
-Or feel the slightest obligation
+Stars don’t owe you [Am7]anything [D]
+Don’t give a damn about your [Am]nations [D]
+Or feel the slightest oblig[Am]ation [D]
 
 
 [Outro]
 
-Am   D    Am          D              Am   D
-Ooo---oh, I can’t get over this moon now
-     Am          D              Am
-Ooh, I can’t get over this moo--oon
+[Am]Ooo--[D]-oh, [Am]I can’t get [D]over this moon [Am]now [D]
+Ooh, [Am]I can’t get [D]over this moo--[Am]oon
 
-| D E | Am | D | Am | D | Am | D | Am | D E |
-     Oooooh,   Oo--ooahh  badadap, badada..
+  [D]  [E] Ooo[Am]ooh, [D]  Oo[Am]--ooa[D]hh  [Am]badad[D]ap, [Am]badad[D]a.[E].
 | Am | D | Am | D |
 | Am | D | Am | D |
 | Am | D | Am |
