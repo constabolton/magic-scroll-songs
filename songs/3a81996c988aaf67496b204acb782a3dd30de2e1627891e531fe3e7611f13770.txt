@@ -9,14 +9,12 @@ Capo 1st fret
 Chords used:
 E*     x79997
 Emaj7  x79897
-E7     x79797
-F#m*   x9(11)(11)(10)9
+[E7]F#m*   x9(11)(11)(10)9
 D*     x57775
 A*     577655
 A      x02220
 Em7    022030
-F#7    242322
-D      xx0232
+[F#7]D      xx0232
 F#m    244222
 E      022100
 
@@ -28,112 +26,78 @@ E      022100
 
 [Chorus 1]
 
-A
-  Let me take you down,
-                  Em7
-'cause I'm going to
+[A]  Let me take you down,
+'cause I'm going t[Em7]o
 
 Strawberry fields
-F#7
-  Nothing is real
-    D              F#7
-And nothing to get hung about
-Dmaj7                A
-Strawberry fields forever
+[F#7]  Nothing is real
+And [D]nothing to get [F#7]hung about
+[Dmaj7]Strawberry fields for[A]ever
 
 
 [Verse 1]
 
 E*        Emaj7     E7
 Living is easy with eyes closed
-F#m      E               D
-Misunderstanding all you see
-D             E               A
- It's getting hard to be someone,
-                  F#m
-but it all works out
-D           E              D   A
- It doesn't matter much to me
+[F#m]Misunders[E]tanding all you [D]see
+[D] It's getting [E]hard to be someo[A]ne,
+but it all works o[F#m]ut
+[D] It doesn't [E]matter much to [D]me [A]
 
 
 [Chorus 2]
 
-A
-  Let me take you down,
-                  Em7
-'cause I'm going to
+[A]  Let me take you down,
+'cause I'm going t[Em7]o
 
 Strawberry fields
-F#7
-  Nothing is real
-    D              F#7
-And nothing to get hung about
-Dmaj7                A
-Strawberry fields forever
+[F#7]  Nothing is real
+And [D]nothing to get [F#7]hung about
+[Dmaj7]Strawberry fields for[A]ever
 
 
 [Verse 2]
 
 E*        Emaj7        E7
 No one, I think, is in my tree
-F#m         E               D
- I mean, it must be high or low
-D             E                     A
- That is, you can't, you know, tune in
-           F#m
-But it's alright
-D           E                  D   A
- That is, I think it's not too bad
+[F#m] I mean, it [E]must be high or [D]low
+[D] That is, you [E]can't, you know, tune [A]in
+But it's al[F#m]right
+[D] That is, I [E]think it's not too [D]bad [A]
 
 
 [Chorus 3]
 
-A
-  Let me take you down,
-                  Em7
-'cause I'm going to
+[A]  Let me take you down,
+'cause I'm going t[Em7]o
 
 Strawberry fields
-F#7
-  Nothing is real
-    D              F#7
-And nothing to get hung about
-Dmaj7                A
-Strawberry fields forever
+[F#7]  Nothing is real
+And [D]nothing to get [F#7]hung about
+[Dmaj7]Strawberry fields for[A]ever
 
 
 [Verse 3]
 
 E*      Emaj7   E7
 Always, no, sometimes, think it's me
-F#m               E                D
- But, you know, I know when it's a dream
-D             E               A
- I think, er, no, I mean, er, yes
-             F#m
-But it's all wrong
-D           E            D   A
- That is, I think I disagree
+[F#m] But, you know, I [E]know when it's a [D]dream
+[D] I think, er, [E]no, I mean, er, [A]yes
+But it's all [F#m]wrong
+[D] That is, I [E]think I disag[D]ree [A]
 
 
 [Chorus 4]
 
-A
-  Let me take you down,
-                  Em7
-'cause I'm going to
+[A]  Let me take you down,
+'cause I'm going t[Em7]o
 
 Strawberry fields
-F#7
-  Nothing is real
-    D              F#7
-And nothing to get hung about
-Dmaj7                A     F#m
-Strawberry fields forever
-Dmaj7               A
-Strawberry fields forever
-Dmaj7      E         D
-Strawberry fields forever
+[F#7]  Nothing is real
+And [D]nothing to get [F#7]hung about
+[Dmaj7]Strawberry fields for[A]ever [F#m]
+[Dmaj7]Strawberry fields fo[A]rever
+[Dmaj7]Strawberry [E]fields for[D]ever
 
 
 [Outro] (fade out)
