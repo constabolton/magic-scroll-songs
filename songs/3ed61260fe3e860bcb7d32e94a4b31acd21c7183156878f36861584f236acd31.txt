@@ -7,64 +7,41 @@ No CAPO - Colin Hay Acoustic version from his album Men @ Work
 
 [Verse 1]
 
-D                A
-I can't get to sleep
-C                 G
-I think about the implications
-D                A
-Of diving in too deep
-C                  G
-And possibly the complications
-D              A
-Especially at night
-C             G
-I worry over situations
-D               A
-I know will be alright
-C                 G
-Perhaps it's just imagination
+[D]I can't get to sl[A]eep
+[C]I think about the [G]implications
+[D]Of diving in too [A]deep
+[C]And possibly the co[G]mplications
+[D]Especially at n[A]ight
+[C]I worry over s[G]ituations
+[D]I know will be a[A]lright
+[C]Perhaps it's just [G]imagination
 
 
 [Chorus]
 
-Bm                     A
-Day after day it reappears
-Bm                              A
-Night after night my heartbeat shows the fear
-F#sus4   F#           G     A
-Ghosts appear and fade away
+[Bm]Day after day it reappe[A]ars
+[Bm]Night after night my heartbeat s[A]hows the fear
+[F#sus4]Ghosts ap[F#]pear and fade[G] away [A]
 
 
 [Verse 2]
 
-D                  A
-Alone between the sheets
-C              G
-Only brings exasperation
-D                     A
-It's time to walk the streets
-C            G
-Smell the... desperation
-D                       A
-At least there's pretty lights
-C                         G
-And though there's little variation
-D                A
-It nullifies the night
-C         G
-from Overkill
+[D]Alone between the s[A]heets
+[C]Only brings exa[G]speration
+[D]It's time to walk the [A]streets
+[C]Smell the... [G]desperation
+[D]At least there's pretty [A]lights
+[C]And though there's little [G]variation
+[D]It nullifies the [A]night
+[C]from Overk[G]ill
 
 
 [Chorus]
 
-Bm                     A
-Day after day it reappears
-Bm                              A
-Night after night my heartbeat shows the fear
-F#sus4   F#           G
-Ghosts appear and fade away...
-A
-  come back another day
+[Bm]Day after day it reappe[A]ars
+[Bm]Night after night my heartbeat s[A]hows the fear
+[F#sus4]Ghosts ap[F#]pear and fade[G] away...
+[A]  come back another day
 
 
 [Solo]
@@ -76,33 +53,20 @@ Bm    A     F#7sus4  F#7  G
 
 [Verse 3]
 
-D                A
-I can't get to sleep
-C                 G
-I think about the implications
-D                A
-Of diving in too deep
-C                  G
-And possibly the complications
-D              A
-Especially at night
-C             G
-I worry over situations that
-D               A
-I know will be alright
-C             G
-It's just Overkill
+[D]I can't get to sl[A]eep
+[C]I think about the [G]implications
+[D]Of diving in too [A]deep
+[C]And possibly the co[G]mplications
+[D]Especially at n[A]ight
+[C]I worry over s[G]ituations that
+[D]I know will be a[A]lright
+[C]It's just Over[G]kill
 
 
 [Chorus]
 
-Bm                     A
-Day after day it reappears
-Bm                              A
-Night after night my heartbeat shows the fear
-F#sus4   F#           G
-Ghosts appear and fade away...
-F#sus4   F#           G
-Ghosts appear and fade away...
-F#sus4   F#            G
-Ghosts appear and fade away...
+[Bm]Day after day it reappe[A]ars
+[Bm]Night after night my heartbeat s[A]hows the fear
+[F#sus4]Ghosts ap[F#]pear and fade[G] away...
+[F#sus4]Ghosts ap[F#]pear and fade[G] away...
+[F#sus4]Ghosts ap[F#]pear and fade [G]away...
