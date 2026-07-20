@@ -13,16 +13,11 @@ D  F#m  G  A
 
 
 [Verse 1]
-D             F#m    G               D
-  Amarillo by mornin' up from San Antone
-D                  F#m     G                   A
-  Everything that I got is just what I've got on
-          Gmaj7              A
-When that sun is high in the Texas sky
-        D              F#m    G
-I'll be buckin' at the county fair
-D             A           G     A     D
-  Amarillo by mornin', Amarillo I'll be there
+[D]  Amarillo by [F#m]mornin'[G] up from San Ant[D]one
+[D]  Everything that I[F#m] got is [G]just what I've got o[A]n
+When that [Gmaj7]sun is high in the [A]Texas sky
+I'll be [D]buckin' at the [F#m]county [G]fair
+[D]  Amarillo by [A]mornin', Ama[G]rillo [A]I'll b[D]e there
 
 
 [Instrumental]
@@ -30,16 +25,11 @@ D             A           G     A     D
 
 
 [Verse 2]
-D                        F#m               G            D
-  They took my saddle in Houston, broke my leg in Santa Fe
-D                    F#m            G               A
-  Lost my wife and a girlfriend somewhere along the way
-            Gmaj7                       A
-But I'll be looking for eight when they pull that gate
-      D         F#m         G
-and I hope that judge ain't blind
-D             A           G       A   D
-  Amarillo by mornin', Amarillo's on my mind
+[D]  They took my saddle in [F#m]Houston, broke my [G]leg in Santa [D]Fe
+[D]  Lost my wife and a [F#m]girlfriend some[G]where along the [A]way
+But I'll be [Gmaj7]looking for eight when they [A]pull that gate
+and I [D]hope that [F#m]judge ain't [G]blind
+[D]  Amarillo by [A]mornin', Ama[G]rillo's [A]on m[D]y mind
 
 
 [Instrumental]
@@ -47,18 +37,12 @@ D             A           G       A   D
 
 
 [Verse 3] (key change)
-E             G#m    A               E
-  Amarillo by mornin' up from San Antone
-E                 G#m      A                 B
-  Everything that I got is just what I've got on
-        Amaj7                 B
-I ain't got a dime but what I got is mine
-        E        G#m      A
-I ain't rich but Lord I'm free
-E             B           A       B          E  A B
-  Amarillo by mornin', Amarillo's where I'll be
-E             B           A       B       E
-  Amarillo by mornin', Amarillo's where I'll be
+[E]  Amarillo by [G#m]mornin'[A] up from San Ant[E]one
+[E]  Everything that [G#m]I got is [A]just what I've got[B] on
+I ain't [Amaj7]got a dime but what I [B]got is mine
+I ain't [E]rich but [G#m]Lord I'm [A]free
+[E]  Amarillo by [B]mornin', Ama[A]rillo's [B]where I'll [E]be [A] [B]
+[E]  Amarillo by [B]mornin', Ama[A]rillo's [B]where I'[E]ll be
 
 
 [Outro]
