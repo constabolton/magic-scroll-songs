@@ -26,64 +26,47 @@ A/E    0-x-2-2-2-0
 
 [Verse 1]
 
-A                   G       D      A     G    D
-Every time I look into your loving eyes
-A                 G     D          E     G
-I see a love that money just can't buy
+[A]Every time I look in[G]to your [D]loving [A]eyes [G] [D]
+[A]I see a love that [G]money [D]just can't [E]buy [G]
 
 
 [Pre-chorus 1]
 
-    A         F#m    C#m    E
-One look from you, I drift away
-  A         F#m     C#m     E
-I pray that you are here to stay
+One [A]look from [F#m]you, I [C#m]drift a[E]way
+I [A]pray that [F#m]you are [C#m]here to [E]stay
 
 
 [Chorus]
 
-A   C#7       F#m        D
- Anything you want - you got it 
-A   C#7       F#m        D
- Anything you need - you got it
-A   C#7      F#m       D      A/E | E | E |
- Anything at all - you got it ba - by
+[A] Any[C#7]thing you [F#m]want - you [D]got it 
+[A] Any[C#7]thing you [F#m]need - you [D]got it
+[A] Any[C#7]thing at [F#m]all - you [D]got it [A/E]ba - b[E]y [E]
 
 
 [Verse 2]
 
-A                     G          D    A     G    D
-Every time I hold you I begin to understand
-A                    G        D        E     G
-Everything about you tells me I'm your man
+[A]Every time I hold you [G]I begin to [D]under[A]stand [G] [D]
+[A]Everything about you [G]tells me [D]I'm your [E]man [G]
 
 
 [Pre-chorus 2]
 
-    A     F#m     C#m     E
-I live my life to be with you
-   A       F#m    C#m        E
-No one can do the things you do
+I li[A]ve my [F#m]life to [C#m]be with [E]you
+No [A]one can [F#m]do the [C#m]things you [E]do
 
 
 [Chorus]
 
-A   C#7       F#m        D
- Anything you want - you got it
-A   C#7       F#m        D
- Anything you need - you got it
-A   C#7      F#m       D      A/E | E | E |        
- Anything at all - you got it ba - by
+[A] Any[C#7]thing you [F#m]want - you [D]got it
+[A] Any[C#7]thing you [F#m]need - you [D]got it
+[A] Any[C#7]thing at [F#m]all - you [D]got it [A/E]ba - b[E]y [E]
 
 
 [Middle 8]
 
-E
- Anything you want (you got it)
-E
- Anything you need (you got it)
-E
- Anything at a-all
+[E] Anything you want (you got it)
+[E] Anything you need (you got it)
+[E] Anything at a-all
 
 
 [Instrumental] (chorus progression)
@@ -94,35 +77,25 @@ E
 
 [Pre-chorus 3]
 
-    A       F#m     C#m     E
-I'm glad to give my love to you
-  A        F#m      C#m   E
-I know you feel the way I do
+I'm [A]glad to [F#m]give my [C#m]love to [E]you
+I [A]know you [F#m]feel the [C#m]way I [E]do
 
 
 [Chorus]
 
-A   C#7       F#m        D
- Anything you want - you got it
-A   C#7       F#m        D
- Anything you need - you got it
-A   C#7      F#m       D      A/E | E | E |
- Anything at all - you got it ba - by
+[A] Any[C#7]thing you [F#m]want - you [D]got it
+[A] Any[C#7]thing you [F#m]need - you [D]got it
+[A] Any[C#7]thing at [F#m]all - you [D]got it [A/E]ba - b[E]y [E]
 
 
 [Chorus]
 
-A   C#7       F#m        D
- Anything you want - you got it
-A   C#7       F#m        D
- Anything you need - you got it
-A   C#7      F#m       D      A/E | E | E |
- Anything at all - you got it ba - by
+[A] Any[C#7]thing you [F#m]want - you [D]got it
+[A] Any[C#7]thing you [F#m]need - you [D]got it
+[A] Any[C#7]thing at [F#m]all - you [D]got it [A/E]ba - b[E]y [E]
 
 
 [Coda]
 
-E
- Anything at all (you got it)
-E            A   A
-Ba-by  - you got it
+[E] Anything at all (you got it)
+[E]Ba-by  - you [A]got [A]it
