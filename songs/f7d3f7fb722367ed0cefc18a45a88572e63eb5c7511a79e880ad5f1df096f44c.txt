@@ -6,41 +6,25 @@ Irving Berlin (1926) (Nancy Evans version 1946?)
 
 https://en.wikipedia.org/wiki/Blue_Skies_(Irving_Berlin_song)
 
-Em         A7
-Blue skies, 
-           Em  A7
-smiling at me 
-            G
-Nothing but blue skies, 
-D7    G  B7
- do I see 
+[Em]Blue skies,[A7] 
+smiling at [Em]me [A7]
+Nothing but [G]blue skies, 
+[D7] do I [G]see[B7] 
 
-Em        A7
-Bluebirds, 
-          Em  A7
-singing a song 
-            G
-Nothing but bluebirds, 
-D7       G
- all day long 
+[Em]Bluebirds,[A7] 
+singing a [Em]song[A7] 
+Nothing but [G]bluebirds, 
+[D7] all day [G]long 
 
-G                 Cm         G
-Never saw the sun shining so bright 
-Cm        G      D7       G
-Never saw things going so right 
-G                 Cm       G
-Noticing the days hurrying by 
-Cm             G     D7          G   B7
-When you're in love, my how they fly 
+[G]Never saw the sun [Cm]shining so [G]bright 
+[Cm]Never saw [G]things [D7]going so [G]right 
+[G]Noticing the days [Cm]hurrying [G]by 
+[Cm]When you're in [G]love, [D7]my how they [G]fly [B7]
 
-Em        A7
-Blue days 
-            Em  A7
-All of them gone 
-            G
-Nothing but blue skies 
-D7        G
- From now on 
+[Em]Blue days [A7]
+All of them [Em]gone[A7] 
+Nothing but [G]blue skies 
+[D7] From now [G]on 
 
 Em A7  Em A7  G  D7 G
 
@@ -50,14 +34,10 @@ Cm G D7 G B7
 
 Em A7  Em A7  G  D7 G
 
-Em        A7
-Blue days 
-            Em  A7
-All of them gone 
-            G
-Nothing but blue skies 
-D7        G
- From now on 
+[Em]Blue days [A7]
+All of them [Em]gone[A7] 
+Nothing but [G]blue skies 
+[D7] From now [G]on 
 
 Extra verses:
 
