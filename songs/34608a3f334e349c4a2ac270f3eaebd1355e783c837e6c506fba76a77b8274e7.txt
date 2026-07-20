@@ -8,22 +8,16 @@ Intro: G# - D#
 
 1. D#
    Some people like to rock
-   D#
-   some people like to roll
-   D#
-   but movin' and groovin' gonna satisfy my soul
+   [D#]some people like to roll
+   [D#]but movin' and groovin' gonna satisfy my soul
 
 
 Ref: G#
      Let's have a party     oooohhhhh
-                  D#
-     let's have a party
-     A#
-     to have sitting to the starlets
-     G#
-     have some wallets
-     A#           D#
-     have a party tonight
+     let's have a [D#]party
+     [A#]to have sitting to the starlets
+     [G#]have some wallets
+     [A#]have a party [D#]tonight
 
 2. I never kissed a bear
    I never kissed a goo
