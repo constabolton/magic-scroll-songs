@@ -6,90 +6,50 @@ Pete Seeger  1955 *
 
 https://en.wikipedia.org/wiki/Where_Have_All_the_Flowers_Gone%3F
 
-A                  F#m
-Where have all the flowers gone?
-D         E
-Long time passing
-A                  F#m
-Where have all the flowers gone?
-Bm         E7
-Long time ago
-A                  F#m
-Where have all the flowers gone?
-D                      E
-Girls have picked them every one
-D              A
-When will they ever learn?
-D              E    A    F#m D E7
-When will they ever learn?
+[A]Where have all the [F#m]flowers gone?
+[D]Long time [E]passing
+[A]Where have all the [F#m]flowers gone?
+[Bm]Long time a[E7]go
+[A]Where have all the [F#m]flowers gone?
+[D]Girls have picked them [E]every one
+[D]When will they [A]ever learn?
+[D]When will they [E]ever [A]learn[F#m]? [D] [E7]
 
-A                  F#m
-Where have all the young girls gone?
-D         E
-Long time passing
-A                  F#m
-Where have all the young girls gone?
-Bm         E7
-Long time ago
-A                  F#m
-Where have all the young girls gone?
-D              E
-Taken husbands every one
-D              A
-When will they ever learn?
-D              E    A    F#m D E7
-When will they ever learn?
+[A]Where have all the [F#m]young girls gone?
+[D]Long time [E]passing
+[A]Where have all the [F#m]young girls gone?
+[Bm]Long time a[E7]go
+[A]Where have all the [F#m]young girls gone?
+[D]Taken husbands [E]every one
+[D]When will they [A]ever learn?
+[D]When will they [E]ever [A]learn[F#m]? [D] [E7]
 
-A                  F#m
-Where have all the young men gone?
-D         E
-Long time passing
-A                  F#m
-Where have all the young men gone?
-Bm         E7
-Long time ago
-A                  F#m
-Where have all the young men gone?
-D                 E
-Gone for soldiers every one
-D              A
-When will they ever learn?
-D              E    A    F#m D E7
-When will they ever learn?
+[A]Where have all the [F#m]young men gone?
+[D]Long time [E]passing
+[A]Where have all the [F#m]young men gone?
+[Bm]Long time a[E7]go
+[A]Where have all the [F#m]young men gone?
+[D]Gone for soldiers [E]every one
+[D]When will they [A]ever learn?
+[D]When will they [E]ever [A]learn[F#m]? [D] [E7]
 
-A                  F#m
-Where have all the soldiers gone?
-D         E
-Long time passing
-A                  F#m
-Where have all the soldiers gone?
-Bm         E7
-Long time ago
-A                  F#m
-Where have all the soldiers gone?
-D                  E
-Gone to graveyards every one
-D              A
-When will they ever learn?
-D              E    A    F#m D E7
-When will they ever learn?
+[A]Where have all the [F#m]soldiers gone?
+[D]Long time [E]passing
+[A]Where have all the [F#m]soldiers gone?
+[Bm]Long time a[E7]go
+[A]Where have all the [F#m]soldiers gone?
+[D]Gone to graveyards [E]every one
+[D]When will they [A]ever learn?
+[D]When will they [E]ever [A]learn[F#m]? [D] [E7]
 
-A                  F#m
-Where have all the graveyards gone?
-D         E
-Long time passing
-A                  F#m
-Where have all the graveyards gone?
-Bm         E7
-Long time ago
-A                  F#m
-Where have all the graveyards gone?
-D                    E
-Covered with flowers every one
-D            A
-When will we ever learn?
-D            E    A
-When will we ever learn?
+[A]Where have all the [F#m]graveyards gone?
+[D]Long time [E]passing
+[A]Where have all the [F#m]graveyards gone?
+[Bm]Long time a[E7]go
+[A]Where have all the [F#m]graveyards gone?
+[D]Covered with flowers [E]every one
+[D]When will we [A]ever learn?
+[D]When will we [E]ever [A]learn?
 
 * Alternates:
 
