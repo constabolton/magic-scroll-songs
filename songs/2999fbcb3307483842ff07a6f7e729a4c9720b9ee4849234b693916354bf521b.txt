@@ -33,141 +33,89 @@ Please take a second to scroll down to the bottom of
 the page and select a star rating for my tab, thanks
 =====================================================
 [Intro]
-       D         G           D  N.C.
-||: /__/  /__/  /__/  /__/ | /  /  /  / :|| [x4]
+||: /__[D]/  /__/  /[G]__/  /__/ | [D]/  /  /  / :|| [x4]
        ^  ^ ^   ^ ^   ^ ^    ^
 [Verse 1]
-N.C.                                D  G  D
-Darling, you've got to let me know,
-N.C.                                D  G  D
-Should I stay or should I go,
-N.C.                                G  F  G
-If you say that you are mine,
-N.C.                                D  G  D
-I'll be here 'til the end of time,
-N.C.                                A    A7
-So you've got to let me know----------
-N.C.                                D  G  D
-...Should I stay or should I go?
+Darling, you've got to let me know, [D] [G] [D]
+Should I stay or should I go, [D] [G] [D]
+If you say that you are mine, [G] [F] [G]
+I'll be here 'til the end of time, [D] [G] [D]
+So you've got to let me know--------[A]-- [A7]
+...Should I stay or should I go? [D] [G] [D]
 
 [Verse 2]
-N.C.                               D  G  D
-It's always tease, tease, tease,
-N.C.                               D  G  D
-You're happy when I'm on my knees,
-N.C.                                    G  F  G
-One day it's fine, and next it's black,
-N.C.                               D  G  D
-So if you want me off your back,
-N.C.                               A    A7
-Well, come on, and let me know-------
-N.C.                               D  G  D
-...Should I stay or should I go?
+It's always tease, tease, tease, [D] [G] [D]
+You're happy when I'm on my knees, [D] [G] [D]
+One day it's fine, and next it's black, [G] [F] [G]
+So if you want me off your back, [D] [G] [D]
+Well, come on, and let me know-----[A]-- [A7]
+...Should I stay or should I go? [D] [G] [D]
 
 [Verse 3]
-N.C.                       D         G  D
-Should I stay, or should I go now?
-D                          D         G  D
-Should I stay, or should I go now?
-D                     G        F  G
-If I go there will be trouble,
-G                          D        G  D
-And, if I stay, it will be double,
-D                       A          A7
-So, come on, and let me know------...
+Should I stay, or should I [D]go now? [G] [D]
+[D]Should I stay, or should I [D]go now? [G] [D]
+[D]If I go there will be [G]trouble, [F] [G]
+[G]And, if I stay, it will be [D]double, [G] [D]
+[D]So, come on, and let me [A]know------.[A7]..
 
 [Interlude]
-     D          G          D  N.C.
-| /__/  /__/  /__/  /__/ | /  /  /  / |
+| /__[D]/  /__/  /_[G]_/  /__/ | [D]/  /  /  / |
      ^  ^ ^   ^ ^   ^ ^    ^
 [Verse 4]
 N.C.
 This indecision's buggin' me,
-D          G              D
-   (Inde - cisión me mo - lesta)
+[D]   (Inde - [G]cisión me mo - [D]lesta)
 N.C.
 If you don't want me, set me free!
-D            G                D
-   (Si no me quieres, líbra - me!)
+[D]   (Si no me [G]quieres, líbra - [D]me!)
 N.C.
 Exactly whom I'm supposed to be?
- G      F          G
-(Digame   ...quein tengo ser!)
+([G]Digame [F]  ...quein [G]tengo ser!)
 N.C.
 Don't you know which clothes even fit me?
-  D            G              D
-(¿No sabes que ropas me que - da?)
+(¿[D]No sabes que [G]ropas me que - [D]da?)
 N.C.
 Come on, and let me know...
-A                       A7
-    (Me tienes que de - cir...)
+[A]    (Me tienes que de - [A7]cir...)
 N.C.
 Should I cool it, or should I blow?
-D            G             D
-   (¿Me debo ir o quedar - me?)
+[D]   (¿Me debo [G]ir o quedar - [D]me?)
 
 [Break]                          SPLIT!
-      D       G            D  N.C.
-| /__/  /__/  /__/  /__/ | /  /  /  / |
+| /__/[D]  /__/  [G]/__/  /__/ | [D]/  /  /  / |
      ^  ^ ^   ^ ^   ^ ^    ^
-     D        G            D  N.C.
-| /__/  /__/  /__/  /__/ | /  /  /  / |
+| /__[D]/  /__/  [G]/__/  /__/ | [D]/  /  /  / |
      ^  ^ ^   ^ ^   ^ ^    ^
-   G         F         G      N.C.
-(¿Yo me en - frio o lo soplo?)
+(¿Y[G]o me en - [F]frio o lo [G]soplo?)
 
-     D        G            D  N.C.
-| /__/  /__/  /__/  /__/ | /  /  /  / |
+| /__[D]/  /__/  [G]/__/  /__/ | [D]/  /  /  / |
      ^  ^ ^   ^ ^   ^ ^    ^
-     A                     A7  N.C.
-| /__/  /__/  /__/  /__/ | /  /  /  / |
+| /__[A]/  /__/  /__/  /__/ | [A7]/  /  /  / |
      ^  ^ ^   ^ ^   ^ ^    ^
-     D        G            D  N.C.
-| /__/  /__/  /__/  /__/ | /  /  /  / |
+| /__[D]/  /__/  [G]/__/  /__/ | [D]/  /  /  / |
      ^  ^ ^   ^ ^   ^ ^    ^
 [Verse 5]
-N.C.                       D
-Should I stay, or should I go now?
-  D          G         D
-(¿Yo me en - frio o lo soplo?)
-D
-Should I stay, or should I go now?
-  D          G         D
-(¿Yo me en - frio o lo soplo?)
-D                        G
-   If I go there will be trouble,
- G     F                   G
-(Si me voy va a haber pe - ligro!)
-G                           D
-   And if I stay it will be double,
- D     G             D
-(Si me quedo sera el doble!)
-D                         A
-   So you've gotta let me know...
- A
-(Me tienes que decir...)
-A                A7              D
-   Should I cool it, or should I blow?
-  D          G         D
-(¿Yo me en - frio o lo soplo?)
+Should I stay, or should I [D]go now?
+(¿[D]Yo me en - [G]frio o lo [D]soplo?)
+[D]Should I stay, or should I go now?
+(¿[D]Yo me en - [G]frio o lo [D]soplo?)
+[D]   If I go there will be [G]trouble,
+([G]Si me [F]voy va a haber pe - [G]ligro!)
+[G]   And if I stay it will be [D]double,
+([D]Si me [G]quedo sera el [D]doble!)
+[D]   So you've gotta let me [A]know...
+([A]Me tienes que decir...)
+[A]   Should I cool [A7]it, or should I [D]blow?
+(¿[D]Yo me en - [G]frio o lo [D]soplo?)
 
 [Verse 6]
-D
-   Should I stay, or should I go now?
-D               G         D
-   (¿Yo me en - frio o lo soplo?)
-D                        G
-   If I go there will be trouble,
-G             F               G
-   (Si me voy va a haber pe - ligro!)
-G                           D
-   And if I stay it will be double,
- D     G             D
-(Si me quedo sera el doble!)
-D                      A
-   So you gotta let me know...
- A                  A7     N.C
-(Me tienes que de - cir...)
-D        G                 D
-Should I stay, or should I go?
+[D]   Should I stay, or should I go now?
+[D]   (¿Yo me en - [G]frio o lo [D]soplo?)
+[D]   If I go there will be [G]trouble,
+[G]   (Si me voy [F]va a haber pe - [G]ligro!)
+[G]   And if I stay it will be [D]double,
+([D]Si me [G]quedo sera el [D]doble!)
+[D]   So you gotta let me [A]know...
+([A]Me tienes que de - [A7]cir...)
+[D]Should I [G]stay, or should I [D]go?
 ^      ^  ^    ^  ^      ^ ^
