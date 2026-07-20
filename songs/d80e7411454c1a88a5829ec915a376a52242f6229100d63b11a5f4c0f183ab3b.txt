@@ -12,12 +12,9 @@ C
 
 
 [Verse 1]
-C
-Look a-yonder coming, coming down that railroad track
-     F                                               C
-Hey, look a-yonder coming, coming down that railroad track
-         G7                                      C
-It's the Orange Blossom Special bringing my baby back
+[C]Look a-yonder coming, coming down that railroad track
+Hey, [F]look a-yonder coming, coming down that railroad [C]track
+It's the [G7]Orange Blossom Special bringing my baby [C]back
 
 
 [Harmonica Solo]
@@ -32,12 +29,9 @@ C
 
 
 [Verse 2]
-          C
-Well, I'm going down to Florida and get some sand in my shoes
-   F                                       C
-Or maybe Californy and get some sand in my shoes
-               G7                                             C
-I'll ride that Orange Blossom Special and lose these New York blues
+Well, I'm [C]going down to Florida and get some sand in my shoes
+Or [F]maybe Californy and get some sand in my [C]shoes
+I'll ride that [G7]Orange Blossom Special and lose these New York [C]blues
 
 
 [Saxophone Solo]
@@ -48,25 +42,17 @@ C
 
 
 [Bridge]
-C
-"Say man, when you going back to Florida?"
-C
-"When am I going back to Florida? I don't know. Don't reckon I ever will."
-C
-"Ain't you worried about getting your nourishment in New York?"
-C
-"Well, I don't care if I do-die-do-die-do-die-do-die-do-die..."
+[C]"Say man, when you going back to Florida?"
+[C]"When am I going back to Florida? I don't know. Don't reckon I ever will."
+[C]"Ain't you worried about getting your nourishment in New York?"
+[C]"Well, I don't care if I do-die-do-die-do-die-do-die-do-die..."
 
 
 [Verse 3]
-     C
-Hey, talk about a-rambling, she's the fastest train on the line
-F                                                      C
-Talk about a-traveling, she's the fastest train on the line
-          G7                                               C
-It's that Orange Blossom Special rolling down the seaboard line
+Hey, [C]talk about a-rambling, she's the fastest train on the line
+[F]Talk about a-traveling, she's the fastest train on the [C]line
+It's that [G7]Orange Blossom Special rolling down the seaboard [C]line
 
 
 [Outro]
-C
-(fade out)
+[C](fade out)
