@@ -8,55 +8,39 @@ Song name: Surfer Girl  by  The Beach Boys
 
         [6/8; w/wordless vocals]
 
-        D            F#m            Bm           F#m
-        / / /  / / /  / / /  / / /  / / /  / / /  / / /  / / /
-        G             Em            A [N.C.]
-        / / /  / / /  / / /  / / /  /
+        [D]/ / /  / / / [F#m] / / /  / / /  [Bm]/ / /  / / / [F#m] / / /  / / /
+        [G]/ / /  / / /  [Em]/ / /  / / /  [A]/
 
 [Verse 1]
 
-         D      Bm      G      A
-        Little surfer, little one
-        Dmaj7    D7         G    Gm6
-        Make my heart come all undone
-        D       Bm      G       A      D      Bm       G             A
-        Do you love me, do you surfer girl
+        L[D]ittle s[Bm]urfer, l[G]ittle o[A]ne
+        [Dmaj7]Make my h[D7]eart come a[G]ll un[Gm6]done
+        [D]Do you l[Bm]ove me, [G]do you s[A]urfer g[D]irl [Bm] [G] [A]
                                      (surfer girl, my little surfer girl)
 
 [Verse 2]
-        D      Bm          G      A
-        I have watched you on the shore
-        Dmaj7    D7     G       Gm6
-        Standing by the ocean's roar
-        D       Bm     G       A      D      Gmaj7         D      D7
-        Do you love me do you surfer girl
+        [D]I have [Bm]watched you [G]on the [A]shore
+        [Dmaj7]Standing [D7]by the [G]ocean's [Gm6]roar
+        [D]Do you l[Bm]ove me [G]do you s[A]urfer g[D]irl [Gmaj7] [D] [D7]
                                      (surfer girl, surfer girl)
 
 [Bridge]
 
-        G         A   Dmaj7             Bm
-        We could ride       the surf together
-         G         A          D    D7
-        While our love would grow
-        G      A    Dmaj7          Bm
-        In my woody       I would take you
-         E           A    Bb
-        Everywhere I go...oh
+        [G]We could r[A]ide [Dmaj7]      the surf tog[Bm]ether
+        W[G]hile our l[A]ove would g[D]row [D7]
+        [G]In my w[A]oody [Dmaj7]      I would t[Bm]ake you
+        E[E]verywhere I [A]go...[Bb]oh
 
 (key changes to Eb)
 
 
 [Verse 3]
 
-        Eb   Cm       Ab    Bb
-        So I say from me to you
-        Ebmaj7  Eb7       Ab         Abm6
-        I will make your dreams come true
-        Eb      Cm     Ab        Bb [N.C.]
-        Do you love me do you   surfer
+        [Eb]So I [Cm]say from [Ab]me to [Bb]you
+        [Ebmaj7]I will m[Eb7]ake your d[Ab]reams come [Abm6]true
+        [Eb]Do you l[Cm]ove me [Ab]do you   s[Bb]urfer
 
 [Coda]
 (repeat to fade)
 
-         Eb           Cm      Abmaj7         Bb
-        Girl, surfer girl, my little surfer girl
+        G[Eb]irl, surfer g[Cm]irl, my [Abmaj7]little surfer g[Bb]irl
