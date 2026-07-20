@@ -8,25 +8,15 @@ https://www.youtube.com/watch?v=waVBCj8iW7U
 E7       C       Em     G       C  G7      E  E7    G7        C
 
 [Verse 1]
-C           G7       C    C7   C            D7     A7       D7
-I’m looking over,  a four leaf clover, that I over looked before,
-G7                        C         C7          
-One leaf is sunshine, the second is rain,
-    D7                        G7   
-The third is  the roses, that grow in the lane.
-C         G7            C   G7 C           D7       A7  D7   
-No need explaining, the one re—maining, is somebody I  adore,
-E7          C       Em    G     C  G7        E  E7    G7        C
-I’m looking over, a four  leaf  clover, that I  over  looked be-fore.
+[C]I’m looking [G7]over,  a [C]four [C7]leaf [C]clover, that [D7]I over [A7]looked be[D7]fore,
+[G7]One leaf is sunshine, the [C]second is [C7]rain,
+The [D7]third is  the roses, that [G7]grow in the lane.
+[C]No need ex[G7]plaining, the [C]one [G7]re—[C]maining, is [D7]somebody [A7]I  a[D7]dore,
+[E7]I’m looking [C]over, a [Em]four  [G]leaf  [C]clo[G7]ver, that [E]I  [E7]over  [G7]looked be-[C]fore.
 
 [Verse 2]
-C           Dm7  C   G7 C    C7   C            D7 Dm7   D7     A7   D7
-I’m looking ov – er, a  four leaf clover, that I  over  looked be - fore,
-G7   D7     G7            C         C7 
-One leaf is sunshine, the second is rain,
-    D7    A7      D7          G7   Dm7    G7
-The third is the  roses, that grow in the lane.
-C  G7     Dm7  C    G7  C   G7  C          D7  Dm7  D7 A7 D7   
-No need explaining, the one re—maining, is somebody I  a--dore,
-F   Dm7           D7 CM7  Em7   A7           F Dm7  G      G7 C        
-I’m looking over, a  four leaf  clover, that I over looked be-fore.
+[C]I’m looking [Dm7]ov – [C]er, [G7]a  [C]four [C7]leaf [C]clover, that [D7]I  [Dm7]over  [D7]looked [A7]be - [D7]fore,
+[G7]One l[D7]eaf is [G7]sunshine, the [C]second is [C7]rain,
+The [D7]third [A7]is the  [D7]roses, that [G7]grow [Dm7]in the [G7]lane.
+[C]No [G7]need ex[Dm7]plain[C]ing, [G7]the [C]one [G7]re—m[C]aining, is [D7]some[Dm7]body [D7]I  [A7]a--[D7]dore,
+[F]I’m [Dm7]looking over, [D7]a  [CM7]four [Em7]leaf  [A7]clover, that [F]I [Dm7]over [G]looked [G7]be-[C]fore.
