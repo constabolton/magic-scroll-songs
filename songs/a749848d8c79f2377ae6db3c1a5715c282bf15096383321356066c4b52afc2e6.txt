@@ -5,59 +5,37 @@ Catch A Falling Star:Perry Como.
 #1 in 1958.
 
 CHORUS:
-G                    Am7 G                 Am7
-Catch a falling star and put it in your pocket, 
-G            D7    G   Am7
-never let it fade away.
-G                    Am7 G                 Am7
-Catch a falling star and put it in your pocket, 
-G             D7    G   G7
-save it for a rainy day. 
+[G]Catch a falling star [Am7]and [G]put it in your poc[Am7]ket, 
+[G]never let it [D7]fade a[G]way.[Am7]
+[G]Catch a falling star [Am7]and [G]put it in your poc[Am7]ket, 
+[G]save it for a [D7]rainy [G]day.[G7] 
 
 #1.
-    C        Am7      C              Am7
-For love may come and tap you on the shoulder, 
-G    Gdim     G     G7
-some starless night...
-    C            Dm7 C                     Am7 
-and just in case you feel you want to hold her, 
-G      Em     D     Gdim   D   Cdim
-you'll have a pocketful of starlight.
+For [C]love may [Am7]come and [C]tap you on the [Am7]shoulder, 
+[G]some [Gdim]starless [G]night.[G7]..
+and [C]just in case [Dm7]you [C]feel you want to hold [Am7]her, 
+[G]you'll [Em]have a [D]pocket[Gdim]ful of [D]star[Cdim]light.
 
 CHORUS:
 
-G                    Am7 G                 Am7
-Catch a falling star and put it in your pocket, 
-G            D7   Fdim  G   Am7
-never let it fade a.....way.
-G                    Dm7 G                 Am7
-Catch a falling star and put it in your pocket, 
-G             D7     Fdim G   G7
-save it for a rain...y day. 
+[G]Catch a falling star [Am7]and [G]put it in your poc[Am7]ket, 
+[G]never let it [D7]fade [Fdim]a.....[G]way.[Am7]
+[G]Catch a falling star [Dm7]and [G]put it in your poc[Am7]ket, 
+[G]save it for a [D7]rain...[Fdim]y day[G]. [G7]
 
 #2.
-    C         Am7  C            Am7
-For when your troubles start to multiplyin', 
-G   Gdim      G    G7
-and they just might.
-     C       Am7   C                Am7
-It's easy to for...get them without tryin',
-G    Em     D     Gdim   D   Cdim    E      Bm7 
-with just a pocketful of starlight...pocket full
-   Gdim  E7
-of star..light.
+For [C]when your [Am7]troub[C]les start to [Am7]multiplyin', 
+[G]and [Gdim]they just [G]might[G7].
+It's [C]easy to [Am7]for...[C]get them without [Am7]tryin',
+[G]with [Em]just a [D]pocket[Gdim]ful of [D]star[Cdim]light...[E]pocket [Bm7]full
+of [Gdim]star..[E7]light.
 
 CHORUS:
-A                    D   A                 D
-Catch a falling star and put it in your pocket, 
-A                 D  A
-never let it fade a..way.
-A                    D   A                 D
-Catch a falling star and put it in your pocket, 
-A                 D A
-save it for a rainy day.
-A               D A     A       Dbm7  D     E7  A  
-Save it for rainy day...Save it for a rain..y   day.
+[A]Catch a falling star [D]and [A]put it in your poc[D]ket, 
+[A]never let it fade [D]a..[A]way.
+[A]Catch a falling star [D]and [A]put it in your poc[D]ket, 
+[A]save it for a rain[D]y [A]day.
+[A]Save it for rain[D]y [A]day...[A]Save it [Dbm7]for a [D]rain..[E7]y   [A]day.
 
 
 A fifties smash from Kraziekhat.
