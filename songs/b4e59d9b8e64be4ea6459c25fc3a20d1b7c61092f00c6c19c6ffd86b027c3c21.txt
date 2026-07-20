@@ -3,149 +3,92 @@ Song name: Impostor Syndrome  by  Sidney Gish
 ----------------------------------------------------------------------
 [Verse 1]
 
-G   Em    C       D
-  Unfortunately I am
-G     Em       C          D     D#m
-  My own dog, my own fur companion
-Em           A
-  My own old lady on a forum
-C              Cm
-  Who types in glittery decorum
+[G]  Un[Em]fortun[C]ately I [D]am
+[G]  My o[Em]wn dog, m[C]y own fur c[D]ompani[D#m]on
+[Em]  My own old [A]lady on a forum
+[C]  Who types in [Cm]glittery decorum
 
-G   Em      C     D
-  Unfortunately I take
-G    Em      C             D    D#m
-  Myself out walking every day
-Em          A
-  I hand my legs to the feet and
-C           Cm
-  I give my head to the leash
+[G]  Un[Em]fortunat[C]ely I [D]take
+[G]  Mys[Em]elf out [C]walking every [D]day [D#m]
+[Em]  I hand my [A]legs to the feet and
+[C]  I give my [Cm]head to the leash
 
 [Chorus]
 
-Am            D
-  Every other day I’m wondering
-G                E7
-  What’s a human being gotta be like
-Am                D
-  What’s a way to just be competent
-G                       E7
-  These sweet instincts ruin my life
+[Am]  Every other [D]day I’m wondering
+[G]  What’s a human [E7]being gotta be like
+[Am]  What’s a way to [D]just be competent
+[G]  These sweet instincts [E7]ruin my life
 
-Am            D
-  Every other day I’m wondering
-G             E7
-  Was it a mistake to try and define
-Am                   D
-  What I’m certain’s mad incompetence
-G                      Am Bm Cm
-  These sweet instincts        ruin my life
+[Am]  Every other [D]day I’m wondering
+[G]  Was it a mis[E7]take to try and define
+[Am]  What I’m certain’s [D]mad incompetence
+[G]  These sweet instincts[Am]   [Bm]   [Cm]  ruin my life
 
 [Verse 2]
 
-G   Em          C             D
- I can't smell well, or tell the time.
-G     Em        C          D   D#
- Not K through 8, nor K - 9.
-Em           A
- (For human, grossly underqualified
-C            Cm
- For canine, grossly overqualified)
+[G] I c[Em]an't smell w[C]ell, or tell t[D]he time.
+[G] Not K[Em] through 8[C], nor K - 9[D]. [D#]
+[Em] (For human, [A]grossly underqualified
+[C] For canine, [Cm]grossly overqualified)
 
-G     Em        C         D
-  I don’t blend in at Pet-Smart
-G         Em    C            D  D#
-  That truth remains for the Walmart
-Em                 A
-  'Cause in either case they say to me
-C                   Cm
-  "What the fuck is lost in aisle 3?"
+[G]  I do[Em]n’t blend [C]in at Pet-[D]Smart
+[G]  That tru[Em]th rem[C]ains for the [D]Wal[D#]mart
+[Em]  'Cause in either [A]case they say to me
+[C]  "What the fuck is [Cm]lost in aisle 3?"
 
 [Chorus]
 
-Am            D
-  Every other day I’m wondering
-G                E7
-  What’s a human being gotta be like
-Am                D
-  What’s a way to just be competent
-G                       E7
-  These sweet instincts ruin my life
+[Am]  Every other [D]day I’m wondering
+[G]  What’s a human [E7]being gotta be like
+[Am]  What’s a way to [D]just be competent
+[G]  These sweet instincts [E7]ruin my life
 
-Am            D
-  Every other day I’m wondering
-G             E7
-  Was it a mistake to try and define
-Am                   D
-  What I’m certain’s mad incompetence
-G                      Am Bm Cm
-  These sweet instincts        ruin my life
+[Am]  Every other [D]day I’m wondering
+[G]  Was it a mis[E7]take to try and define
+[Am]  What I’m certain’s [D]mad incompetence
+[G]  These sweet instincts[Am]   [Bm]   [Cm]  ruin my life
 
 [Solo]
 
 Am D G E
-Am D G G
-----Key Change---- [If chords become too hard, play previous chords in the verse and chorus with capo on 2nd]
+[Am]---[D]-K[G]ey[G] Change---- [If chords become too hard, play previous chords in the verse and chorus with capo on 2nd]
 A F#m D E
 A F#m D E
 
 
 [Verse 3]
-A      F#m        D          E
-  Just watch me, moving far away
-A   F#m   D             E    Fm
-  Nobody even knows my name and
-F#m         B
-  No one suspects that I’m not fine, and
-D        Dm
-  Nobody outs behavioral Frankenstein
+[A]  Just [F#m]watch me, m[D]oving far a[E]way
+[A]  No[F#m]body e[D]ven knows my n[E]ame a[Fm]nd
+[F#m]  No one sus[B]pects that I’m not fine, and
+[D]  Nobody [Dm]outs behavioral Frankenstein
 
-A      F#m     D          E
-  Just look at Victor in LA
-A         F#m      D         E    Fm
-  And Syd with the y at U of A,
-F#m           B
-  And all the majors at the labels -
-D           Dm
-  Rebooting soon as I am able
+[A]  Just [F#m]look at [D]Victor in L[E]A
+[A]  And Syd [F#m]with the [D]y at U of [E]A, [Fm]
+[F#m]  And all the [B]majors at the labels -
+[D]  Rebooting [Dm]soon as I am able
 
 [Chorus]
-Bm            E
-  Every other day I’m wondering
-A                F#7
-  What’s a human being gotta be like
-Bm                E
-  What’s a way to just be competent
-A                       F#7
-  These sweet instincts ruin my life
+[Bm]  Every other [E]day I’m wondering
+[A]  What’s a human [F#7]being gotta be like
+[Bm]  What’s a way to [E]just be competent
+[A]  These sweet instincts [F#7]ruin my life
 
-Bm            E
-  Every other day I’m wondering
-A             F#7
-  Was it a mistake to try and define
-Bm                   E
-  What I’m certain’s mad incompetence
-A                       F#7
-  These sweet instincts ruin my life
+[Bm]  Every other [E]day I’m wondering
+[A]  Was it a mis[F#7]take to try and define
+[Bm]  What I’m certain’s [E]mad incompetence
+[A]  These sweet instincts [F#7]ruin my life
 
 [Outro]
-Bm            E
-  Da da da da da da dadada
-A             F#7
-  Da da da da da da dadada
-Bm            E
-  Da da da da da da dadada
-A                       F#7
-  These sweet instincts ruin my life
+[Bm]  Da da da da [E]da da dadada
+[A]  Da da da da [F#7]da da dadada
+[Bm]  Da da da da [E]da da dadada
+[A]  These sweet instincts [F#7]ruin my life
 
-Bm            E
-  Da da da da da da dadada
-A             F#7
-  Da da da da da da dadada
-Bm            E
-  Da da da da da da dadada
-A             F#7
-  These sweet instincts ruin my life
+[Bm]  Da da da da [E]da da dadada
+[A]  Da da da da [F#7]da da dadada
+[Bm]  Da da da da [E]da da dadada
+[A]  These sweet [F#7]instincts ruin my life
 
 [Outro Chords]
 Bm E A F#7
