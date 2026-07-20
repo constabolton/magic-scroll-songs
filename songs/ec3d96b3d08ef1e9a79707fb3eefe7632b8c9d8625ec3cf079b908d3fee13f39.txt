@@ -2,66 +2,42 @@
 Song name: The Eddystone Light  by  Burl Ives
 ----------------------------------------------------------------------
 [Verse]
-C                    G                      C
-My father was the keeper of the Eddystone Light
-F                      G7    C
-And he slept with a mermaid one fine night
-C                  G         C
-From this union there came three
-F                  G7            F
-A porpoise and a porgy and the other was me
+[C]My father was the kee[G]per of the Eddystone Li[C]ght
+[F]And he slept with a mer[G7]maid o[C]ne fine night
+[C]From this union the[G]re came th[C]ree
+[F]A porpoise and a po[G7]rgy and the ot[F]her was me
 
 [Chorus]
-D   D7             G         G7
-Yo, ho, ho, the wind blows free
-G7                        C
-Oh, for a life on the rolling sea
+[D]Yo, [D7]ho, ho, the win[G]d blows fr[G7]ee
+[G7]Oh, for a life on the roll[C]ing sea
 
 [Verse]
-C                          G             C
-One night while I was a-trimmin' of the glim
-F              G7             C
-A-singin' a verse from the evening hymn
-C                            G        C
-A voice from the starboard shouted, "Ahoy
-F                 G7        C
-And there was my mother a-sittin' on a buoy
+[C]One night while I was a-tri[G]mmin' of the g[C]lim
+[F]A-singin' a ver[G7]se from the eve[C]ning hymn
+[C]A voice from the starboard sh[G]outed, "A[C]hoy
+[F]And there was my m[G7]other a-si[C]ttin' on a buoy
 
 [Chorus]
 
-D   D7            G         G7
-Yo, ho, ho, the wind blows free
-G7                        C
- Oh, for a life on the rolling sea
+[D]Yo, [D7]ho, ho, the wi[G]nd blows f[G7]ree
+[G7] Oh, for a life on the rol[C]ling sea
 
 [Verse]
-C                            G         C
-"Oh, what has become of my children three?"
-F          G7                C
-My mothеr, then she asked of mе
-C             G                  C
-"One was exhibited as a talking fish
-F                    G7                 C
-And the other was served in a chafing dish"
+[C]"Oh, what has become of my ch[G]ildren thr[C]ee?"
+[F]My mothеr, [G7]then she asked of [C]mе
+[C]"One was exhib[G]ited as a talking f[C]ish
+[F]And the other was ser[G7]ved in a chafing di[C]sh"
 
 [Chorus]
-D   D7            G          G7
-Yo, ho, ho, the wind blows free
-G7                             C
-Oh, for a life on the rolling sea
+[D]Yo, [D7]ho, ho, the wi[G]nd blows fr[G7]ee
+[G7]Oh, for a life on the rolling s[C]ea
 
 [Verse]
-C                      G              C
-Then the phosphorus flashed in her seaweed hair
-F          G7           C
-I looked again, and my mother wasn't there
-C                       G                C
-A voice come a-echoing out through the night:
-F                   G7                      C
-"To Hell with the keeper of the Eddystone Light!"
+[C]Then the phosphorus fla[G]shed in her sea[C]weed hair
+[F]I looked ag[G7]ain, and my m[C]other wasn't there
+[C]A voice come a-echoing o[G]ut through the ni[C]ght:
+[F]"To Hell with the ke[G7]eper of the Eddystone Li[C]ght!"
 
 [Chorus]
-D   D7           G          G7
-Yo, ho, ho, the wind blows free
-G7                             C
-Oh, for a life on the rolling sea
+[D]Yo, [D7]ho, ho, the w[G]ind blows f[G7]ree
+[G7]Oh, for a life on the rolling s[C]ea
