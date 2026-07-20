@@ -9,47 +9,28 @@ Standard Tuning
 
 [Verse 1]
 
-F        Abdim7   Gm7     C7
-Have you seen the well to do?
-F      Abdim7    Gm7 C7
-Up and down Park Avenue?
-Ab      Bdim7  Bbm7    Eb7
-On that famous thoroughfare?
-Ab         Bdim7 Bbm7   Eb7
-With their noses in the air?
-C    C#dim7   Dm7     G7
-High hats and arrowed collars
-C     C#dim7    Dm7     G7
-White spats and fifteen dollars
-Am             D7
-Spending every dime
-G7              C7    Caug
-For a wonderful time!
+[F]Have you [Abdim7]seen the [Gm7]well to [C7]do?
+[F]Up and [Abdim7]down Park [Gm7]Aven[C7]ue?
+[Ab]On that [Bdim7]famous [Bbm7]thorough[Eb7]fare?
+[Ab]With their [Bdim7]noses [Bbm7]in the [Eb7]air?
+[C]High [C#dim7]hats and [Dm7]arrowed [G7]collars
+[C]White [C#dim7]spats and [Dm7]fifteen [G7]dollars
+[Am]Spending every [D7]dime
+[G7]For a wonderful [C7]time! [Caug]
 
 
 [Chorus]
 
-Fm
-If you're blue and you don't know where to 
-                              C7
-go to, why don't you go where fashion sits? 
-              Fm    Fm/Eb Db7 C7
-Puttin on the Ritz!
-Fm
-Different types who wear a daycoat Pants 
-                                C7
-with stripes and cut-away coat, perfect fits,
-              Fm Fm/Eb Db7 C7
-Puttin on the Ritz!
+[Fm]If you're blue and you don't know where to 
+go to, why don't you go where [C7]fashion sits? 
+Puttin on the [Fm]Ritz! [Fm/Eb] [Db7] [C7]
+[Fm]Different types who wear a daycoat Pants 
+with stripes and cut-away coat, [C7]perfect fits,
+Puttin on the [Fm]Rit[Fm/Eb]z! [Db7] [C7]
 
-Bbm
-Dressed up like a million dollar trooper
-Ab                                    Ab    C7
-Trying hard to look like Gary Cooper, Super-duper!
+[Bbm]Dressed up like a million dollar trooper
+[Ab]Trying hard to look like Gary Cooper, [Ab]Super-[C7]duper!
 
-Fm
-Come, let's mix with rockefellers walk
-                              C7
-with sticks or 'um-be-rellas" in their mitts,
-              Fm7    Fm6
-Puttin on the Ritz!
+[Fm]Come, let's mix with rockefellers walk
+with sticks or 'um-be-rellas" [C7]in their mitts,
+Puttin on the [Fm7]Ritz! [Fm6]
