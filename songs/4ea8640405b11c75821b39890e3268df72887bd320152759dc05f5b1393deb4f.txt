@@ -2,65 +2,39 @@
 Song name: Mairzy Doats  by  The Merry Macs
 ----------------------------------------------------------------------
 [Intro]
-C        Dm    C          Dm
-I know a ditty nutty as a fruitcake
-C          Dm       C          G
-Goofy as a goon and silly as a loon
-G            Am      G              Am
-Some call it pretty, others call it crazy
-    Dm       Am        G
-But they all sing this tune
+[C]I know a [Dm]ditty [C]nutty as a [Dm]fruitcake
+[C]Goofy as a [Dm]goon and [C]silly as a [G]loon
+[G]Some call it [Am]pretty, [G]others call it [Am]crazy
+But [Dm]they all [Am]sing this [G]tune
 
 [Verse 1]
-C                G              C
-Mairzy doats and dozy doats and liddle lamzy divey
-  Dm            G             C
-A kiddley divey too, wouldn't you?
-     C                G              C
-Yes! Mairzy doats and dozy doats and liddle lamzy divey
-  Dm            G             C
-A kiddley divey too, wouldn't you?
+[C]Mairzy doats and [G]dozy doats and [C]liddle lamzy divey
+A [Dm]kiddley divey [G]too, wouldn't [C]you?
+Yes! [C]Mairzy doats and [G]dozy doats and [C]liddle lamzy divey
+A [Dm]kiddley divey [G]too, wouldn't [C]you?
 
 [Chorus 1]
-       Gm          C         Gm            C
-If the words sound queer and funny to your ear,
-  F
-a little bit jumbled and jivey
-      Am        D        Am       D
-Sing "Mares eat oats and does eat oats
-    G      Dm        G
-and little lambs eat ivy"
-    C                G              C
-Oh! Mairzy doats and dozy doats and liddle lamzy divey
-  Dm            G             C
-A kiddley divey too, wouldn't you?
+If the [Gm]words sound [C]queer and [Gm]funny to your [C]ear,
+a [F]little bit jumbled and jivey
+Sing "[Am]Mares eat [D]oats and [Am]does eat [D]oats
+and [G]little [Dm]lambs eat [G]ivy"
+Oh! [C]Mairzy doats and [G]dozy doats and [C]liddle lamzy divey
+A [Dm]kiddley divey [G]too, wouldn't [C]you?
 
 [Verse 2]
-C                G                C
-Cowzey tweet and sowzey tweet and liddle sharksey deisters,
-Dm                 G             C
-squiddely roisters too, wouldn't you"
-C                G                C
-Cowzey tweet and sowzey tweet and liddle sharksey deisters,
-Dm                 G             C
-squiddely roisters too, wouldn't you"
+[C]Cowzey tweet and [G]sowzey tweet and [C]liddle sharksey deisters,
+[Dm]squiddely roisters [G]too, wouldn't [C]you"
+[C]Cowzey tweet and [G]sowzey tweet and [C]liddle sharksey deisters,
+[Dm]squiddely roisters [G]too, wouldn't [C]you"
 
 [Chorus 2]
-           Gm          C         Gm            C
-Now if the words sound queer and funny to your ear,
-  F
-A little like mumbles and nonsense,
-      Am       D         Am       D
-Sing "Cows eat wheat and sows eat wheat
-    G      Dm         G
-and little sharks eat oysters
+Now if the [Gm]words sound [C]queer and [Gm]funny to your [C]ear,
+A [F]little like mumbles and nonsense,
+Sing "[Am]Cows eat [D]wheat and [Am]sows eat [D]wheat
+and [G]little [Dm]sharks eat [G]oysters
 
 [Outro]
-C                G              C
-Mairzy doats and dozy doats and liddle lamzy divey
-  Dm            G            C
-A kiddley divey too, wouldn't you?
-  Dm            G            C
-A kiddley divey too, wouldn't you?
-  Dm            G            C
-A kiddley divey too, wouldn't you?
+[C]Mairzy doats and [G]dozy doats and [C]liddle lamzy divey
+A [Dm]kiddley divey [G]too, wouldn't[C] you?
+A [Dm]kiddley divey [G]too, wouldn't[C] you?
+A [Dm]kiddley divey [G]too, wouldn't[C] you?
