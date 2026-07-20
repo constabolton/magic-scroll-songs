@@ -10,64 +10,42 @@ every measure is 3 beats, signified by | lines
 | C   | C   | C  | Em  |
 
 [Verse 1]
-    Am
-You try to drown your sorrows
-                   C 
-You shouldn't have taught them how to swim
-                F     C    G            Am
-And now you are right back where you began 
+You [Am]try to drown your sorrows
+You shouldn't have [C]taught them how to swim
+And now you are [F]right [C]back [G]where you beg[Am]an 
 
 [Verse 2]
-Am
-Winter skies approaching 
-      C
-All alone in the wasteland
-             F  C  G
-Alone is the on-ly way
-                  C
-That they let you in
+[Am]Winter skies approaching 
+All al[C]one in the wasteland
+Alone is the [F]on-[C]ly [G]way
+That they let you [C]in
  
 [Chorus] 
-                Am                F  
-So drink all my wine,  cut all my trees 
-                C                     G
-Make love on my beaches, smoke all my weed    
-         Am                 F
-I am California, can't you see?
-             C              G         C 
-Wherever you roam, you'll always want me
+So drink all my [Am]wine,  cut all my [F]trees 
+Make love on my [C]beaches, smoke all my [G]weed    
+I am Cali[Am]fornia, can't you s[F]ee?
+Wherever you [C]roam, you'll al[G]ways want [C]me
 
 [Instrumental]
 | C   | C   | C  | C/B |
 
 
 [Verse 3]
-    Am
-We struggle with our lovers
-               C
-We don't know what to let in 
-           F   C    G                     Am
-'Cause the new ones pay for the old ones sins
+We s[Am]truggle with our lovers
+We don't know w[C]hat to let in 
+'Cause the [F]new [C]ones [G]pay for the old ones s[Am]ins
 
 [Verse 4]
-Am
-Blinded by your shadows
-C
-Faded on your love
-                   F    C   G
-You don't know how deep you are
-                         C
-'Til you get pulled back up 
+[Am]Blinded by your shadows
+[C]Faded on your love
+You don't know how [F]deep [C]you [G]are
+'Til you get pulled back [C]up 
 
 [Chorus] 
-                Am                F  
-So drink all my wine,  cut all my trees 
-                C                     G
-Make love on my beaches, smoke all my weed    
-         Am                 F
-I am California, can't you see?
-             C              G         C
-Wherever you roam, you'll always want me
+So drink all my [Am]wine,  cut all my [F]trees 
+Make love on my [C]beaches, smoke all my [G]weed    
+I am Cali[Am]fornia, can't you s[F]ee?
+Wherever you [C]roam, you'll al[G]ways want [C]me
 
 [Solo 1]
 | Am  | Am  | Am | Am |
@@ -82,31 +60,20 @@ Wherever you roam, you'll always want me
 | C   | C   | C  | C  |
 
 [Chorus] 
-                Am                F  
-So drink all my wine,  cut all my trees 
-                C                     G
-Make love on my beaches, smoke all my weed    
-         Am                 F
-I am California, can't you see?
-             C            G           C
-Wherever you roam, you'll always want me
+So drink all my [Am]wine,  cut all my [F]trees 
+Make love on my [C]beaches, smoke all my [G]weed    
+I am Cali[Am]fornia, can't you s[F]ee?
+Wherever you [C]roam, you'll [G]always want [C]me
 
 [Chorus 2]
-                 Am                  F  
-Yeah, dig all my gold,  soak in my springs
-           C                              G
-Conquer my mountains, if that's what you need 
-         Am                F
-I am California can't you see
-             C              G         C
-Wherever you roam, you'll always want me
+Yeah, dig all my [Am]gold,  soak in my sp[F]rings
+Conquer my [C]mountains, if that's what you n[G]eed 
+I am Cali[Am]fornia can't you s[F]ee
+Wherever you [C]roam, you'll al[G]ways want [C]me
 
 
 [Outro]
-                   D7                     F                      C
-You'll always want me, you'll always want me, you'll always want me
-                   D7                     F                      C
-You'll always want me, you'll always want me, you'll always want me
-                         D7                     F                      C
-Yeah, you'll always want me, you'll always want me, you'll always want me
+You'll always want [D7]me, you'll always want [F]me, you'll always want [C]me
+You'll always want [D7]me, you'll always want [F]me, you'll always want [C]me
+Yeah, you'll always want [D7]me, you'll always want [F]me, you'll always want [C]me
 | G | G | F | F | C | C |
