@@ -11,8 +11,7 @@ is played as Em, the E as G, etc.
 [Intro]
 [2X]:
 
-        C#m                E
-         v   v   v   v     v   v   v   v
+        [C#m] v   v   v   v     [E]v   v   v   v
         -9---9---9-11-9--|-7---7---7-12-11-|
         -----------------|-----------------|
         -----------------|-----------------|
@@ -23,27 +22,18 @@ is played as Em, the E as G, etc.
 
 [Verse 1]
 
-        C#m                      E                      C#m
-        When I think of all the worries people seem to find
-                              E                        C#m
-        And how they're in a hurry to complicate their mind
-                          E                               C#m
-        By chasing after money and dreams that can't come true
-                              E                               C#m
-        I'm glad that we are different, we've better things to do
-                               E                      C#m
-        May others plan their future, I'm busy lovin' you     (1-2-3-4)
+        [C#m]When I think of all the w[E]orries people seem to f[C#m]ind
+        And how they're in a h[E]urry to complicate their [C#m]mind
+        By chasing after m[E]oney and dreams that can't come [C#m]true
+        I'm glad that we are d[E]ifferent, we've better things to[C#m] do
+        May others plan their f[E]uture, I'm busy lovin' [C#m]you     (1-2-3-4)
 
 [Chorus]
 
-        C#m                 G#m
-        Sha-la-la-la-la-la, live for today
-        C#m                 G#m
-        Sha-la-la-la-la-la, live for today
-                   A             B
-        And don't worry 'bout tomorrow, hey, hey, hey
-        C#m                  G#m       E  E/D#  C#m
-        Sha-la-la-la-la-la, live for today
+        [C#m]Sha-la-la-la-la-la, [G#m]live for today
+        [C#m]Sha-la-la-la-la-la, [G#m]live for today
+        And don't w[A]orry 'bout tom[B]orrow, hey, hey, hey
+        [C#m]Sha-la-la-la-la-la, l[G#m]ive for to[E]day[E/D#] [C#m]
                                      Live for today
 
 [Verse 2]
@@ -60,30 +50,19 @@ is played as Em, the E as G, etc.
 
 [Bridge]
 
-        C#m   E                    C#m           E
-        Baby,   I need to feel you inside of me
-                                C#m         E
-        I got to feel you deep inside of me
-                          C#m        E
-        Baby please come close to me
-                                C#m               E
-        I got to have you now, please, please, please
-                      C#m                   E
-        Gimme some-a lovin', gimme some-a lovin'
-                      C#m                   E
-        Gimme some-a lovin', gimme some-a lovin'
+        [C#m]Baby, [E]  I need to feel you [C#m]inside of me [E]
+        I got to feel you deep i[C#m]nside of me [E]
+        Baby please come c[C#m]lose to me [E]
+        I got to have you now, p[C#m]lease, please, ple[E]ase
+        Gimme some-a l[C#m]ovin', gimme some-a lo[E]vin'
+        Gimme some-a l[C#m]ovin', gimme some-a lo[E]vin'
                            C#m [tempo picks up]
         Baby gimme some-a lovin'
-                       E                     C#m
-        Gimme some-a lovin, I need all your lovin'
-                       E                     C#m
-        Gimme some-a lovin, I need all your lovin'
-                       E
-        Give me some love, now
-                         C#m
-        I need all your lovin'
-                        G#           A  A# B  C
-                        / / / / / /  /  /  /  / 
+        Gimme some-a lo[E]vin, I need all your l[C#m]ovin'
+        Gimme some-a lo[E]vin, I need all your l[C#m]ovin'
+        Give me some lo[E]ve, now
+        I need all your l[C#m]ovin'
+                        [G#]/ / / / / /  [A]/  [A#]/  [B]/  [C]/ 
         Sha la la la la la 
 
 [repeat chorus to fade]
