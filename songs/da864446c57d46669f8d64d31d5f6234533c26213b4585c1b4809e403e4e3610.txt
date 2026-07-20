@@ -9,10 +9,8 @@ Em  G  D  A
 
 [Verse 1]
 
-Em        G                D             A              Em
- I walk a lonely road, the only one that I have ever known
-           G              D                A               Em
-Don't know where it goes, but it's home to me and I walk alone
+[Em] I walk a [G]lonely road, the [D]only one that [A]I have ever kno[Em]wn
+Don't know [G]where it goes, [D]but it's home to [A]me and I walk al[Em]one
 
 
 [Interlude]
@@ -22,10 +20,8 @@ Don't know where it goes, but it's home to me and I walk alone
 
 [Verse 2]
 
-Em           G             D            A              Em
- I walk this empty street, on the boulevard of broken dreams
-          G                D             A               Em
-Where the city sleeps, and I'm the only one and I walk alone
+[Em] I walk this [G]empty street, [D]on the boulev[A]ard of broken d[Em]reams
+Where the [G]city sleeps, and [D]I'm the only o[A]ne and I walk al[Em]one
 
 
 [Interlude]
@@ -38,34 +34,24 @@ Where the city sleeps, and I'm the only one and I walk alone
 
 [Chorus]
 
-C       G            D              Em
-    My shadow's the only one that walks beside me
-C        G       D               Em
-    My shallow heart's the only thing that's beating
-C        G       D                 Em
-    Sometimes I wish someone out there will find me
-C         G      B7
-    Till then I walk alone
+[C]    My s[G]hadow's the o[D]nly one that wa[Em]lks beside me
+[C]    My sh[G]allow he[D]art's the only t[Em]hing that's beating
+[C]    Somet[G]imes I w[D]ish someone out th[Em]ere will find me
+[C]    Till t[G]hen I w[B7]alk alone
 
 
 [Interlude]
 
-Em      G      D      A      Em
-   Ah-Ah, Ah-Ah, Ah-Ah, Ahhh-Ah
-     G      D      A
-Ah-Ah, Ah-Ah, Ah-Ah
+[Em]   Ah-Ah[G], Ah-Ah[D], Ah-Ah[A], Ahhh-[Em]Ah
+Ah-Ah[G], Ah-Ah[D], Ah-Ah[A]
 
 
 [Verse 3]
 
-Em           G
- I'm walking down the line
-D               A               Em
-That divides me somewhere in my mind
-       G           D
-On the border line of the edge
-    A              Em
-And where I walk alone
+[Em] I'm walking [G]down the line
+[D]That divides me [A]somewhere in my [Em]mind
+On the [G]border line [D]of the edge
+And [A]where I walk al[Em]one
 
 
 [Interlude]
@@ -75,14 +61,10 @@ And where I walk alone
 
 [Verse 4]
 
-Em      G
- Read between the lines
-D                    A              Em
-What's fucked up and everything's alright
-         G               D               A
-Check my vital signs, to know I'm still alive
-             Em
-And I walk alone
+[Em] Read be[G]tween the lines
+[D]What's fucked up and [A]everything's al[Em]right
+Check my [G]vital signs, to [D]know I'm still a[A]live
+And I walk al[Em]one
 
 
 [Interlude]
@@ -95,22 +77,16 @@ And I walk alone
 
 [Chorus]
 
-C       G            D              Em
-    My shadow's the only one that walks beside me
-C        G       D               Em
-    My shallow heart's the only thing that's beating
-C        G       D                 Em
-    Sometimes I wish someone out there will find me
-C         G      B7
-    Till then I walk alone
+[C]    My s[G]hadow's the o[D]nly one that wa[Em]lks beside me
+[C]    My sh[G]allow he[D]art's the only t[Em]hing that's beating
+[C]    Somet[G]imes I w[D]ish someone out th[Em]ere will find me
+[C]    Till t[G]hen I w[B7]alk alone
 
 
 [Interlude]
 
-Em      G      D      A      Em
-   Ah-Ah, Ah-Ah, Ah-Ah, Ahhh-Ah
-     G      D         A
-Ah-Ah, Ah-Ah, I walk alone, I walk a...
+[Em]   Ah-Ah[G], Ah-Ah[D], Ah-Ah[A], Ahhh-[Em]Ah
+Ah-Ah[G], Ah-Ah[D], I walk a[A]lone, I walk a...
 
 
 [Solo]
@@ -123,22 +99,16 @@ C  G  B  B7
 
 [Verse 5]
 
-Em          G             D           A               Em
-I walk this empty street, on the boulevard of broken dreams
-           G               D              A
-Where the city sleeps, and I'm the only one and I walk a...
+[Em]I walk this [G]empty street, [D]on the boule[A]vard of broken d[Em]reams
+Where the c[G]ity sleeps, and [D]I'm the only on[A]e and I walk a...
 
 
 [Chorus]
 
-C       G            D              Em
-    My shadow's the only one that walks beside me
-C        G       D               Em
-    My shallow heart's the only thing that's beating
-C        G       D                 Em
-    Sometimes I wish someone out there will find me
-C         G      B7
-    Till then I walk alone
+[C]    My s[G]hadow's the o[D]nly one that wa[Em]lks beside me
+[C]    My sh[G]allow he[D]art's the only t[Em]hing that's beating
+[C]    Somet[G]imes I w[D]ish someone out th[Em]ere will find me
+[C]    Till t[G]hen I w[B7]alk alone
 
 
 [Outro]
