@@ -1,64 +1,40 @@
 Standard tuning capo 4th fret (chords relative to capo)
 
 [Verse 1]
-E
-Night and you
-    A    E
-And blue Hawaii
-    C#        F#
-The night is heavenly
-B            E          B
-And you are heaven to me
+[E]Night and you
+And [A]blue [E]Hawaii
+The [C#]night is h[F#]eavenly
+[B]And you are h[E]eaven to me[B]
 
 [Verse 2]
-E
-Lovely you
-    A    E
-And blue Hawaii
-     C#        F#
-With all this loveliness
-B                E      A      E
-There should be looooooooooooove
+[E]Lovely you
+And [A]blue [E]Hawaii
+With [C#]all this l[F#]oveliness
+[B]There should be l[E]ooooooo[A]oooooov[E]e
 
 [Chorus]
-A
-Come with me
-          E
-While the moon is on the sea,
-    F#
-The night is young
-           B          B+
-And so are we, so are we
+[A]Come with me
+While the [E]moon is on the sea,
+The [F#]night is young
+And so are [B]we, so are [B+]we
 
 [Verse 3]
-E
-Dreams come true
-   A    E
-In blue Hawaii
-    C#          F#
-And mine could all come true
-B           E        A           E
-This magic night of nights with you
+[E]Dreams come true
+In [A]blue [E]Hawaii
+And [C#]mine could a[F#]ll come true
+[B]This magic n[E]ight of n[A]ights with y[E]ou
 
 [Chorus]
-A
-Come with me
-          E
-While the moon is on the sea,
-    F#
-The night is young
-           B          B+
-And so are we, so are we
+[A]Come with me
+While the [E]moon is on the sea,
+The [F#]night is young
+And so are [B]we, so are [B+]we
 
 [Verse 4]
-E
-Dreams come true
-   A    E
-In blue Hawaii
-   C#          F#
-And mine could all come true
-           E        A           E
-This magic night of nights with you
+[E]Dreams come true
+In [A]blue [E]Hawaii
+And[C#] mine could [F#]all come true
+This magic [E]night of [A]nights with [E]you
 
 B+
 e|--3--|
