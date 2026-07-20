@@ -16,57 +16,36 @@ C#m(7)/B  7 x 6 4 5 4
 
 
 [Verse]
-G7                   
-   Watch out now
-     G7             G#m     C#m      C#m C#m/B [ A ]
-Take care beware of falling swingers
-A                E         C#m   
-   Dropping all around you
-G#m                   C#m                         
-  The pain that often mingles 
-        Dsus2      A 
-In your fingerti-i-ips
-          B          B B/A G7
-Beware of darkness
+[G7]   Watch out now
+Take [G7]care beware of [G#m]falling [C#m]swingers [C#m] [C#m/B] [A]
+[A]   Dropping all a[E]round you [C#m]
+[G#m]  The pain that often [C#m]mingles 
+In your [Dsus2]fingerti-i-[A]ips
+Beware of [B]darkness [B] [B/A] [G7]
 
 
 [Verse]
-G7                   
-   Watch out now
-     G7             G#m           C#m      C#m C#m/B [ A ]
-Take care beware of thoughts that linger
-A               E             C#m   
-   Winding up inside your head
-G#m                 C#m                         
-  The hopelessness around you 
-       Dsus2        A 
-In the dead of ni-i-ght
-          B  
-Beware of sadness
+[G7]   Watch out now
+Take [G7]care beware of [G#m]thoughts that [C#m]linger [C#m] [C#m/B] [A]
+[A]   Winding up in[E]side your head[C#m]
+[G#m]  The hopelessness a[C#m]round you 
+In the [Dsus2]dead of ni-i-[A]ght
+Beware of [B]sadness
 
 
 [Bridge]
-       E               D
-It can hit you, it can hurt you
-A         F#m              Bm           
- Make you sore and what is more
-        G7              |  B  |  B  B B/A | [ G7 ]
-That is not what you are here for
+It can [E]hit you, it can [D]hurt you
+[A] Make you [F#m]sore and what is [Bm]more
+That is [G7]not what you are he[B]re for[B] [B/A] [G7]
 
 
 [Verse]
-G7                   
-   Watch out now
-     G7             G#m       C#m      C#m C#m/B [ A ]
-Take care beware of soft shoe shufflers
-A                   E          C#m   
-   Dancing down the sidewalks
-G#m                   C#m                         
-  As each unconscious sufferer 
-        Dsus2       A 
-Wanders aimlessly-y-y
-          B  
-Beware of maya
+[G7]   Watch out now
+Take [G7]care beware of [G#m]soft shoe [C#m]shufflers[C#m] [C#m/B] [A]
+[A]   Dancing down the [E]sidewalks [C#m]
+[G#m]  As each unconscious [C#m]sufferer 
+Wanders [Dsus2]aimlessly-y-[A]y
+Beware of [B]maya
 
 
 [Solo]
@@ -76,15 +55,9 @@ Beware of maya
 
 
 [VERSE] (+ coda)
-G7                   
-  Watch out now
-     G7             G#m    C#m      C#m C#m/B [ A ]
-Take care beware of greedy leaders
-A                            E             C#m   
-  They'll take you where you should not go
-G#m                   C#m                         
-  While weeping atlas cedars
-          Dsus2                  A 
-They just want to grow, grow and grow
-          B                    B        B B/A | G7
-Beware of darkness (beware of darkness)
+[G7]  Watch out now
+Take [G7]care beware of [G#m]greedy [C#m]leaders [C#m] [C#m/B] [A]
+[A]  They'll take you where you [E]should not go [C#m]
+[G#m]  While weeping atlas [C#m]cedars
+They just [Dsus2]want to grow, grow and [A]grow
+Beware of [B]darkness (beware of d[B]arkness) [B] [B/A] [G7]
