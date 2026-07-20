@@ -12,32 +12,21 @@ C C F F C C F F CC FF C C F F
 
 [Verse]
 
-C                 Em
-Baby, baby, I'm aware of where you go
-Gm            A
-Each time you leave my door
-F                G
-I watch you walk down the street
-F                  G
-Knowing your other love you'll meet
-C                        Em
-But this time before you run to her
-Gm           A
-Leaving me alone and hurt
-F
-Think it over After I've been good to you ?
-G
-Think it over After I've been sweet to you ?
+[C]Baby, baby, I'm aw[Em]are of where you go
+[Gm]Each time you [A]leave my door
+[F]I watch you walk [G]down the street
+[F]Knowing your other [G]love you'll meet
+[C]But this time before you [Em]run to her
+[Gm]Leaving me al[A]one and hurt
+[F]Think it over After I've been good to you ?
+[G]Think it over After I've been sweet to you ?
 
 
 [Chorus]
 
-Am           G            F          G
-Stop! In the name of love before you break my heart
-F           G             F          G
-Stop in the name of love, before you tear us apart
-C  C  F  F  C  C  F  F
-Think it over, Think it over
+[Am]Stop! In the [G]name of love [F]before you [G]break my heart
+[F]Stop in the [G]name of love, [F]before you [G]tear us apart
+[C]Thi[C]nk [F]it [F]ove[C]r, [C]Thi[F]nk [F]it over
 
 
 [Verse]
@@ -53,12 +42,9 @@ And rush of to her charms
 
 [Chorus]
 
-Am           G            F          G
-Stop! In the name of love before you break my heart
-F           G             F          G
-Stop in the name of love, before you tear us apart
-C  C  F  F  C  C  F  F
-Think it over, Think it over
+[Am]Stop! In the [G]name of love [F]before you [G]break my heart
+[F]Stop in the [G]name of love, [F]before you [G]tear us apart
+[C]Thi[C]nk [F]it [F]ove[C]r, [C]Thi[F]nk [F]it over
 
 
 [Verse]
@@ -71,12 +57,9 @@ I'm so afraid I'll be losing you forever
 
 [Chorus] x2
 
-Am           G            F          G
-Stop! In the name of love before you break my heart
-F           G             F          G
-Stop in the name of love, before you tear us apart
-C  C  F  F  C  C  F  F
-Think it over, Think it over
+[Am]Stop! In the [G]name of love [F]before you [G]break my heart
+[F]Stop in the [G]name of love, [F]before you [G]tear us apart
+[C]Thi[C]nk [F]it [F]ove[C]r, [C]Thi[F]nk [F]it over
 
 
 [Outro]
