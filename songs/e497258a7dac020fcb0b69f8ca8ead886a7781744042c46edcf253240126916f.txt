@@ -7,25 +7,17 @@ Song name: Moonshiner  by  Uncle Tupelo
 
 
 [Verse 1]
-  Am  F     C
-I am a moonshiner
-         C          G
-For seventeen long years
-      Am     F      C
-And I spent all my money
-      C        G
-On whiskey and beer
+I [Am]am a[F] moons[C]hiner
+For seven[C]teen long y[G]ears
+And I [Am]spent a[F]ll my m[C]oney
+On whi[C]skey and [G]beer
 
 
 [Chorus]
-      F          G
-And I go to some hollow
-    C           F
-And set up my still
-     Am   F       C
-If whiskey don't kill me
-          C              G
-Lord, I don't know what will
+And I [F]go to some [G]hollow
+And [C]set up my st[F]ill
+If wh[Am]iskey[F] don't k[C]ill me
+Lord, I do[C]n't know what w[G]ill
 
 
 [Break]
@@ -34,25 +26,17 @@ C         G
 
 
 [Verse 2]
-    Am     F          C
-And I go to some barroom
-     C             G
-To drink with my friends
-          Am   F            C
-Where the women they can't follow
-     C          G
-To see what I spend
+And [Am]I go to[F] some barro[C]om
+To dr[C]ink with my fr[G]iends
+Where the [Am]women[F] they can't f[C]ollow
+To se[C]e what I sp[G]end
 
 
 [Chorus]
-      F                  G
-God bless them, pretty women
-      C          F
-I wish they was mine
-      Am    F    C
-With breath as sweet as
-     C          G
-The dew on the vine
+God bl[F]ess them, pretty wo[G]men
+I wish[C] they was m[F]ine
+With b[Am]reath [F]as sw[C]eet as
+The d[C]ew on the v[G]ine
 
 
 [Break] (2X)
@@ -61,24 +45,16 @@ C         G
 
 
 [Verse 3]
-      Am  F          C
-Let me eat when I'm hungry
-         C             G
-Let me drink when I'm dry
-     Am    F            C
-Two dollars when I'm hard up
-    C            G
-Religion when I die
+Let me[Am] eat[F] when I'm h[C]ungry
+Let me dr[C]ink when I'm d[G]ry
+Two d[Am]ollars[F] when I'm har[C]d up
+Reli[C]gion when I d[G]ie
 
 [Chorus]
-      F                G
-The whole world is a bottle
-      C             F
-And life is but a dram
-         Am    F      C
-When the bottle gets empty
-           C                  G
-Lord, it sure ain't worth a damn
+The wh[F]ole world is a bo[G]ttle
+And li[C]fe is but a dr[F]am
+When the [Am]bottle[F] gets e[C]mpty
+Lord, it su[C]re ain't worth a da[G]mn
 
 
 [Break] (and fade)
