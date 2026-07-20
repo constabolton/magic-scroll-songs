@@ -127,51 +127,39 @@ F | % | C#7 | % | C7 | % |F | % |
 F | % | C#7 | % | C7 | % |F F6 | F |
 
 (@1:22)
-F
-Singing in the bathtub
-              C#7
-Sitting all alone
+[F]Singing in the bathtub
+Sitting all al[C#7]one
 
 
-C7
-Tearing out a tonsil
+[C7]Tearing out a tonsil
 
-                F  Eb7 | C#7 C7 |
-Just like a barito-o-o-o-ne
+Just like a bari[F]to-[Eb7]o-o-o-[C#7]ne [C7]
 
 
 (@1:33)
-F
-Never take a shower
-               C#7
-It's an awful pain
+[F]Never take a shower
+It's an awful p[C#7]ain
 
 
-C7
-Singing in the shower
+[C7]Singing in the shower
 
-                        F Gm | G#7 A |
-Is like singing in the ra- a-  a-  in.
+Is like singing in the r[F]a-[Gm] a-  [G#7]a-  [A]in.
 
 
 
 (@1:45)
-            A            E7
-Oh, there is dirt to be abolished
+Oh, there is[A] dirt to be a[E7]bolished
 
 G7?                   C
 But do not forget one thing
 
-            A                 E7
-While your body's washed and polished
+While your b[A]ody's washed and p[E7]olished
 
-D7      G7     C  C7
-Sing brother sing!  
+[D7]Sing bro[G7]ther si[C]ng![C7]  
 
 
 (@1:55)
-F |   | C#7 |   | C7 |   | F Gm | G#7 A |
-You can yodel opera                             
+[F]You can [C#7]yodel oper[C7]a        [F]  [Gm]     [G#7]    [A]          
 Even while you scrub
 Everybody's happy
 While singing in the tu-u-u-ub.
@@ -179,10 +167,8 @@ While singing in the tu-u-u-ub.
 
 
 (@2:07)
-  F                   C#7
-I'm forever blowing bubbles
-         C7        G   F
-Pretty bubbles in the air
+I'[F]m forever blowing bu[C#7]bbles
+Pretty bu[C7]bbles in t[G]he a[F]ir
 
 
 (@2:17)
@@ -202,8 +188,7 @@ Is a rainbow to me
 
 
 (@2:49)
-F |   | C#7 |   | C7 |   | F Gm | G#7 A |
-Reaching for a towel                            
+[F]Reaching[C#7] for a tow[C7]el       [F]  [Gm]     [G#7]    [A]          
 Ready for a rub
 Everyone is happy
 While singing in the tub
