@@ -8,8 +8,7 @@ Song name: Words  by  Bee Gees
 
         (piano arr. for guitar):
 
-         G
-         v   v   v   v     v   v   v   v
+         [G]v   v   v   v     v   v   v   v
         -----------------|-----------------|
         -----3-----------|-----3-----------|
         ---4---4-----545-|---4---4---4-545-|
@@ -20,26 +19,19 @@ Song name: Words  by  Bee Gees
 
 [Verse 1]
 
-          G
-        Smile an everlasting smile
+        Sm[G]ile an everlasting smile
                                A [2: orchestra implies A6]
         A smile can bring you near to me
-              D7
-        Don't ever let me find you gone
-                                  C/G     G
-        'Cause that would bring a tear to me
+        Don't [D7]ever let me find you gone
+        'Cause that would bring a [C/G]tear to [G]me
 
 
 [Chorus 1]
 
-              Bb
-        This world has lost its glory
-                                       F
-        Let's start a brand new story now, my love
-               G
-        Right now there'll be no other time
-                            A       D7
-        And I can show you how, my love
+        This w[Bb]orld has lost its glory
+        Let's start a brand new story n[F]ow, my love
+        Right n[G]ow there'll be no other time
+        And I can show you h[A]ow, my l[D7]ove
 
 
 [Verse 2]
@@ -52,14 +44,10 @@ Song name: Words  by  Bee Gees
 
 [Chorus 2]
 
-              Bb
-        You think that I don't even mean
-                         D  [N.C.]
-        A single word I say
-                    G                        D7
-        It's only words and words are all I have
-                            G     D7
-        To take your heart away
+        You th[Bb]ink that I don't even mean
+        A single word I s[D]ay
+        It's only wo[G]rds and words are all I h[D7]ave
+        To take your heart a[G]way [D7]
 
 [repeat verse with wordless vocal]
 
@@ -69,15 +57,12 @@ Song name: Words  by  Bee Gees
 
         (2X, second time acapella):
 
-                    G                        D7
-        It's only words and words are all I have
-                            G     D7
-        To take your heart away
+        It's only wo[G]rds and words are all I h[D7]ave
+        To take your heart a[G]way [D7]
 
 [Tag]
 
-        G      D7/F#      G  D7    G [arpeggiate]
-        / / / /  / / / /  / / / /  /
+        [G]/ / / /[D7/F#]  / / / /  [G]/ /[D7] / /  [G]/
 
 
 -- another ace 60's tab from Andrew Rogers
