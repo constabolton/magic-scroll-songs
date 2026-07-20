@@ -5,65 +5,39 @@ Song name: Where To Now St Peter  by  Elton John
 B Bm7 E B B Bm7 E B
 
 [Verse]
-B               A   G E      B
-I took myself a blue   canoe
-      D       A      E        B
-and I floated like a leaf
-B                A   G E          B
-dazzling dancing half   enchanted
-D     A      E
-in my merlin sleep
-G     A          Bm
-crazy was the feeling
-G        A       Bm
-restless were my eyes
-G           A        E
-insane they took the paddles
-G                F#sus4  F#
-my arms they paralyzed
+[B]I took myself a [A]blue[G]  [E] canoe [B]
+and I [D]floated [A]like a [E]leaf [B]
+[B]dazzling dancing [A]half[G]  [E] enchanted [B]
+[D]in my [A]merlin [E]sleep
+[G]crazy [A]was the fee[Bm]ling
+[G]restless [A]were my [Bm]eyes
+[G]insane they [A]took the [E]paddles
+[G]my arms they para[F#sus4]lyzed [F#]
 
 [Chorus]
-Bm          D
-so where to now St. Peter
-E                   G
-if it's true I'm in your hands
-Bm        D
-I may not be a christian
-E                     G
-but I've done all one man can
-Bm                      D
-I understand I'm on the road
-      E                    G
-where all that was is gone
-   Bm       D             Esus4
-so where to now St. Peter
-G             A            Esus4
-show me which road I'm on
-Esus4          B
-which road I'm on
+[Bm]so where to [D]now St. Peter
+[E]if it's true I'm in [G]your hands
+[Bm]I may not [D]be a christian
+[E]but I've done all one [G]man can
+[Bm]I understand I'm on the [D]road
+where [E]all that was is gone [G]
+so [Bm]where to [D]now St. Peter [Esus4]
+[G]show me which [A]road I'm on [Esus4]
+[Esus4]which road I'm [B]on
 
 [Instrumental]
 (to coda last time)
 B Bm7 E B B Bm7 E B
 
 [Verse]
-B                    A      G E    B
-I took a sweet young foreign   gun
-     D    A       E                B
-this lazy life is short
-B                     A     G E    B
-something for nothing always   ended
-D      A     E                     B
-with a bad report
-G     A           Bm
-dirty was the day break
-G      A       Bm
-sudden was the change
-G       A        E
-in such a silent place is this
-G                F#sus4          F#
-beyond the rifle range
+[B]I took a sweet young [A]foreign[G]  [E] gun [B]
+this [D]lazy [A]life is [E]short [B]
+[B]something for nothing [A]always[G]  [E] ende[B]d
+[D]with a [A]bad re[E]port [B]
+[G]dirty [A]was the day [Bm]break
+[G]sudden [A]was the [Bm]change
+[G]in such [A]a silent [E]place is this
+[G]beyond the rifle [F#sus4]range [F#]
 
 [Outro]
-B               A   G E     B
-I took myself a blue   canoe
+[B]I took myself a [A]blue[G]  [E] canoe[B]
