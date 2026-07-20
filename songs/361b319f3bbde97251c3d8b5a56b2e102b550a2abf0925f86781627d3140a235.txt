@@ -23,51 +23,31 @@ G7     = 320001
 C Dm G6
 
 [Verse 1]
-C
-Smile, though your heart is aching
-Cmaj7
-Smile, even though it's breaking
-C6             Ebdim7        Dm
-When there are clouds in the sky
-            A7
-You'll get by...
-       Dm
-If you smile
-                             Fm7
-Through your fear and sorrow
-                         C
-Smile and maybe tomorrow
-               Am               Dm          G6
-You'll see the sun come shining through for you
+[C]Smile, though your heart is aching
+[Cmaj7]Smile, even though it's breaking
+[C6]When there are [Ebdim7]clouds in the [Dm]sky
+You'll get b[A7]y...
+If you [Dm]smile
+Through your fear and sorrow [Fm7]
+Smile and maybe tomorrow [C]
+You'll see the [Am]sun come shining [Dm]through for [G6]you
 
 [Verse 2]
-C
-Light up your face with gladness
-Cmaj7
-Hide every trace of sadness
-C6         Ebdim7      Dm      A7
-Although a tear may be ever so near
-       Dm                               Fm7
-That's the time you must keep on trying
-                                C
-Smile, what's the use of crying
-                 Am                  Dm
-You'll find that life is still worthwhile
-   G6
-If you just...
+[C]Light up your face with gladness
+[Cmaj7]Hide every trace of sadness
+[C6]Although a [Ebdim7]tear may be [Dm]ever so [A7]near
+That's [Dm]the time you must keep on trying [Fm7]
+Smile, what's the use of crying [C]
+You'll find that [Am]life is still worthw[Dm]hile
+If [G6]you just...
 
 [Verse 3] (first half instrumental)
-C
-Smile
+[C]Smile
 Cmaj7
 C6     Ebdim7     Dm     A7
 
 [Verse 3] (second half)
-           Dm
-That's the time you must keep on trying
-Bb7                             C
-Smile, what's the use of crying
-                 Am                  Dm
-You'll find that life is still worthwhile
-   G6       C
-If you just smile
+That's the [Dm]time you must keep on trying
+[Bb7]Smile, what's the use of crying [C]
+You'll find that [Am]life is still worthw[Dm]hile
+If [G6]you just [C]smile
