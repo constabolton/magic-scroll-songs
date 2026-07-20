@@ -5,20 +5,14 @@ Song name: Long Long Time  by  Linda Ronstadt
 C D Em C D Em
 
 [Verse]
-C  D         Em   C         D      G
-  Love will abide, take things in stride
-C   B7                Em              A7            D
-  Sounds like good advice but there's no one at my side
-    C  D          Em  C       D         G    
-And time washes clean love's wounds unseen
-C  B7                 Em            A7                D
- That's what someone told me but I don't know what it means.
+[C]  L[D]ove will a[Em]bide,[C] take thin[D]gs in s[G]tride
+[C]  So[B7]unds like good adv[Em]ice but there's [A7]no one at my s[D]ide
+And [C]tim[D]e washes cl[Em]ean [C]love's w[D]ounds unse[G]en
+[C] Th[B7]at's what someone t[Em]old me but I d[A7]on't know what it [D]means.
 
 [Chorus]
-       C               G             B7               Em   C
- Cause I've done everything I know to try and make you mine
-      G        D      Em      C      G  D      G
-And I think I'm gonna love you for a long long time
+ Cause [C]I've done everyt[G]hing I know to[B7] try and make you[Em] mine[C]
+And I [G]think I'm[D] gonna [Em]love you[C] for a [G]lon[D]g long [G]time
 
 e|---------------|
 B|---------------|
@@ -28,20 +22,14 @@ A|------0----2---|
 E|--3------------|
 
 [Verse]
-C      D    Em     C        D         G     
-Caught in my fears Blinking back the tears
-C  B7              Em               A7          D
-   I can't say you hurt me when you never let me near
-   C D      Em  C        D         G   
-And I never drew one response from you
-C  B7                Em            A7             D
-  All the while you fell all over girls you never knew
+[C]Caught [D]in my[Em] fears [C]Blinking [D]back the t[G]ears
+[C]   [B7]I can't say you [Em]hurt me when you [A7]never let me[D] near
+And[C] I[D] never [Em]drew[C] one resp[D]onse from [G]you
+[C]  A[B7]ll the while you f[Em]ell all over g[A7]irls you never [D]knew
 
 [Chorus]
-       C               G          B7                   Em   C
- Cause I've done everything I know to try and make you mine
-      G        D       Em     C      G  D     G
-And I think it's gonna hurt me for a long long time
+ Cause [C]I've done everyt[G]hing I know[B7] to try and make you [Em]mine [C]
+And I [G]think it'[D]s gonna [Em]hurt me[C] for a [G]lon[D]g long[G] time
 
 e|---------------|
 B|---------------|
@@ -51,26 +39,18 @@ A|------0----2---|
 E|--3------------|
 
 [Verse]
-C D            Em C         D   G   
-  Wait for the day You'll go away
-C  B7                Em              A7                D
-  Knowing that you warned me of the price I'd have to pay
-     C   D         Em   C         D     G        
-And life's full of flaws Who knows the cause?
-C  B7            Em          A7              D
-  Living in the memory of a love that never was
+[C]  [D]Wait for the [Em]day[C] You'll go[D] awa[G]y
+[C]  K[B7]nowing that you wa[Em]rned me of the p[A7]rice I'd have to p[D]ay
+And l[C]ife'[D]s full of [Em]flaws[C] Who knows[D] the c[G]ause?
+[C]  L[B7]iving in the m[Em]emory of a l[A7]ove that never w[D]as
 
 [Chorus]
-       C               G          B7                      Em   C
- Cause I've done everything I know to try and change your mind
-      G        D      Em      C      G  D      Em    Em/D
-And I think I'm gonna miss you for a long long time
+ Cause [C]I've done everyt[G]hing I know[B7] to try and change your [Em]mind [C]
+And I [G]think I'm[D] gonna [Em]miss you[C] for a [G]lon[D]g long [Em]time [Em/D]
 
 (sung higher)
-       C               G          B7                   Em   C
- Cause I've done everything I know to try and make you mine
-      G        D      Em      C      G  D      G
-And I think I'm gonna love you for a long long time
+ Cause [C]I've done everyt[G]hing I know[B7] to try and make you [Em]mine [C]
+And I [G]think I'm[D] gonna [Em]love you[C] for a [G]lon[D]g long [G]time
 
 [Outro]
 C D   Em  C D D7  G
