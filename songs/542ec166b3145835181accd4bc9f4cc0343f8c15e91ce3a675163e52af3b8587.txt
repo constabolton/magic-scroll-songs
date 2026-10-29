@@ -1,0 +1,10 @@
+X: 1
+T: St. Patrick's An Dro
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|:E/F/G/F/ EB|GE FB|A/B/A/G/ F E/F/|G E/G/ F2|
+E/F/G/F/ EB|GE FB|A/B/A/G/ F E/F/|G/E/F/D/ E2:|
+|:E/F/G/A/ BB/B/|Ad BG|E/F/G/B/ A3/2B/|A/B/A/G/ F/E/D|
+E/F/G/A/ BB/B/|Ad BG|E/F/G/B/ A3/2 F/|G/E/F/D/ E2:|
